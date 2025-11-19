@@ -1,0 +1,527 @@
+﻿Court
+Creating a detailed outline of the case for a fictional trial requires assembling various elements, including character backgrounds, incident details, and potential legal arguments. Here's a comprehensive outline of the case based on the story you provided:
+
+
+ Case Overview: The State vs. Officer Oliver
+Incident: The fatal shooting of Tyrell Lober by Officer Headly, with Officer Oliver implicated in evidence tampering and cover-up.
+
+
+Background Information
+
+
+1. Victim: Tyrell Lober
+   - Age: Mid-20s
+   - Occupation: Technology enthusiast, works in an office setting.
+   - Background: Passionate about gadgets, particularly drones; has a close relationship with his sister, Janine; aspires to provide a better life for his future family; struggles with his relationship with his mother.
+
+
+2. Defendant: Officer Oliver
+   - Age: Late 30s
+   - Occupation: Police officer
+   - Background: Veteran officer, shown to be willing to manipulate evidence and coerce fellow officers to cover up misconduct.
+
+
+3. Deceased: Officer Headly
+   - Age: Early 30s
+   - Background: Less experienced officer, shown to be susceptible to pressure from senior officers; commits suicide following the incident.
+
+
+4. Key Witness: Janine Lober (Tyrell's Sister)
+   - Relationship to Victim: Half-sister, very close bond.
+   - Potential Testimony: Character witness for Tyrell, can testify about his aspirations and nature.
+
+
+Incident Details
+
+
+- Location: Neighbor’s yard where Tyrell’s drone crashed.
+- Event Sequence:
+  1. Tyrell buys a drone, loses control, and it crashes in a neighbor's yard.
+  2. Neighbor calls the police, misidentifying Tyrell as a potential intruder.
+  3. Officers Oliver and Headly respond to the call.
+  4. Confrontation leads to Tyrell being fatally shot by Officer Headly.
+  5. Oliver coerces Headly into fabricating a self-defense narrative and plants a gun on Tyrell.
+  6. The entire incident is recorded by Tyrell's drone, which was stuck in a tree.
+
+
+Evidence
+
+
+1. Drone Footage: Captures the entire incident, including the shooting and the subsequent cover-up by the officers.
+2. Neighbor’s Testimony: Can provide context about the call to the police and her perception of the threat.
+3. Forensic Evidence: Ballistics, the trajectory of the bullet, Tyrell’s position at the time of the shooting.
+4. Suicide Note of Officer Headly (if available): Could provide insight into the guilt and actions of Officer Oliver.
+5. Officer Oliver’s Past Records: Any previous misconduct or disciplinary actions.
+
+
+Legal Arguments
+
+
+1. Prosecution:
+   - Arguing that Officer Oliver was complicit in the unlawful killing of Tyrell.
+   - Claiming that the drone, being non-lethal and not in Tyrell's hands at the time, does not constitute a weapon justifying lethal force.
+   - Emphasizing the cover-up and evidence tampering to establish malicious intent.
+
+
+2. Defense:
+   - May argue that the situation was perceived as a threat due to Tyrell’s behavior and the presence of the drone.
+   - Could claim that the decision to shoot was made in the heat of the moment by Officer Headly, not Oliver.
+   - Likely to challenge the reliability of the drone footage and the credibility of the neighbor’s testimony.
+
+
+Potential Legal Charges
+
+
+- Against Officer Oliver:
+  - Accessory to manslaughter or second-degree murder.
+  - Obstruction of justice.
+  - Evidence tampering.
+  - Conspiracy to cover up a crime.
+
+
+Additional Considerations
+
+
+- Impact of Public Perception: The case might attract public attention, influencing proceedings.
+- Role of Media: How the story is portrayed in the media could affect jury selection and public opinion.
+- Civil Rights Implications: Possible civil lawsuit by Tyrell’s family for violation of his civil rights.
+
+
+---
+
+
+This outline provides a foundation for a fictional trial, incorporating character backgrounds, evidence, and potential legal arguments. It sets the stage for a complex legal battle involving questions of police conduct, the use of lethal force, and the interpretation of evidence in a high-stakes, emotionally charged case.
+
+
+Lawyers
+For the prosecution, we have Alexandria Carter, a relentless state's attorney with a reputation for her unwavering pursuit of justice. Alexandria, much like Angela Valdes from "Power," combines a deep sense of moral conviction with a sharp intellect, making her a formidable force in the courtroom. Her background in tackling high-profile cases against powerful adversaries has equipped her with an unparalleled ability to navigate the complexities of the legal system. With every case, Alexandria brings a passion for justice, fighting tirelessly for those she believes have been wronged by the system. Her dedication to the Lober family's cause is driven by more than just professional duty; it's a personal crusade against the inequalities plaguing the justice system.
+Opposing her is Jonathan Ashford, a defense attorney whose charisma and cunning are matched only by his skill in the courtroom. Inspired by Harvey Specter from "Suits," Jonathan is a master strategist, known for his ability to outmaneuver opponents with his quick thinking and unparalleled legal acumen. His reputation as a brilliant defense attorney comes from his history of winning seemingly unwinnable cases, making him the go-to lawyer for high-stakes situations. Jonathan's defense of Officer Oliver is not just a job; it's a challenge that he embraces, showcasing his belief in the complexities of the law and the importance of a robust defense, even in the most controversial cases.
+
+
+For the prosecution, we have Alexandria Carter, a relentless state's attorney with a reputation for her unwavering pursuit of justice. Alexandria, much like Angela Valdes from "Power," combines a deep sense of moral conviction with a sharp intellect, making her a formidable force in the courtroom. Her background in tackling high-profile cases against powerful adversaries has equipped her with an unparalleled ability to navigate the complexities of the legal system. With every case, Alexandria brings a passion for justice, fighting tirelessly for those she believes have been wronged by the system. Her dedication to the Lober family's cause is driven by more than just professional duty; it's a personal crusade against the inequalities plaguing the justice system.
+Opposing her is Jonathan Ashford, a defense attorney whose charisma and cunning are matched only by his skill in the courtroom. Inspired by Harvey Specter from "Suits," Jonathan is a master strategist, known for his ability to outmaneuver opponents with his quick thinking and unparalleled legal acumen. His reputation as a brilliant defense attorney comes from his history of winning seemingly unwinnable cases, making him the go-to lawyer for high-stakes situations. Jonathan's defense of Officer Oliver is not just a job; it's a challenge that he embraces, showcasing his belief in the complexities of the law and the importance of a robust defense, even in the most controversial cases.
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+V  I Deserve Better 
+TIMELINE OF EVENTS
+Part 1: Tragedy and Mobilization
+* Tyrell Lober purchases a drone from Ricky Jackson
+* While flying the drone, it crashes into a tree in a neighbor's backyard
+* Tyrell goes to the neighbor's house to retrieve the drone and knocks on the door, but the woman inside calls the police instead of answering
+* Tyrell enters the neighbor's backyard to retrieve the drone and is confronted by the responding police officers
+* The police tell Tyrell to both ‘freeze’ and ‘put your hands up and turn around’, he turns around with his hands up and is shot dead by Officer Headly.
+* Both Officer Headly and Officer Oliver tell investigators that the Tyrell was holding a weapon, but it is later revealed that it was actually the remote for the drone.
+* The drone is unknowingly left in a tree recording the entire incident and captures the officers planting the stolen gun on Tyrell's body after the shooting.
+* Janine Lober, Tyrell's sister, is grief-stricken but determined to fight for justice for her brother.
+* She organizes a protest with the slogan "I Deserve Better" in response to the injustice of her brother's death
+* The simple yet impactful slogan 'I Deserve Better' has ignited a fierce social media campaign for justice, with people proudly wearing the message on their clothing and seeking to get involved in the movement.
+Part 2: Investigation and Revelation
+* Debra Winston, an investigator, becomes motivated to look deeper into the case of Tyrell Lober's death after her significant other expresses compassion for the "I Deserve Better" movement and after receiving a call from Ricky Jackson, who tells her that the media's story about the incident doesn't match up with what he knows
+* Debra Winston investigates the case and finds the drone in a tree, where it has recorded the entire incident
+* She discovers that Tyrell was not trying to break into the house, but was simply flying the drone he had just purchased when he was shot
+* She also finds that Officer Headly and Officer Oliver planted a weapon on Tyrell and conspired to create a cover story
+* Debra Winston views the recording from the drone, which proves the officers' guilt
+* She leaks the story to the media, causing a media storm
+* Officer Headly takes his own life and Officer Oliver is arrested and charged with murder and other crimes
+* The public and the justice system respond with outrage and calls for accountability in the wake of Debra Winston's revelations.
+* Part 3: Consequence and Acquittal
+* Officer Dylan Oliver is charged with murder and other crimes in relation to the shooting of Tyrell Lober 
+* The trial begins, with many delays and controversy surrounding the case
+* Witnesses, including Ricky Jackson and Debra Winston, testify about the events leading up to and following the shooting
+* The prosecution presents evidence, including the the footage of the officers planting the stolen weapon on Tyrell Lober
+* The defense argued that Officer Oliver acted in self-defense and that drones were a weapon often used by drug dealers and criminals against law enforcement.
+* After a month-long trial, the jury acquits Officer Oliver on all charges
+* Officer Oliver is released and the case is closed, much to the disappointment and outrage of Tyrell Lober's family and the I Deserve Better movement
+* The acquittal is seen as a symbol of the systemic problems with police accountability and the justice system, and fuels the ongoing efforts of I Deserve Better to bring about change.
+* Part 4: Rebirth and Innovation
+* Janine Lober is approached by Emma Jones, who provides a framework for turning "I Deserve Better" into a global movement with massive funding controlled by the people but managed by an artificial intelligence.
+* I Deserve Better is founded as a nonprofit organization focused on supporting the families of unarmed Black men killed by police, and funding private detectives, lawyers, and social media experts to work on these cases
+* The organization uses online platforms and artificial intelligence to increase awareness and provide counseling and financial support for those affected by police violence
+* I Deserve Better grows into a worldwide movement, using innovative techniques for accepting and managing donations
+* Despite ongoing challenges with police accountability and transparency, I Deserve Better remains committed to its mission of fighting for justice and improving the lives of those affected by police violence.
+________________
+I Deserve Better Chapter 1
+ Tyrell Lober sat at his desk, staring at the online marketplace on his phone. He was a tall, lean Black young man with short, twisted locks and a broad smile that seemed to light up his whole face. He had always been fascinated by technology and gadgets, and when he saw an ad for a new drone, he knew he had to have it. He had saved up enough money to make the purchase and eagerly placed the order. 
+ 
+As he waited for the seller to respond, he checked the time on his phone. He had a lunch break coming up in a few minutes and had arranged to meet the seller in the parking lot of a nearby bank to make the exchange. The bank was a modern building situated in a busy part of the city.
+ 
+Finally, a message popped up on his phone. "Hey, I'm in the parking lot now. I'll be waiting in a black sedan, spot number 37. See you soon!"
+
+
+Tyrell quickly opened the timer app on his phone and set it for 1 hour. He gathered his things and headed out of his office building.
+Walking to his car, he checked the timer to make sure it was set correctly and reminded himself to check it again before leaving the parking lot where he met the seller. He didn't want to get caught up in playing with his new drone and lose track of time.
+ 
+As he pulled into the parking lot, he scanned the rows of cars until he spotted the black sedan in spot number 37. Tyrell parked his car and made his way over to the sedan.
+ 
+He reached the car and knocked on the window. The door opened and a man stepped out. He was middle-aged, with graying hair and a friendly smile. He introduced himself as Ricky Jackson, the seller.
+ 
+"Hey, nice to meet you," Tyrell said, extending his hand. "I'm Tyrell, I’m here for the drone."
+ 
+"Nice to meet you too, Tyrell," Ricky replied, shaking Tyrell's hand. "It's practically brand new. Let me grab it for you."
+ 
+"So, why are you selling it?" Tyrell asked as Ricky reached into his car to retrieve the drone.
+ 
+"Well, I got a new job and I won't have as much time to fly it anymore," Ricky replied, pulling out the black drone and setting it on the ground. "It's only halfway charged, but it should be ready to fly by the time you get home."
+ 
+"Oh, that's too bad," Tyrell said, a hint of disappointment in his voice. "I've been wanting a drone for a while now, but I never found the right one."
+ 
+"Well, I'm sure you'll have a lot of fun with this one,"  Ricky said, handing the drone to Tyrell along with the remote control and a small bag containing the manual. "Just be careful and remember to not fly it near the airport."
+ 
+Tyrell glanced at the bag and shook his head. "I don't really need the manual. I'll just look up the instructions online. Can’t wait to get this thing in the air."
+ 
+Ricky nodded. "Yeah, drones can be a lot of fun. I hope you enjoy it. It's good to see people your age interested in something other than their phones." Tyrell laughed and handed over the money and thanked Ricky again before heading back to his car. As he pulled out of the parking lot, his mind raced to all of the places that he could probably fly this thing. He looked at his cellphone and noticed that he had just enough time on his lunch break to go home, charge it up, and take it for a spin.
+ 
+When he arrived at home, he rushed inside and plugged the drone into the charger. As he waited for it to charge, he decided to call his sister Janine to tell her about his newest gadget.
+ 
+"Hey Janine, guess what I just bought?" Tyrell said as he answered the phone.
+ 
+"Hold on. Tyrell, what did you say to your momma?" Janine asked with a hint of annoyance in her voice that caught Tyrell off guard, he paused for a moment to get his thoughts together.
+ 
+"Oh, I just told her that I was going to be able to provide for my family better than she ever did. I didn't mean to hurt her feelings, I just wanted to make it clear that I'm not going to be struggling like she did, you know?" Tyrell replied, trying to brush off the comment.
+ 
+"Oh my god Tyrell, I can't with you. You can't talk to your Momma like that. She did the best she could with what she had. And besides, what are you even talking about? You're not even married yet, you don't have a family to provide for," Janine said, her voice growing stern.
+ 
+"Yeah, I don't. But I have a great job and someone who loves me and when we have a family together we won't ever live in an apartment with no room to grow. A family should live in a house with a yard. Every kid deserves that right?" looking at the timer on his phone. "Look, my lunch break is almost up, and I have something I want to do. I'll see you when you come home."
+ 
+"Tyrell, you sleep in my second guest room. That bed is the same one I had when you were born and I was 10. What are you even talking about?" Janine asked, clearly annoyed. "You know, every parent wants to see their child have a better life than they had, right?
+ 
+"Yeah, I know, but I just don't want to end up like her, struggling and barely making ends meet. I want to be able to give my kids the best life possible," Tyrell replied, his frustration clear in his voice.
+ 
+"Okay, so let's say you and your girlfriend have a child that grows up to be the next Charles Saphire or whatever. He becomes super rich and lives in a mansion, and you still living in this house with a yard." Janine said, "Do you think it's fair for him to look at you and be like, 'That's my father and he lives in a tiny house, I will never raise my family in a place like that.'
+ 
+Tyrell sighed, "I just want to do the best I can and provide for whatever family we end up having."
+ 
+c
+ 
+Tyrell thought for a moment before responding, "Yeah, I hear you Janine."  He paused for another few moments before speaking again. "I have to go."
+ 
+"Alright, Tyrell. I love you," Janine said before hanging up the phone.
+ 
+As Tyrell hung up the phone, he sighed and tried to shake off the frustration of the conversation. Despite being half brother and sister, Janine and Tyrell were very close and had a strong bond. Janine's real mother had passed away years ago, and she had grown very close to Tyrell's mother, who had become like a mother figure to her.
+ 
+Tyrell had always had a complicated relationship with his mother, and he knew that he had a tendency to speak before he thought things through, which sometimes made things worse.
+ 
+He turned his attention back to the drone, which had finished charging. He grabbed the remote control and headed out to the backyard to test it out.
+ 
+As he flew the drone over his sister's garden, he couldn't help but feel a sense of excitement and accomplishment. This was something he had always wanted, and now it was finally in his hands.
+ 
+But as he flew the drone higher and higher, he started to lose control. It flew over the fence and into the neighbor's yard. Tyrell panicked as he tried to regain control, but it was too late. The drone crashed into his neighbor's tree.
+Tyrell couldn't believe it. He knew he had to get it down before someone saw it and called the police. He quickly made his way over to the neighbors house to knock on the front door.
+ 
+As he approached the front porch, he heard a woman's voice from inside the house.
+ 
+"Don't come any closer or I'm calling the police!" the muffled voice yelled from behind the door.
+ 
+"I'm sorry ma'am, I just crashed my drone in your tree and I'm trying to get it," Tyrell called back, taking a single step forward trying to make sure that he could hear him.
+ 
+Inside the house the woman was having none of it. She whispered to the 911 operator, "There's an intruder at my door. Please send someone right away.  He’s Black with dreadlocks and he looks very dangerous."
+ 
+"Ma'am, please, I'm not trying to break into your house. I just crashed my drone in your tree and I'm trying to get it," Tyrell said, his hands raised in surrender.
+ 
+"I'm not trying to hurt you, lady. I just want to get my drone out of your back yard. Please, just let me get it and I'll be out of your yard," Tyrell pleaded, trying to calm her down.
+ 
+There was no response and he was pretty sure she had just called the police. Tyrell knew he had to act fast. He couldn't let the police arrive and see him in the neighbor's yard. He decided to jump the fence and retrieve the drone before the police arrived. 
+Walking toward the side of his neighbor’s house, he checked the timer one last time and realized he needed to hurry back to work soon or he’d be late.  As he approached the fence, he noticed that the lock was slightly open. Without thinking, he grabbed the latch and pulled it open, slipping through the gap. He knew he shouldn't be trespassing, but he couldn't leave the drone in the tree.
+ 
+Tyrell's heart raced as he walked towards the tree, the sound of approaching sirens causing panic to set in. He knew he had to come up with a plan, and leaving the drone in the tree and running wasn't an option. He had to be able to show the police where it was in the tree and explain the situation.
+ 
+Tyrell frantically shuffled around the tree, his eyes locked on the treetop desperately looking for the drone. He initially hoped to get it and get out of there before the police arrived, but it was probably too late for that now. The sirens sounded very close. Then they stopped.
+ 
+He had an idea. He pulled out his phone and launched the drone's app, praying it would help him locate the device hidden in the tree up there. When the live feed from the drone's camera appeared on his screen, he saw himself in the frame. His heart sank as he realized the drone was perched near the top of the tree, out of reach.
+ 
+Suddenly, two officers burst into the yard, guns drawn. Tyrell froze, his hands raised to surrender. One hand holding the drone controller and the other holding his cellphone.
+ 
+"Don't move! Hands in the air! Turn around!" he heard a voice shout from behind him.
+ 
+Tyrell put his hands up in the air as he turned around to face the officers, the drone remote clutched tightly in his hand. He knew this all looked bad, but he also knew he needed to show the police that it was just a remote control, then they would understand he wasn’t a burglar. He shouted out to them, explaining that he had just crashed his drone in the tree and was trying to retrieve it. But Tyrell's attempts to explain himself were drowned out by the officers' yelling, making it impossible for them to hear him clearly.
+ 
+He knew he had to stay calm, but the sight of the guns pointed at him was overwhelming. What if he showed them his drone controller?
+ 
+"Please! I'm not a criminal. I’m on my lunch break. Look. Here is the controller for it" Tyrell pleaded, his voice shaking with fear as he held up the remote control, trying to show them it was harmless. Suddenly, he heard the sound of gunfire and a sharp pain in his chest.  Tyrell crumpled to the ground and took his last breath as he heard Officer Headly say, "Oh my god, what have I done?", his voice shaking with panic as he looked down at the now lifeless body of Tyrell Lober.
+ 
+Officer Headly could barely process what had just happened, his mind racing with fear and guilt..
+ 
+"My god." Oliver said, shaking his head in frustration.
+ 
+“He had a weapon, I had to defend myself,” Officer Headly stuttered, his face pale with shock.
+ 
+“That's a goddamn game controller, you idiot! My god,” Officer Oliver said, shaking his head in frustration.
+ 
+After looking around cautiously for a moment Officer Oliver grabs Officer Headly by the face and forces him look into his eyes "He had a weapon, you had to defend yourself. Okay? Unless you want to spend 20 years in jail. Say it with me." Officer Oliver whispered sharply, his voice cold and stern.
+ 
+"He had a weapon, I had to defend myself," Headly repeated, his voice shaking with panic and fear.
+ 
+"Good. Now remember that, and stick to it. We'll say he was reaching for a weapon and that's why you had to shoot. Got it?" Oliver said, letting go of Headly's face and stepping back.
+ 
+"Y-yeah, I got it," Headly stuttered, still looking shaken. “But, a weapon?"
+ 
+"Yes! Look at him. We'll say he was reaching for a weapon. That's all we need. I've been in this game a long time. Headly, you just stick to the story and we'll be fine. " Officer Oliver said, pulling a dirty gun from his ankle holster, “Now just grab the game controller and put it in the car. I'll call this in," Oliver said, pulling out his radio and calling for backup.
+
+
+As Headly was about to run to the car, a loud alarm began to blare from Tyrell's body. 
+
+Officer Oliver quickly whispered in a cold and stern tone, "Headly grab the controller, put it in the car.  Now, let it go off, what’s wrong with you." as he pulled a gun from his ankle holster and placed it in Tyrell’s hand.
+
+Headly, still in shock, did as he was told. As the sirens grew louder and the sound of approaching police cars filled the air, the two officers quickly moved to alter the scene to make it look like Tyrell had been reaching for a weapon.
+The sirens grew louder and the sound of approaching police cars filled the air. They had just finished when the first squad car pulled up.
+
+
+Officer Oliver stepped forward to meet the officers, his face a perfect mask of calm. He recited the story they had concocted and the officers nodded, taking in the scene. As they began to disperse, Oliver and Headly silently looked at each other. 
+
+
+Without saying a word to each they both knew that the truth would probably eventually come out, but Officer Oliver was confident that with the story they had constructed and a good lawyer they would get away with at least a slap on the wrist. 
+
+
+For now, it was time to go. As they walked away from the scene, the blaring siren of the alarm that had long since stopped was  still ringing in their ears, neither of them said a word, but both knew that there was no turning back.
+________________
+Character descriptions:
+
+Officer Oliver age 47, is a figure of authority, his physical presence commanding respect. His hair, cut in a practical, no-nonsense style, is beginning to show streaks of gray, a testament to his years of service. A well-maintained mustache accentuates his firm mouth and jawline, reflecting his experience and the weight of his responsibilities.
+
+
+Officer Headly age 38 has a sturdy build typical of many law enforcement officers, with a short, military-style haircut that underscores his disciplined demeanor. His face is round, with a hint of stubble that he sometimes lets grow slightly beyond the department's grooming standards, adding a rugged touch to his otherwise clean-cut appearance.
+
+
+Janine, a Black woman age 35 has a strong, composed appearance, with keen eyes that reflect her sharp mind and compassionate heart. Her hair is kept in a practical yet stylish bob cut, suggesting a blend of efficiency and personal expression. Her face, marked by soft yet determined features, often carries a look of thoughtful concern, especially when dealing with family matters.
+
+
+Ricky Jackson age 55 carries the seasoned look of middle age with grace. His hair is more salt than pepper, neatly combed back to reveal a friendly face often lit by a welcoming smile. His skin shows the signs of life's experiences, with laugh lines etched around his eyes. He is clean-shaven, which complements his neat, professional appearance.
+
+
+Tyrell Lober age 25 is a tall, lean Black man with the youthful energy and humor reminiscent of a young Kevin Hart. His hair is styled in short, twisted locks, framing a face that lights up with a broad, infectious smile. He is clean-shaven, emphasizing his youthful appearance and approachable demeanor. | He is wearing a sleek, charcoal gray tech hoodie paired with dark jeans | 
+
+
+Mrs. Johnson is 68 years old, a white woman of petite stature, with a frame that carries the weight of years with resilience. Her hair is a soft white, often pulled back into a neat bun that speaks to a bygone era of elegance and simplicity. Wrinkles crease her face, mapping a life filled with both joy and sorrow, yet her eyes retain a sharpness, a testament to her enduring spirit. She wears glasses with thick, round frames. 
+
+Character Clothing:
+Tyrell Lober is wearing a sleek, charcoal gray tech hoodie paired with dark jeans and black sneakers, embodying a modern, casual style.
+
+
+Ricky Jackson is wearing a crisp, light blue button-down shirt tucked into khaki trousers, complemented by comfortable brown loafers, signifying his approachable yet professional demeanor.
+
+
+Janine Lober is dressed in a smart, fitted blazer over a white blouse, paired with black slacks and low-heeled shoes, striking a balance between professional and practical.
+
+
+Officer Headly is clad in the standard police uniform, complete with a dark navy shirt and pants, a duty belt, and polished black boots, representing his authoritative role.
+
+
+Officer Oliver dons a similar police uniform to Headly's, but his badges and insignia are displayed with a bit more prominence, highlighting his seniority.
+
+
+Mrs. Johnson is wearing a classic, floral patterned dress that falls just below her knees, paired with comfortable, sensible shoes, reflecting her age and traditional values.
+
+
+
+
+
+
+
+
+Clothing with person:
+
+Mrs. Johnson is 68 years old, a white woman of petite stature, with a frame that carries the weight of years with resilience. Her hair is a soft white, often pulled back into a neat bun that speaks to a bygone era of elegance and simplicity. Wrinkles crease her face, mapping a life filled with both joy and sorrow, yet her eyes retain a sharpness, a testament to her enduring spirit. She wears glasses with thick, round frames. | She is wearing a classic, floral patterned dress that falls just below her knees, paired with comfortable, sensible shoes, reflecting her age and traditional values.
+________________
+
+
+
+
+________________
+I Deserve Better Chapter 2
+Janine Lober sat at her desk, staring at the computer screen in front of her. She was a tall, curvy Black girl with a wild afro and a passion for graphic design. As a recent graduate of a historically black college, she was very active in the online community where she would design memes and create graphics, promoting her school, Florida Technical University.  She had landed her dream job at a local design agency and was quickly making a name for herself in the office.
+
+
+But all of that was pushed to the back of her mind as her phone rang, interrupting her work. She quickly answered, recognizing the number as one of her neighbors.
+
+
+"Hey, Janine, it's Mrs. Johnson. I wanted to let you know that there's been a shooting in the neighborhood. I saw the police and the news crews outside. I hope everything is okay," the older woman's voice was filled with concern.
+
+
+Janine's heart sank as she heard the words. She knew that the shooting was probably related to her brother, Tyrell. She quickly thanked Mrs. Johnson and hung up the phone, her mind racing.
+
+
+She couldn't focus on work anymore. She needed to find out what had happened to Tyrell and make sure that the truth was told.
+
+
+Janine quickly grabbed her bag and headed out of the office, ignoring the concerned calls from her coworkers. She drove to her neighborhood, her mind a whirlwind of emotions. As she pulled up to her street, she saw the flashing lights of police cars and the throngs of reporters crowding the sidewalks.
+
+
+She parked her car and made her way through the crowd, her heart pounding in her chest. She finally reached the house at the center of the commotion, where she saw Tyrell's car parked on the curb. Her heart dropped as she saw the blood stains on the pavement next to it.
+
+
+She pushed her way through the crowd and approached the police officer in charge. "What happened here? That's my brother's car. I need to know what happened to him," she said, her voice shaking with emotion.
+
+
+The officer hesitated, clearly uncomfortable with her questioning. "Ma'am, we believe that your brother was attempting to break into this house when he was shot by one of our officers," he said, avoiding her gaze.
+
+
+Janine's blood boiled with anger and frustration. She knew that Tyrell would never break into a house and she had just spoken to him.
+She knew that the officer was lying.
+Without another word, she turned and walked away, her mind racing with thoughts of justice and revenge. She couldn't let this injustice go unchallenged.
+As she walked back to her car, she pulled out her phone and opened up her social media apps. She knew that the only way to get the truth out there was to use the power of the internet.
+She quickly typed out a post, her fingers shaking with anger and grief. "My brother Tyrell did not deserve to die. He was a good person and a loving brother. I will not let his death be in vain. #IDeserveBetter"
+She hit the post button and watched as the post quickly gained traction on social media. People all over the city began to share the post, expressing their condolences and support for Tyrell and his family.
+Janine knew that she had to keep the momentum going. She began to design shirts with the hashtag #IDeserveBetter emblazoned on the front. She posted pictures of the shirts on social media and encouraged people to wear them in support of Tyrell and the movement.
+As the hashtag gained traction, more and more people began to share their stories of injustice and police brutality. Janine was flooded with messages from people all over the country, expressing their support for the movement.
+The hashtag began to trend nationally and soon, it was being featured on news outlets and talked about on talk shows. Janine's simple post had sparked a nationwide movement.
+The movement was not just about Tyrell or his death, it was about the countless other people who had been killed by the police and the injustice that they had suffered. It was about the fact that nobody deserved to be treated that way and that the world deserved better.
+Janine knew that the movement was just getting started and that there was still a long way to go. But she was determined to see it through, for Tyrell and for all of the people who deserved better.
+The hashtag had become the catalyst for a nationwide movement, but Janine knew that it was the people, who had shared their stories and supported each other, that had made it possible.
+Hashtags don't start movements, people do.
+Janine's activism was rooted in her time in college, where she had been an active member of the Black Student Union. She had always been passionate about social justice, and her brother's death had only strengthened her resolve to fight for change.
+As the movement gained momentum, Janine organized a peaceful protest with the slogan "I Deserve Better" to demand justice for Tyrell and all the other victims of police brutality. She designed shirts with the message for the protesters to wear and the phrase "I Deserve Better" quickly became a symbol of the movement.
+The protest was a success, and the media coverage helped to spread the message of the movement even further. Janine's simple yet impactful slogan had ignited a fierce social media campaign for justice, with people proudly wearing the message on their clothing and seeking to get involved in the movement.
+As the movement continued to grow, Janine knew that there was still much work to be done. But she also knew that with the support of the people and the determination to fight for what was right, they could make a difference.
+The hashtag heard around the world, #IDeserveBetter, had become a nationwide phenomenon, nearly overnight. But Janine knew that it was the people behind the hashtag that would ultimately bring about the change they deserved.
+
+
+
+
+Charges
+
+
+Defense Arguments for Officer Oliver:
+
+
+1. Officer Oliver did not fire the shots that led to Tyrell's death; Officer Headly did. Therefore, Oliver should not be charged for the shooting itself.
+2. Oliver can claim that he genuinely believed Tyrell was holding a weapon based on the information he had at the time, which led to him supporting Officer Headly's claim of self-defense.
+3. The drone itself could indeed be argued as a potentially dangerous device, which when operated unlawfully, poses a risk to public safety. Oliver may not have recognized it as a drone controller, which could have contributed to misunderstanding the situation.
+4. Oliver's actions were based on his attempt to protect a fellow officer who he believed had made an honest mistake and panicked, not necessarily to cover up intentional wrongdoing.
+5. Officer Oliver may argue that there were no clear and sensible alternatives to deal with the situation and protect Officer Headly from what he perceived were unfair consequences.
+6. Oliver could argue that the responsibility to assess the situation should have been on the responding officers (the backup that was called) and that his judgment was clouded due to the pressure of witnessing a fellow officer involved in a shooting.
+7. If prior instances of excessive force or biased behavior by Officer Oliver can't be established, the defense could argue that his actions in this single event are not indicative of a pattern of misconduct or criminal intent.
+8. Oliver's position as a senior officer could be used to argue that his actions were influenced by a sense of responsibility for the well-being of his subordinates, and he believed he was acting in their best interest.
+9. Oliver can argue that the police department's training methods did not prepare him for effectively dealing with a situation like this, and thus, his actions were a result of what he believed to be the best course of action under the circumstances.
+10. The defense could claim that Oliver was acting in good faith under the belief that the legal system would ultimately uncover the truth, and thus, his involvement in the coverup was not an intentional act to deceive or obstruct justice.
+
+
+Potential Charges Against Officer Oliver:
+
+
+1. Obstruction of justice: For altering the scene to support Officer Headly's self-defense claim.
+2. Tampering with evidence: For placing the gun in Tyrell's hand and instructing Officer Headly to take the controller.
+3. Accessory after the fact: For helping Officer Headly cover up the shooting by orchestrating the false narrative.
+4. Falsifying a police report: For providing a fabricated account of the incident.
+5. Official misconduct: For using his position as an officer to protect Officer Headly from facing the consequences of the shooting, rather than pursuing the truth and upholding the law.
+6. Conspiracy: For working alongside Officer Headly to create a false narrative and cover up the shooting.
+7. Violation of Tyrell's civil rights: By not providing proper assistance and failing to respect his life and safety.
+8. Aiding and abetting perjury: For encouraging Officer Headly to provide false testimony regarding the events that led to the shooting.
+
+
+While these charges relate to Officer Oliver's potential liability in this situation, it should be noted that each jurisdiction's specific statutes and laws may vary, and the ultimate decision to charge an individual will be determined by the local prosecutor's office.
+
+
+
+
+I Deserve Better Chapter 3
+The courtroom was packed as the trial of Officer Oliver began and the gallery was filled with members of the community, many of whom had joined Janine's political movement "I Deserve Better" after the drone footage of the police framing Tyrell was released to the public. Some of them held signs with slogans such as "Justice for Tyrell" and "Stop Police Brutality.” but many of them worse black shirts with 3 words, ‘I Deserve Better’.
+
+The room was buzzing with anticipation as the jury was sworn in and the attorneys made their opening statements.  The defense team, led by the skilled and charismatic Andrew Caravasos, had meticulously prepared their case, leaving no stone unturned in their effort to clear Officer Oliver's name. Andrew Caravasos hired a team of social media experts to investigate Tyrell's online presence, where he mentions a ‘12 gauge shotgun with Magical bullets’.
+
+
+Andrew began his opening statement with a bang, "Ladies and gentlemen of the jury, let me be clear, my client, Officer Oliver, did not murder Tyrell Lober. He is not on trial for that. He is on trial for planting evidence and falsely accusing a deceased individual of a crime. And I can assure you, by the end of this trial, you will see that my client is innocent of these accusations. We will prove that Tyrell Lober was in possession of an illegal weapon and that Officer Oliver had no motive to frame him. We will show that Officer Oliver was simply doing his job and trying to keep the community safe."
+
+
+Andrew then began to pace back and forth in front of the jury box, making eye contact with each juror as he spoke, "The prosecution will try to paint my client as a villain, but I assure you, he is not. He is a dedicated public servant who has devoted his life to protecting this community. He made a split-second decision in a high-stress situation and unfortunately, it resulted in a tragic outcome. But that does not make him guilty of the charges against him."
+
+
+As Andrew sat down, the prosecutor, Holley Lawrence, stood up to give her opening statement. "Ladies and gentlemen of the jury, this is a case about integrity and justice. The defendant, Officer Oliver, not only planted evidence on a deceased individual, but he also participated in a cover-up that resulted in the death of an innocent man. The defendant's actions were a violation of Tyrell Lober's civil rights and a betrayal of the community's trust. We will prove that the defendant not only planted the weapon, but also coached his partner to lie about the events that led to Tyrell Lober's death."
+
+
+She then walked closer to the jury, her voice becoming more passionate, "We will also present evidence that the defendant had a history of misconduct and a pattern of using excessive force. This is not a case of a split-second decision, this is a case of a corrupt officer using his power to abuse the justice system. We will also introduce evidence that Tyrell Lober was an upstanding member of the community, with no criminal history and had no weapon on him. We will prove that the defendant framed him, and that is why he is guilty of all the charges against him."
+
+
+Holley Lawrence then walked back to her table, and with a determined look, "Ladies and gentlemen of the jury, we ask you to keep an open mind and consider all of the evidence presented before making a decision. My client is Officer Headler and we will prove it. Thank you."
+________________
+I Deserve Better: A Story of Social Justice and AI-driven Advocacy
+Overview:
+"I Deserve Better" is an organization founded by Janine Loeber after the tragic death of her brother, who was killed by police. Through various phases, the organization grew from a local movement to a global force powered by artificial intelligence (AI) technology, ultimately changing the way social organizations are managed and built.
+
+Origins:
+Janine Loeber's motivation to start "I Deserve Better" began when she wrote a college paper on a similar social-political group (implied to be Black Lives Matter) and critiqued the limitations that its name and scope created. Her activism went from theoretical to personal after her brother's death when Janine organized protests and distributed apparel printed with "I Deserve Better."
+
+The Turning Point:
+After Janine's brother's death, increased media attention led to a more in-depth investigation into the case. Evidence revealed police corruption and planted evidence, further fueling the growth and influence of the organization. However, following a personal scandal involving leaked private information, Janine was at her lowest point.
+
+The Transformation:
+At this moment, an individual skilled in machine learning, deep learning, and AI approaches Janine, offering help to build a more efficient and effective organization. Together, they devise a plan to integrate AI into the management of "I Deserve Better," creating an organization run by humans but managed by AI.
+
+The AI-powered Organization:
+The new "I Deserve Better" features the following elements, orchestrated by the custom AI model called "Task":
+   1. Focus on supporting victims' families and advocating for their justice.
+   2. Funding for private detectives, high-powered lawyers, and social media experts.
+   3. Online platforms to raise awareness, provide counseling, and financial support.
+   4. Membership program for public access to the organization's app, benefits, and voting on cases.
+   5. Monthly live streams to discuss cases and update the public on the organization's work.
+   6. Financial support gained from anonymous donations and membership fees.
+   7. In-depth analysis and statistics on lawyers and court cases.
+   8. Apparel to raise awareness and honor the victims.
+   9. WIkilpedia of Lawyers
+Impact of I Deserve Better:
+The transformed organization makes a triumphant comeback, as it now provides a platform that enables the public to access key information about cases and tracks lawyer performance. It becomes a blueprint for creating future social organizations that are transparent, efficient, and advocate for justice. The guiding theme behind "I Deserve Better" is driven by the belief that knowledge of the rules and transparent access to information leads to fairness and justice.
+From a local movement to a global force, "I Deserve Better" leverages AI to create a more equitable and just world for victims and their families, proving that social progress can be achieved through collaboration and technology.
+
+
+
+
+________________
+Wikipedia for ‘I Deserve Better’
+
+
+Introduction
+I Deserve Better is a progressive, nonprofit organization that fights for justice for those who have been wronged by the police and other institutions. The organization was founded by Janine Lober after the death of her brother Tyrell Lober, and has since grown into a worldwide movement. I Deserve Better is notable for being the first organization to be managed by an Open sourced natural language processing-based artificial intelligence called TASK (short for Trust, Accountability, Solidarity, Kaleidoscope).
+Mission and Focus
+I Deserve Better's primary focus is on supporting the families of unarmed Black American men who have been killed by the police. The organization's mission is to ensure that these victims are not forgotten and that their killers are brought to justice. In addition to this, I Deserve Better also advocates for better treatment of individuals by organizational institutions more generally, with a particular focus on the justice system and police violence.
+Strategy and Operations
+I Deserve Better has a unique strategy for achieving its mission, which includes the following elements:
+   * Funding for private detectives, high-powered lawyers, and social media experts to work on cases where the police have killed someone
+   * Use of online platforms to increase awareness of these cases and to provide counseling and financial support for the families of the victims
+   * Acceptance of donations in the form of cryptocurrencies, which are then converted to anonymous cash donations and managed by TASK
+   * Membership program that allows anyone in the world to join for a fee of $5 per month and access the organization's app and other benefits
+Organizational Structure
+I Deserve Better is managed by TASK, the artificial intelligence system that is responsible for analyzing images from police videos for misconduct, and for making funding recommendations for private detectives, lawyers, and social media experts. TASK is supported by a team of human professionals who work on the cases funded by the organization. The organization is also governed by a board of directors, which is responsible for making strategic decisions and overseeing the overall direction of the organization.
+Impact and Accomplishments
+Since its founding, I Deserve Better has had a significant impact on the social justice landscape. Some of the organization's notable accomplishments include:
+   * Funding and support for numerous cases involving police violence and injustice
+   * Increased awareness of these cases through online platforms and media coverage
+   * Counseling and financial support for the families of the victims of police violence
+   * A worldwide movement of individuals committed to making the world a better place through social justice activism
+Challenges and Criticism
+Despite its many accomplishments, I Deserve Better has also faced challenges and criticism. Some critics have called for the organization to speak out on controversial issues, such as the viral video of former members yelling "Where Stamp At?" in a sarcastic manner. Others have questioned the effectiveness of the organization's unique strategy and the role of TASK in decision-making.
+Summary of Key Points
+   * I Deserve Better is a nonprofit organization that fights for justice for those who have been wronged by the police and other institutions, with a particular focus on unarmed Black American men who have been killed by the police
+   * The organization is managed by TASK, an Open sourced natural language processing-based artificial intelligence system
+   * I Deserve Better's strategy includes funding for private detectives, lawyers, and social media experts, as well as the use of online platforms to increase awareness and provide support for the families of the victims
+   * The organization is governed by a board of directors and supported by a team of human professionals
+   * I Deserve Better has had a significant impact on the social justice landscape and has faced both challenges and criticism in its efforts to bring about change.
+Membership and Benefits
+I Deserve Better offers a membership program that allows anyone in the world to join for a fee of $5 per month. Members of the organization have access to the following benefits:
+   * Access to the I Deserve Better app, which provides updates on cases and allows members to submit their own cases of police misconduct for review by the organization's AI
+   * A say in what cases the organization takes on, through the app's voting feature
+   * Monthly live-streams with the team and other updates on the organization's work
+   * The opportunity to be a part of a community of people who are committed to making the world a better place through social justice activism
+Funding and Financial Information
+I Deserve Better is funded through a combination of sources, including:
+   * Anonymous cash donations managed by TASK, which are converted from cryptocurrencies accepted by the organization
+   * Membership fees from the organization's membership program
+The organization's financial information is available to members through the I Deserve Better app.
+Key Members
+   * Janine Lober, Founder & CEO of I Deserve Better
+   * TASK, Artificial Intelligence Manager of I Deserve Better
+   * Board of Technical Directors, Governing body of I Deserve Better
+   * Board of Directors,paying members who vote and provide financial support the work of I Deserve Better
+Additional Resources
+   * I Deserve Better website: www.ideservebetter.org
+   * I Deserve Better app, available for download on the App Store and Google Play
+   * Social media accounts for I Deserve Better: Facebook, Twitter, Instagram

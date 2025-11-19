@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b)",
+      "Bash(pip install:*)",
+      "Bash(python setup_google_auth.py:*)",
+      "Bash(python download_cof_stories.py:*)",
+      "Bash(python -c:*)",
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(cat:*)",
+      "Bash(python -m json.tool:*)",
+      "Bash(nul)",
+      "Bash(npm run dev:*)",
+      "Bash(dir:*)",
+      "Bash(python extract_docx.py:*)",
+      "Bash(python extract_individual.py:*)",
+      "Bash(C:/git/COF/temp_establishment.txt)",
+      "Bash(C:/git/COF/temp_countries.txt)",
+      "Bash(C:/git/COF/temp_atlas.txt)",
+      "Bash(C:/git/COF/temp_kaiser.txt)",
+      "Bash(C:/git/COF/temp_eziobi.txt)",
+      "WebFetch(domain:powerlisting.fandom.com)",
+      "Bash(C:gitCOFtemp_update.txt)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
