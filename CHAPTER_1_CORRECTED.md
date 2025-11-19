@@ -127,6 +127,16 @@ A journalist found his voice. "You're saying aliens are going to start kidnappin
 
 Rusty turned to face the skeptic directly. "Believe me or don't. Most people will choose not to. The Grays predicted that. But in the coming weeks, the first Living Superweapons will start appearing. People will vanish and return with impossible abilities. Countries will scramble to militarize these individuals. Conflicts will erupt over how to control them. And eventually, someone will detect the Alliance armada entering our solar system. When that happens, you'll realize I was telling the truth. I just hope that realization doesn't come too late."
 
+"If they're eight years away," a woman in the crowd called out, "they'd have to be traveling faster than light. How is that even possible? And if they are, why haven't we detected them already?"
+
+Finally, Rusty thought. Someone asking the right technical questions.
+
+"They are traveling faster than light," Rusty confirmed. "The Grays explained that faster-than-light objects are incredibly difficult to detect because they appear exponentially dimmer the faster they move. It's called relativistic dimming—the photons get compressed in ways that make the object nearly invisible to conventional telescopes. We actually have the technology to detect FTL objects right now, but we don't look for them because conventional physics says they can't exist. The Alliance exploits this assumption. As long as they don't decelerate near Earth too early, our telescopes will never see them coming."
+
+Murmurs rippled through the crowd. A physicist-looking man shouted, "Is that even real science?"
+
+"It's theoretical physics," Rusty replied. "Look up tachyon theory, relativistic dimming effects. The math exists—we just never built detection systems to look for it because we assumed faster-than-light travel was impossible. The Grays said that's humanity's biggest weakness: we don't look for things we don't believe in. We're about to pay for that blind spot."
+
 "Mr. Richards!" A man in a suit pushed through the crowd—younger than Hartley, with a United Nations pin on his lapel. "If what you're saying is accurate, what should the international community do? What concrete actions should we take?"
 
 Finally. The right question.
@@ -165,83 +175,81 @@ Rusty shook his head. "They said physical evidence would be confiscated or dismi
 
 "Strategic," Rusty corrected. "The Grays have been planning this intervention for centuries. They understand how humans think, how governments operate. They knew I'd be detained, debriefed, questioned. They knew you'd want evidence I couldn't provide. They accounted for all of it. That's why they chose this method—public revelation, immediate broadcast, impossible to completely suppress."
 
-Hartley's phone buzzed insistently. He read the message and stood. "There's someone here who wants to meet you. Says he's been expecting this."
+Hartley's phone buzzed. He glanced at it, frowned, then turned the screen toward Rusty. "You've got an incoming video call request. Vaughn Galloway. The billionaire UFO guy. You know him?"
 
-The ambulance door opened, and Vaughn Galloway stepped inside.
+Rusty's heart rate kicked up. Kor-Thalen had told him this would happen. "I know of him. He's been preparing for something like this his whole life."
 
-Rusty had never met the man in person, but he'd recognize that silver-streaked hair anywhere. Vaughn Galloway: billionaire entrepreneur, UFO enthusiast, founder of companies that existed in the gray zone between legitimate science and fringe speculation. If anyone on Earth was prepared to believe Rusty's story, it was this man.
+"Want me to patch him through?" Hartley asked, skepticism clear in his voice.
 
-"Mr. Richards," Galloway said, extending his hand. His grip was firm, his eyes sharp with intelligence. "I apologize for the intrusion, but when I heard your press conference, I dropped everything to get here. What you described—the Grays, the Alliance, the Living Superweapons—I've been preparing for something like this my entire life."
+"Yes."
+
+The medic handed Rusty a tablet, and moments later, Vaughn Galloway's face filled the screen. Silver-streaked hair, sharp eyes, expensive office visible behind him—Geneva, maybe, or New York. The man looked like he hadn't slept, but his energy was electric.
+
+"Mr. Richards," Galloway said without preamble. "I watched your press conference. Every word. I've spent thirty years studying UFO phenomena, analyzing abduction reports, tracking patterns in satellite data that conventional scientists dismiss as noise. I didn't know the specifics—I didn't know about the Grays or the Alliance of Four—but I knew something was coming."
 
 "You believe me," Rusty said. It wasn't a question.
 
-"I've spent thirty years studying UFO phenomena, analyzing abduction reports, tracking patterns in satellite data that conventional scientists dismiss as noise." Galloway sat down across from Rusty. "I didn't know the specifics—I didn't know about the Grays or the Alliance of Four—but I knew something was coming. I've already begun preliminary work on a private organization to address extraterrestrial threats. I was calling it FIST—First Infantry Strike Team. But after hearing your suggestion about international cooperation, I think SPEAR has a better ring to it."
+"I've already begun preliminary work on a private organization to address extraterrestrial threats. I was calling it FIST—First Infantry Strike Team. But after hearing your suggestion about international cooperation, I think SPEAR has a better ring to it. Special Personnel for Extraterrestrial Assault and Research." Galloway leaned closer to the camera. "I need everything the Grays told you. Every detail about the Alliance, about the enhancement process, about the invasion timeline. And I need to know—is this worth me flying to Australia, or should we start coordinating remotely right now?"
 
-"Special Personnel for Extraterrestrial Assault and Research," Rusty said. Kor-Thalen had shown him this moment, had told him Vaughn Galloway was part of the plan.
+Rusty glanced at Hartley, who was listening intently despite himself. "The Grays showed me your face," Rusty said quietly. "They told me you'd be part of this. They said you were one of the few people on Earth already preparing, already building something that could help. But they also warned me—" He paused, choosing his words carefully. "Not everyone who fights the Alliance fights for humanity's good. Some fight for power. For control. For glory."
 
-"The government will fight you every step of the way," Hartley warned.
+Galloway's expression didn't change. "Then let me be clear about my terms. SPEAR won't be an American organization. It won't be a corporate tool. If we're going to survive this, it has to be genuinely international—answerable to the world, not to one government or one boardroom. I have resources, connections, and eight years of preliminary research. What I need from you is everything the Grays taught you. Do we have a deal?"
 
-"The government will cooperate," Galloway countered smoothly, "because they'll have no choice. When people start appearing with abilities that make nuclear weapons look like firecrackers, traditional military structures won't be able to contain them. Better to work with someone who understands the threat than waste eight years playing jurisdictional games while humanity's extinction approaches." He turned back to Rusty. "I need everything the Grays told you. Every detail about the Alliance, about the enhancement process, about the invasion timeline. Will you work with me?"
+Rusty studied the man on the screen. Kor-Thalen had shown him this moment, had told him Vaughn Galloway was essential to the plan. Looking into those sharp eyes, Rusty saw ambition, brilliance, and hunger—but also determination. And they didn't have eight years to be picky about allies.
 
-Rusty studied the man who would become SPEAR's founder. Kor-Thalen had warned him: "Trust carefully. Not everyone who opposes the Alliance fights for humanity's good. Some fight for power. For control. For glory."
-
-Looking into Galloway's eyes, Rusty saw ambition, brilliance, and hunger—but also determination. And they didn't have eight years to be picky about allies.
-
-"I'll work with you," Rusty said. "On one condition: SPEAR answers to the world, not to one government or one corporation. If we're going to survive this, it has to be genuinely international."
+"We have a deal," Rusty said. "On one condition: SPEAR answers to humanity, not to profit. Not to politics. If you can promise me that, I'll tell you everything."
 
 "Agreed," Galloway said without hesitation. "Though making that happen will be its own kind of war."
 
-"Better than the alternative."
+"Better than the alternative." Rusty leaned back against the ambulance bench, suddenly aware of how exhausted he was. "Stay on the line. I'll walk you through what the Grays showed me. But Galloway—this is going to sound insane, even after everything you just heard."
 
-Hartley's phone rang. He answered, listened, and stood. "Your family's helicopter is landing. I'll give you privacy for the reunion." He paused at the door. "Mr. Richards... I don't know if your story is true. But I hope to God it isn't. Because if you're right, we're in more danger than most people can comprehend."
+"Mr. Richards," Galloway said with something that might have been a smile, "I've been called insane for thirty years. Hit me with your best shot."
 
-"We are," Rusty confirmed. "But we have eight years. Eight years to prepare, to train, to become something more than what we are." He looked at Galloway. "Eight years to give humanity a fighting chance."
+Hartley stood, phone still pressed to his ear. "I need to brief my superiors. You'll be transported to a secure facility in Darwin for debriefing. Your family's being notified now—they'll fly out tomorrow." He paused at the door, looking back at Rusty with an expression that might have been respect. "Mr. Richards... I don't know if your story is true. But I hope to God it isn't. Because if you're right, we're in more danger than most people can comprehend."
 
-After Hartley left, Galloway pulled out a tablet and began taking notes. "I need you to walk me through the Alliance species. Start with—"
+"We are," Rusty confirmed, exhaustion finally catching up to him. "But we have eight years. Eight years to prepare, to train, to become something more than what we are."
 
-"Later," Rusty interrupted. Through the ambulance window, he could see a helicopter touching down on the football field, rotors kicking up dust and dried grass. The side door opened before it fully landed, and Sarah jumped out, her hair whipping in the downdraft, her face streaked with tears.
+After Hartley left, Rusty turned his attention back to the tablet, to Vaughn Galloway's sharp eyes studying him through the screen.
 
-"We'll talk," Rusty said to Galloway. "But right now, I need to see the people I left behind."
+"You still there, Galloway?"
 
-He stepped out of the ambulance, and Sarah crashed into him like a wave, her arms wrapping around him so tightly he could barely breathe. She smelled like lavender shampoo and coffee and home. She was crying into his chest, saying his name over and over like a prayer.
+"Not going anywhere," the billionaire replied. "Now—tell me about the Alliance. Start with their capabilities and work backward to their weaknesses. The Grays gave you intelligence, right? Tactical information?"
 
-Behind her, Emily emerged from the helicopter, moving slower, her eyes red but dry. She'd always been the strong one.
+Rusty nodded slowly. Through the ambulance window, he could see the sun setting over Derby, painting the Australian sky in shades of orange and purple that painfully reminded him of the vortex. Two years. He'd been gone for two years, and now he was back with eight years to prepare for the end of the world.
 
-"You absolute bastard," Emily said when she reached him. Then she punched him in the shoulder—hard—and pulled him into a hug that made his ribs creak. "Two years, Rusty. Two goddamn years we thought you were dead."
+"The Alliance is made up of four species," Rusty began, his voice hoarse from the day's revelations. "The Iron Eaters, the Slaught, the Deep, and a fourth race the Grays wouldn't name. Each one has already destroyed multiple civilizations. Together, they're nearly unstoppable."
 
-"I know," he whispered. "I'm sorry. I'm so sorry."
+"Nearly," Galloway repeated, leaning forward. "But not completely. What are their weaknesses?"
 
-"You better have a good explanation," Emily said fiercely. "And it better be better than 'aliens abducted me and sent me back to warn the world about an invasion.' Because even for you, that's—"
+"That's the thing," Rusty said, meeting Galloway's eyes through the screen. "They're not invincible. The Grays wouldn't have bothered creating Living Superweapons if the Alliance couldn't be fought. But the weaknesses... they're specific. Exploitable only if we prepare the right way, with the right people, using the right knowledge."
 
-"It's true," Rusty interrupted. "Every word. I know how it sounds. But Emily, Sarah—" He pulled back enough to look at them both. "Everything I said in that press conference was true. In eight years, everything we know will end unless we fight. I need you to believe me."
+"Then we have work to do," Galloway said. "I'm flying to Australia tonight. We'll start building SPEAR's foundation immediately. Every day we waste is a day closer to extinction."
 
-Sarah touched his face gently, as if confirming he was real. "I believe you."
+Rusty leaned back against the ambulance bench, the weight of everything settling onto his shoulders like a physical thing. In eight years, the Alliance of Four would arrive. In eight years, humanity would either stand united against extinction—or they'd destroy themselves fighting over the very weapons meant to save them.
 
-"I don't," Emily said bluntly. "But I believe that *you* believe it. And you've never lied to me before. So... I'll listen."
+Kor-Thalen had shown him both futures. The question was which path humanity would choose.
 
-It wasn't faith. But it was a start.
+"Galloway," Rusty said quietly, "when you get here, bring everything you've got on organizational structures, international law, and crisis management. Because the biggest threat isn't the aliens. It's going to be us."
 
-As the sun set over Derby, painting the Australian sky in shades of orange and purple that painfully reminded Rusty of the vortex, he sat with his family in a military facility and told them everything. About the Grays' dimensional vessel. About Kor-Thalen and the other Gray scientists. About the Alliance of Four—the Iron Eaters with their self-evolving nanite bodies, the Slaught with their hive-mind swarms, the Deep with their ecosystem-destroying water manipulation, and the fourth species the Grays wouldn't name.
+"I know," Galloway replied, his expression grim. "I've been studying human conflict for thirty years. We're about to find out if we can overcome our nature long enough to survive."
 
-And about the Living Superweapons. The thousand men and women who would be chosen, enhanced, transformed. The powers they'd wield. The price they'd pay.
+The tablet screen went dark as Galloway ended the call. Rusty sat alone in the ambulance, listening to the medics outside discussing his condition in low voices, feeling the IV drip slowly rehydrating his depleted body.
 
-"Kor-Thalen showed me possible futures," Rusty said as darkness fell outside. "Not *the* future—they said time is more flexible than humans understand—but probable outcomes. I saw Earth burning. I saw our atmosphere processed into alien gas. I saw the last humans choking on toxic air, reaching for a sun they'd never see again."
+Tomorrow, Sarah and Emily would arrive. Tomorrow, the debriefing would begin in earnest. Tomorrow, the world would start reacting to his warning—some with belief, most with skepticism, all with fear.
 
-He paused, looking at the faces of the women he loved.
+But tonight, Rusty Richards was just a man who'd returned from the impossible, carrying knowledge that weighed more than any human should have to bear.
 
-"But I also saw another future. One where we fought back. Where these Living Superweapons stood against the Alliance and held the line long enough for humanity to evacuate. To survive. To scatter among the stars like seeds from a dying tree, carrying Earth's memory into the cosmos. That future is possible. Unlikely, but possible."
+He closed his eyes and saw Kor-Thalen's face—those enormous black eyes that saw through time itself.
 
-"Which future did the Grays think was most probable?" Sarah asked quietly.
+"You are the messenger," the Gray had said. "You will tell them. Most will not believe. That is expected. That is factored. But some will. And some is enough."
 
-Rusty met her eyes. "The one where we destroy ourselves before the Alliance even arrives. Where nations fight over the Living Superweapons instead of preparing for the invasion. Where fear and greed and pride blind us to the real threat until it's too late."
+Rusty hoped the Gray was right.
 
-"Then we make sure that's not the future that happens," Emily said firmly. "You came back to warn us. Fine. Warning delivered. Now what?"
+He hoped some was enough.
 
-Now what, indeed.
+Because in eight years, they'd find out if humanity could become more than what they were.
 
-Rusty thought of Vaughn Galloway, already planning SPEAR. Thought of the governments that would scramble to control the Living Superweapons. Thought of the eight years ticking away like a countdown to extinction.
-
-"Now," he said, "we prepare for war."
+Or if they'd die as what they'd always been.
 
 ---
 
@@ -251,16 +259,26 @@ Rusty thought of Vaughn Galloway, already planning SPEAR. Thought of the governm
 
 ## AUTHOR'S NOTE
 
-This version follows the original Episode 0 concept where Rusty appears mysteriously in a field in Derby, Australia—no spaceship, no pod, just sudden materialization after two years missing. This creates more mystery and avoids the logistical problems of a spacecraft that would be immediately confiscated and studied by governments.
+**Chapter 1 Structure:**
+- **Time Covered:** Single day (Rusty's return and press conference)
+- **Location:** Derby, Australia (football field)
+- **Key Events:** Materialization, public warning, Vaughn video call
 
-The Grays' method of return is deliberately unexplained, reinforcing that their technology operates beyond human understanding. Rusty's only "proof" is his alien clothing and the knowledge he carries—everything else must be validated by the appearance of Living Superweapons in the coming weeks.
+**Major Changes from Earlier Drafts:**
 
-Key changes from previous drafts:
-- Removed the re-entry capsule entirely
-- Rusty appears suddenly, standing in the middle of the field
-- No physical craft for governments to seize and study
-- Focus on Rusty's psychological state and the message delivery
-- Maintains mystery about how Gray teleportation works
-- Australian setting (Derby) instead of American
-- Government response realistic but can't suppress the already-broadcast message
-- Sets up Vaughn Galloway's SPEAR without making it feel rushed
+1. **No Spacecraft** - Follows Episode 0 canon where Rusty appears mysteriously in a field (no pod, no capsule)
+2. **FTL Detection Science Added** - Michael Crichton-style real physics education (tachyons, relativistic dimming)
+3. **Vaughn via Video Call** - More realistic pacing; they don't meet in person yet
+4. **Family Reunion Moved to Chapter 2** - Sarah and Emily arrive tomorrow, not same day
+5. **Single Location, Single Day** - Entire chapter happens in Derby within ~8 hours
+
+**What This Accomplishes:**
+- Maintains mystery (how did Grays teleport him?)
+- Avoids spacecraft logistics problems
+- Teaches real science while advancing plot
+- Better pacing (not cramming too much into one chapter)
+- Sets up SPEAR foundation without rushing
+- Ends on contemplative note (Rusty alone, first day back)
+
+**Next Chapter Preview:**
+Chapter 2 will cover Rusty's debriefing, Sarah/Emily reunion, and the world's initial reactions to his warning.
