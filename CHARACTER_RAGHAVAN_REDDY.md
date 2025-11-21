@@ -74,6 +74,97 @@
 
 ---
 
+## MONTHS IN THE MOUNTAINS (The Isolation Period) ⭐ NEW
+
+### HE DOESN'T GO BACK:
+After the armor manifests, Raghavan does NOT return to civilization.
+- Can't face the world
+- Can't face his military colleagues
+- Can't face questions about what happened
+- Can't face life without Nitya, Rohan, Ria
+
+### THE MOUNTAIN ISOLATION:
+**Duration:** 6+ months alone in the Himalayas
+
+**What He's Doing:**
+- Living in caves, abandoned temples, high mountain terrain
+- Learning to understand the golden armor
+- Bonding with it - it's keeping him alive
+- The armor feeds him energy, protects him from cold
+- He's NOT training to fight - he's grieving
+- Long periods of sitting in silence
+- Sometimes flying at night when no one can see
+- Processing impossible grief
+
+**His Mental State:**
+- Broken, damaged, NOT ready to lead anything
+- Talking to Nitya as if she's still there
+- Dreams of the crash every night
+- The armor seems to understand his pain
+- Slowly, very slowly, starting to heal
+
+### BECOMES A LEGEND:
+**Local Stories Spread:**
+- Mountain villagers start seeing "the golden man"
+- Some think he's a god - Garuda himself descended
+- Others think he's a ghost, a spirit of the mountains
+- Children claim to have seen golden wings at dawn
+- Pilgrims report being saved by "something golden" during storms
+- Stories spread from village to village
+
+**Government Hears Rumors:**
+- Intelligence services pick up the stories
+- "There's something in the mountains near the crash site"
+- They suspect it's connected to missing Colonel Reddy
+- But they can't find him - he doesn't want to be found
+
+### THE KEDARNATH RESCUE (The Turning Point):
+**What Happens:**
+- Flash flood disaster at Kedarnath pilgrimage site
+- Thousands trapped, dozens drowning
+- Raghavan hears the screams from miles away
+- **He comes down from the mountains**
+- First public appearance since the crash
+
+**The Impossible Choice:**
+- He can fly, he has super strength
+- But he can only carry 4-5 people at a time
+- Dozens are drowning simultaneously
+- WHO DOES HE SAVE?
+- Grabs elderly woman, two children, young mother
+- Old man reaches for him, drowns while Raghavan flies others to safety
+- Saves 12 total
+- **40+ die while he watches, unable to save them all**
+
+**The Aftermath:**
+- Kedarnath is filmed, broadcast globally
+- The "Golden Angel of Kedarnath" is everywhere
+- India knows about him now
+- Government can no longer ignore him
+- But Raghavan disappears back into the mountains
+
+### RECRUITMENT (Finally):
+**Government Approach:**
+- Randhawa and E24 team track him down
+- Find him in a remote mountain cave
+- He's not interested in their offer
+- "I couldn't save my family. I couldn't save everyone at Kedarnath. Why would you want me?"
+
+**The Convincing:**
+- They don't need a perfect hero
+- They need someone who understands loss
+- Someone who will fight to prevent others from experiencing what he did
+- "You couldn't save them. But you can save millions."
+- Slowly, reluctantly, he agrees
+
+**KEY POINT:** Raghavan was NOT part of founding E24
+- Establishment 24 already exists (started by Randhawa and others)
+- He JOINS later, after Kedarnath
+- Eventually becomes leader, but starts as a reluctant recruit
+- His authority comes from what he's survived, not from founding the organization
+
+---
+
 ## POWERS: GOLDEN ARMOR & GARUDA FORM
 
 ### THE ARMOR:
