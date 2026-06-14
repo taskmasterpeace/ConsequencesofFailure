@@ -135,10 +135,10 @@ Every government scrambles to identify their Living Super Weapons:
 **[CANON] - Rage Against Corruption**
 
 **Abduction & Return (Year 0-1):**
-- Returns from 83-day abduction
-- Discovers cousin Shanice murdered by corrupt police
-- Turns in badge to LAPD
-- Begins systematically hunting those responsible
+- Returns from 83-day Grey abduction able to manipulate gravity
+- His sister, LAPD Det. Rebecca Carranza, was murdered (car bomb) to silence her investigation into the Shooter's Club
+- Turns in his badge to the LAPD
+- Begins systematically hunting those responsible, precinct by precinct
 
 **Kill Chain (Year 1-2):**
 - Kills Sergeant Hayes
@@ -148,8 +148,8 @@ Every government scrambles to identify their Living Super Weapons:
 - Becomes wanted: murder charges or justice?
 
 **Powers:**
-- Super speed/movement (Stampede)
-- Unknown full capabilities
+- Gravitational field manipulation (Stampede)
+- Crushes, pins, throws, and shields by warping local gravity
 
 **Status:** Fugitive, wanted by law enforcement
 
@@ -244,7 +244,7 @@ Every government scrambles to identify their Living Super Weapons:
 - Nitya Reddy (Raghavan's wife) - bus crash
 - Rohan Reddy (Raghavan's son) - bus crash
 - Ria Reddy (Raghavan's daughter) - bus crash
-- Shanice Williams (Marcus's cousin) - murdered by corrupt police
+- Rebecca Carranza (John Rivers's sister, LAPD detective) - murdered by the Shooter's Club
 - Yael's brother - Damascus Gate bombing
 - 23 would-be deaths prevented by Tariq
 
@@ -408,7 +408,7 @@ Every government scrambles to identify their Living Super Weapons:
 - Will later (Year 4-5) reverse-engineer Iron Eater tech into RoboForge
 
 ### Deaths This Year
-- Shanice Williams (continues from Year 1) - murdered by corrupt police
+- Rebecca Carranza (continues from Year 1) - murdered by the Shooter's Club
 - Various cartel warfare casualties
 - Some early LSW casualties from conflicts
 
@@ -634,17 +634,15 @@ Every government scrambles to identify their Living Super Weapons:
 **[CANON] - First Major LSW Death**
 
 **The Context:**
-- Marcus "Stampede" Williams has been taking down police corruption
-- Also dealing with LSW trafficking network
-- Kaiser trying to stop massacre/corrupt police operation
-- Kaiser intervenes to prevent violence
-- Seven-minute fight between Kaiser and Marcus
-- **Kaiser is killed**
-- Takes place in Lagos, Nigeria
+- John Rivers "Stampede"—a fugitive ex-LAPD officer—has been tearing down the corrupt Shooter's Club and police corruption across the U.S.
+- Kaiser publicly defends him and offers sanctuary, mocking the American response
+- **Stampede never reaches Africa**—he remains a domestic fugitive (LAPD → NYPD)
+- American/Western intelligence orders Kaiser's assassination
+- **Kaiser is killed in Lagos, Nigeria**
 
 **Why He Dies:**
 - Kaiser has been taunting America
-- About Marcus "one of the first real supervillains" attacking police
+- About Stampede, "one of the first real supervillains," attacking police
 - Western media latches on
 - Kaiser's Pan-African pride makes him mock US response
 - American/Western intelligence orders his assassination
@@ -762,7 +760,7 @@ Every government scrambles to identify their Living Super Weapons:
 - Considering options against rules/treaties
 
 #### HUNTED INDIVIDUALS
-- **Marcus "Stampede" Williams** - SPEAR, governments, LSW bounty hunters pursue globally
+- **John Rivers "Stampede"** - SPEAR, governments, LSW bounty hunters pursue globally
 - **Kali Mwangi** - Kenyan government and SPEAR priority target
 - **Multiple underground LSW networks** - Going into hiding
 
@@ -809,15 +807,15 @@ Every government scrambles to identify their Living Super Weapons:
 - Regarded as saint or prophet
 - Offering hope in apocalyptic times
 
-#### MARCUS WILLIAMS' DISCOVERY
-**[CANON] - Truth About Shanice**
+#### JOHN RIVERS' DISCOVERY
+**[CANON] - The Truth About Rebecca**
 
 **Revelation:**
-- Shanice's murder wasn't random police action
-- She was investigating police corruption
-- Corruption tied to LSW exploitation/trafficking network
-- Shanice died to silence her investigation
-- Marcus finally understands the full scope
+- Rebecca Carranza's murder wasn't a random car bombing
+- She was investigating the Shooter's Club's gun-trafficking ring (run out of the LAPD Firearm Training & Evidence Facility)
+- Police Chief Doug Allen was personally compromised and protecting them
+- Rebecca died to silence her investigation
+- John Rivers finally understands the full scope
 
 #### THE DEEP INVASION (Southeast Asia/Oceania)
 **[CANON] - Maritime Threat**
@@ -1010,7 +1008,7 @@ Every government scrambles to identify their Living Super Weapons:
 2. **Raghavan's journey:** Includes months of isolation and Kedarnath turning point, not immediate recruitment
 3. **Iron Eater arrival:** Year 4 (early), not Year 8
 4. **Virus origin:** Muo Sphere + Iron Eater interaction in China, Liu Xiao's responsibility
-5. **Kaiser's death:** Year 5, Lagos, killed by Marcus Williams
+5. **Kaiser's death:** Year 5, Lagos, assassinated by U.S./Western intelligence for defending Stampede (John Rivers never reaches Africa)
 6. **Sapphire motivation:** Emily's death catalyzes his descent, separate from business betrayal
 
 ### Missing Authoritative Sources

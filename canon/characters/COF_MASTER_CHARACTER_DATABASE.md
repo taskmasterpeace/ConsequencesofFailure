@@ -5,84 +5,82 @@
 
 ---
 
-## CHARACTER PROFILE: MARCUS "STAMPEDE" WILLIAMS
+## CHARACTER PROFILE: JOHN RIVERS "STAMPEDE"
 
 **ID:** stampede_001
-**Full Name:** Marcus "Marc" Williams
-**Aliases:** Stampede, The Cop on Rampage
-**Country:** United States
+**Full Name:** John Rivers
+**Aliases:** "The Stampede" (media); styles himself "Justice"
+**Country:** United States (Los Angeles)
 **Age:** 29
 **Gender:** M
 **Ethnicity:** African American
 
 ### CLASSIFICATION:
-**Power Status:** Enhanced
+**Power Status:** LSW (Gray abductee)
 **Threat Level:** 4
-**Organization:** Rogue/Independent
-**Role:** Former Police Officer / Vigilante Supervillain
+**Organization:** Rogue / Independent
+**Role:** Former LAPD officer turned anti-corruption vigilante
 
 ### POWER DETAILS:
-**Primary Ability:** Kinetic Enhancement and Dermal Density
-**Origin Type:** Grey Enhancement (Genetic/Cellular Modification)
+**Primary Ability:** Gravitational Field Manipulation — crushes, pins, throws, and shields by warping local gravity
+**Origin Type:** Grey Abduction (returned able to bend gravitational fields)
 **Limitations:**
-- Not invulnerable—high-caliber weapons, explosives still effective
-- Speed generates massive friction heat—cannot run at full speed indefinitely
-- Enhanced metabolism requires 6,000+ calories daily
-- Exhaustion hits harder—crashes completely when depleted
+- Proximity / line-of-sight bound; precision drops at range
+- Sustained heavy manipulation is exhausting and disorienting
+- No enhanced durability—explosives, ambushes, and standoff weapons still kill him
+- Wins through control and insider knowledge, not toughness
 
 **Negatives/Costs:**
-- Body temperature runs 4 degrees higher than normal
-- Constant hunger and metabolic stress
-- Sleep requirements doubled (needs 12+ hours to fully recover)
-- Emotional regulation damaged—rage responses amplified
+- Migraines and nosebleeds after heavy use
+- A former cop now hunting cops—utterly alone, no allies
+- Grief and a rising body count fray his restraint
 
 **Scaling:**
-- Superhuman speed (sustained running up to 95 mph)
-- Enhanced strength (15-ton lift capacity)
-- Hardened skin (resistant to small arms fire, blades)
-- Enhanced reflexes and combat processing
-- Year 1 → Year 8: Increasing rage, decreasing control, mounting kill count
+- Year 1: Pins and disarms a room of officers
+- Year 4: Drops a precinct's worth of cops in minutes; can collapse structures
+- Knows police tactics, response patterns, and facilities from the inside
+- Year 1 → Year 8: Rising kill count, falling restraint—LAPD first, then NYPD
 
 ### PERSONALITY:
-**Core Traits:** Vengeful, determined, morally conflicted, protective of innocents, rage-driven
-**Quirks:** Leaves notes on victims reading "I DESERVE BETTER"
-**Fears:** Becoming the monster he once hunted, losing all humanity
-**Vices:** Vengeance addiction, inability to forgive, violence as only outlet
-**Strengths:** Unwavering commitment to justice, surgical precision in targeting corruption
-**Hidden Depths:** Still mourns his cousin daily, questions if killing makes him no better than murderers
+**Core Traits:** Cold, methodical, fearless, insider-savvy, righteous
+**Quirks:** Frames the campaign as a verdict—calls himself "Justice" and puts targets on notice
+**Fears:** That he's become exactly the kind of force he once policed
+**Vices:** No off-switch once a name is on the list; cannot forgive
+**Strengths:** Knows police tactics and facilities from the inside; surgical target selection
+**Hidden Depths:** Held the blue wall himself once—looked away—until it was his own sister
 
 ### RELATIONSHIPS:
-**Allies:** None (operates alone)
-**Enemies:** Corrupt police nationwide, FBI, SPEAR, entire law enforcement apparatus
-**Complicated:** Kaiser Eziobi (tried to recruit him, Marcus killed him)
-**Family:** Shanice Williams (deceased cousin, catalyst for transformation)
+**Allies:** None (operates alone); grudgingly understood by Det. Franz Escobar, sent to stop him
+**Enemies:** The Shooter's Club, the LAPD, FBI, SPEAR, the entire law-enforcement apparatus
+**Complicated:** Kaiser Eziobi (publicly defended/tried to recruit him; the U.S. assassinated Kaiser for it—Rivers never reached Africa)
+**Family:** Detective Rebecca Carranza (sister; a different surname hid the relationship; murdered to silence her)
 
 ### STORY ARC:
-**Year 1-2:** Shanice's murder by corrupt cops Headly and Reynolds. Marcus attempts to work within system. Abduction by Greys (83 days). Return with powers. First kills—Headly, Reynolds, and others in cover-up chain. Escalation as media dubs him "Stampede."
+**Year 1-2:** His sister, LAPD Detective Rebecca Carranza, is murdered (car bomb) to bury her investigation into the **Shooter's Club**—a corrupt LAPD anti-gang unit trafficking firearms out of the Police Firearm Training & Evidence Facility, shielded by Chief Doug Allen. John Rivers, himself an LAPD officer, is abducted by the Greys and returns able to manipulate gravity. He turns in his badge and begins dismantling the cover-up chain. The media dubs him "Stampede."
 
-**Year 3-5:** Virus outbreak—Marcus protects vulnerable communities from corrupt cops exploiting crisis. Kaiser Eziobi's recruitment attempts. Philosophical debates about justice vs. revenge. Lagos incident—Marcus tries to stop massacre, Kaiser intervenes, fight results in Kaiser's death. Marcus becomes international fugitive, symbol of LSW danger to U.S. government.
+**Year 3-5:** Rivers escalates from individual officers to whole precincts, declaring himself "Justice" and announcing the NYPD is next. Retired detective Franz Escobar is brought in to stop him—and starts to sympathize. The city splits: terrorist or freedom fighter. Kaiser Eziobi publicly defends him and tries to recruit him; the U.S. responds by assassinating Kaiser in Lagos. **Rivers never reaches Africa**—he remains a domestic fugitive (LAPD → NYPD) and carries guilt over the death of the man who stood up for him.
 
-**Year 6-8:** Hunted by SPEAR, national governments, LSW bounty hunters. Forced deep underground. Discovers larger conspiracy—targets weren't random bad cops but organized network trafficking LSW blood/tissue. Shanice's murder was to silence her investigation into police corruption tied to LSW exploitation. Final confrontation with network leaders. Alien invasion forces choice: die a villain or live as soldier. Tragic end or redemption TBD.
+**Year 6-8:** Hunted by SPEAR, governments, and LSW bounty hunters; driven underground. The trail leads up to Chief Doug Allen and the full reach of the Shooter's Club. The alien invasion forces a choice: die a villain or fight as a soldier. Tragic end or redemption TBD.
 
 ### KEY MOMENTS:
-1. Finding Shanice's body on pavement, holding her dying hand
-2. Killing Officer Headly—first use of powers for vengeance
-3. Kaiser Eziobi's death in Lagos during their confrontation
+1. Learning the car bomb that killed his sister Rebecca was ordered to silence her
+2. The first precinct—using gravity to bring down an entire station from the inside
+3. Declaring himself "Justice" and putting the NYPD on notice
 
 ### CAUSE-EFFECT CHAINS:
 **Actions That Affect Others:**
-- Kaiser's death removes hope for redemptive African LSW network
-- His rampage makes U.S. government paranoid about all LSW threats
-- Corrupt police networks go deeper underground to avoid him
+- His rampage makes the U.S. government paranoid about all LSW threats
+- Exposes—and drives deeper underground—the Shooter's Club network
+- Forces a national reckoning over police corruption
 
 **Affected By Others:**
-- Headly and Reynolds' murder of Shanice creates Stampede
-- Police department's cover-up confirms there's no justice through legal means
-- Kaiser's recruitment attempt plants seed of doubt about his methods
+- The Shooter's Club's murder of Rebecca Carranza creates Stampede
+- The department cover-up convinces him there is no justice through legal means
+- Kaiser's recruitment attempt plants doubt about his methods
 
 ### CROSS-REFERENCES:
-**Appears In:** BATCH_1_CRITICAL_PRESIDENTS.md (Character #1)
-**Connected Characters:** Kaiser Eziobi (killed), Shanice Williams (victim), corrupt police network
+**Appears In:** BATCH_1_CRITICAL_PRESIDENTS.md (Character #1) [holds the rejected Marcus Williams rewrite—flagged for correction]
+**Connected Characters:** Rebecca Carranza (sister/victim), the Shooter's Club / Chief Doug Allen, Brian Kegan, Franz Escobar, Kaiser Eziobi (recruiter)
 
 ---
 
@@ -1088,6 +1086,7 @@
 **Full Name:** Moses Apio
 **Aliases:** None
 **Country:** Uganda
+**Hometown:** Mbarara (relocates to Kampala for mechanic school)
 **Age:** 20
 **Gender:** M
 **Ethnicity:** Ugandan
@@ -1100,7 +1099,7 @@
 
 ### POWER DETAILS:
 **Primary Ability:** Atlas Protocol—Liquid Alien Weapon Control, Shapeshifting Protection
-**Origin Type:** Alien Artifact Bonding (Atlas Protocol chose Moses as worthy partner)
+**Origin Type:** Alien Artifact Bonding — pulled into a vortex at the edge of Lake Victoria, Moses returns days later with the Atlas Protocol bonded to his wrist (it chose him as a worthy partner)
 **Limitations:**
 - Requires active cooperation with Atlas Protocol sentience
 - Learning curve for weapon configurations
@@ -1130,10 +1129,10 @@
 **Allies:** Hand of Uganda teammates, Johnny Rain (fellow Ugandan), Atlas Protocol (symbiont partner)
 **Enemies:** Those who want to steal Atlas, forces threatening Uganda
 **Complicated:** President Mugisha (Moses represents alternative to corruption)
-**Family:** Working-class family in Uganda
+**Family:** Working-class family in Mbarara, Uganda
 
 ### STORY ARC:
-**Year 0-2:** Moses as mechanic in Kampala. Discovery of Atlas Protocol artifact. Bonding—artifact chooses Moses as worthy. Initial training, learning to work with alien intelligence. Joins Hand of Uganda formation.
+**Year 0-2:** Moses leaves Mbarara to train as a mechanic in Kampala. Pulled into the Lake Victoria vortex, he bonds with the Atlas Protocol—the artifact chooses Moses as worthy. Initial training, learning to work with alien intelligence. Joins Hand of Uganda formation.
 
 **Year 3-4:** Proving himself in combat. Atlas and Moses developing perfect synchronization. Becomes symbol of Uganda's potential. Johnny Rain's movement uses Moses as example of youth leadership.
 

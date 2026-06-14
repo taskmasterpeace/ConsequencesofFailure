@@ -17,7 +17,7 @@ Episode 1: "The Arrival"
    * Moses' family situation is revealed, including his desire to graduate and support them financially. 
    * He is shown to have a mentor at school, who becomes a supportive figure in his life.
 
-   * While out alone one day, Moses is pulled into a chaotic vortex and returns days later with the alien weapon, the Atlas Protocol, on his wrist. He is confused and unsure of what to do with the bracelet.
+   * While alone at the edge of Lake Victoria, Moses is pulled into a chaotic vortex and returns days later with the alien weapon, the Atlas Protocol, on his wrist. He is confused and unsure of what to do with the bracelet.
 
    * Moses begins to experiment with the Atlas Protocol's powers, discovering that it allows him to control an alien substance capable of grabbing, biting, and eating.
 ________________
@@ -69,7 +69,7 @@ Moses
 Name: Moses
 
 
-Background: Moses is a young man from Kampala, Uganda who is studying to be a mechanic at a driving and mechanic training school. He comes from a poor family, and his motivation is to graduate and support them financially. Moses has a mentor at school who supports and guides him, but he also struggles with the weight of his responsibilities and the pressure to succeed.
+Background: Moses is a young man from Mbarara, Uganda who travels to Kampala to study to be a mechanic at a driving and mechanic training school. He comes from a poor family, and his motivation is to graduate and support them financially. Moses has a mentor at school who supports and guides him, but he also struggles with the weight of his responsibilities and the pressure to succeed.
 
 
 Personality: Based on the Myers-Briggs personality type, Moses is likely an ISFJ (Introverted, Sensing, Feeling, Judging) type. This means that he is quiet and reserved, but also very sensitive and empathetic. He is detail-oriented and focused on practical, concrete information, but also values harmony and cooperation. This personality type has likely influenced Moses' decisions by making him more inclined to consider others' feelings and prioritize harmony, even at the expense of his own desires.
@@ -93,7 +93,7 @@ Scene 1:
 Moses is sitting in his mechanics class, listening to his teacher explain the principles of engine repair. He is focused and attentive, taking notes on his notepad.
 
 
-Narrator: Moses is a young man from Kampala, Uganda who is studying to be a mechanic at a driving and mechanic training school. He comes from a poor family, and his motivation is to graduate and support them financially. Moses has a mentor at school who supports and guides him, but he also struggles with the weight of his responsibilities and the pressure to succeed.
+Narrator: Moses is a young man from Mbarara, Uganda who travels to Kampala to study to be a mechanic at a driving and mechanic training school. He comes from a poor family, and his motivation is to graduate and support them financially. Moses has a mentor at school who supports and guides him, but he also struggles with the weight of his responsibilities and the pressure to succeed.
 
 
 Scene 2:
@@ -108,7 +108,7 @@ Narrator: Kampala is a bustling city, with a rich culture and history. But it is
 Scene 3:
 
 
-Moses is sitting in his bedroom, staring at the bracelet on his wrist. He remembers the day he found it, buried in the mud by the river. He had no idea what it was or what it could do, but he knew he had to keep it secret.
+Moses is sitting in his bedroom, staring at the bracelet on his wrist. He remembers the day it found him—the eerie hum at the edge of Lake Victoria, the vortex that pulled him under, and waking days later with the bracelet fused to his wrist. He had no idea what it was or what it could do, but he knew he had to keep it secret.
 
 
 

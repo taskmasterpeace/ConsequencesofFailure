@@ -38,7 +38,7 @@
 29. Liu Xiao (China) - LSW, Motivated by Sister's Death
 30. Liu Xiao's Sister (China) - LSW, Memory Manipulation (DECEASED)
 31. Major Arash Tehrani (Iran) - LSW Level 3, Heat Sovereign
-32. Marcus "Stampede" Williams (USA) - LSW Level 4, Kinetic Enhancement
+32. John Rivers "Stampede" (USA) - LSW Level 4, Gravitational Field Manipulation
 33. Maria Carmen Quispe (Peru) - LSW Level 3, Emotional Conductor
 34. Maria Santos Reyes (Philippines) - LSW, Bioluminescent Purification
 35. Mateus "O Gigante" Ferreira (Brazil) - LSW Level 3, Density Manipulator
@@ -123,7 +123,7 @@
 - Maria Carmen Quispe (LSW Level 3)
 
 **United States (9):**
-- Marcus "Stampede" Williams (LSW Level 4)
+- John Rivers "Stampede" (LSW Level 4)
 - Vaughn Galloway (Non-Powered, SPEAR)
 - Charles Sapphire (Non-Powered, Deck 52)
 - Ring Protagonist (LSW, Year 0)
@@ -214,7 +214,7 @@
 - Kaiser Eziobi (Nigeria) - Alien Symbiont [DECEASED]
 
 ### Level 4 (6)
-- Marcus "Stampede" Williams (USA) - Kinetic Enhancement
+- John Rivers "Stampede" (USA) - Gravitational Field Manipulation
 - Moses Apio (Uganda) - Atlas Protocol Symbiont
 - Omar Khaled (Egypt) - Living Archive
 - Verde (Brazil) - Botanical Symbiont
@@ -318,7 +318,7 @@
 - Cissy Oliva (Sage - controlled)
 
 ### Independent/Rogue LSW
-- Marcus "Stampede" Williams (USA) - Rogue vigilante
+- John Rivers "Stampede" (USA) - Rogue vigilante
 - Kali "The Albino" Mwangi (Kenya) - Independent vigilante
 - Kaiser Eziobi (Nigeria) - Pan-African network [DECEASED]
 - Verde (Brazil) - Eco-terrorist/Environmental Guardian
@@ -352,7 +352,7 @@
 - Zephaniah Mwangaza (Tanzania) - Time + Mind Control [DECEASED]
 
 ### Physical Enhancement
-- Marcus "Stampede" Williams (USA) - Speed, strength, dermal density
+- John Rivers "Stampede" (USA) - Gravitational field manipulation (ex-LAPD officer)
 - Jelani (Uganda) - Enhanced strength and speed
 - Mateus "O Gigante" Ferreira (Brazil) - Variable density control
 
@@ -418,7 +418,7 @@
 3. Liu Xiao's Sister (China) - Death motivates Liu Xiao's LSW journey
 
 ### Characters with Unknown/Conditional Fates
-- Marcus "Stampede" Williams - Hunted, fate TBD in Year 6-8
+- John Rivers "Stampede" - Hunted, fate TBD in Year 6-8
 - President Carlos Mendoza - May be forced from office
 - Multiple characters with open-ended Year 6-8 story arcs
 
@@ -484,13 +484,13 @@
 - Rachid Benali (coordinates unauthorized international intelligence network)
 
 ### Hunters and Hunted
-- Marcus "Stampede" Williams (hunted by SPEAR, FBI, governments worldwide)
+- John Rivers "Stampede" (hunted by SPEAR, FBI, governments worldwide)
 - Black Woman Jackal (hunts LSW using ring surveillance)
 - Carlos "El Tigre" Machado (hunts Venezuelan LSW dissidents)
 - Kali Mwangi (hunted by Kenyan government)
 
 ### Tragic Backstories
-- Marcus Williams - Cousin Shanice murdered by corrupt cops
+- John Rivers - Sister, Det. Rebecca Carranza, murdered by the corrupt Shooter's Club (LAPD)
 - Raghavan Reddy - Family killed in bus crash
 - Kali Mwangi - Grandmother murdered for land
 - Carlos Mendoza - Wife Elena killed in Sandra's attack
