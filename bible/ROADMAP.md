@@ -4,7 +4,7 @@
 
 ## The 4 moves
 1. **Lock the spine** — finish the core bible so nothing contradicts (premise ✅, ground-truth map ✅, rulings ✅; next: the faction/character sheets the door needs). *In progress.*
-2. **Pick the door** — ONE launch story. *Decision: TBD (creator) — see shortlist.*
+2. **Pick the door** — ✅ **DECIDED: Sapphire vs Galloway.** Cold open = the burned woman; flashback origin; **Emily = the clock.** First draft: `prose/deck-52/THE_DOOR_the-burned-woman.md`. Canon sheet: `bible/factions/DECK_52_SAPPHIRE_GALLOWAY.md`.
 3. **Build it for real** — sheet → script → produced piece (motion comic / audio drama), PLUS the **realness layer**: at least one in-world artifact that leaks into reality (a **Cheat Check** ad, the **I Deserve Better** site, a **Rhaige Sapphire** product).
 4. **Drop it** — release the door + the artifact; the deck is loaded behind it, and every future card compounds.
 
