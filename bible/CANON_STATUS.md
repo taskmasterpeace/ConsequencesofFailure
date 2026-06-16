@@ -60,12 +60,12 @@ A quick heuristic that holds up across the repo:
 
 **Loose threads:** the README's **Mexican clown-vigilante** has no source file — does that character still exist? *(Cissy spelling resolved: **CISSY**.)*
 
-**NEW — from your lore dump (just confirm my reads, no long answers needed):**
-- **Universe name:** is it **"Superhero Tactics"** (your bio's name) with *Consequences of Failure* as this series/season — or has the whole thing been renamed to COF?
-- **The threat:** confirming **Alliance of FOUR** is canon and the "**6 aliens / extract the oxygen / arrive season 7–8**" version is the dead early draft. ✅?
-- **Kaiser's hometown:** earlier canon said **Lagos**; the dump says **Okigwe** + he leaves Nigeria in exile after the S.A.R.C. police-brutality fallout. (Okigwe fits "Igbo" better — I lean Okigwe.)
-- **Sapphire's first name:** **Charles** everywhere except one FIST outline that says **Daniel** — confirming Charles.
-- **Karina = Karine Abrahamian** (Armenia, the NuroNuro nano-tech linguist)? Same person, or two?
+**✅ RESOLVED — from the lore dump (creator ruled):**
+- **Name:** series/universe = **Consequences of Failure**. **Superhero Tactics** = the eventual video-game version (same world).
+- **Threat:** **Alliance of Four** is canon; the 6-oxygen-aliens draft is dead.
+- **Kaiser's hometown:** **Okigwe** (not Lagos). → *propagate: fix "from Lagos" in `COF_TIMELINE_CORRECTED.md` + master DB.*
+- **Sapphire:** **Charles Sapphire** (voice transcribed "Choco" — flagged to double-check the spelling).
+- **Karine Abrahamian:** same person as "Karina" — **name is now KARINE** (Armenia, NuroNuro nano-tech). → *propagate: rename references; reconcile the two backstory versions (art-history student vs linguist).*
 
 ---
 

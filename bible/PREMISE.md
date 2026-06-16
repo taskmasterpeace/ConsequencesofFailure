@@ -1,6 +1,6 @@
 # OFFICIAL PREMISE
 
-> *Universe name needs a ruling: the creator's bio calls the universe **"Superhero Tactics."** The repo is **"Consequences of Failure (COF)."** Are these the same thing (one the universe, one this series/season), or did it get renamed? — see CANON_STATUS.*
+> **Name (ruled):** the series/universe is **Consequences of Failure (COF)**. **"Superhero Tactics"** is reserved for the eventual **video-game** adaptation — same world, game title.
 
 ## The creator's own logline (verbatim-ish, lightly cleaned)
 > The series follows the personal and professional lives of a large ensemble cast of characters all dealing with the changes brought about by the presence of living superweapons. Some use their abilities to help others; some become extensions of their government's military, law enforcement, or intelligence agencies. A uniquely **global** series following several people from around the world caught up in an escalating crisis — a single mother in India who is the world's first time traveler joins Establishment 24; a blind, elderly massage therapist becomes the most beloved man in China under the watchful eye of an envious president; **"I Deserve Better,"** a nonprofit dedicated to justice for families of unarmed Black men killed by police, becomes the first organization directed by an artificial intelligence and controlled by the public. Stories take place in America, India, China, Russia, Uganda, Japan, Nigeria, Tanzania, and many more countries.
