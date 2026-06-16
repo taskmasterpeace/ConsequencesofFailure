@@ -42,14 +42,13 @@ Top-down chain of command, modeled on a card deck:
 - **Deuces** — mid-level operatives making substantial contributions *within* a single suit.
 - **Jokers / "Wildcards"** — no suit; fully adaptable agents able to fill any role in critical situations. Product of the Wildcard Initiative (§ below). The unpredictable edge in Deck 52's strategy.
 
-### RoboForge
+### RoboForge `[ORIGIN RESOLVED — creator ruling]`
 
-Proprietary blend of **artificial intelligence + nanotechnology** that restructures matter at the molecular level: the AI designs functionality, the nanotech physically shapes it. Can turn almost any raw material (e.g. a pile of sand) into a functional robotic agent on demand — deployed in the field by **"Nanoforge Operatives."**
+Proprietary blend of **artificial intelligence + nanotechnology** that restructures matter at the molecular level: the AI designs functionality, the nanotech physically shapes it — turning raw material into a functional robotic agent on demand, deployed by **"Nanoforge Operatives."** Its history is **two-stage**, which resolves the old contradiction (it both predates the aliens *and* is later supercharged by alien tech):
 
-- **Capability:** instant, on-site manufacturing — recon drones, replacement comms gear, etc., molded from available material.
-- **Limitation:** bounded by the **complexity of what it mimics.** It can replicate the *exterior* form and function of complex machinery (e.g. a jet engine's shape/behavior) but not the full intricate internal workings — "form without the substance, at least for now."
-- **Strategic effect:** the tech that makes Charles a billionaire and underwrites Deck 52's "Adaptive Warfare" pillar.
-- **⚠ ORIGIN CONTRADICTION (see §8):** Two incompatible origin stories exist. (A) Deck 52's **Spades division invented** RoboForge, making Charles a billionaire (task brief / the in-world Maddow framing — tech that simply exists as Deck 52 IP). (B) `CANONICAL_CORRECTIONS.md` (creator-ruled, Nov 2025): RoboForge is **reverse-engineered from captured Iron Eater nanites in Year 4–5**, i.e. humanity's *adaptation of alien nanotech*, which would mean it does NOT predate the alien era. These cannot both be true as stated.
+- **RoboForge v1 — pre-alien, Charles's invention.** Charles glimpsed the *concept* in another technology and drove a Spades researcher (**Dr. Lena Cho** `[PROPOSED]`) to chase it down. It works — but it's **crippled by its power source:** the nanites can't sustain themselves, so the bots are slow, short-lived, and tethered. It becomes a **commercial/industrial marvel** (on-site fabrication, logistics, construction — *this* is what makes Charles a billionaire) yet remains **almost useless in battle.** Also bounded by complexity: it copies the *exterior* form/function of machinery, not the full internal workings ("form without the substance, for now").
+- **RoboForge v2 — the Iron Eater breakthrough (Year 4–5).** When the **Iron Eaters** arrive (alien nanites that *consume metal*), Deck 52 captures and fuses that tech into RoboForge. They're not redundant — they're **complementary:** RoboForge is the **architect** (it designs and shapes); the Iron-Eater nanites are the **furnace and the feedstock** (they devour metal for limitless power and raw material), solving v1's fatal power-source problem. Married, RoboForge finally becomes fast, self-sustaining, and battlefield-lethal. *(This reconciles the Maddow "Spades invented it" framing with `CANONICAL_CORRECTIONS.md`'s "reverse-engineered from Iron Eater nanites, Year 4–5.")*
+- **The irony / the cost `[PROPOSED]`:** Charles weaponizes the very plague that is eating the world's infrastructure. It makes Deck 52 terrifying — and dangerous: self-replicating metal-eaters running inside your own machines can go rogue, and the world may brand it *collaboration with the invaders.* Rich story fuel; it deepens Cho's transhumanist hunger and Vance's horror.
 
 ### The Wildcard Initiative
 
@@ -95,10 +94,10 @@ Proposed parent corporation with two subsidiaries:
 |---|---|
 | **Role** | Eccentric, ultra-wealthy businessman; founder of FIST → SPEAR; co-founder of Taskmaster. Non-powered, but commands a private-army's resources. |
 | **Appearance** | ~5'10", **silver hair with black streaks**, impeccably dressed (original `COF Notes.txt`). |
-| **Origin** | Son of a **famous Hollywood actor**; **chess prodigy.** Met Charles at **MIT.** Hometown disputed — see §8. |
+| **Origin** | Son of a **famous Hollywood actor**; **chess prodigy.** Met Charles at **MIT.** Hometown: a **small town near San Francisco** (creator: pick what serves the story). |
 | **Taskmaster** | Co-founded the app with Charles (anonymous crypto/Bitcoin transactions; hire anyone for anything; blockchain-verified trust/badge system; legal *and* illegal services). |
 | **The betrayal** | Unilaterally added **Cheat Check** (§5) without telling Charles — knowing Charles (religious) would refuse. This is the first fracture. |
-| **The Benchley stunt** | Paid the ransom to free POW **Todd Benchley** from Akrahahum — an **election-year move** that embarrassed President **Williamson** `[task brief]` / **Parker** (originals call the freed-then-elevated figure "Anthony Parker"); Galloway backed **Dr. Anton/Anthony Parker's** campaign. The bounty money is implied to have **funded Akrahahum**, indirectly enabling Emily's death. Ransom amount disputed — see §8. |
+| **The Benchley stunt** | Paid the ransom (**$1.5M** per originals `[confirm]`) to free POW **Todd Benchley** from Akrahahum — an **election-year move engineered to make President Williamson look bad.** It worked: the freed-hero spectacle helped **push Williamson out**, and **Dr. Anton Parker** (Galloway's pick) **won the nomination easily** and took office — the LSW-era president and an eventual ally. The ransom money is implied to have **funded Akrahahum**, indirectly enabling Emily's death. |
 | **FIST** | Founded **FIST (First Infantry Strike Team)**, a rival PMC, with **Benchley as commander.** Later evolves/rebrands into **SPEAR** (Special Personnel for Extraterrestrial Assault & Research) once the alien threat surfaces. |
 | **ET obsession** | Secretly obsessed with extraterrestrial life. Founded **WildSpeak Technologies**; his **TuneForge Inc.** acquired **Rusty Richards's likeness/voice rights** (closed after Rusty's two-year disappearance), which leads Rusty to confront him about the abduction/warning. The "burned woman" case (§6) ignites this obsession publicly. |
 | **Personality** | Flashy, secretive, manipulative, brilliant; plays long games with people's lives; loyal to a chosen few (Benchley above all). |
@@ -130,7 +129,7 @@ Proposed parent corporation with two subsidiaries:
 A **Taskmaster feature**, added unilaterally by **Vaughn** without Charles's knowledge. Users **hire actors to test a romantic partner's loyalty** — flirt with the target, record the interaction, and feed the client live coaching while it happens. Hugely lucrative, deeply cynical. Because Charles (religious, principled) would never have approved, Vaughn simply didn't ask — **the betrayal that permanently fractured the friendship** and spilled into a very public, very rich feud. (In-world fallout: e.g. Benchley's daughter's best friend was falsely flagged by Cheat Check's algorithm and nearly lost a scholarship — it has real victims.)
 
 ### Rhaige Sapphire
-Charles's **luxury fashion line**, named for **Emily Rhaige** and built to honor her and **uplift Black women.** A real, marketed clothing line in-world (the originals confirm Charles "markets a real clothing line"). Proposed as a subsidiary of **52 Holdings** alongside Deck 52. *(Name disputed: "Rhaige Sapphire" vs "Rhaige Elegance" — see §8.)*
+Charles's **luxury fashion line**, named for **Emily Rhaige** and built to honor her and **uplift Black women.** A real, marketed clothing line in-world (the originals confirm Charles "markets a real clothing line"). Proposed as a subsidiary of **52 Holdings** alongside Deck 52. **Name ruled: Rhaige Sapphire** (not "Rhaige Elegance").
 
 ---
 
@@ -177,9 +176,13 @@ The terrorist organization that is the connective tissue of the origin saga.
 
 ---
 
-## 9. NEEDS THE CREATOR'S RULING
+## 9. RULINGS & STILL-OPEN
 
-Genuine unresolved contradictions and open gaps (originals fight each other or simply don't say):
+**✅ Resolved this session (creator ruling — these supersede the matching items below):** RoboForge → **two-stage** (v1 pre-alien & limited; v2 = Iron-Eater breakthrough, Yr 4–5; see §1) · President → **Williamson** (ousted by the ransom stunt) then **Dr. Anton Parker** (the LSW-era president; eventual ally) · Vaughn's hometown → **small town near San Francisco** · Fashion line → **Rhaige Sapphire** · Emily → **fiancée** (never wife) · The drunken interview → **canon** (wording/venue still TBD).
+
+**⬜ Genuinely still open:** the **ransom amount** (originals **$1.5M** vs the draft's $4M — defaulted to $1.5M, confirm) · **52 Holdings** parent-company confirmation · **Charles's mixed white/Black ethnicity** (from originals) · the **Supreme Kings/Queens** tier definition · **Benchley's age** across the timeline.
+
+*(The detailed list below is retained for reference; resolved items above are now settled.)*
 
 1. **RoboForge origin — the big one.** Was RoboForge **invented by Deck 52's Spades** as proprietary IP (Maddow doc / task brief — implies it predates aliens and made Charles a billionaire on its own), OR is it **reverse-engineered from captured Iron Eater nanites in Year 4–5** (`CANONICAL_CORRECTIONS.md`, creator-ruled Nov 2025 — which would mean it can't predate the alien era)? These are incompatible. This also affects when Charles becomes a billionaire and whether "Spades invented RoboForge" is literally true.
 

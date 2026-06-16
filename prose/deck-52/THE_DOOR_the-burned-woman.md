@@ -1,7 +1,7 @@
 # THE DOOR — The Burned Woman
 
 *Consequences of Failure — the opening of the Sapphire / Galloway story.*
-*Draft. Canon picks honored: Charles Sapphire; Vaughn Galloway; Todd "Shogun" Benchley; terror group Akrahahum; ransom $4M; President Williamson; fashion line Rhaige Sapphire; Vaughn's hometown a small town near San Francisco. Inline-flagged inventions marked [PROPOSED].*
+*Draft. Canon picks honored: Charles Sapphire; Vaughn Galloway; Todd "Shogun" Benchley; terror group Akrahahum; ransom $1.5M; President Williamson; fashion line Rhaige Sapphire; Vaughn's hometown a small town near San Francisco. Inline-flagged inventions marked [PROPOSED].*
 
 ---
 
@@ -83,17 +83,17 @@ But the world was getting darker on its own, and it was about to hand Vaughn Gal
 
 His name was **Todd Benchley** then. The "Shogun" came later.
 
-He was an Army colonel, an Airborne Ranger, a hard square-jawed man with a life lined into his face, and he had been taken by **Akrahahum** — a terror network that had spent a decade turning kidnapping into a revenue model — and held in a basement in a country whose name the State Department would not say out loud. Akrahahum wanted four million dollars [PROPOSED ransom figure per locked canon] and a hostage video, and Washington had a policy of paying neither, and so Benchley sat tied to a chair under a banner he couldn't read, making the videos, waiting to be useful or dead.
+He was an Army colonel, an Airborne Ranger, a hard square-jawed man with a life lined into his face, and he had been taken by **Akrahahum** — a terror network that had spent a decade turning kidnapping into a revenue model — and held in a basement in a country whose name the State Department would not say out loud. Akrahahum wanted one and a half million dollars [PROPOSED ransom figure per locked canon] and a hostage video, and Washington had a policy of paying neither, and so Benchley sat tied to a chair under a banner he couldn't read, making the videos, waiting to be useful or dead.
 
 It was an election year. President **Williamson** had a poll problem and an empty space where a feel-good story should go.
 
 Vaughn Galloway solved both problems with a wire transfer.
 
-He paid the four million himself, privately, theatrically, and he made sure the cameras were there when Benchley walked off the plane, gaunt and blinking, into the arms of a country that had been told a billionaire did what its government wouldn't. It was magnificent television. It made Vaughn beloved. It humiliated Williamson, who never forgave him, which Vaughn enjoyed. And Todd Benchley, who owed this stranger his life and his second chance at his children, became Vaughn's man — first his shadow, then his commander, the iron spine of the private army Vaughn was already dreaming into being.
+He paid the one and a half million himself, privately, theatrically, and he made sure the cameras were there when Benchley walked off the plane, gaunt and blinking, into the arms of a country that had been told a billionaire did what its government wouldn't. It was magnificent television. It made Vaughn beloved. It humiliated Williamson, who never forgave him, which Vaughn enjoyed. And Todd Benchley, who owed this stranger his life and his second chance at his children, became Vaughn's man — first his shadow, then his commander, the iron spine of the private army Vaughn was already dreaming into being.
 
-The four million dollars went, of course, to Akrahahum.
+The one and a half million dollars went, of course, to Akrahahum.
 
-Nobody felt it at first. Money laundered through a hostage release does not announce where it lands. But four million dollars is reach. It is safehouses and a logistics cell and the patience to plan something larger than a basement and a chair. It bought Akrahahum a year, and a target, and a date.
+Nobody felt it at first. Money laundered through a hostage release does not announce where it lands. But one and a half million dollars is reach. It is safehouses and a logistics cell and the patience to plan something larger than a basement and a chair. It bought Akrahahum a year, and a target, and a date.
 
 Emily was leaving a fitting [PROPOSED — for what would have become the Rhaige Sapphire line]. She had finally booked the thing, the real thing, the role that was going to make the word *aspiring* a joke, and Charles had told her he was proud of her that morning and meant it more than he'd ever meant anything. She was on a sidewalk in the afternoon with a garment bag over her shoulder when Akrahahum's reach found the city Charles thought was safe, and she became a number in an event that the news would describe for one cycle as a tragedy and the next as a statistic.
 

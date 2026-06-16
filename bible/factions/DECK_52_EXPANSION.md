@@ -25,10 +25,16 @@ Charles Sapphire (**the Dealer**) is half-absent in grief and personally holds o
 4. **Succession & the Dealer's grief** — no heir; three blocs forming: **Vendetta** (Kané + Pierce), **Institution** (Vance + the 52 Holdings officers), and **the Future** (Cho, alone).
 5. **The FIST pressure** — Kané's hawks who want open war with Galloway vs the doves who fear it.
 
-## Companion files
-- `DECK_52_THE_COURT.md` — the four lieutenants + the two #2s, in depth.
-- `DECK_52_THE_WILDCARDS.md` — the three Jokers + "The Wildcard Question" (and what Charles privately believes he's damning himself to do).
-- `DECK_52_POLITICS.md` — the power map, the blocs, the money/mask, and 4–5 story seeds (lead seed: **"Heir to a Secret"** — Charles's collapse and a vendetta-exposing leak are the *same* crisis, and managing it is the audition to inherit).
+## Table of contents — the Deck 52 file set
+| File | What it is |
+|---|---|
+| `DECK_52_SAPPHIRE_GALLOWAY.md` | The **canon sheet** — the org, suits & ranks, RoboForge, the Wildcard Initiative, Charles, Vaughn, Benchley/FIST, the brands, the origin, Akrahahum, and the open rulings. |
+| `DECK_52_TIMELINE.md` | **When it all happens** — the Sapphire–Galloway chronology slotted into the 8-year countdown (when Deck 52 & FIST form; RoboForge v1→v2). |
+| `DECK_52_THE_COURT.md` | The **four lieutenants** (Vance, Pierce, Kané, Cho) + two #2s — rich characters and how they clash. |
+| `DECK_52_THE_WILDCARDS.md` | The **three Jokers** of the Wildcard Initiative + the ethics fight around them. |
+| `DECK_52_POLITICS.md` | The **power map, factions, succession war, and 4–5 story seeds** (lead: **"Heir to a Secret."**) |
+| `../../prose/deck-52/THE_DOOR_the-burned-woman.md` | The **opening story** — the launch "door" (cold open + flashback origin). |
+| `DECK_52_EXPANSION.md` | *(this file)* — the **overview** tying the cast + politics together. |
 
 ## Cleanups for the creator
 - **Two Idrises:** King of Clubs is **Idris Kané**; one Joker is also "Idris" (Tally). Rename one? (Suggest renaming the Joker.)
