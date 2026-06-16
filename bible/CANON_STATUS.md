@@ -58,7 +58,14 @@ A quick heuristic that holds up across the repo:
 
 **Kaiser:** are the big AI "enhanced/strategic abilities" docs canon, or do we trust only `Eziobi.txt` + `COF Notes` (Igbo Lagos pilot, age 56, memories of the dead, betrayed business partner) and treat the rest as `[PROPOSED]`?
 
-**Loose threads:** the README's **Mexican clown-vigilante** has no source file — does that character still exist? And **Cissy/Sissy** — which spelling?
+**Loose threads:** the README's **Mexican clown-vigilante** has no source file — does that character still exist? *(Cissy spelling resolved: **CISSY**.)*
+
+**NEW — from your lore dump (just confirm my reads, no long answers needed):**
+- **Universe name:** is it **"Superhero Tactics"** (your bio's name) with *Consequences of Failure* as this series/season — or has the whole thing been renamed to COF?
+- **The threat:** confirming **Alliance of FOUR** is canon and the "**6 aliens / extract the oxygen / arrive season 7–8**" version is the dead early draft. ✅?
+- **Kaiser's hometown:** earlier canon said **Lagos**; the dump says **Okigwe** + he leaves Nigeria in exile after the S.A.R.C. police-brutality fallout. (Okigwe fits "Igbo" better — I lean Okigwe.)
+- **Sapphire's first name:** **Charles** everywhere except one FIST outline that says **Daniel** — confirming Charles.
+- **Karina = Karine Abrahamian** (Armenia, the NuroNuro nano-tech linguist)? Same person, or two?
 
 ---
 
