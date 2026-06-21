@@ -11,14 +11,16 @@ The grounded, **no-powers** floor of the COF world: a prestige police-corruption
 - **The buyers:** **Rafa Morales** → the **Cuatro Dedos** cartel → **Diego Rivera ("El Maestro").** The cartel "appetite coming downstairs" is the engine of collapse.
 
 ## The through-line (creator)
-**Condemned (before)** → *years later* → **"I Deserve Better"** (Officer **Oliver**, a Shooter's Club cop, is involved in Tyrell Lober's killing and **goes to court years later**) → by then the **"Shooter's Club" has become a social-political movement.** *(Creator: "we'll get into it later.")* So the name evolves: corrupt unit → courtroom reckoning → movement.
+**Condemned (PRE-WAR)** — the Shooter's Club as a corrupt LAPD unit, set *before* the powers/alien era. → *years later, during the **rise of the Sages** (the "knowledge people," ~Year 2)* → **"I Deserve Better"** (Tyrell Lober; cops **Oliver** & **Headly**, who are **NOT** Shooter's Club). By that era the name **"Shooter's Club" has evolved into a social-political movement.** **No recurring/throughline cop links the two** (creator ruling) — the link is the *name/legacy* evolving: corrupt unit → (time) → movement. *(Creator: "we'll get into it later.")*
 
 ## 🔒 COP NAMES — LOCKED
 - **Officer Oliver** — the corrupt cop in *I Deserve Better* who runs the cover-up of Tyrell Lober's killing (plants the gun, coaches the story). Canonical spelling: **Oliver.** **NOT a Shooter's Club member; NOT a recurring/throughline character** (creator correction).
 - **Officer Headly** — the cop who fires the shot that kills Tyrell. Canonical spelling: **Headly** (retire the "Headley/Headler" variants).
 
-## `[PROPOSED]` — the *Condemned* → later throughline (SEPARATE from Oliver)
-The creator likes the *idea* of a **Shooter's Club figure from *Condemned* reappearing years later** — but it is **NOT Oliver**, and the **timing is unverified.** Open questions: (a) WHO is the throughline cop — e.g. the probie **Foley**, who isn't implicated when the unit falls? (b) WHEN does it land on the COF clock? Resolve the chronology before locking. *(The earlier "a cop returns / Oliver goes to court" note conflated two different cops.)*
+## Timeline (ruled)
+- **Condemned = PRE-WAR** (before the LSWs/aliens) — the grounded Shooter's Club era.
+- **I Deserve Better = during the rise of the Sages** ("the knowledge people," ~Year 2), when its **TASK AI** is running.
+- **No throughline cop** between them. The Shooter's Club connects the two only as an **evolving name/legacy** — corrupt unit → social-political movement.
 
 ## Cross-universe connections
 - **Cuatro Dedos cartel** ties Condemned ↔ **Jance Bloomberg** ("Hermit of Big Pharma," who takes over the *Cuatros Dedos* cartel). Same org → connect them.
