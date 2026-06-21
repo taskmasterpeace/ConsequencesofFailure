@@ -14,9 +14,11 @@ The grounded, **no-powers** floor of the COF world: a prestige police-corruption
 **Condemned (before)** → *years later* → **"I Deserve Better"** (Officer **Oliver**, a Shooter's Club cop, is involved in Tyrell Lober's killing and **goes to court years later**) → by then the **"Shooter's Club" has become a social-political movement.** *(Creator: "we'll get into it later.")* So the name evolves: corrupt unit → courtroom reckoning → movement.
 
 ## 🔒 COP NAMES — LOCKED
-- **Officer Oliver** — the recurring corrupt **Shooter's Club** cop. In *I Deserve Better* he runs the cover-up of Tyrell Lober's killing (plants the gun, coaches the story) and **goes to court years later.** Canonical spelling: **Oliver.**
-- **Officer Headly** — the cop who fires the shot that kills Tyrell. Canonical spelling: **Headly** (retire the "Headley/Headler" variants in the *I Deserve Better* draft).
-- `[PROPOSED]` throughline: Oliver could be the grown-up of **Foley**, the wide-eyed probie in *Condemned* who idolized the unit — the rookie who wanted to "ride with the Shooter's Club" becomes the corrupt veteran decades later. (Approve, or make Oliver a separate member.)
+- **Officer Oliver** — the corrupt cop in *I Deserve Better* who runs the cover-up of Tyrell Lober's killing (plants the gun, coaches the story). Canonical spelling: **Oliver.** **NOT a Shooter's Club member; NOT a recurring/throughline character** (creator correction).
+- **Officer Headly** — the cop who fires the shot that kills Tyrell. Canonical spelling: **Headly** (retire the "Headley/Headler" variants).
+
+## `[PROPOSED]` — the *Condemned* → later throughline (SEPARATE from Oliver)
+The creator likes the *idea* of a **Shooter's Club figure from *Condemned* reappearing years later** — but it is **NOT Oliver**, and the **timing is unverified.** Open questions: (a) WHO is the throughline cop — e.g. the probie **Foley**, who isn't implicated when the unit falls? (b) WHEN does it land on the COF clock? Resolve the chronology before locking. *(The earlier "a cop returns / Oliver goes to court" note conflated two different cops.)*
 
 ## Cross-universe connections
 - **Cuatro Dedos cartel** ties Condemned ↔ **Jance Bloomberg** ("Hermit of Big Pharma," who takes over the *Cuatros Dedos* cartel). Same org → connect them.
