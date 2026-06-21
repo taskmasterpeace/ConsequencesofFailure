@@ -53,7 +53,7 @@ A quick heuristic that holds up across the repo:
 - The U.S. president of the era: **Williamson** vs **Anthony** vs **Parker**? (Parker shows up in Senator Waxly's material too.)
 - Charles's fashion line: **Rhaige Sapphire** vs **Rhaige Elegance**?
 - Parent company: is **"52 Holdings"** canon (Deck 52 + Rhaige as subsidiaries)?
-- Terror group spelling: **Akrahahum / Akrahuhum / Akarhahum** — pick one.
+- Terror group spelling: **Akrahuhum** — ✅ RESOLVED (creator delegated; matches the originals; repo standardized).
 - Where they met: confirmed **MIT**.
 
 **Kaiser:** are the big AI "enhanced/strategic abilities" docs canon, or do we trust only `Eziobi.txt` + `COF Notes` (Igbo Lagos pilot, age 56, memories of the dead, betrayed business partner) and treat the rest as `[PROPOSED]`?

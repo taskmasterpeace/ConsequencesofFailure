@@ -25,7 +25,7 @@ Charles Sapphire is the Dealer, the supreme authority, the man whose signature s
 The canon establishes this in his own voice: in *The Door*, when Pierce loses the Navy contract, Charles does not rage or scheme. He says *"He gave them certainty,"* thanks her for her honesty, hangs up, and looks at a photograph. **That stillness is the political problem.** A founder who no longer fights for contracts has, functionally, delegated the war — and the people he delegated it to do not agree on what the war is.
 
 Charles still personally holds three things no one else can touch:
-1. **The vendetta itself** — the targeting of Akrahahum and those who profited from Emily's death. This is his, and he guards it.
+1. **The vendetta itself** — the targeting of Akrahuhum and those who profited from Emily's death. This is his, and he guards it.
 2. **The veto on the Wildcard Initiative's expansion** — Cho can run it; she cannot grow it past the line Charles drew.
 3. **The money's ultimate direction** — he can still, with a sentence, redirect 52 Holdings. He just rarely does.
 
@@ -35,7 +35,7 @@ Everything else has drifted to the people below him.
 
 **Naomi Pierce (Queen of Diamonds) — the de facto chief of staff.** `[PROPOSED role-elevation]` Because Diamonds owns intel, strategy, and "what's actually happening," Pierce has become the person who knows where every body is buried — including Charles's. She is the closest thing Deck 52 has to a functioning executive: she sets the strategic agenda, she briefs Charles, and crucially **she decides what reaches him.** That gatekeeping is real power. She is radicalized — the brief and *The Door* establish she lost the "burned woman" Navy contract to FIST's lie and took it personally — and she knows much of Charles's secret. She is loyal to *Charles*, not necessarily to the clean-PMC fiction. She is the swing vote in almost every fight below.
 
-**Idris Kané (King of Clubs) — the man who controls the guns.** The hawk. Vendetta-driven, wants open war with FIST/Galloway. Clubs is the field combat force, which means **Kané commands the only people who can actually kill anyone.** In a normal company that's just an operational role; in a company built on a secret vendetta, the man who controls violence and *believes in the vendetta* is structurally dangerous to anyone who'd water it down. He is loyal to the *mission as he understands it* — end Akrahahum, then end Galloway — more than to the corporate shell.
+**Idris Kané (King of Clubs) — the man who controls the guns.** The hawk. Vendetta-driven, wants open war with FIST/Galloway. Clubs is the field combat force, which means **Kané commands the only people who can actually kill anyone.** In a normal company that's just an operational role; in a company built on a secret vendetta, the man who controls violence and *believes in the vendetta* is structurally dangerous to anyone who'd water it down. He is loyal to the *mission as he understands it* — end Akrahuhum, then end Galloway — more than to the corporate shell.
 
 **Dr. Lena Cho (Queen of Spades) — the woman building the company's replacement.** Spades owns tech, AI, RoboForge, and (with Hearts' medical overlap) the Wildcard Initiative's hardware. Cho is a transhumanist who wants RoboForge and Wildcard pushed *further* than Charles allows. Her power is unique and quiet: **every other suit increasingly runs on her infrastructure.** Comms, deployment logistics, drone manufacture, the data layer that feeds Diamonds, the augmentation that keeps Hearts' best operatives alive — it all touches Spades. She doesn't need a coup of force. She needs only for everyone to keep depending on her. (See seed §4.3.)
 
@@ -61,12 +61,12 @@ This is the **master fault line**; every other one runs along it.
 
 **The circle of knowledge** `[PROPOSED tiering]`:
 - **Full knowledge** — Charles (it's his), Pierce (she traced enough; *The Door* shows Charles trusts her with the truth of who he is).
-- **Partial / operational knowledge** — Kané knows there's a vendetta and embraces it, but may not know its full reach (every profiteer, not just Akrahahum). He'd escalate if he knew how far Charles's list goes.
+- **Partial / operational knowledge** — Kané knows there's a vendetta and embraces it, but may not know its full reach (every profiteer, not just Akrahuhum). He'd escalate if he knew how far Charles's list goes.
 - **Suspects but doesn't *want* to know** — Vance. She has watched the company pick targets that don't fit the contracts. She has decided not to ask the question whose answer she couldn't live with. That willful blindness is itself a political position.
 - **Doesn't care about the vendetta, only the capability** — Cho. The mission's morality is irrelevant to her; she'd serve a vendetta or a charity identically, as long as it funds the lab.
 - **No knowledge** — the rank-and-file operatives, most Jacks, the public-facing corporate staff, the clients. They believe they work for an elite anti-terror PMC. *They are right about what they do and wrong about why.*
 
-**The living dynamic:** the secret can't survive contact with growth. Every new contract, every new hire, every public win widens the circle of people who might notice that Deck 52 keeps "coincidentally" hitting Akrahahum-adjacent targets. The company's *success* is what threatens the secret. The leaders who know spend real energy manufacturing plausible commercial reasons for missions that are actually acts of revenge — and that manufacturing is itself a recurring source of friction, because it wastes resources and occasionally requires lying to operatives who then die for a cover story. (See seed §4.1.)
+**The living dynamic:** the secret can't survive contact with growth. Every new contract, every new hire, every public win widens the circle of people who might notice that Deck 52 keeps "coincidentally" hitting Akrahuhum-adjacent targets. The company's *success* is what threatens the secret. The leaders who know spend real energy manufacturing plausible commercial reasons for missions that are actually acts of revenge — and that manufacturing is itself a recurring source of friction, because it wastes resources and occasionally requires lying to operatives who then die for a cover story. (See seed §4.1.)
 
 ### 2.2 Machines vs. Men — Cho/Spades vs. Kané/Clubs & Vance/Hearts
 
@@ -97,7 +97,7 @@ Charles has **no heir, no spouse, no child** — Emily was the future he was goi
 This is the slowest, deepest fault line, and the others are partly proxies for it. Each leader is, consciously or not, positioning to inherit — and each would turn Deck 52 into a different thing:
 
 - **If Pierce inherits** → Deck 52 becomes a **true intelligence-and-vendetta house.** She'd keep the secret war but run it cold and surgical, fold the public PMC into a cover that finally serves the mission rather than fighting it. The most faithful to Charles's *intent*, the least faithful to his moral floor — she'd do the things he won't let himself do.
-- **If Kané inherits** → Deck 52 goes to **open war.** He'd drop the mask, point the whole machine at Galloway and Akrahahum, and dare the world to stop him. The most faithful to Charles's *rage*, catastrophic to the company's survival. Short, glorious, probably fatal.
+- **If Kané inherits** → Deck 52 goes to **open war.** He'd drop the mask, point the whole machine at Galloway and Akrahuhum, and dare the world to stop him. The most faithful to Charles's *rage*, catastrophic to the company's survival. Short, glorious, probably fatal.
 - **If Cho inherits** → Deck 52 stops being a vendetta or a PMC and becomes a **transhuman-tech enterprise** — RoboForge and Wildcard unbounded, the founding grief an irrelevant historical footnote. She'd honor Charles by erasing the reason he built it. The most transformative, the most chilling.
 - **If Vance inherits** → Deck 52 **disarms itself into legitimacy** — shuts the Wildcard Initiative, surfaces or ends the vendetta, becomes the clean company it pretends to be, or dissolves honorably. The most moral, and the death of everything Charles actually wanted. She'd save the people by killing the mission.
 
@@ -128,7 +128,7 @@ The burned-woman loss (canon, *The Door*) is the live wound here: FIST won by ly
 The clean-PMC story isn't just PR; it's the operating constraint that shapes every decision. To keep the mask on, Deck 52 must:
 
 - **Take contracts it doesn't want** to maintain the appearance of a normal business — including, occasionally, contracts that pull resources *away* from the vendetta. A real PMC can't only fight one enemy.
-- **Sometimes decline or sabotage missions that would expose the pattern** — passing on work that's too obviously Akrahahum-adjacent, lest someone connect the dots. (The vendetta hides best when it's not greedy.)
+- **Sometimes decline or sabotage missions that would expose the pattern** — passing on work that's too obviously Akrahuhum-adjacent, lest someone connect the dots. (The vendetta hides best when it's not greedy.)
 - **Lie to its own operatives,** who fight and die believing in cover stories. This is the rot Vance can smell and the thing that radicalizes Pierce: people are spending their lives on a fiction.
 - **Stay profitable enough that the mask is believable.** A vendetta that loses money looks like a vendetta. A vendetta that's also the most successful PMC on Earth looks like genius. So the company is under genuine pressure to *win* commercially — which empowers Cho (the profit engine) and the Institution Bloc, and frustrates the hawks who want every dollar pointed at the war.
 
@@ -142,7 +142,7 @@ The clean-PMC story isn't just PR; it's the operating constraint that shapes eve
 
 ### 4.1 THE CONTRACT THAT COLLIDES — "Two Masters" `[PROPOSED]`
 
-**Situation.** Deck 52 wins a lucrative, high-profile, *legitimate* contract — say, securing a multinational summit or a disaster-relief logistics corridor. It's a flagship job: cameras, clients, the clean-PMC story made flesh. Then Diamonds surfaces that the timing and location put a Deck 52 team within reach of a confirmed Akrahahum profiteer — a one-time-only window. Servicing the public contract honorably means *missing the shot.* Taking the shot means jeopardizing the contract, the cover, and the lives of operatives running the legitimate op.
+**Situation.** Deck 52 wins a lucrative, high-profile, *legitimate* contract — say, securing a multinational summit or a disaster-relief logistics corridor. It's a flagship job: cameras, clients, the clean-PMC story made flesh. Then Diamonds surfaces that the timing and location put a Deck 52 team within reach of a confirmed Akrahuhum profiteer — a one-time-only window. Servicing the public contract honorably means *missing the shot.* Taking the shot means jeopardizing the contract, the cover, and the lives of operatives running the legitimate op.
 
 **Sides.** Kané: take the shot — this is what we exist for. Pierce: torn — she wants the target dead but knows blowing this contract widens the circle of suspicion and burns an asset she spent two years placing. Vance: honor the contract — there are real people depending on the relief corridor, and we don't spend their safety on revenge. Cho: indifferent to the morality, but notes that a RoboForge-forged deniable asset could do the deed without risking humans — quietly making the case that her tech is the answer to the company's oldest dilemma.
 
@@ -152,9 +152,9 @@ The clean-PMC story isn't just PR; it's the operating constraint that shapes eve
 
 ### 4.2 THE WILDCARD WHO GOES OFF-BOOK — "The Made Man" `[PROPOSED]`
 
-**Situation.** A Wildcard — one of Cho's most successful augmentations — acts unilaterally in the field: pursues an Akrahahum lead off-mission, or refuses an order, or does something extraordinary and unsanctioned that *works* but exposes the company. The Wildcard isn't malfunctioning. They've concluded their makers aren't serious enough about the real war, and decided to fight it themselves. They are, by design, the most capable individual in the company and answerable to no suit.
+**Situation.** A Wildcard — one of Cho's most successful augmentations — acts unilaterally in the field: pursues an Akrahuhum lead off-mission, or refuses an order, or does something extraordinary and unsanctioned that *works* but exposes the company. The Wildcard isn't malfunctioning. They've concluded their makers aren't serious enough about the real war, and decided to fight it themselves. They are, by design, the most capable individual in the company and answerable to no suit.
 
-**Sides.** Cho: protect and study them — this is the program *working*, an operative who's transcended the chain of command. Vance: this is the program *failing* — a coerced subject, psychologically compromised, now uncontrollable, exactly what I warned about. Kané: secretly admires the Wildcard's instinct (they fought the war the way he wants to) but knows an off-book asset is a threat to operational discipline. Pierce: needs to contain the exposure before it reaches the public — and quietly wonders if the Wildcard's intel on the Akrahahum lead is *good.*
+**Sides.** Cho: protect and study them — this is the program *working*, an operative who's transcended the chain of command. Vance: this is the program *failing* — a coerced subject, psychologically compromised, now uncontrollable, exactly what I warned about. Kané: secretly admires the Wildcard's instinct (they fought the war the way he wants to) but knows an off-book asset is a threat to operational discipline. Pierce: needs to contain the exposure before it reaches the public — and quietly wonders if the Wildcard's intel on the Akrahuhum lead is *good.*
 
 **Stakes.** The future of the Wildcard Initiative; whether augmented operatives are weapons or people; an exposure event that could crack the secret; and Charles's veto line on the program, which this incident forces back onto the table.
 
@@ -164,7 +164,7 @@ The clean-PMC story isn't just PR; it's the operating constraint that shapes eve
 
 **Situation.** Cho proposes — or simply begins quietly executing — a RoboForge-and-AI initiative that would replace a large share of frontline human operatives with forged autonomous units and an AI deployment layer. She frames it as efficiency, safety, and profit (fewer dead operatives, higher margins, the clean-PMC story made *cleaner*). It is also, functionally, the hollowing-out of Clubs and the concentration of operational power in Spades. No guns are drawn. It's a budget reallocation and a procurement decision.
 
-**Sides.** Cho: this is the future and it saves lives — who would send humans when they don't have to? Kané: this is a coup — strip the company of its soldiers and the only thing left standing is the woman who owns the machines; and an army of forged units can't *want* the war, can't be trusted to finish Akrahahum. Vance: ambivalent — fewer human casualties is genuinely good, but she distrusts handing lethal authority to an AI and a woman who thinks people are upgradeable. Pierce: the swing — automation is strategically superior and she knows it, but it makes the company dependent on Cho, and a vendetta run by machines that don't understand *why* is a vendetta that will eventually misfire.
+**Sides.** Cho: this is the future and it saves lives — who would send humans when they don't have to? Kané: this is a coup — strip the company of its soldiers and the only thing left standing is the woman who owns the machines; and an army of forged units can't *want* the war, can't be trusted to finish Akrahuhum. Vance: ambivalent — fewer human casualties is genuinely good, but she distrusts handing lethal authority to an AI and a woman who thinks people are upgradeable. Pierce: the swing — automation is strategically superior and she knows it, but it makes the company dependent on Cho, and a vendetta run by machines that don't understand *why* is a vendetta that will eventually misfire.
 
 **Stakes.** Who holds the means of violence inside Deck 52; whether the company stays human enough to remember its purpose; RoboForge's canonical limit ("form without the substance") as a literal plot constraint — the forged units can *look* like an army but can't fully *be* one, and someone finds out the hard way.
 
@@ -182,11 +182,11 @@ The clean-PMC story isn't just PR; it's the operating constraint that shapes eve
 
 ### 4.5 THE LEAK — "Heir to a Secret" `[PROPOSED]`
 
-**Situation.** Charles's health, focus, or life is suddenly in question `[PROPOSED inciting event — illness, an attempt on his life, or simply a public collapse into grief]`, and at the same moment, a leak threatens to expose the vendetta — documents, a former operative talking, or a journalist (echoing the in-world *Maddow*-style framing in the canon source) who has connected the pattern of Deck 52's "coincidental" Akrahahum hits. The company faces two simultaneous crises: *who's in charge if Charles can't be,* and *the truth getting out.* They are the same crisis, because whoever manages the leak demonstrates fitness to inherit.
+**Situation.** Charles's health, focus, or life is suddenly in question `[PROPOSED inciting event — illness, an attempt on his life, or simply a public collapse into grief]`, and at the same moment, a leak threatens to expose the vendetta — documents, a former operative talking, or a journalist (echoing the in-world *Maddow*-style framing in the canon source) who has connected the pattern of Deck 52's "coincidental" Akrahuhum hits. The company faces two simultaneous crises: *who's in charge if Charles can't be,* and *the truth getting out.* They are the same crisis, because whoever manages the leak demonstrates fitness to inherit.
 
 **Sides.** Each leader's handling reveals their future for the company (see §2.4):
 - **Pierce** moves to contain and bury the leak surgically, positioning as the only one who can be trusted with the secret — auditioning to inherit the vendetta house.
-- **Kané** wants to use the leak as a pretext to go loud — if the secret's coming out anyway, point the army at Galloway and Akrahahum now, on our terms.
+- **Kané** wants to use the leak as a pretext to go loud — if the secret's coming out anyway, point the army at Galloway and Akrahuhum now, on our terms.
 - **Cho** is strangely calm: a vendetta exposed is a vendetta *ended,* clearing the way for the company to become what she's always wanted. She might not fight the leak very hard.
 - **Vance** considers whether the truth *should* come out — whether the moral cost of the lie now exceeds the cost of exposure, and whether the honorable thing is to let Deck 52 face what it is.
 

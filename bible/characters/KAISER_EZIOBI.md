@@ -24,5 +24,5 @@ Builds a Pan-African movement to remake the **African Union**, driven by the fiv
 - **Justus** (dead partner) — the anchor-grief.
 
 ## ⚠ Needs the creator's ruling
-1. **Akrahahum vs Akrahuhum.** Memory Vessel uses **"Akrahuhum"**; Deck 52 / Condemned use **"Akrahahum"** (and we'd ruled Akrahahum). Same terror group — **lock ONE spelling** across the whole universe.
+1. **Terror-group spelling — ✅ RESOLVED: `Akrahuhum`** (creator delegated the pick). Matches the originals (`Eziobi.txt`, `Benchley`, *Memory Vessel*); the whole repo was standardized to it.
 2. **Kaiser's death** is established elsewhere as a **U.S./Western assassination** (for defending Stampede). Memory Vessel ends triumphant at the UN with a foreign-powers threat already on the desk — consistent as the *setup* for that eventual assassination. Confirm the throughline.

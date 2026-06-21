@@ -1,7 +1,7 @@
 # CONSEQUENCES OF FAILURE
 ## Prequel · Teaser — "THE DEALER'S HAND"
 
-> *Draft. The cold-open teaser for the pre-powers (Sapphire–Galloway) prequel. Canon honored: $1.5M ransom era, Pres. Williamson, Akrahahum, Charles Sapphire, Naomi Pierce, Todd "Shogun" Benchley, Emily Rhaige; the burned-woman chemistry (deuterium oxide / off-world oxygen) from `Benchley Series.txt`. Invented specifics flagged `[PROPOSED]`. The AI "sting" at the end is the Dealer's-Edge concept — kept deliberately ambiguous; can be pulled if you'd rather hold that secret longer.*
+> *Draft. The cold-open teaser for the pre-powers (Sapphire–Galloway) prequel. Canon honored: $1.5M ransom era, Pres. Williamson, Akrahuhum, Charles Sapphire, Naomi Pierce, Todd "Shogun" Benchley, Emily Rhaige; the burned-woman chemistry (deuterium oxide / off-world oxygen) from `Benchley Series.txt`. Invented specifics flagged `[PROPOSED]`. The AI "sting" at the end is the Dealer's-Edge concept — kept deliberately ambiguous; can be pulled if you'd rather hold that secret longer.*
 
 ---
 

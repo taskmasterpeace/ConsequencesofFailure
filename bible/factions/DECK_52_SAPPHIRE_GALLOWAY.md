@@ -2,14 +2,14 @@
 
 **Faction file for the COF series bible.** This is the corporate/geopolitical "Game of Thrones" foundation of the whole universe — it **PREDATES the powers.** Two college friends build a fortune, fracture over a betrayal, lose the woman one of them loved, and turn rival empires against each other. Years later, that rivalry is the private-army layer the LSW era inherits. The alien story arrives *into* this world; it does not create it.
 
-> **Sourcing.** Built from the creator's originals — `canon/organizations/Deck 52 Rachel Maddow_.txt`, `canon/COF Notes.txt`, `canon/characters/Benchley Series.txt`, `canon/characters/Todd Ravage Benchley.txt`, `canon/characters/Senator Waxly.txt` — plus the creator-ruled `reference/CANONICAL_CORRECTIONS.md` and the bible `INBOX.md`. The ALL-CAPS `COF_MASTER_CHARACTER_DATABASE.md` is the AI-rewrite layer and is used only for cross-check; where it conflicts with originals it loses (it mislabels Emily as "wife," lists the org primarily as SPEAR, and spells the terror group "Akrahuhum").
+> **Sourcing.** Built from the creator's originals — `canon/organizations/Deck 52 Rachel Maddow_.txt`, `canon/COF Notes.txt`, `canon/characters/Benchley Series.txt`, `canon/characters/Todd Ravage Benchley.txt`, `canon/characters/Senator Waxly.txt` — plus the creator-ruled `reference/CANONICAL_CORRECTIONS.md` and the bible `INBOX.md`. The ALL-CAPS `COF_MASTER_CHARACTER_DATABASE.md` is the AI-rewrite layer and is used only for cross-check; where it conflicts with originals it loses (it mislabels Emily as "wife" and lists the org primarily as SPEAR). *(Terror-group spelling is standardized to **Akrahuhum** across the repo, matching the originals.)*
 > **Golden rule.** Originals + creator rulings win. Anything gap-filled is marked `[PROPOSED]`. Genuine unresolved conflicts are collected in §8.
 
 ---
 
 ## 1. DECK 52 — the organization
 
-A private military contractor founded by **Charles Sapphire**, structured like a deck of cards. Operates around and beneath conventional oversight; acknowledged in global hotspots, but its internal structure is deliberately opaque. Born from grief and vengeance (Emily's murder by Akrahahum) and built into a war machine.
+A private military contractor founded by **Charles Sapphire**, structured like a deck of cards. Operates around and beneath conventional oversight; acknowledged in global hotspots, but its internal structure is deliberately opaque. Born from grief and vengeance (Emily's murder by Akrahuhum) and built into a war machine.
 
 - **Founder / supreme authority:** Charles Sapphire — "**The Dealer**."
 - **Org motto:** *"Death is like a deck of cards."* (Echoes Emily's own philosophy, *"life is like a deck of cards."*)
@@ -81,10 +81,10 @@ Proposed parent corporation with two subsidiaries:
 | **Met Vaughn** | At **MIT** (confirmed). Co-founded **Taskmaster** with him. |
 | **Convictions** | Religious / strong moral code — the reason he refused the Cheat Check feature and the wedge Vaughn exploited by going behind his back. |
 | **Secret love** | **Emily Rhaige**, an aspiring **Black actress**; her philosophy: *"life is like a deck of cards."* The relationship was a secret. She is his **fiancée**, NOT his wife (creator-ruled correction; the AI layer's "late wife/widow" is wrong). |
-| **The wound** | Emily is **murdered in a terror attack by Akrahahum.** This — compounded by the gut-punch that Vaughn's Benchley ransom money may have *funded* the very group that killed her — is the engine of everything Charles builds after. |
-| **What he builds** | **Deck 52** (PMC to fight Akrahahum/terror, structured as a card deck) and **Rhaige Sapphire** (fashion line honoring Emily, uplifting Black women). Spades' RoboForge makes him a billionaire (see origin caveat §1). |
+| **The wound** | Emily is **murdered in a terror attack by Akrahuhum.** This — compounded by the gut-punch that Vaughn's Benchley ransom money may have *funded* the very group that killed her — is the engine of everything Charles builds after. |
+| **What he builds** | **Deck 52** (PMC to fight Akrahuhum/terror, structured as a card deck) and **Rhaige Sapphire** (fashion line honoring Emily, uplifting Black women). Spades' RoboForge makes him a billionaire (see origin caveat §1). |
 | **Drive** | Vengeance fused with love and self-blame; a religious man turned crusader. His public rivalry with Vaughn masks grief over Emily. |
-| **Key relationships** | Emily Rhaige (lost fiancée); Vaughn Galloway (ex-best-friend, arch-rival); Akrahahum (the enemy). |
+| **Key relationships** | Emily Rhaige (lost fiancée); Vaughn Galloway (ex-best-friend, arch-rival); Akrahuhum (the enemy). |
 
 ---
 
@@ -97,7 +97,7 @@ Proposed parent corporation with two subsidiaries:
 | **Origin** | Son of a **famous Hollywood actor**; **chess prodigy.** Met Charles at **MIT.** Hometown: a **small town near San Francisco** (creator: pick what serves the story). |
 | **Taskmaster** | Co-founded the app with Charles (anonymous crypto/Bitcoin transactions; hire anyone for anything; blockchain-verified trust/badge system; legal *and* illegal services). |
 | **The betrayal** | Unilaterally added **Cheat Check** (§5) without telling Charles — knowing Charles (religious) would refuse. This is the first fracture. |
-| **The Benchley stunt** | Paid the ransom (**$1.5M** per originals `[confirm]`) to free POW **Todd Benchley** from Akrahahum — an **election-year move engineered to make President Williamson look bad.** It worked: the freed-hero spectacle helped **push Williamson out**, and **Dr. Anton Parker** (Galloway's pick) **won the nomination easily** and took office — the LSW-era president and an eventual ally. The ransom money is implied to have **funded Akrahahum**, indirectly enabling Emily's death. |
+| **The Benchley stunt** | Paid the ransom (**$1.5M** per originals `[confirm]`) to free POW **Todd Benchley** from Akrahuhum — an **election-year move engineered to make President Williamson look bad.** It worked: the freed-hero spectacle helped **push Williamson out**, and **Dr. Anton Parker** (Galloway's pick) **won the nomination easily** and took office — the LSW-era president and an eventual ally. The ransom money is implied to have **funded Akrahuhum**, indirectly enabling Emily's death. |
 | **FIST** | Founded **FIST (First Infantry Strike Team)**, a rival PMC, with **Benchley as commander.** Later evolves/rebrands into **SPEAR** (Special Personnel for Extraterrestrial Assault & Research) once the alien threat surfaces. |
 | **ET obsession** | Secretly obsessed with extraterrestrial life. Founded **WildSpeak Technologies**; his **TuneForge Inc.** acquired **Rusty Richards's likeness/voice rights** (closed after Rusty's two-year disappearance), which leads Rusty to confront him about the abduction/warning. The "burned woman" case (§6) ignites this obsession publicly. |
 | **Personality** | Flashy, secretive, manipulative, brilliant; plays long games with people's lives; loyal to a chosen few (Benchley above all). |
@@ -112,7 +112,7 @@ Proposed parent corporation with two subsidiaries:
 | **Name** | **Todd "Shogun" Benchley.** (Renamed from "Ravage" by the creator — use "Shogun.") |
 | **Background** | Black man, ~5'9", slim-muscular ~190 lbs, light-brown complexion; piercing eyes; trademark **black cowboy hat** and **black M16 with suppressor**; cigar smoker. ~54 years old. A no-nonsense man of few words; follower of the 48 Laws of Power. |
 | **Career** | Joined the Army at 18; rose to **Colonel** over 20 years; **Airborne Ranger.** Expert in close-quarters/hand-to-hand combat, weapons, Eskrima, Judo; speaks German, Spanish, Tagalog. Post-Army: firefighter, PI, bodyguard → private military contractor. |
-| **The POW arc** | Betrayed by a translator in Afghanistan and captured by **Akrahahum**; held and tortured for months as a POW. **Vaughn Galloway** saw the story in the media and **paid the ransom** to free him. |
+| **The POW arc** | Betrayed by a translator in Afghanistan and captured by **Akrahuhum**; held and tortured for months as a POW. **Vaughn Galloway** saw the story in the media and **paid the ransom** to free him. |
 | **Trajectory** | Became Vaughn's **bodyguard**, then **commander of FIST**, then leader of **SPEAR.** Demands full operational autonomy; absolute loyalty to Vaughn (who also offered to fund his son's medical school). |
 | **Family (CORRECTED)** | His **wife divorces him** somewhere down the line. He is **NOT a widower** — explicitly drop the abandoned "wife killed in a car accident / two teenage kids (Mike & Lisa)" version that appears in `Todd Ravage Benchley.txt`. |
 | **Secret / fear** | Haunted by his time as a POW; greatest fear is losing someone he loves; wants a place where he belongs. |
@@ -141,10 +141,10 @@ The spine that runs under the entire saga, in order:
 2. **Taskmaster.** They co-found the app — anonymous crypto transactions, hire-anyone marketplace, blockchain trust system. Both grow rich.
 3. **Cheat Check.** Vaughn secretly bolts on the Cheat Check feature, knowing Charles would refuse on moral grounds. First betrayal. The partnership and friendship begin to crack; public feuding follows.
 4. **Emily.** Charles is secretly in love with **Emily Rhaige**, an aspiring Black actress whose motto is *"life is like a deck of cards."* (His fiancée.)
-5. **Benchley ransom (election-year stunt).** Vaughn pays to free POW Todd Benchley from **Akrahahum.** The move embarrasses the sitting president and helps elevate Vaughn's pick (Parker) to office. **The ransom money is implied to have funded Akrahahum.**
-6. **Emily's murder.** **Akrahahum kills Emily** in a terror attack — the same organization Vaughn's money helped enable. Love curdles into vengeance; the rift becomes permanent and personal.
+5. **Benchley ransom (election-year stunt).** Vaughn pays to free POW Todd Benchley from **Akrahuhum.** The move embarrasses the sitting president and helps elevate Vaughn's pick (Parker) to office. **The ransom money is implied to have funded Akrahuhum.**
+6. **Emily's murder.** **Akrahuhum kills Emily** in a terror attack — the same organization Vaughn's money helped enable. Love curdles into vengeance; the rift becomes permanent and personal.
 7. **The drunken interview.** Vaughn, drunk on TV, **disrespects Emily's death.** This is the point of no return — the friendship breaks for good. *(The Maddow material and master DB don't narrate this beat; it comes from the creator's brief and is the explicit final break.)* `[PROPOSED detail — interview content/where it aired TBD]`
-8. **Two rival empires.** Charles founds **Deck 52** (to wage war on Akrahahum/terror) and **Rhaige Sapphire** (to honor Emily). Vaughn founds **FIST** with **Benchley** commanding. Competing PMCs, competing political influence.
+8. **Two rival empires.** Charles founds **Deck 52** (to wage war on Akrahuhum/terror) and **Rhaige Sapphire** (to honor Emily). Vaughn founds **FIST** with **Benchley** commanding. Competing PMCs, competing political influence.
 9. **RoboForge → billionaire.** Deck 52's Spades division fields RoboForge, vaulting Charles to billionaire status. *(Origin-timing contradiction with the Iron-Eater-nanite version — §8.)*
 10. **The burned woman / the Navy contract (the launch hook).** §7 below — the alien era arrives into this pre-built rivalry, and Vaughn's ET obsession goes from private to operational.
 
@@ -163,16 +163,16 @@ The cold-open hook of the launch story, and the hinge where the corporate saga m
 
 ---
 
-## 8. AKRAHAHUM — the terror group
+## 8. Akrahuhum — the terror group
 
 The terrorist organization that is the connective tissue of the origin saga.
 
-- **Spelling (ruled):** **Akrahahum.** (Variants in the files — "Akrahuhum," "Akarhahum" — are AI-layer/typo drift; standardize on **Akrahahum.**)
+- **Spelling (ruled):** **Akrahuhum.** (Variants in the files — "Akrahuhum," "Akrahuhum" — are AI-layer/typo drift; standardize on **Akrahuhum.**)
 - **Role in the saga:**
   - Held **Todd Benchley** as a POW (Afghanistan); Vaughn paid the ransom that freed him — and, by implication, **funded the group.**
   - **Murdered Emily Rhaige** in a terror attack — the direct trigger for Charles founding Deck 52.
-  - Stands as **Deck 52's founding enemy** — the org exists to "end the reign of Akrahahum."
-- **Note:** Fits the universe's no-traditional-supervillains rule — Akrahahum is a human terror organization, not a powered antagonist. It predates the LSW era.
+  - Stands as **Deck 52's founding enemy** — the org exists to "end the reign of Akrahuhum."
+- **Note:** Fits the universe's no-traditional-supervillains rule — Akrahuhum is a human terror organization, not a powered antagonist. It predates the LSW era.
 
 ---
 

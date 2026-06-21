@@ -8,8 +8,8 @@ How the corporate saga slots into the COF master clock (the **8-year countdown**
 | ~Yr −18 | Charles & Vaughn meet at **MIT**; become best friends. |
 | ~Yr −12 | They found **Taskmaster**; both get rich. Charles meets **Emily Rhaige** (secretly engaged). |
 | ~Yr −9 | Vaughn ships **Cheat Check** behind Charles's back — the **first fracture.** |
-| ~Yr −8 | **Benchley POW → the ransom stunt** ($1.5M), engineered to humiliate **President Williamson** → Williamson pushed out → **Dr. Anton Parker** wins easily. The money funds **Akrahahum.** |
-| ~Yr −7 | **Akrahahum murders Emily.** The **drunken interview.** The friendship breaks for good. |
+| ~Yr −8 | **Benchley POW → the ransom stunt** ($1.5M), engineered to humiliate **President Williamson** → Williamson pushed out → **Dr. Anton Parker** wins easily. The money funds **Akrahuhum.** |
+| ~Yr −7 | **Akrahuhum murders Emily.** The **drunken interview.** The friendship breaks for good. |
 | ~Yr −7 → −6 | Charles founds **Deck 52** + **Rhaige Sapphire**; Vaughn founds **FIST** (Benchley commanding). Two rival empires. |
 | ~Yr −5 → −2 | **RoboForge v1** — Charles drives Cho to build it; a commercial juggernaut (→ billionaire) but **battlefield-useless** (power-source problem). The PMC arms race hardens; the **Wildcard Initiative** quietly begins. |
 

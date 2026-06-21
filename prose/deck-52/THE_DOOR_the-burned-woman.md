@@ -1,7 +1,7 @@
 # THE DOOR — The Burned Woman
 
 *Consequences of Failure — the opening of the Sapphire / Galloway story.*
-*Draft. Canon picks honored: Charles Sapphire; Vaughn Galloway; Todd "Shogun" Benchley; terror group Akrahahum; ransom $1.5M; President Williamson; fashion line Rhaige Sapphire; Vaughn's hometown a small town near San Francisco. Inline-flagged inventions marked [PROPOSED].*
+*Draft. Canon picks honored: Charles Sapphire; Vaughn Galloway; Todd "Shogun" Benchley; terror group Akrahuhum; ransom $1.5M; President Williamson; fashion line Rhaige Sapphire; Vaughn's hometown a small town near San Francisco. Inline-flagged inventions marked [PROPOSED].*
 
 ---
 
@@ -83,7 +83,7 @@ But the world was getting darker on its own, and it was about to hand Vaughn Gal
 
 His name was **Todd Benchley** then. The "Shogun" came later.
 
-He was an Army colonel, an Airborne Ranger, a hard square-jawed man with a life lined into his face, and he had been taken by **Akrahahum** — a terror network that had spent a decade turning kidnapping into a revenue model — and held in a basement in a country whose name the State Department would not say out loud. Akrahahum wanted one and a half million dollars [PROPOSED ransom figure per locked canon] and a hostage video, and Washington had a policy of paying neither, and so Benchley sat tied to a chair under a banner he couldn't read, making the videos, waiting to be useful or dead.
+He was an Army colonel, an Airborne Ranger, a hard square-jawed man with a life lined into his face, and he had been taken by **Akrahuhum** — a terror network that had spent a decade turning kidnapping into a revenue model — and held in a basement in a country whose name the State Department would not say out loud. Akrahuhum wanted one and a half million dollars [PROPOSED ransom figure per locked canon] and a hostage video, and Washington had a policy of paying neither, and so Benchley sat tied to a chair under a banner he couldn't read, making the videos, waiting to be useful or dead.
 
 It was an election year. President **Williamson** had a poll problem and an empty space where a feel-good story should go.
 
@@ -91,11 +91,11 @@ Vaughn Galloway solved both problems with a wire transfer.
 
 He paid the one and a half million himself, privately, theatrically, and he made sure the cameras were there when Benchley walked off the plane, gaunt and blinking, into the arms of a country that had been told a billionaire did what its government wouldn't. It was magnificent television. It made Vaughn beloved. It humiliated Williamson, who never forgave him, which Vaughn enjoyed. And Todd Benchley, who owed this stranger his life and his second chance at his children, became Vaughn's man — first his shadow, then his commander, the iron spine of the private army Vaughn was already dreaming into being.
 
-The one and a half million dollars went, of course, to Akrahahum.
+The one and a half million dollars went, of course, to Akrahuhum.
 
-Nobody felt it at first. Money laundered through a hostage release does not announce where it lands. But one and a half million dollars is reach. It is safehouses and a logistics cell and the patience to plan something larger than a basement and a chair. It bought Akrahahum a year, and a target, and a date.
+Nobody felt it at first. Money laundered through a hostage release does not announce where it lands. But one and a half million dollars is reach. It is safehouses and a logistics cell and the patience to plan something larger than a basement and a chair. It bought Akrahuhum a year, and a target, and a date.
 
-Emily was leaving a fitting [PROPOSED — for what would have become the Rhaige Sapphire line]. She had finally booked the thing, the real thing, the role that was going to make the word *aspiring* a joke, and Charles had told her he was proud of her that morning and meant it more than he'd ever meant anything. She was on a sidewalk in the afternoon with a garment bag over her shoulder when Akrahahum's reach found the city Charles thought was safe, and she became a number in an event that the news would describe for one cycle as a tragedy and the next as a statistic.
+Emily was leaving a fitting [PROPOSED — for what would have become the Rhaige Sapphire line]. She had finally booked the thing, the real thing, the role that was going to make the word *aspiring* a joke, and Charles had told her he was proud of her that morning and meant it more than he'd ever meant anything. She was on a sidewalk in the afternoon with a garment bag over her shoulder when Akrahuhum's reach found the city Charles thought was safe, and she became a number in an event that the news would describe for one cycle as a tragedy and the next as a statistic.
 
 Charles was on a plane when they reached him. He did not make a sound. The people around him said later that the silence was the worst thing they had ever sat next to.
 
@@ -111,7 +111,7 @@ Charles watched it alone, once, and never again.
 
 He did not issue a statement. He did not sue. He did two things, quietly, over the following year, and the world is still living inside both of them.
 
-He built a private military company and structured it like a deck of cards — Hearts, Diamonds, Clubs, Spades, every operative a rank, himself the Dealer at the top — because Emily had told him that's all life ever was, a hand you didn't choose and had to play anyway. He called it **Deck 52**, and he built it for one purpose dressed up as fifty, and the purpose was to end Akrahahum and everyone who had ever taken their money.
+He built a private military company and structured it like a deck of cards — Hearts, Diamonds, Clubs, Spades, every operative a rank, himself the Dealer at the top — because Emily had told him that's all life ever was, a hand you didn't choose and had to play anyway. He called it **Deck 52**, and he built it for one purpose dressed up as fifty, and the purpose was to end Akrahuhum and everyone who had ever taken their money.
 
 And he started a fashion house, of all things, and put her name on it. **Rhaige Sapphire**. So that the word she refused to let anyone make small would be stitched into linings and spoken in stores and printed on bags carried down the sidewalks of the city that took her, forever, by people who would never know they were wearing a man's grief. He said once, to the only person he ever explained it to, that he could not stand the idea of her becoming a statistic, and that a brand does not become a statistic. A brand is *remembered.*
 

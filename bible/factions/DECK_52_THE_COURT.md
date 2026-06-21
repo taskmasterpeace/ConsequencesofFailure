@@ -60,7 +60,7 @@ The shorthand for the four tensions they keep relitigating:
 
 **Fears.** That she's becoming Vaughn Galloway with better posture. She watched what certainty-over-truth did to that man, and she can feel the pull of it, and she hates that she understands him now.
 
-**To Charles.** This is the live wire. Pierce has done the same math Charles did — followed the money, the org chart, the suit structure built like a hunting blind — and she has worked out that Deck 52 is a vendetta wearing a balance sheet. She has never said so. She protects the secret better than Charles does, manages around it, steers contracts toward Akrahahum-adjacent targets and lets him think it's coincidence. Her loyalty is real. It's also leverage she's keeping in reserve, and she knows that about herself, which is the part that scares Vance.
+**To Charles.** This is the live wire. Pierce has done the same math Charles did — followed the money, the org chart, the suit structure built like a hunting blind — and she has worked out that Deck 52 is a vendetta wearing a balance sheet. She has never said so. She protects the secret better than Charles does, manages around it, steers contracts toward Akrahuhum-adjacent targets and lets him think it's coincidence. Her loyalty is real. It's also leverage she's keeping in reserve, and she knows that about herself, which is the part that scares Vance.
 
 **Clashes.**
 - *vs Kané (Clubs):* strategy vs appetite. Kané wants open war with FIST; Pierce wants to win without ever declaring one. She thinks he'll get people killed proving a point; he thinks she'll analyze the company to death while Galloway eats their lunch.
@@ -77,11 +77,11 @@ The shorthand for the four tensions they keep relitigating:
 
 **Brilliant at.** Command under fire. Men follow him into things they shouldn't survive and mostly do, because he is always at the front and he learns every operator's name and means it. He is the soul of the Clubs the way Vance is the soul of the whole company — and the two of them know it about each other.
 
-**Private wound.** He lost a younger brother to Akrahahum — a recruiter, a basement, a body that came back wrong `[PROPOSED]`. So when he learned (he is fairly sure he's learned) what Deck 52 is really *for*, he didn't recoil like Vance would. He felt *chosen*. He thinks he and Charles are the same animal. He is dangerously, sincerely wrong about that, because Charles is contained by his faith and Idris is contained by nothing but Charles.
+**Private wound.** He lost a younger brother to Akrahuhum — a recruiter, a basement, a body that came back wrong `[PROPOSED]`. So when he learned (he is fairly sure he's learned) what Deck 52 is really *for*, he didn't recoil like Vance would. He felt *chosen*. He thinks he and Charles are the same animal. He is dangerously, sincerely wrong about that, because Charles is contained by his faith and Idris is contained by nothing but Charles.
 
 **Quirks.** Cooks for his team — actually cooks, a thiéboudienne on a field stove in a place where that is insane to attempt — and a man Kané has fed is a man Kané will not easily spend, which complicates his own hawkishness in ways he won't admit. Calls everyone, up and down the rank ladder, by their card ("Three, on me") — names are for the kitchen, cards are for the work. Goes completely, eerily quiet when he's angry; the shouting is for when he's *fine*.
 
-**Wants.** To take the war to FIST in the open, and to Akrahahum without the pretense. He is tired of being a hunting blind. He wants to be a spear.
+**Wants.** To take the war to FIST in the open, and to Akrahuhum without the pretense. He is tired of being a hunting blind. He wants to be a spear.
 
 **Fears.** That the company is going to win the way Pierce wants to win — cleanly, patiently, from behind a desk — and that his men will have died as line items in someone else's elegant strategy, the way his brother died as a line item in someone's revenue model.
 
