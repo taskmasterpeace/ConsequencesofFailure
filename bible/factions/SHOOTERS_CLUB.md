@@ -13,6 +13,11 @@ The grounded, **no-powers** floor of the COF world: a prestige police-corruption
 ## The through-line (creator)
 **Condemned (before)** → *years later* → **"I Deserve Better"** (Officer **Oliver**, a Shooter's Club cop, is involved in Tyrell Lober's killing and **goes to court years later**) → by then the **"Shooter's Club" has become a social-political movement.** *(Creator: "we'll get into it later.")* So the name evolves: corrupt unit → courtroom reckoning → movement.
 
+## 🔒 COP NAMES — LOCKED
+- **Officer Oliver** — the recurring corrupt **Shooter's Club** cop. In *I Deserve Better* he runs the cover-up of Tyrell Lober's killing (plants the gun, coaches the story) and **goes to court years later.** Canonical spelling: **Oliver.**
+- **Officer Headly** — the cop who fires the shot that kills Tyrell. Canonical spelling: **Headly** (retire the "Headley/Headler" variants in the *I Deserve Better* draft).
+- `[PROPOSED]` throughline: Oliver could be the grown-up of **Foley**, the wide-eyed probie in *Condemned* who idolized the unit — the rookie who wanted to "ride with the Shooter's Club" becomes the corrupt veteran decades later. (Approve, or make Oliver a separate member.)
+
 ## Cross-universe connections
 - **Cuatro Dedos cartel** ties Condemned ↔ **Jance Bloomberg** ("Hermit of Big Pharma," who takes over the *Cuatros Dedos* cartel). Same org → connect them.
 - **The cops Headly & Oliver** tie Condemned → **I Deserve Better** (they kill Tyrell). Oliver is the recurring Shooter's Club cop.
