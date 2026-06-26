@@ -20,7 +20,7 @@
 The lore dump contains an **early, ABANDONED** version. For the record:
 | Element | ❌ ABANDONED early draft | ✅ CURRENT CANON |
 |---|---|---|
-| The threat | **6** alien races, here to **extract Earth's oxygen** | **Alliance of FOUR** — **The Slaught, The Deep, The Strategist Race**, + **1 race still unnamed** `[TBD]` — here to stop Earth "polluting space" (they blame us for an energy-species' death). |
+| The threat | **6** alien races, here to **extract Earth's oxygen** | **Alliance of FOUR** — **The Slaught, The Deep, The Strategist Race, + the Xanthi** (dimensional "Doorwalkers") — here to stop Earth "polluting space" (they blame us for an energy-species' death). |
 | Iron Eaters | (counted among the threat) | **NOT one of the Four** — a **precursor / scout / "softener" wave** sent *ahead* of the main armada (~Year 4); the metal-eating nanites Deck 52 later weaponizes. |
 | Arrival | aliens arrive **Season 7–8** | **Iron Eaters (precursors) ~Year 4**; the full Alliance of Four later (S7–8). |
 (Per `canon/COF_TIMELINE_CORRECTED.md`. Generic AI-brainstorm characters in the dump — Max/Jessica/Tom, "Superman," the White Witch, Sarah Lee, Zachary Taylor, Lily, the director story-arc tables — are **noise, not canon.**)

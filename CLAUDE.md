@@ -27,6 +27,15 @@ Standing instructions for every session in this repo. Read this first.
 - **Characters are real individuals** — keep their quirks; don't flatten them into generic hero types (this is how the rewrite layer went wrong).
 - **Mark inventions `[PROPOSED]`.**
 
+## Write the country, not a backdrop
+Every story set in a country must make a reader *from* there feel seen — that audience is the goal, not set dressing. **Consult the Country Master Sheet (`canon/countries/Country Master Sheet - Country.csv`) before writing any country; treat it as canon.** Anchor to its facts: the real **President**, `GovernmentStructureType`, `GovernmentPreception`, `GovermentCorruption`, `Motto`, `Nationalities`. Then layer lived texture — real **place names**, **language** (lean on the local tongue — Swahili *Kuruka*, *Mwangaza*), food, music, faith, social rhythm — and the **actual live issue** (Tanzania's albinism persecution + the Uganda seaport war; Nigeria's S.A.R.C./Akrahuhum). No tourist-brochure detail, no stereotype. Specificity earns the reader.
+
+## The insight layer (the Crichton / Star Trek move)
+Weave in real, *accurate* "how this actually works" insight — the way Crichton teaches you something mid-thriller, or Star Trek explains its tech in passing. Valid kinds: hard contact-science (*teleportation is really solving a constantly-moving coordinate — Earth spins, orbits the sun, the sun drifts through the galaxy*), how an ecosystem or system works, an unknown fact about an everyday thing, or the in-world logic of a power (Jawah's sound-absorption through exposed skin; the Memory Vessel's cost scaling with how wide it opens). HARD limits: **woven into the scene, never a lecture. Short. Varied** — change both the *kind* of insight and the delivery; never the same move twice running. It illuminates; it never stalls the story.
+
+## Rotating-cliffhanger structure
+The anthology rotates. Take one thread to a cliffhanger, **cut** to a different story in a different country, take *that* to a hook, cut again — then circle back. Multiple threads always turning at once. Each story still **stands alone** (the standalone-stories model holds), but each hands off on a hook that pulls to the next and earns the return trip — standalone craft, serialized momentum.
+
 ## Repo map
 - `canon/` — creator originals (trust) + the AI-rewrite layer (verify). Includes `canon/countries/` (the master sheets) and `canon/characters/`.
 - `bible/` — the consolidated source of truth (status, roster, per-character notes, vision, factions, powers).
