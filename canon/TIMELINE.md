@@ -761,7 +761,7 @@ Every government scrambles to identify their Living Super Weapons:
 
 #### HUNTED INDIVIDUALS
 - **John Rivers "Stampede"** - SPEAR, governments, LSW bounty hunters pursue globally
-- **Kali Mwangi** - Kenyan government and SPEAR priority target
+- **Jawah Matu** - hunted as albino sound-absorber *(Kali Mwangi merged into Jawah Matu)*
 - **Multiple underground LSW networks** - Going into hiding
 
 ### Status: [CANON]

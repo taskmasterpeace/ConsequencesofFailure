@@ -109,6 +109,9 @@ Hunted by SPEAR, national governments, and LSW bounty hunters. Marcus forced und
 ---
 
 ## CHARACTER #2: KALI "THE ALBINO" MWANGI
+
+> **ALTERNATE-DRAFT SEED** — this character has been **merged into Jawah Matu** (see `bible/characters/JAWAH_MATU.md`); preserved for usable beats. Creator ruling: Jawah Matu (Tanzania) is THE single albino sound-absorber of the universe; Kali (Kenya) was an earlier/parallel draft of the same concept. The prose below is kept intact — beats such as the nomadic hunted-vigilante texture, grandmother Nyambura murdered for land, and the "Silent Ones" network can be folded into Jawah's story as options.
+
 **Country:** Kenya / Nomadic
 **Role:** Outcast Vigilante / Sound Manipulator
 **Age:** 24

@@ -84,7 +84,9 @@
 
 ---
 
-## CHARACTER PROFILE: KALI "THE ALBINO" MWANGI
+## CHARACTER PROFILE: KALI "THE ALBINO" MWANGI  — MERGED INTO JAWAH MATU
+
+> **CREATOR RULING — MERGED (not a separate active character).** Kali "the Albino" Mwangi (Kenya) was an earlier/parallel draft of the **same albino sound-absorber concept** as **Jawah Matu (Tanzania)**. Jawah Matu is the keeper and THE single albino sound-absorber of the universe. See `bible/characters/JAWAH_MATU.md`. The profile below is preserved as an **alternate-draft seed** — usable beats (nomadic hunted-vigilante texture; grandmother Nyambura murdered for land; "Silent Ones" network; sound storage/release scaling) can be folded into Jawah's story as options. Do **not** count Kali as a separate active character.
 
 **ID:** kali_002
 **Full Name:** Kali Mwangi

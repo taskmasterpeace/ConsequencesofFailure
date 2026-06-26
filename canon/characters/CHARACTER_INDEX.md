@@ -1,7 +1,7 @@
 # COF CHARACTER INDEX
 **Quick Reference Guide**
 **Last Updated:** 2025-11-18
-**Total Characters:** 59
+**Total Characters:** 58 *(Kali Mwangi merged into Jawah Matu)*
 
 ---
 
@@ -31,7 +31,6 @@
 22. Jelani (Uganda) - LSW, Enhanced Strength/Speed, Mugisha's bodyguard
 23. Johnny "Sun of the Soil" Rain (Uganda) - Non-Powered, Musician/Revolutionary
 24. Kaiser Eziobi (Nigeria) - LSW Level 5, Alien Symbiont (DECEASED)
-25. Kali "The Albino" Mwangi (Kenya) - LSW Level 3, Sound Absorption/Redistribution
 26. Kamaria (Uganda) - LSW, Phasing, Mugisha's bodyguard
 27. Lieutenant Syed Ahmad (Malaysia) - Non-Powered, Naval Commander
 29. Liu Xiao (China) - LSW, Motivated by Sister's Death
@@ -78,8 +77,8 @@
 - Omar Khaled (LSW Level 4, Living Archive)
 - Colonel Safiya Hassan (Non-Powered, Commander)
 
-**Kenya (1):**
-- Kali "The Albino" Mwangi (LSW Level 3, Sound Manipulation)
+**Kenya (0):**
+- (Kali "The Albino" Mwangi merged into Jawah Matu (Tanzania) — single albino sound-absorber)
 
 **Morocco (1):**
 - Rachid Benali (Non-Powered, Intelligence Officer)
@@ -218,8 +217,7 @@
 - Verde (Brazil) - Botanical Symbiont
 - (Additional characters to be assessed)
 
-### Level 3 (12)
-- Kali "The Albino" Mwangi (Kenya) - Sound Manipulation
+### Level 3 (11)
 - Yael Mordechai (Israel) - Probability Weaver
 - Major Arash Tehrani (Iran) - Heat Sovereign
 - Maria Carmen Quispe (Peru) - Emotional Conductor
@@ -315,7 +313,6 @@
 
 ### Independent/Rogue LSW
 - John Rivers "Stampede" (USA) - Rogue vigilante
-- Kali "The Albino" Mwangi (Kenya) - Independent vigilante
 - Kaiser Eziobi (Nigeria) - Pan-African network [DECEASED]
 - Verde (Brazil) - Eco-terrorist/Environmental Guardian
 - Black Woman Jackal (USA) - Ring Bearer, LSW Hunter
@@ -377,8 +374,7 @@
 - Maria Santos Reyes (Philippines) - Bioluminescent purification (light-based)
 
 ### Sound
-- Kali "The Albino" Mwangi (Kenya) - Sound absorption and redistribution
-- Jawah Matu (Tanzania) - Sound absorption (≤70 dB, at will, via exposed skin) [earlier name: Lawal]
+- Jawah Matu (Tanzania) - Sound absorption (≤70 dB, at will, via exposed skin) [earlier name: Lawal] (Kali "The Albino" Mwangi, Kenya, merged into Jawah Matu)
 
 ### Mental/Emotional
 - Maria Carmen Quispe (Peru) - Emotional amplification/conductor
@@ -406,7 +402,7 @@
 
 ## BY STATUS
 
-### Active Characters (56)
+### Active Characters (55)
 (All except those marked DECEASED below)
 
 ### Deceased Characters (3)
@@ -426,8 +422,7 @@
 ### Male (42)
 [Full list maintained in database]
 
-### Female (16)
-- Kali Mwangi (Kenya)
+### Female (15)
 - Yael Mordechai (Israel)
 - Dr. Layla Mansour (Palestine)
 - Colonel Safiya Hassan (Egypt)
@@ -484,12 +479,10 @@
 - John Rivers "Stampede" (hunted by SPEAR, FBI, governments worldwide)
 - Black Woman Jackal (hunts LSW using ring surveillance)
 - Carlos "El Tigre" Machado (hunts Venezuelan LSW dissidents)
-- Kali Mwangi (hunted by Kenyan government)
 
 ### Tragic Backstories
 - John Rivers - Sister, Det. Rebecca Carranza, murdered by the corrupt Shooter's Club (LAPD)
 - Raghavan Reddy - Family killed in bus crash
-- Kali Mwangi - Grandmother murdered for land
 - Carlos Mendoza - Wife Elena killed in Sandra's attack
 - Liu Xiao - Sister's death drives revenge
 - Tariq al-Hassan - Cousin killed, school destroyed

@@ -4,7 +4,7 @@
 
 **Golden rule applied:** lowercase/natural-name creator originals beat the ALL-CAPS AI-rewrite layer; conflicts are **flagged, not silently resolved.**
 
-**Headline counts:** ~**110–115** distinct named characters total (the old `CHARACTER_INDEX.md` had ~58 — it captured roughly *half* the universe). By development: **~20 SOLID** (real prose exists) · **~13 THIN** (a sketch/spine) · **~45 INDEX-ONLY** (country-stub one-liners) · **~4 contaminated facts** to rule on.
+**Headline counts:** ~**110–115** distinct named characters total (the old `CHARACTER_INDEX.md` had ~58 — it captured roughly *half* the universe). By development: **~20 SOLID** (real prose exists) · **~13 THIN** (a sketch/spine) · **~44 INDEX-ONLY** (country-stub one-liners; Kali Mwangi removed — merged into Jawah Matu) · **~3 contaminated facts** to rule on.
 
 ---
 
@@ -28,7 +28,7 @@
 | **Rob Holt** | USA / Shooter's Club (LAPD) | Bonny's protégé who flips informant; Bonny takes the fall to save him | `prose/shooters-club/CONDEMNED.md` | **SOLID** |
 | **Jance Bloomberg** (= **Jance Morales**; "Mexico Kid"; "Hermit of Big Pharma") | USA/Mexico / Cuatro Dedos cartel | LSW **Echo Mirage** (voice/perception impersonation); takes over & reforms the cartel under a dead friend's identity | `canon/characters/Jance Bloomberg.txt`, `Mexico Kid.txt` | **SOLID/SCATTERED** (two power framings — reconcile). NOT in index. |
 | **King Stefanos** (wife **Sophia/Marietta**) | Greece | LSW "Superhero King" (city-scale force; later shapeshifting); pacifist turned vengeful after his LSW wife is assassinated by FIST's Jackals | `canon/characters/King Stefanos.txt`, `…These Wounds…txt` | **SOLID — uncatalogued** |
-| **Jawah Matu** (= **"Lawal"**) | **Tanzania** / military → rebel | LSW, **sound absorption**; albino war hero framed for his mentor's death | `canon/characters/Jawah Matu .txt`, `Lawal.txt` | **SOLID — MISFILED in index** (see Gaps; Lawal & Jawah Matu are the same Tanzanian, not two Indians). |
+| **Jawah Matu** (= **"Lawal"**; absorbs **Kali "the Albino" Mwangi**) | **Tanzania** / military → rebel | LSW, **sound absorption**; albino war hero framed for his mentor's death; THE single albino sound-absorber of the universe | `canon/characters/Jawah Matu .txt`, `Lawal.txt` | **SOLID — MISFILED in index** (see Gaps; Lawal & Jawah Matu are the same Tanzanian, not two Indians). **RESOLVED — Kali Mwangi merged into Jawah Matu.** |
 | **Hank "Crossfire" Foster** (wife Maggie) | USA Arkansas *(index says Canada)* | LSW Lv2, **probability/supernatural luck** + strength; thinks it's God's gift | `canon/characters/Hank Foster.txt` | **SOLID-ish.** Country conflict to reconcile. |
 | **Janine Lober** (brother **Tyrell Lober**) | USA / "I Deserve Better" | Non-powered founder of the justice movement after her brother's police killing | `prose/I Deserve Better.txt` | **SOLID — uncatalogued** |
 | **Pole Zimmerman** | USA (Port Alder, WA) / "Shooter's Club" (biker gang) | Non-powered white-supremacist outlaw-biker; viral provocateur | `canon/characters/Pole Zimmerman.txt` | **THIN — uncatalogued.** A *different* "Shooter's Club" (name collision). |
@@ -55,7 +55,6 @@
 |---|---|---|
 | Omar Khaled | Egypt | LSW Lv4, "Living Archive" (perfect memory). *NOT a Sage (canon).* |
 | Col. Safiya Hassan | Egypt | Non-powered, LSW Strategic Division commander |
-| Kali "The Albino" Mwangi | Kenya | LSW Lv3, sound absorption *(overlaps Jawah Matu — likely same concept split across drafts)* |
 | Rachid Benali | Morocco | Non-powered DGED intel officer |
 | Zephaniah Mwangaza | Tanzania | LSW, time travel + mind control; Jawah Matu's mentor (DECEASED) |
 | Abeo / Jelani / Kamaria | Uganda | LSW bodyguards — metal / strength-speed / phasing |
@@ -110,6 +109,6 @@
 6. **Benchley** — **"Shogun"** not "Ravage"; wife **divorces** him.
 7. **Uganda president** — **Mugisha/Ronald Opio** vs original **Akena.**
 8. **Two "Shooter's Clubs"** (LAPD unit vs Zimmerman's biker gang) — disambiguate.
-9. **Kali Mwangi (Kenya)** vs **Jawah Matu (Tanzania)** — same sound-power concept split across drafts?
+9. **Kali Mwangi (Kenya)** vs **Jawah Matu (Tanzania)** — **RESOLVED — Kali Mwangi merged into Jawah Matu** (creator ruling; Jawah is THE albino sound-absorber). Kali's standalone prose preserved as an alternate-draft seed.
 
 *This roster is my best read of the ground truth — fix anything and it's law.*

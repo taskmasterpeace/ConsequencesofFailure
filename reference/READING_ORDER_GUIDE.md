@@ -54,7 +54,7 @@ These are the "absolutely fucking riveting" character/president profiles:
 
 #### BATCH_1_CRITICAL_PRESIDENTS.md (84KB, ~60 min)
 - Stampede (cop vigilante)
-- Kali Mwangi (Kenya president)
+- Kali Mwangi (Kenya, albino sound-absorber — merged into Jawah Matu; kept as alternate-draft seed)
 - Hank Foster (USA president)
 - Spanish President
 - Johnny Rain (Uganda)

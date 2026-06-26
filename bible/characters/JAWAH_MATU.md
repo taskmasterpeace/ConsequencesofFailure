@@ -5,7 +5,7 @@
 > **Sourcing.** Creator originals `canon/characters/Jawah Matu .txt` (note trailing space) + `canon/characters/Lawal.txt`. The Lawal file ends with the author's own note: *"Lawal is the albino that we actually name Jawah Matu later"* — **same person; "Lawal" is an earlier draft name.** Creator rulings (this session) layered on top. The ALL-CAPS rewrite layer got this character badly wrong (see "Contamination purged").
 
 ## Identity
-- **Name:** Jawah Matu. *(Earlier draft name: "Lawal" — same man.)* **Male.**
+- **Name:** Jawah Matu. *(Earlier draft names for the SAME man: "Lawal"; and likely "Baraka" — the albino, Zephaniah-mentored, Tanzanian sound-absorber in `prose/KAISER_AFRICAN_JOURNEY.md`.)* **Male.**
 - **Nationality:** **TANZANIAN.** Born in **Dar es Salaam.** *(NOT Indian; NOT a member of India's Establishment 24 — that was a mis-file.)*
 - **Albino.** His life is shaped by Tanzania's real albinism persecution — hunted for body parts, scapegoated for droughts and floods. Eldest of five; emotionally neglected at home. Survived, enlisted, rose through the ranks.
 
@@ -13,6 +13,7 @@
 - He **takes away / absorbs sound at will**, up to **70 decibels**. *"You could only hear him when he wanted you to."*
 - **Mechanism (creator ruling):** the absorption works through **exposed skin** — palms, neck, any uncovered skin. He does **not** need to be naked; bare skin is enough.
 - **His limit / wound:** the one sound he can't conquer is **the ones in his head.**
+- **Scaling `[PROPOSED]`:** the 70 dB figure is a baseline that **scales with mastery/level** — his ceiling grows as he develops. Slots into the universe's no-plot-armor power-scaling system (see `bible/VISION_AND_GOALS.md`).
 - **Origin:** abducted by **the Grays** during routine guard duty; returned powered. One of only two living "superweapons" in the Tanzanian military.
 
 ## Mentor — Zephaniah Mwangaza
@@ -25,6 +26,7 @@
 - Tanzania launches an **unprovoked LSW attack on a Ugandan port.** Seeing the aftermath is Jawah's breaking point.
 - The Tanzanian **military stages a coup** against its own government over the war.
 - **Personal "blood battle":** Jawah's wife and children are killed in a **home invasion**, leaving him **crippled** — the inciting atrocity that sets him hunting.
+- **Ruled (best story-wise):** keep the three-way struggle — Tanzania is openly at war with Uganda (President Juma's seaport/territory war = the original spine), while Kenya quietly backs Tanzania against Uganda's regional bullying. Both the original (enemies) and the rewrite layer (Kenya–Tanzania coordination) are true at once.
 
 ## Arc
 Framed for Zephaniah's murder → family slaughtered, left crippled → hunts those responsible, suspects **President Juma** → becomes a **leader among the rebels** in the coup → helps install a new regime → struggles with trauma → becomes an **advocate for the marginalized.** Pre-war dream: retire and raise his kids on a **tobacco farm "down south"** (real southern-Tanzania crop — Iringa/Ruvuma).
@@ -36,8 +38,8 @@ Framed for Zephaniah's murder → family slaughtered, left crippled → hunts th
 - **Language:** lean on Swahili for places, ranks, programs (*Kuruka*, *Mwangaza*).
 - **Genre:** East-African political thriller — president, war, military coup.
 
-## Open ruling needed
-- **Kali "the Albino" Mwangi (Kenya)** is also an albino sound-absorber with an albinism-persecution backstory and has her own standalone prose. She may be the **same concept split across drafts**, or a deliberate second character. **Creator must rule: merge into Jawah, or keep both and differentiate** (e.g. Jawah = absorb/silence ≤70 dB; Kali = absorb **and redistribute**). Until ruled, both stay.
+## Kali Mwangi — RESOLVED: merged into Jawah
+Kali "the Albino" Mwangi (Kenya) was an earlier/parallel draft of this same albino-sound-absorber concept. **Creator ruling: merged into Jawah Matu** — Jawah is THE albino sound-absorber of the universe. Kali's standalone prose (in `canon/countries/BATCH_1_CRITICAL_PRESIDENTS.md`) is preserved as an alternate-draft seed; usable beats (nomadic hunted-vigilante texture, grandmother murdered for land) can be folded into Jawah's story as options. *(The "Baraka" sound-absorber in `prose/KAISER_AFRICAN_JOURNEY.md` is also this same character under another draft name.)*
 
 ## Contamination purged (rewrite layer was wrong)
 - ❌ "India / Establishment 24 member" → ✅ Tanzanian, not E24.
