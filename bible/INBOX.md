@@ -2,6 +2,13 @@
 
 Captured so nothing's lost. These get filed into proper entries as we build. Newest first.
 
+## Threads to develop (creator, spoken — timeline-review session)
+- **Deck 52 ↔ Benchley loose connection:** someone on Deck 52 should have a *loose* tie to Todd "Shogun" Benchley. (Benchley is "special" — handle with care.) Develop when the Benchley transcripts arrive.
+- **Character traits = a "secret unlock":** the creator feels the cast lacks a proper *character-traits* structure, and that nailing distinct traits/personality is a hidden key to making them feel alive. Build a character-traits layer into the bible sheet. *(Details later.)*
+- **UN-as-a-joke tonal beat:** the real UN "feels like a joke" — play with that (e.g. a recurring shot of the flags outside the UN) as satire.
+- **Stay art-style-flexible:** don't marry the universe to one visual style.
+- **Benchley S1 season-arc:** creator green-lit "do whatever we gotta do" → going with **Arc C** (officials secretly working *with* the aliens; interlocks with Deck 52 + the supercomputer thread).
+
 ## Fresh character enrichments (creator, spoken)
 - **Rusty Richards** — The yacht party is the first big awards where human artists *beat* the AI music — and they suspect it may be the **last year** they can (the AI songs are getting good). Among the guests is his friend, a **Chicago gangsta/drill rapper ("2 Glocks")**. They're friends because Rusty **vouched for him as a character witness** and helped him beat a case; they later cut a **hit song together**. The media buzzed/sneered about Rusty associating with the rapper "on trial" — and Rusty showed up anyway. *(Already partly in `Episode 0.txt` — 2 Glocks is there.)*
 - **Liu Xiao** — Has **fears that follow him around, literally tethered to him** (a manifested individuality beat — comes LATER, not at the start). Now that he can **see**, he **smokes cigarettes** (creator wants to keep this if we can — wants characters to feel like real individuals).
