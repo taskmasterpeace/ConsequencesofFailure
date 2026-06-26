@@ -12,7 +12,7 @@
 
 | Name (+ aliases / spelling variants) | Faction / Country | Power or role | Canonical source file(s) | Development |
 |---|---|---|---|---|
-| **Rusty Richards** (gf "Sarah"; sister "Emily"; friend "2 Glocks") | USA | Musician who vanished 2 yrs, returned to warn of the Alliance of Four; the foundational spine | `prose/Episode 0.txt` | **SOLID** |
+| **Rusty Richards** ("**the Tomorrow Man**"; gf "Sarah"; sister "Emily"; friend "2 Glocks") | USA | **Non-powered** musician who vanished 2 yrs, returned to warn of the Alliance of Four; the **herald** who rallies world leaders — does NOT command/organize LSWs. The foundational spine | `prose/Episode 0.txt` | **SOLID** |
 | **John Rivers "Stampede"** (sister Det. **Rebecca Carranza**) | USA / rogue vigilante | Ex-LAPD; gravitational field manipulation; hunts the corrupt LAPD "Shooter's Club" for his sister's murder | `canon/characters/Stampede.txt` | **SOLID — but CONTAMINATED downstream:** AI layer renames him **"Marcus Williams"** / sister **"Shanice"** (`BATCH_1`, `NOVEL_PART_2` Ch6). Originals win: **John Rivers / Rebecca Carranza.** |
 | **Kaiser Eziobi** ("The Memory Vessel") | Nigeria / Pan-African movement | Igbo Lagos pilot (~56), hometown **Okigwe**; bonded to "Life Form 0," holds the **memories of the dead**; assassinated by US/Western powers | `canon/characters/Eziobi.txt`, `COF Notes.txt`, `prose/kaiser/MEMORY_VESSEL.md` | **SOLID** (Memory Vessel is definitive) |
 | **Moses Apio** | Uganda / Hand of Uganda | Young **Mbarara** mechanic bonded to the **Atlas Protocol** symbiont (surveillance, regen, shapeshift) | `prose/Atlas Protocol Episodes.txt`, `…notes.txt` | **SOLID** |

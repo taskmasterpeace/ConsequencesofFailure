@@ -67,6 +67,16 @@ A quick heuristic that holds up across the repo:
 - **Sapphire:** **Charles Sapphire** (voice transcribed "Choco" — flagged to double-check the spelling).
 - **Karine Abrahamian:** same person as "Karina" — **name is now KARINE** (Armenia, NuroNuro nano-tech). → *propagate: rename references; reconcile the two backstory versions (art-history student vs linguist).*
 
+**✅ RESOLVED — SuperHero Tactics master-timeline review (creator ruled, this session):**
+- **Aliens = Alliance of FOUR** (the 6-races / "extract our oxygen" draft is dead). Motive: they blame humanity for an energy-species' death → come to stop Earth "polluting space." Named: **The Slaught, The Deep, The Strategist Race** + **one 4th race still UNNAMED** `[TBD — creator to name]` (the "missing race" the creator flagged).
+- **Iron Eaters are NOT one of the Four.** They're a **precursor / scout / "softener" wave** that arrives *before* the main armada (~Year 4) — the advance force an invasion sends ahead. (Still the metal-eating nanites Deck 52 captures & weaponizes into RoboForge v2.)
+- **Zephaniah Mwangaza ≠ a time-traveler.** The "**exactly two time-travelers**" rule holds (Asha = future, the China man = past). Zephaniah is `[PROPOSED]` a **precognitive future-SEER** (perceives branching futures; can project her mind forward to witness, but can't physically travel or bring anything back) **+ mind control.** → `bible/characters/ZEPHANIAH_MWANGAZA.md`.
+- **Sages (reaffirmed):** complete knowledge of **one specific college course** — everything that course would teach. The world reads it as "absolute knowledge of a discipline"; that the **source is a college course is a late reveal.**
+- **Treaty name LOCKED: "Living Super Weapon Threshold Treaty"** (ties to the core term **LSW**; the "Lethal…" variant is retired).
+- **SPEAR vs FIST LOCKED:** Galloway's *vision* is **SPEAR** — an international team where all nations unite against the threat. **The UN rejects it**, so he builds the **US-only fallback = FIST**. **SPEAR is never created** (kill any "UN is forming SPEAR" line). → `bible/factions/FIST_SPEAR.md`.
+- **Rusty Richards LOCKED:** **non-powered.** He's the **herald/prophet** who lobbies world leaders to take the threat seriously — he does **NOT** lead or organize LSWs in battle (corrects master-timeline beat #32). Later epithet: **"the Tomorrow Man."**
+- **Deck 52 founder:** the Benchley draft's "**Daniel Sapphire**, ex-roommate of Vaughn Galloway" = our locked **Charles Sapphire** (confirms the Charles↔Vaughn roommate/rivalry). Use **Charles**, not Daniel, unless re-ruled.
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*

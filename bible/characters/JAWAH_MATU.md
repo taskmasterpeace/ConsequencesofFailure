@@ -17,7 +17,7 @@
 - **Origin:** abducted by **the Grays** during routine guard duty; returned powered. One of only two living "superweapons" in the Tanzanian military.
 
 ## Mentor — Zephaniah Mwangaza
-- **Zephaniah Mwangaza** (Swahili *mwangaza* = "light/radiance") — female soldier; **time-traveler + mind-controller**; one of only **two time-travelers** in the universe (the other is **Asha**, India).
+- **Zephaniah Mwangaza** (Swahili *mwangaza* = "light/radiance") — female soldier; `[PROPOSED]` **precognitive future-seer + mind-controller** — **NOT** a time-traveler (that lane belongs to Asha = future and the China man = past; the "two time-travelers" rule holds). See [[ZEPHANIAH_MWANGAZA]].
 - Loyal soldier who turned quietly against **President Ibrahim Juma** over his war on Uganda. Betrayed by a teammate, jailed, tortured, **decapitated.** Her execution sparks the rebellion.
 - After her death the regime synthesizes an LSW drug, **"Kuruka"** (Swahili "to fly/jump"), from her **cerebral fluid** — ties into the universe-wide LSW-fluid-harvesting thread (the Jackals).
 
