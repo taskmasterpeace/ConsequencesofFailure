@@ -34,14 +34,8 @@ Standing instructions for every session in this repo. Read this first.
 - `reference/` — working docs, backlogs, research, the skills toolkits.
 - `archive/` — old drafts. **Don't trust and don't edit** (preserved history).
 
-## Locked canon (quick reference — don't re-litigate)
-- **Stampede** = **John Rivers** (sister Det. Rebecca Carranza). NOT "Marcus Williams."
-- **Kaiser Eziobi** — hometown **Okigwe**; assassinated by US/Western powers; `MEMORY_VESSEL.md` is definitive.
-- **Jawah Matu** — **Tanzanian** albino sound-absorber (≤70 dB via exposed skin, scales). "Lawal," "Kali Mwangi," "Baraka" all merged into him.
-- **Terror group** spelling = **Akrahuhum**.
-- **Cissy Oliva** (not "Sissy Oliver"). **Sages** = complete knowledge of one college course (the source is a late reveal).
-- **Emily Rhaige** = Charles Sapphire's **fiancée** (not wife). **Todd "Shogun" Benchley** (not "Ravage"); his wife **divorces** him.
-- **Two different "Shooter's Clubs"** exist (corrupt LAPD unit vs Pole Zimmerman's biker gang) — keep them distinct.
+## Locked canon
+The locked rulings are now applied **consistently across the files**, so they no longer need to be re-listed here. The source of truth is **`bible/CANON_STATUS.md`** (rulings + open items) and **`bible/CHARACTER_ROSTER.md`** (every character, aliases merged, conflicts flagged), with per-character notes in **`bible/characters/`**. **Consult those before writing about any character — don't re-derive facts from the AI-rewrite layer.**
 
 ## Git / workflow
 - Commit clean, focused messages. **No "Co-Authored-By" lines** (creator preference).

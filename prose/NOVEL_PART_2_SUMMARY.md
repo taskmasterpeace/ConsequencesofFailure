@@ -7,12 +7,12 @@
 
 ## CHAPTER SUMMARIES
 
-### Chapter 6: Marcus "Stampede" Williams - "The Reckoning"
+### Chapter 6: John "Stampede" Rivers - "The Reckoning"
 **Location:** Chicago, USA
 **Timeline:** Year 2, Month 3
 
 **Key Events:**
-- Marcus attends cousin Shanice's funeral surrounded by the cops who killed her
+- John attends sister Rebecca's funeral surrounded by the cops who killed her
 - Discovers the full extent of his Gray-enhanced powers (super speed, enhanced strength, hardened skin)
 - Confronts and severely injures Officer Headly, writing "I DESERVE BETTER" on his forehead
 - Rejects Kaiser Eziobi's recruitment attempts
@@ -25,7 +25,7 @@
 - Key Quote: "I'm not a hero. I'm a consequence."
 
 **Continuity Notes:**
-- References Rebecca Carranza (from Stampede.txt) as his cousin Shanice in this version
+- References Rebecca Carranza (from Stampede.txt) as his sister (different last names hid the relationship, per Stampede.txt)
 - Sets up eventual confrontation with Kaiser Eziobi (which leads to Kaiser's death)
 - Establishes the "I Deserve Better" movement connection
 - Shows his enhanced abilities: 95 mph running speed, 15-ton lift capacity, bulletproof skin
@@ -42,7 +42,7 @@
 - Learns of coordinated dual attack: stadium ceremony (132,000 attendees) vs. filtration teams
 - Discovers Pakistani LSW defectors are supporting the cult (4 total, not 3)
 - Activates Protocol Garuda (full LSW mobilization across India)
-- Contacts Kaiser Eziobi for support, receives intel about Marcus Williams
+- Contacts Kaiser Eziobi for support, receives intel about John Rivers
 
 **Character Development:**
 - BEFORE: Dutiful soldier still mourning wife Nitya's death
@@ -158,21 +158,21 @@
 ## THEMATIC CONNECTIONS
 
 ### Power Without Consent
-- **Marcus:** Enhanced by Grays, uses it for revenge
+- **John:** Enhanced by Grays, uses it for revenge
 - **Raghavan:** Enhanced by Grays, uses it for duty
 - **Karine:** Knowledge implanted by Grays, exploited by nations
 - **Carlos:** No powers, but political power corrupted by grief
 - **Moses:** Given Atlas Protocol, doesn't want responsibility
 
 ### The Cost of Systems
-- **Marcus:** Police system protects murderers → becomes vigilante
+- **John:** Police system protects murderers → becomes vigilante
 - **Raghavan:** Military system demands impossible choices → sacrifices humanity
 - **Karine:** Academic system expelled her → now everyone wants to exploit her
 - **Carlos:** Political system too slow for justice → declares private war
 - **Moses:** Will be forced into government system despite wanting normalcy
 
 ### Grief as Motivation
-- **Marcus:** Shanice's murder drives his vendetta
+- **John:** Rebecca's murder drives his vendetta
 - **Raghavan:** Nitya's death haunts every decision
 - **Karine:** Grandmother's murder (implied) started her journey
 - **Carlos:** Elena's death transforms him completely
@@ -219,7 +219,7 @@
 - **Brutal Consequences:** Elena's death is sudden, unfair, permanent
 
 ### Tonal Consistency
-- **Chapter 6 (Marcus):** Dark, violent, righteously angry
+- **Chapter 6 (John):** Dark, violent, righteously angry
 - **Chapter 7 (Raghavan):** Melancholic, dutiful, burdened
 - **Chapter 8 (Karine):** Paranoid, morally conflicted, intellectually dazzling
 - **Chapter 9 (Carlos):** Tragic, intimate, breaking point
@@ -237,7 +237,7 @@
 ## CONTINUITY TRACKING
 
 ### From Original Files
-✓ Stampede's sister/cousin killed by corrupt cops
+✓ Stampede's sister killed by corrupt cops
 ✓ Establishment 24's Ganga purification project
 ✓ Karine's plagiarism and poverty backstory
 ✓ Moses at mechanic school with Sam and Mr. Okello
@@ -267,7 +267,7 @@
 
 ## CHARACTER POWER LEVELS (LeFever Scale)
 
-### Marcus "Stampede" Williams
+### John "Stampede" Rivers
 - **Threat Level:** 4
 - **Powers:** Enhanced strength (15 tons), super speed (95 mph), hardened skin (small arms resistant)
 - **Limitations:** High-caliber weapons effective, heat buildup from friction, massive caloric needs
@@ -351,7 +351,7 @@ Based on Chapter 8, **Sages** are LSWs with:
 ## FORESHADOWING & SETUP
 
 ### Seeds Planted for Part 3
-1. **Kaiser's Death:** Marcus rejects his outreach, sets up tragic confrontation
+1. **Kaiser's Death:** John rejects his outreach, sets up tragic confrontation
 2. **Thug Birham Attack:** Raghavan must choose between mission and lives
 3. **NuroNuro Theft:** Multiple nations will try to steal or control Karine
 4. **Sandra's Hunt:** Carlos will pursue the Jackal across Europe
@@ -376,7 +376,7 @@ Based on timeline and foreshadowing:
 
 ### Likely Chapter Focus
 1. **Thug Birham Attack Aftermath** (India)
-2. **Kaiser Eziobi's Death** (Lagos, Nigeria - Marcus confrontation)
+2. **Kaiser Eziobi's Death** (Lagos, Nigeria - John confrontation)
 3. **NuroNuro Heist/War** (International chase)
 4. **Sandra vs. Carlos** (Jackal hunt culmination)
 5. **Moses Becomes Soldier** (Uganda LSW program integration)

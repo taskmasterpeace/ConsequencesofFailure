@@ -1229,16 +1229,16 @@
 - Plan destroyed by Kaiser's assassination
 
 **The Stampede Affair (Year 5):**
-- Public defense of Marcus "Stampede" Williams at African Union summit
+- Public defense of John "Stampede" Rivers at African Union summit
 - Offered sanctuary: "Come to Africa, brother. We understand justice here."
-- Compared Marcus to African liberation fighters
+- Compared Rivers to African liberation fighters
 - Vote failed but enraged United States
 - Direct cause of Kaiser's assassination 4 weeks later
 
 ### THE ASSASSINATION (Year 5):
 
 **Location:** Lagos National Stadium, Nigeria
-**Date:** Year 5 (4 weeks after AU speech, 2 weeks before Marcus's planned arrival)
+**Date:** Year 5 (4 weeks after AU speech, 2 weeks before Rivers's planned arrival)
 **Method:** Single shot, .338 Lapua Magnum, 847 meters
 **Operator:** American (suspected CIA), never identified
 **Cover-up:** Nigerian government complicit, investigation designed to fail
@@ -1277,7 +1277,7 @@
 - **Nigeria's Government:** Embarrassed homeland, secretly relieved by his death
 
 **Complicated:**
-- **Marcus "Stampede" Williams:** Attempted recruitment (Year 2-4), defended publicly (Year 5), never reached Africa (Kaiser died preparing sanctuary), Marcus carries overwhelming guilt
+- **John "Stampede" Rivers:** Attempted recruitment (Year 2-4), defended publicly (Year 5), never reached Africa (Kaiser died preparing sanctuary), Rivers carries overwhelming guilt
 - **Justus:** Pre-symbiont business partner, suicide in prison, Kaiser's unresolved guilt
 - **Cissy Oliva (Uganda):** Offered freedom from Mugisha, she refused (family held hostage), Kaiser's death closed her path to freedom
 - **The Life Form 0 Symbiont:** Partnership or possession? Agenda beyond Kaiser's? Dies with him, mysteries unanswered
@@ -1290,9 +1290,9 @@
 
 **Year 3:** Expansion to 50 villages. Continental tour (23 countries, 47 speeches). Emergence as continental figure. Opposition from corrupt governments and colonial powers. Recruiting Johnny Rain.
 
-**Year 4:** African Union strategy developed. Public endorsement of Johnny for Uganda presidency and AU chairmanship. Meeting with Moses Apio (20 minutes that shaped Moses's path). Mugisha increasingly threatened. Marcus Williams recruitment attempts continue.
+**Year 4:** African Union strategy developed. Public endorsement of Johnny for Uganda presidency and AU chairmanship. Meeting with Moses Apio (20 minutes that shaped Moses's path). Mugisha increasingly threatened. John Rivers recruitment attempts continue.
 
-**Year 5:** African Union speech defending Marcus Williams, offering sanctuary. International fury. USA decides Kaiser must be eliminated. Lagos assassination. Marcus never reaches Africa. Pan-African movement fragments. Johnny Rain loses protection. Continental unity dies. "Laptop and Road" survives as protest slogan.
+**Year 5:** African Union speech defending John Rivers, offering sanctuary. International fury. USA decides Kaiser must be eliminated. Kaiser is assassinated by US/Western powers. John Rivers never reaches Africa. Pan-African movement fragments. Johnny Rain loses protection. Continental unity dies. "Laptop and Road" survives as protest slogan.
 
 **Year 5-8 (Legacy):** Martyrdom makes Kaiser more powerful than life did. Slogan spreads across continent. Young activists continue work. 30 pilot villages sustain programs. Johnny carries forward vision. Moses builds roads "for Kaiser." Movement fragmented but surviving. Vision unrealized but pursuing. Kaiser's ghost fights harder than Kaiser's body ever could.
 
@@ -1311,7 +1311,7 @@
 - Recruitment of Johnny Rain gives musician protection, platform, path to AU chairmanship (destroyed by Kaiser's death)
 - Pan-African network creates alternative to government-controlled LSW programs (fragments after death but survives)
 - "Laptop and Road" pilot programs prove concept works (30 villages continue, evidence endures)
-- Defense of Marcus Williams inspires but gets Kaiser killed (Marcus never reaches Africa, carries guilt)
+- Defense of John Rivers inspires but gets Kaiser killed (Rivers never reaches Africa, carries guilt)
 - 20-minute conversation with Moses shapes how young LSW uses Atlas Protocol (builds infrastructure, not just fights)
 - Continental tour and speeches inspire youth generation (activists continue work after his death)
 - Death removes protection from allies but martyrdom strengthens movement (paradox of assassination)
@@ -1320,7 +1320,7 @@
 - Life Form 0 symbiont bonding gives power to pursue vision (dies with Kaiser, knowledge lost)
 - Justus's pre-symbiont death drives redemption arc (guilt Kaiser carries in collective memory)
 - Johnny Rain's movement validates belief in non-powered leadership (continues after Kaiser's death)
-- Marcus Williams's refusal + American fury lead to assassination (Kaiser defends Marcus anyway, costs his life)
+- John Rivers's refusal + American fury lead to assassination (Kaiser defends Rivers anyway, costs his life)
 - Mugisha's threatened power structure makes Uganda central to struggle (Johnny's campaign continues despite Kaiser's death)
 - US government's fear of Pan-African unity orders elimination (kills man, births legend)
 - African Union's failure to support him proves continental division (guilt shapes Year 6-8 politics)
@@ -1332,7 +1332,7 @@
 - Pan-African unity movement (institutional fragmentation)
 - African Union strategy (Johnny's path to AU chair compromised)
 - Bridge between powered and non-powered (partnership model discredited by assassination)
-- American alternative (Marcus never reaches Africa, no Pan-African refuge from US prosecution)
+- American alternative (John Rivers never reaches Africa, no Pan-African refuge from US prosecution)
 
 **What Survives:**
 - "A laptop for every child, a road to every home" (becomes continental protest slogan)
@@ -1361,7 +1361,7 @@
 - CHARACTER_TIMELINE.md (Major events Year 2-5, Kaiser Legacy Arc)
 - COF_COMPLETE_EXTRACTION.md (Kaiser Main - Nigeria 6 Episode Arc)
 
-**Connected Characters:** Johnny Rain (protégé/legacy bearer), Marcus Williams (defended/guilt), President Mugisha (enemy/beneficiary), Moses Apio (inspired/builds for Kaiser), Hank Foster (mutual respect), Cissy Oliva (offered freedom), progressive African leaders (failed supporters), young activists (continental), US government (assassins)
+**Connected Characters:** Johnny Rain (protégé/legacy bearer), John Rivers (defended/guilt), President Mugisha (enemy/beneficiary), Moses Apio (inspired/builds for Kaiser), Hank Foster (mutual respect), Cissy Oliva (offered freedom), progressive African leaders (failed supporters), young activists (continental), US government (assassins)
 
 ---
 
@@ -1480,7 +1480,7 @@
 
 **Enemies:**
 - Vaughn Galloway / SPEAR (former friend, bitter rival)
-- Akrahuhum terrorists (killed his wife Emily)
+- Akrahuhum terrorists (killed his fiancée Emily)
 - Those opposing Deck 52 expansion
 
 ### PERSONALITY:
@@ -1495,10 +1495,10 @@
 **Allies:** Deck 52 personnel, corporate partners
 **Enemies:** Vaughn Galloway (college roommate turned rival), Akrahuhum terrorists
 **Complicated:** Those who remember him and Vaughn as friends, Emily's family
-**Family:** Emily Sapphire (deceased wife—killed by Akrahuhum, drives revenge motivation)
+**Family:** Emily Rhaige (deceased fiancée—killed by Akrahuhum, drives revenge motivation)
 
 ### STORY ARC:
-**Year 0-2:** Charles and Vaughn as college roommates. Taskmaster app partnership fails. Friendship fractures. Charles builds RoboForge. Meets and marries Emily.
+**Year 0-2:** Charles and Vaughn as college roommates. Taskmaster app partnership fails. Friendship fractures. Charles builds RoboForge. Meets and becomes engaged to Emily.
 
 **Year 2-4:** Akrahuhum terrorist attack kills Emily. Charles's grief and rage. Deck 52 formation as rival to Vaughn's SPEAR. Revenge mission against Akrahuhum. Technology development accelerates.
 
@@ -1522,7 +1522,7 @@
 
 ### CROSS-REFERENCES:
 **Appears In:** characters.json
-**Connected Characters:** Vaughn Galloway (rival), Emily Sapphire (deceased wife), Deck 52 members
+**Connected Characters:** Vaughn Galloway (rival), Emily Rhaige (deceased fiancée), Deck 52 members
 
 ---
 

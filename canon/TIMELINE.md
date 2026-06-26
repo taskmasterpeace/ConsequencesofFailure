@@ -30,7 +30,7 @@ Pre-invasion period. Humanity unaware of the coming threat. Ancient alien contac
 - **Vaughn Galloway (USA)** - Building FIST (First Infantry Strike Team), secretly forming anti-alien organization
 - **Todd "Shogun" Benchley (USA)** - Works with Galloway, doesn't know FIST's true purpose yet
 - **Charles Sapphire (USA)** - Best friends with Vaughn, partner in Taskmaster app
-- **Emily Sapphire (USA)** - Charles's fiancée, alive during this period
+- **Emily Rhaige (USA)** - Charles Sapphire's fiancée, alive during this period
 
 ### Status: [CANON]
 
@@ -153,15 +153,15 @@ Every government scrambles to identify their Living Super Weapons:
 
 **Status:** Fugitive, wanted by law enforcement
 
-#### KALI MWANGI (Kenya)
-**[CANON] - Sound Powers**
+#### KALI MWANGI (alternate-draft seed — MERGED INTO JAWAH MATU, Tanzania)
+**[ALTERNATE DRAFT] - Sound Powers** *(per creator ruling, the universe's single albino sound-absorber is **Jawah Matu** of Tanzania; "Kali Mwangi" / Kenya was an earlier draft of the same concept and is merged into him — see `bible/characters/JAWAH_MATU.md`. Beats below kept as options.)*
 
 **Return from Abduction:**
 - 79-day abduction cycle
 - Returns with sound-based powers
 - Takes revenge on grandmother's killer (developer in Nakuru)
 
-**Status:** Targeted by Kenyan government and SPEAR
+**Status:** Targeted by government and SPEAR (folded into Jawah Matu's hunted-fugitive arc)
 
 #### YAEL MORDECHAI (Israel)
 **[CANON] - Probability Powers**
@@ -314,7 +314,7 @@ Every government scrambles to identify their Living Super Weapons:
 - Gives them funding and reach to "really go crazy"
 
 **THE TRAGEDY:**
-- That terrorist organization later **kills Charles's wife Emily**
+- That terrorist organization later **kills Charles's fiancée Emily**
 - Happens while Vaughn and Charles already feuding
 - Makes split permanent and personal
 
@@ -357,7 +357,7 @@ Every government scrambles to identify their Living Super Weapons:
 **[CANON] - Pan-African Vision**
 
 **Age:** 56 years old
-**Background:** Igbo helicopter pilot from Lagos
+**Background:** Igbo helicopter pilot from Okigwe
 **Status:** Alive and active during Year 2
 
 **Powers - Collective Memory:**
@@ -371,7 +371,7 @@ Every government scrambles to identify their Living Super Weapons:
 **Activities Year 2:**
 - Building Pan-African LSW network
 - Recruiting Johnny Rain for movement
-- First recruitment attempts with Marcus Williams
+- First recruitment attempts with John Rivers (Stampede)
 - Philosophical approach to LSW cooperation
 
 **Assassination:** Year 5 (see below)
@@ -638,7 +638,7 @@ Every government scrambles to identify their Living Super Weapons:
 - Kaiser publicly defends him and offers sanctuary, mocking the American response
 - **Stampede never reaches Africa**—he remains a domestic fugitive (LAPD → NYPD)
 - American/Western intelligence orders Kaiser's assassination
-- **Kaiser is killed in Lagos, Nigeria**
+- **Kaiser is killed in Okigwe, Nigeria**
 
 **Why He Dies:**
 - Kaiser has been taunting America
@@ -1008,7 +1008,7 @@ Every government scrambles to identify their Living Super Weapons:
 2. **Raghavan's journey:** Includes months of isolation and Kedarnath turning point, not immediate recruitment
 3. **Iron Eater arrival:** Year 4 (early), not Year 8
 4. **Virus origin:** Muo Sphere + Iron Eater interaction in China, Liu Xiao's responsibility
-5. **Kaiser's death:** Year 5, Lagos, assassinated by U.S./Western intelligence for defending Stampede (John Rivers never reaches Africa)
+5. **Kaiser's death:** Year 5, Okigwe, assassinated by U.S./Western intelligence for defending Stampede (John Rivers never reaches Africa)
 6. **Sapphire motivation:** Emily's death catalyzes his descent, separate from business betrayal
 
 ### Missing Authoritative Sources

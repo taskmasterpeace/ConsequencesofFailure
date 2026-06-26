@@ -89,11 +89,11 @@ These are **in-universe documents** that can be written as standalone pieces - l
 - **Aswan Dam Bombing** - Live coverage as it unfolds
 - **Documentary Review** - Investigative journalists prove Awakener didn't cause Aswan collapse
 - **War Outbreak Venezuela** - Government LSW vs self-assembled LSW, people back the heroes
-- **Shooters Club Attacks** - Attack on prominent African American LSW activist home
+- **Shooter's Club Attacks** - Attack on prominent African American LSW activist home (this is the Pole Zimmerman vigilante/biker "Shooter's Club" — a DISTINCT group from the corrupt LAPD anti-gang unit in Stampede's story; keep separate)
 - **College Suicide News** - Young man's suicide, academic struggles, unknown parent origins, roommate disappeared (Mexico Kid's college)
 - **FTL Rocket Launch** - US first faster-than-light ship (podcast transcript)
 - **"Are LSW the Antichrist?"** - Non-reputable news source article
-- **Newspaper Ad** - Shooters Club recruitment, "patriotic Americans to defend old ways"
+- **Newspaper Ad** - Shooter's Club recruitment, "patriotic Americans to defend old ways" (Pole Zimmerman vigilante group, NOT the corrupt LAPD unit)
 
 ### Interviews & Opinion Pieces
 - **Marietta Stefanos Interview** - Tabloid about life, husband, fashion, diet

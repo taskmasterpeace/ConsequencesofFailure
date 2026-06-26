@@ -190,32 +190,32 @@
 
 ## THE STAMPEDE AFFAIR - KAISER'S FATAL MISTAKE
 
-### Background: Marcus "Stampede" Williams Crisis (Year 5)
+### Background: John "Stampede" Rivers Crisis (Year 5)
 
 **The American Situation:**
-- Marcus Williams = Black American LSW hunting corrupt cops
-- Cousin Shanice murdered by police, cover-up exposed
-- Marcus returns from Grey abduction with powers
+- John Rivers = Black American LSW hunting corrupt cops
+- Sister, Det. Rebecca Carranza, murdered by police, cover-up exposed
+- John returns from Grey abduction with powers
 - Systematically kills corrupt officers involved
 - American media: "Terrorist," "Supervillain," "Public Enemy #1"
 - Black community divided: Terrorist or justified avenger?
 - International Black community watching closely
 
 **Kaiser's Perspective:**
-- Sees Marcus through collective memory lens
+- Sees John through collective memory lens
 - Remembers every African resistance fighter colonial powers called "terrorist"
 - Remembers every justified uprising labeled "criminality"
-- Sees Marcus as modern manifestation of resistance to oppression
-- Believes Marcus being prosecuted for what system should have fixed
+- Sees John as modern manifestation of resistance to oppression
+- Believes John being prosecuted for what system should have fixed
 - Thinks: "America calls him villain because he demands justice they won't give"
 
 **Kaiser's Attempted Recruitment (Years 2-4):**
-- Reached out to Marcus multiple times
+- Reached out to John multiple times
 - "Africa needs heroes. Real ones. Not more violence."
 - Philosophical debates about justice vs. revenge
-- Marcus respected Kaiser but refused recruitment
+- John respected Kaiser but refused recruitment
 - "I can give you purpose beyond revenge" - Kaiser's pitch
-- Marcus: "My purpose IS revenge. System killed Shanice."
+- John: "My purpose IS revenge. System killed Rebecca."
 - Relationship: Mutual respect, different paths
 
 ### THE SPEECH THAT KILLED HIM
@@ -229,25 +229,25 @@
 *Opening:*
 "Brothers and sisters of Africa, today I speak about justice. Not the justice of colonial courts, not the justice of corrupt police, but the justice our ancestors knew - the justice of truth."
 
-*The Marcus Williams Declaration:*
+*The John Rivers Declaration:*
 "In America, they hunt a man they call 'Stampede.' They call him terrorist. They call him supervillain. They call him threat to public safety. I call him brother."
 
 *The Justification:*
-"Marcus Williams's cousin - a young woman named Shanice - was murdered by police officers. Not killed in crossfire. Not caught in dangerous situation. Murdered. For investigating their corruption. The system covered it up. Protected the killers. Denied justice."
+"John Rivers's sister - a detective named Rebecca Carranza - was murdered by police officers. Not killed in crossfire. Not caught in dangerous situation. Murdered. For investigating their corruption. The system covered it up. Protected the killers. Denied justice."
 
 *The Comparison:*
-"How many of us sit in seats of power because our grandparents were called 'terrorists' by colonial powers? How many liberation fighters did they label 'criminals' before we called them heroes? The only difference between Patrice Lumumba and Marcus Williams is that Lumumba fought white oppressors, and Marcus fights the system that protects white oppressors."
+"How many of us sit in seats of power because our grandparents were called 'terrorists' by colonial powers? How many liberation fighters did they label 'criminals' before we called them heroes? The only difference between Patrice Lumumba and John Rivers is that Lumumba fought white oppressors, and John fights the system that protects white oppressors."
 
 *The Invitation:*
-"I say to the African Union: We know what it is to be denied justice. We know what it is to watch killers walk free while those who fight back are hunted. Marcus Williams is no terrorist. He is what happens when justice systems fail their people completely."
+"I say to the African Union: We know what it is to be denied justice. We know what it is to watch killers walk free while those who fight back are hunted. John Rivers is no terrorist. He is what happens when justice systems fail their people completely."
 
-"Therefore, I propose: The African Union offers sanctuary to Marcus Williams. Come to Africa, brother. We understand what they call 'terrorism' and we call 'justice.' If America will not give Black people accountability, Africa will give Black people home."
+"Therefore, I propose: The African Union offers sanctuary to John Rivers. Come to Africa, brother. We understand what they call 'terrorism' and we call 'justice.' If America will not give Black people accountability, Africa will give Black people home."
 
 *The Challenge:*
-"I invite Marcus Williams publicly: Come to Africa. We welcome you. Your fight for justice is our fight. The American brother they call 'Stampede' is no criminal - he is what happens when patience runs out. He is what happens when peaceful protest means nothing. He is what happens when the system tells you: 'Your sister's life doesn't matter.'"
+"I invite John Rivers publicly: Come to Africa. We welcome you. Your fight for justice is our fight. The American brother they call 'Stampede' is no criminal - he is what happens when patience runs out. He is what happens when peaceful protest means nothing. He is what happens when the system tells you: 'Your sister's life doesn't matter.'"
 
 *The Declaration:*
-"African Union, I call for vote: Grant Marcus Williams refugee status under political asylum. Let the world see that Africa stands with those who demand justice, even when that justice makes powerful nations uncomfortable."
+"African Union, I call for vote: Grant John Rivers refugee status under political asylum. Let the world see that Africa stands with those who demand justice, even when that justice makes powerful nations uncomfortable."
 
 **The Vote:**
 - Progressive African nations: Support (12 votes)
@@ -261,9 +261,9 @@
 **United States Response (Immediate):**
 
 *White House Statement:*
-"The United States is deeply disappointed and disturbed by Mr. Eziobi's characterization of a known domestic terrorist as a 'freedom fighter.' Marcus Williams is wanted for the murders of seven American law enforcement officers. His crimes have nothing to do with justice and everything to do with vigilante violence."
+"The United States is deeply disappointed and disturbed by Mr. Eziobi's characterization of a known domestic terrorist as a 'freedom fighter.' John Rivers is wanted for the murders of seven American law enforcement officers. His crimes have nothing to do with justice and everything to do with vigilante violence."
 
-"Any nation offering sanctuary to Marcus Williams will be considered to be harboring a terrorist. We expect our African partners to reject this dangerous and irresponsible proposal. The United States will remember who stands with terrorists and who stands with law and order."
+"Any nation offering sanctuary to John Rivers will be considered to be harboring a terrorist. We expect our African partners to reject this dangerous and irresponsible proposal. The United States will remember who stands with terrorists and who stands with law and order."
 
 *Behind Closed Doors (Classified):*
 - President to National Security Council: "Kaiser Eziobi is a threat to American interests"
@@ -326,12 +326,12 @@
 - Diaspora organizations offer funding, support
 
 *African Americans:*
-- Community divided on Marcus
+- Community divided on John
 - But united on Kaiser's right to speak
-- "Even if you disagree on Marcus, Kaiser right about justice denied"
+- "Even if you disagree on John, Kaiser right about justice denied"
 - Black intellectual community debates for weeks
 
-### MARCUS WILLIAMS'S RESPONSE
+### JOHN RIVERS'S RESPONSE
 
 **Initial Reaction (Year 5, days after speech):**
 - Deeply conflicted
@@ -348,31 +348,31 @@
 - "Maybe I should go to Africa. Maybe there's purpose beyond revenge."
 
 **The Decision:**
-- Marcus begins researching Pan-African movement
+- John begins researching Pan-African movement
 - Reads about Kaiser's laptop/road program
 - Learns about Zuma Rock symbiont, collective memory
-- Thinks: "He speaks for the dead. Like I speak for Shanice."
+- Thinks: "He speaks for the dead. Like I speak for Rebecca."
 - Decides: "I'll go to Africa. Not to hide. To fight for something bigger."
 
 **The Communication:**
-- Marcus sends encrypted message to Kaiser (Year 5, 3 weeks before assassination)
+- John sends encrypted message to Kaiser (Year 5, 3 weeks before assassination)
 - "You defended me when no one else would. I'm coming to Africa. Tell me where."
 - Kaiser's response: "Wait. Let me prepare safe passage. One month."
-- Marcus: "One month. Then I'm coming whether you're ready or not."
+- John: "One month. Then I'm coming whether you're ready or not."
 
 **The Timing:**
 - Kaiser needs time to arrange extraction from USA
 - Safe house network across Atlantic
 - Documents, new identity
 - Announcement strategy to maximize PR impact
-- Protection once Marcus arrives
+- Protection once John arrives
 
 **The Tragedy:**
-- Kaiser killed before Marcus can arrive
-- Marcus never makes it to Africa
+- Kaiser killed before John can arrive
+- John never makes it to Africa
 - Collective memory dies with Kaiser
 - Pan-African sanctuary dies with Kaiser
-- Marcus's chance at redemption dies with Kaiser
+- John's chance at redemption dies with Kaiser
 
 ---
 
@@ -443,7 +443,7 @@ Kaiser addressing crowd:
 **Evidence of American Involvement (Never Proven):**
 - Operator's weapon: American-made, available only to military/intelligence
 - Extraction method: Professional CIA tradecraft
-- Timing: 3 weeks after Stampede speech, 2 weeks before Marcus's planned arrival
+- Timing: 3 weeks after Stampede speech, 2 weeks before John's planned arrival
 - CIA station chief in Lagos "on vacation" day of assassination
 - Nigerian intelligence "cooperated fully" (with Americans, not investigation)
 - No paper trail, no communications intercepts, no witnesses
@@ -552,7 +552,7 @@ Conservative Bloc:
 - Go underground: Lose public platform
 - Continue openly: Require courage he's never needed before
 
-**Marcus "Stampede" Williams's Response:**
+**John "Stampede" Rivers's Response:**
 
 *Immediate Reaction:*
 - Learns of Kaiser's death on news
@@ -571,7 +571,7 @@ Conservative Bloc:
 *The Guilt:*
 - Internal spiral
 - "Everything I touch dies"
-- "Shanice died because of me. Kaiser died because of me."
+- "Rebecca died because of me. Kaiser died because of me."
 - "Am I the villain they say I am?"
 - "Kaiser tried to save me. I got him killed."
 
@@ -671,7 +671,7 @@ Johnny Rain: Unarmed, unprotected, unbowed
 - Humans become more resentful
 
 *The American Alternative:*
-- Marcus Williams never reaches Africa
+- John Rivers never reaches Africa
 - No sanctuary for those fighting American injustice
 - No Pan-African LSW network as counter to SPEAR/Deck 52
 - Africa remains divided in global LSW politics
@@ -923,21 +923,21 @@ Every African youth post-Kaiser dreams:
 
 ### COMPLICATED (The Unfinished Stories)
 
-**Marcus "Stampede" Williams - The Failed Recruitment:**
-- Years 2-4: Kaiser tried to recruit Marcus
+**John "Stampede" Rivers - The Failed Recruitment:**
+- Years 2-4: Kaiser tried to recruit John
 - "I can give you purpose beyond revenge"
 - Philosophical debates: Justice vs. vengeance
-- Marcus respected Kaiser, refused recruitment
+- John respected Kaiser, refused recruitment
 - "My purpose IS revenge"
 - Mutual respect despite disagreement
 
-- Year 5: Kaiser defended Marcus publicly
+- Year 5: Kaiser defended John publicly
 - Stampede sanctuary offer
 - "Come to Africa, brother"
-- Marcus decided to accept
-- Kaiser killed before Marcus arrived
+- John decided to accept
+- Kaiser killed before John arrived
 - Relationship: What could have been
-- Marcus's guilt: "He died defending me"
+- John's guilt: "He died defending me"
 
 **Justus - The Ghost:**
 - Pre-symbiont best friend and business partner
@@ -1048,9 +1048,9 @@ Every African youth post-Kaiser dreams:
 - Partnership formed
 
 **Stampede Outreach Begins (Year 2):**
-- Reaches out to Marcus Williams
+- Reaches out to John Rivers
 - "Africa needs heroes, not more violence"
-- Marcus refuses but engages philosophically
+- John refuses but engages philosophically
 - Years of debate ensue
 - Mutual respect grows
 - Relationship unresolved when Kaiser dies
@@ -1086,18 +1086,18 @@ Every African youth post-Kaiser dreams:
 
 ### Year 5: The Fatal Year
 **The Stampede Speech (African Union Summit):**
-- Defends Marcus Williams publicly
+- Defends John Rivers publicly
 - Offers African sanctuary
 - Challenges American narrative
 - Vote fails but damage done
 - "America will never forgive this"
 
-**Marcus's Decision:**
+**John's Decision:**
 - Encrypted message: "I'm coming to Africa"
 - Kaiser: "Give me one month to prepare"
 - Plans extraction, safe houses, documents
 - Never gets the chance
-- Killed 2 weeks before Marcus's arrival
+- Killed 2 weeks before John's arrival
 
 **The Assassination (Lagos):**
 - Invited to rally by CIA front group
@@ -1146,7 +1146,7 @@ Every African youth post-Kaiser dreams:
 
 **Primary Connections:**
 1. Johnny Rain (Uganda) - Protégé, political ally, legacy bearer
-2. Marcus "Stampede" Williams (USA) - Failed recruitment, defender, indirect cause of death
+2. John "Stampede" Rivers (USA) - Failed recruitment, defender, indirect cause of death
 3. President Mugisha (Uganda) - Enemy, threatened by Kaiser's backing of Johnny
 4. Moses Apio (Uganda) - Young LSW inspired by Kaiser's vision
 
@@ -1200,7 +1200,7 @@ Every African youth post-Kaiser dreams:
 - Right vision, wrong time
 - Killed before seeing dream realized
 - Johnny never reaches AU
-- Marcus never reaches Africa
+- John never reaches Africa
 - Unity dies with him
 
 **The Hope:**
@@ -1221,7 +1221,7 @@ Every African youth post-Kaiser dreams:
    - Dead: Kaiser is inspirational
    - Does change require sacrifice?
 
-3. **Would Marcus have found redemption in Africa?**
+3. **Would John have found redemption in Africa?**
    - Kaiser died preparing for him
    - What could have been?
 
@@ -1249,7 +1249,7 @@ Every African youth post-Kaiser dreams:
 
 **Personal Level:**
 - Johnny Rain's character arc impossible without Kaiser
-- Marcus Williams carries guilt for Kaiser's death
+- John Rivers carries guilt for Kaiser's death
 - Moses Apio shaped by single conversation
 - Thousands inspired by his vision
 

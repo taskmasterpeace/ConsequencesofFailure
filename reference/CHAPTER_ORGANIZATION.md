@@ -95,7 +95,7 @@ Saying "Chapter 2" is confusing because:
 
 ### JACKALS EVERYWHERE
 - **3.1 - Global: The Hunting Season** (LSW hunting LSW, paranoia peaks)
-- **3.2 - Stampede: The Hunted** (Marcus Williams on the run)
+- **3.2 - Stampede: The Hunted** (John Rivers on the run)
 
 ### KAISER'S MOVEMENT
 - **3.3 - Kaiser: The Laptop and Road** (Pan-African infrastructure plan)

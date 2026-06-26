@@ -41,13 +41,13 @@
 - Johnny Rain recruitment and nomination plan
 
 **PART II: THE STAMPEDE AFFAIR (YEAR 5)**
-- Marcus Williams background and crisis
+- John Rivers background and crisis
 - Kaiser's perspective on justice vs. terrorism
-- Full text of African Union speech (Kaiser defending Marcus)
-- International reactions (USA, Europe, Africa, Marcus)
+- Full text of African Union speech (Kaiser defending John)
+- International reactions (USA, Europe, Africa, John)
 - The vote (12 For, 18 Against, 25 Abstain - FAILED)
-- Marcus's decision to come to Africa
-- Kaiser's preparation for Marcus's arrival
+- John's decision to come to Africa
+- Kaiser's preparation for John's arrival
 
 **PART III: THE ASSASSINATION (YEAR 5, DAY 28)**
 - The Lagos trap (CIA front organization)
@@ -57,7 +57,7 @@
 - Kaiser's last moment: "A laptop for every—"
 - Body and symbiont death
 - Investigation that goes nowhere
-- Marcus Williams's response (guilt, rage, choices)
+- John Rivers's response (guilt, rage, choices)
 
 **PART IV: THE CONTINENTAL CRISIS (YEAR 5-6)**
 - Nigeria's impossible position
@@ -82,7 +82,7 @@
 
 **PART VI: IMPACT ANALYSIS (5+ CHARACTERS)**
 Detailed impact on:
-1. Marcus "Stampede" Williams (guilt, choices, permanent changes)
+1. John "Stampede" Rivers (guilt, choices, permanent changes)
 2. Johnny Rain (loss of protection, maturation, legacy-bearing)
 3. President Mugisha (opportunity seized, long-term fear)
 4. Moses Apio (20-minute conversation that changed everything)
@@ -175,9 +175,9 @@ Full text included in THE_AFRICAN_UNION_CRISIS.md, key excerpts:
 
 "In America, they hunt a man they call 'Stampede.' They call him terrorist. They call him supervillain. I call him brother."
 
-"How many of us sit in seats of power because our grandparents were called 'terrorists' by colonial powers? The only difference between Patrice Lumumba and Marcus Williams is that Lumumba fought white oppressors, and Marcus fights the system that protects white oppressors."
+"How many of us sit in seats of power because our grandparents were called 'terrorists' by colonial powers? The only difference between Patrice Lumumba and John Rivers is that Lumumba fought white oppressors, and John fights the system that protects white oppressors."
 
-"Therefore, I propose: The African Union offers sanctuary to Marcus Williams. Come to Africa, brother. We understand justice here. If America will not give Black people accountability, Africa will give Black people home."
+"Therefore, I propose: The African Union offers sanctuary to John Rivers. Come to Africa, brother. We understand justice here. If America will not give Black people accountability, Africa will give Black people home."
 
 **The Vote:**
 - For: 12 nations (progressive bloc)
@@ -190,8 +190,8 @@ Full text included in THE_AFRICAN_UNION_CRISIS.md, key excerpts:
 - "Kaiser Eziobi is a threat to American interests"
 - Decision made: Eliminate Kaiser
 - 4 weeks later: Assassination in Lagos
-- 2 weeks before Marcus's planned arrival to Africa
-- Marcus never makes it (Kaiser died preparing sanctuary)
+- 2 weeks before John's planned arrival to Africa
+- John never makes it (Kaiser died preparing sanctuary)
 
 ### THE ASSASSINATION (YEAR 5)
 
@@ -232,7 +232,7 @@ Full text included in THE_AFRICAN_UNION_CRISIS.md, key excerpts:
 - Arrests: 6 local criminals (no connection, later acquitted)
 - US relationship: Protected (economic dependence)
 
-### MARCUS WILLIAMS'S RESPONSE
+### JOHN RIVERS'S RESPONSE
 
 **Learning of Kaiser's Death:**
 - Watching news in Detroit safe house
@@ -244,9 +244,9 @@ Full text included in THE_AFRICAN_UNION_CRISIS.md, key excerpts:
 **The Note (Written, Never Sent):**
 Included in full in THE_AFRICAN_UNION_CRISIS.md, key excerpt:
 
-"Kaiser, you defended me. You died for it. You offered me home. You died before I could get there... I am sorry. I am so fucking sorry. You tried to save me and I got you killed instead. You deserved better. Africa deserved better. Marcus Williams—the cop-killer, the terrorist, the monster—is not worth Kaiser Eziobi's life."
+"Kaiser, you defended me. You died for it. You offered me home. You died before I could get there... I am sorry. I am so fucking sorry. You tried to save me and I got you killed instead. You deserved better. Africa deserved better. John Rivers—the cop-killer, the terrorist, the monster—is not worth Kaiser Eziobi's life."
 
-**Marcus's Choice (Year 6) - USER DECISION POINT:**
+**John's Choice (Year 6) - USER DECISION POINT:**
 
 **Option A: Turns Himself In**
 - Honors Kaiser's faith in redemption
@@ -340,7 +340,7 @@ Kaiser: "Because you fix things. Africa needs fixing. Not LSW fixing—anyone wi
 2. Pan-African unity movement (institutional fragmentation)
 3. African Union strategy (Johnny's AU chair path compromised)
 4. Bridge between powered and non-powered (partnership model discredited)
-5. American alternative (Marcus never reaches Africa, no refuge from US)
+5. American alternative (John never reaches Africa, no refuge from US)
 
 **What Survives:**
 1. **The Slogan:** "A laptop for every child, a road to every home"
@@ -457,7 +457,7 @@ For long-term legacy: YES
 
 ### 8. UNITED STATES GOVERNMENT
 - **Before Kaiser:** Comfortable African relationships, divided continent easy to manage, LSW hegemony unchallenged
-- **During Kaiser:** Increasing concern, Pan-African unity threatens control, Marcus sanctuary offer = final straw
+- **During Kaiser:** Increasing concern, Pan-African unity threatens control, John sanctuary offer = final straw
 - **After Assassination:** Short-term: Threat eliminated, Africa remains divided; Long-term: Martyrdom makes Kaiser stronger, youth radicalized against America, soft power damaged
 - **Permanent Change:** Strategic blunder - killed the man, birthed the legend; removed threat, created cause; won battle, losing war; Year 8: Divided Africa weakens global defense during invasion (US assassination contributed)
 
@@ -471,7 +471,7 @@ For long-term legacy: YES
 
 "A laptop for every child, a road to every home—this is not radical. This is basic."
 
-"They call me terrorist-sympathizer for recognizing Marcus Williams's humanity. I call them terrorist-enablers for protecting systems that murder and call it justice."
+"They call me terrorist-sympathizer for recognizing John Rivers's humanity. I call them terrorist-enablers for protecting systems that murder and call it justice."
 
 "Africa deserves better. Say it with me: Africa deserves better. Now let us make it so."
 
@@ -485,7 +485,7 @@ Last words: "A laptop for every—"
 
 "A laptop for every child! A road to every home! This was Kaiser's vision. This is now OUR vision."
 
-**Marcus Williams (Unsent Note):**
+**John Rivers (Unsent Note):**
 
 "You defended me. You died for it... I am sorry. I am so fucking sorry."
 
@@ -508,7 +508,7 @@ Last words: "A laptop for every—"
 - "Laptop and Road" concept proven
 - Media campaign begins
 - Nigeria exile
-- Marcus Williams recruitment attempts begin
+- John Rivers recruitment attempts begin
 
 **YEAR 3 (Expansion):**
 - 50 villages across 12 countries
@@ -522,15 +522,15 @@ Last words: "A laptop for every—"
 - Public endorsement of Johnny for Uganda presidency
 - Meeting with Moses Apio (20 minutes)
 - Mugisha increasingly threatened
-- Marcus recruitment continues
+- John recruitment continues
 
 **YEAR 5 (Crisis):**
-- African Union speech defending Marcus Williams
+- African Union speech defending John Rivers
 - Stampede sanctuary offer
 - International fury
 - USA decides Kaiser must be eliminated
 - **Assassination (Lagos, Day 28)**
-- Marcus never reaches Africa
+- John never reaches Africa
 - Pan-African movement fragments
 - Johnny loses protection
 - Continental unity dies
@@ -580,7 +580,7 @@ Last words: "A laptop for every—"
 - Right vision, wrong time
 - Killed before seeing dream realized
 - Johnny never reaches AU
-- Marcus never reaches Africa
+- John never reaches Africa
 - Unity dies with him
 - But legacy survives
 
@@ -626,7 +626,7 @@ Reality:
 
 ### Characters Directly Affected:
 1. Johnny Rain (protégé, legacy bearer)
-2. Marcus "Stampede" Williams (defended, guilt)
+2. John "Stampede" Rivers (defended, guilt)
 3. President Mugisha (enemy, beneficiary)
 4. Moses Apio (inspired, builds for Kaiser)
 5. Hank "Crossfire" Foster (mutual respect, inspired)
@@ -638,13 +638,13 @@ Reality:
 - Johnny Rain's presidential campaign (Year 5-6)
 - Uganda's political future (Mugisha vs. resistance)
 - African Union politics (Year 5-8)
-- Marcus Williams's choice (Year 6)
+- John Rivers's choice (Year 6)
 - Pan-African LSW cooperation (fragmented)
 - Youth movements (radicalized)
 - Alien invasion response (weakened by division)
 
 ### Thematic Connections:
-- Justice vs. order (Kaiser-Marcus parallel)
+- Justice vs. order (Kaiser-John parallel)
 - Powered vs. non-powered leadership (Kaiser-Johnny model)
 - Individual vs. system (Kaiser challenges structures)
 - Martyrdom vs. pragmatism (death strengthens movement)
@@ -692,7 +692,7 @@ To:
 2. Political thriller (AU crisis, assassination, international conspiracy)
 3. Martyrdom arc (dead Kaiser more powerful than living)
 4. Youth movement (Kaiser generation)
-5. Moral complexity (was defending Marcus worth Kaiser's life?)
+5. Moral complexity (was defending John worth Kaiser's life?)
 6. Continental scope (affects all of Africa, not just Nigeria)
 7. Long-term impact (Year 6-8 haunted by Kaiser's ghost)
 8. Hope amid tragedy (vision survives, movement continues)

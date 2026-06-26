@@ -307,17 +307,17 @@
 ## YEAR 5: KAISER'S ASSASSINATION
 
 ### THE AFRICAN UNION SPEECH:
-**Kaiser's Defense of Marcus Williams:**
-- Year 5: Kaiser gives speech defending Marcus "Stampede" Williams
-- Offers Marcus sanctuary in Africa
+**Kaiser's Defense of John Rivers:**
+- Year 5: Kaiser gives speech defending John "Stampede" Rivers
+- Offers Rivers sanctuary in Africa
 - International fury at Kaiser's defiance
 - USA decides: Kaiser must be eliminated
-- Kaiser preparing safe passage for Marcus
+- Kaiser preparing safe passage for Rivers
 
 **The Lagos Assassination:**
 - Kaiser assassinated in Lagos, Nigeria
 - News hits like earthquake across continent
-- Marcus never reaches Africa
+- Rivers never reaches Africa
 - Pan-African movement fragments
 - Continental unity dies
 - "Laptop and Road" survives as protest slogan
@@ -541,7 +541,7 @@
 - Mugisha tries to take credit, Johnny exposes lie
 - Government crackdown, forced briefly underground
 - Kaiser nominates Johnny for continental leadership
-- Year 5: Kaiser's African Union speech defending Marcus Williams
+- Year 5: Kaiser's African Union speech defending John Rivers
 - Kaiser assassinated in Lagos
 - Johnny loses powerful protector
 - Mugisha moves to arrest
@@ -735,7 +735,7 @@
 - Kaiser Eziobi (mentor, protector, friend)
 - President Mugisha (enemy, dictator)
 - Moses Apio (fellow Ugandan, LSW hero)
-- Marcus "Stampede" Williams (Kaiser's other protégé)
+- John "Stampede" Rivers (Kaiser's other protégé)
 - Afyani (wife, rock, savior)
 - Paulo (manager, friend, torture victim)
 - Pan-African movement (Kaiser's legacy)

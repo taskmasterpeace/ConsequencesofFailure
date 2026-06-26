@@ -70,7 +70,7 @@
 **Tone:** Guilt → Revelation → Purpose
 
 **Critical Details:**
-- 56 years old, Igbo from Lagos, identity struggles
+- 56 years old, Igbo from Okigwe (based in Lagos), identity struggles
 - Stopped believing in prayer but goes through motions
 - Life Form 0 gives collective memory of Zuma Rock dead
 - Remembers Justus's suicide after betrayal

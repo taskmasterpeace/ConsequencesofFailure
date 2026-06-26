@@ -406,7 +406,7 @@
 (All except those marked DECEASED below)
 
 ### Deceased Characters (3)
-1. Kaiser Eziobi (Nigeria) - Killed by Stampede in Lagos confrontation
+1. Kaiser Eziobi (Nigeria) - Assassinated by US/Western powers in Lagos (after defending Stampede; Stampede never reached Africa)
 2. Zephaniah Mwangaza (Tanzania) - Circumstances unknown
 3. Liu Xiao's Sister (China) - Death motivates Liu Xiao's LSW journey
 

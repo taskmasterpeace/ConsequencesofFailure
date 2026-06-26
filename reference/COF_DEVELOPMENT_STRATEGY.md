@@ -175,7 +175,7 @@ Not a teaser. Not a "watch the full video" ad. A self-contained scene that makes
 | China (Liu Xiao) | Sharp, clean, anime-influenced | Reserved, precise, quiet intensity | Red, white, neon, rain-grey |
 | Nigeria (Kaiser) | Painterly, textured, warm | Deep West African voice, gravitas | Earth tones, gold, deep green |
 | India (Raghavan/Asha) | Vivid, saturated, mythic | Indian English narrator, layered | Saffron, emerald, gold |
-| Uganda (Johnny/Sissy) | Bright, hopeful, grounded | East African voice, musical rhythm | Warm yellows, sky blue, soil brown |
+| Uganda (Johnny/Cissy) | Bright, hopeful, grounded | East African voice, musical rhythm | Warm yellows, sky blue, soil brown |
 | Mexico (Ramiro/Jance) | Gritty noir, high contrast | Mexican Spanish-inflected English, tense | Black, blood red, dusty orange |
 
 Each storyline looks and sounds like a different show. The unifying thread is the title card, the musical motif, and the overarching countdown: "8 years remain."

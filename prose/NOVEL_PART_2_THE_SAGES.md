@@ -11,39 +11,39 @@
 
 The rain fell like judgment on Graceland Cemetery.
 
-Marcus Williams stood at the back of the crowd, watching his brothers in blue huddle under their umbrellas. They'd come in force—the entire 14th Precinct, dress uniforms crisp despite the downpour. Commissioner Yates himself stood at the graveside, words about honor and sacrifice dripping from his mouth like the rain from the leaves above.
+John Rivers stood at the back of the crowd, watching his brothers in blue huddle under their umbrellas. They'd come in force—the entire 14th Precinct, dress uniforms crisp despite the downpour. Commissioner Yates himself stood at the graveside, words about honor and sacrifice dripping from his mouth like the rain from the leaves above.
 
-Shanice's casket gleamed despite the gray sky. Mahogany. Brass handles. The kind of send-off the department gave when they wanted to look good. When they needed the optics.
+Rebecca's casket gleamed despite the gray sky. Mahogany. Brass handles. The kind of send-off the department gave when they wanted to look good. When they needed the optics.
 
-Marcus's hands curled into fists inside his coat pockets.
+John's hands curled into fists inside his coat pockets.
 
-"Beautiful service," someone murmured beside him. Officer Donnelly, patrol. Worked with Shanice for three years. Probably believed what he was saying. Probably didn't know.
+"Beautiful service," someone murmured beside him. Officer Donnelly, patrol. Worked with Rebecca for three years. Probably believed what he was saying. Probably didn't know.
 
-Marcus said nothing. He watched Headly and Reynolds standing in the second row, heads bowed, hands clasped. Playing their parts perfectly. The grieving colleagues. The shocked witnesses. The officers who'd "tried everything" to save her.
+John said nothing. He watched Headly and Reynolds standing in the second row, heads bowed, hands clasped. Playing their parts perfectly. The grieving colleagues. The shocked witnesses. The officers who'd "tried everything" to save her.
 
-The lie sat heavy on Marcus's tongue. He'd tasted it before—that particular flavor of corruption that disguised itself as procedure. He'd swallowed it himself when his partner planted evidence on a kid in Englewood. When the union rep told him that reporting Hayes for excessive force would "ruin his career." When looking the other way became easier than standing up.
+The lie sat heavy on John's tongue. He'd tasted it before—that particular flavor of corruption that disguised itself as procedure. He'd swallowed it himself when his partner planted evidence on a kid in Englewood. When the union rep told him that reporting Hayes for excessive force would "ruin his career." When looking the other way became easier than standing up.
 
-But this was Shanice.
+But this was Rebecca.
 
-His cousin. His sister in everything but blood. The girl who'd bandaged his knees when they were kids, who'd talked him through his academy fears, who'd texted him just three hours before Headly's bullets found her chest.
+His sister. His sister in name and in blood, though the world never knew it. The girl who'd bandaged his knees when they were kids, who'd talked him through his academy fears, who'd texted him just three hours before Headly's bullets found her chest.
 
 *"Marc, something's off with this stop. Headly's acting weird. Call you after."*
 
 There was no after.
 
-The dashcam footage played in Marcus's mind on endless loop. Shanice's hands raised. Headly's gun drawn. "She's reaching!" Three shots. Shanice falling. Then the throwaway piece—that Saturday night special Headly kept in his trunk—planted in Shanice's purse while Reynolds blocked the camera with his body.
+The dashcam footage played in John's mind on endless loop. Rebecca's hands raised. Headly's gun drawn. "She's reaching!" Three shots. Rebecca falling. Then the throwaway piece—that Saturday night special Headly kept in his trunk—planted in Rebecca's purse while Reynolds blocked the camera with his body.
 
-Marcus had watched that footage forty-seven times before Internal Affairs "lost" it. Before the investigation became a formality. Before the DA—who golfed with the Commissioner—declined to prosecute.
+John had watched that footage forty-seven times before Internal Affairs "lost" it. Before the investigation became a formality. Before the DA—who golfed with the Commissioner—declined to prosecute.
 
 *Insufficient evidence.*
 
-The crowd began to disperse. Shanice's mother collapsed into her sister's arms, her wails cutting through the rain like knives. Marcus started toward her, then stopped. What could he say? That he knew the truth? That he had proof? That the system he'd sworn to serve had murdered her daughter and called it justified?
+The crowd began to disperse. Rebecca's mother collapsed into her sister's arms, her wails cutting through the rain like knives. John started toward her, then stopped. What could he say? That he knew the truth? That he had proof? That the system he'd sworn to serve had murdered her daughter and called it justified?
 
 That he'd stood at the edge of the abyss for eighty-three days, taken by lights he couldn't explain, returned with something burning under his skin that made him *more* than he'd been?
 
-"Williams."
+"Rivers."
 
-Marcus turned. Captain Stokes approached, collar turned up against the rain. His face was stone, but his eyes held something Marcus couldn't quite read.
+John turned. Captain Stokes approached, collar turned up against the rain. His face was stone, but his eyes held something John couldn't quite read.
 
 "Good of you to come," Stokes said.
 
@@ -51,21 +51,21 @@ Marcus turned. Captain Stokes approached, collar turned up against the rain. His
 
 "I know." Stokes glanced toward the dispersing crowd, toward Headly and Reynolds climbing into separate unmarked cars. "Internal Affairs cleared them. Nothing we can do."
 
-Marcus's jaw tightened. "Nothing?"
+John's jaw tightened. "Nothing?"
 
 "The investigation was thorough. The shooting was—"
 
-"Bullshit." The word came out harder than Marcus intended. "You know it. I know it. Everyone in this cemetery knows it."
+"Bullshit." The word came out harder than John intended. "You know it. I know it. Everyone in this cemetery knows it."
 
-Stokes's face darkened. "Watch yourself, Williams. I understand you're grieving, but that kind of talk—"
+Stokes's face darkened. "Watch yourself, Rivers. I understand you're grieving, but that kind of talk—"
 
-"What? What will it do, Captain? Get me transferred? Make me a target?" Marcus stepped closer, rain streaming down his face. "Shanice did everything right. She followed procedure. She was clean, by the book, perfect. And she's dead because Headly's a murderer and Reynolds helped him cover it up."
+"What? What will it do, Captain? Get me transferred? Make me a target?" John stepped closer, rain streaming down his face. "Rebecca did everything right. She followed procedure. She was clean, by the book, perfect. And she's dead because Headly's a murderer and Reynolds helped him cover it up."
 
 "You have proof of that?" Stokes's voice dropped low. "Because unless you can show me something IA missed, you need to stand down. For your own good."
 
-For his own good. Marcus had heard that before. The refrain of the blue wall. The anthem of looking away.
+For his own good. John had heard that before. The refrain of the blue wall. The anthem of looking away.
 
-"Yeah," Marcus said quietly. "I understand."
+"Yeah," John said quietly. "I understand."
 
 He did. Finally. Completely.
 
@@ -75,21 +75,21 @@ The system wasn't broken. It was working exactly as designed.
 
 **South Chicago - That Night**
 
-The warehouse on 47th had been abandoned for six years, since the steel mill closed. Marcus found it three days after he'd woken up on the same street corner where the lights had taken him.
+The warehouse on 47th had been abandoned for six years, since the steel mill closed. John found it three days after he'd woken up on the same street corner where the lights had taken him.
 
-Eighty-three days gone. Vanished in a flash of white that no camera caught, no witness saw. When he came back, his partner Gutierrez hugged him so hard Marcus thought his ribs would crack.
+Eighty-three days gone. Vanished in a flash of white that no camera caught, no witness saw. When he came back, his partner Gutierrez hugged him so hard John thought his ribs would crack.
 
 Except they didn't.
 
 His ribs felt like iron beneath his skin.
 
-Now, in the darkness of the warehouse, Marcus faced the wall he'd been testing himself against for the past two weeks. Concrete block. Three feet thick. Reinforced steel rebar.
+Now, in the darkness of the warehouse, John faced the wall he'd been testing himself against for the past two weeks. Concrete block. Three feet thick. Reinforced steel rebar.
 
-He thought of Shanice. Of Headly's smirk during the investigation. Of the Commissioner's empty words at the funeral.
+He thought of Rebecca. Of Headly's smirk during the investigation. Of the Commissioner's empty words at the funeral.
 
-Marcus hit the wall.
+John hit the wall.
 
-The impact would have shattered a normal man's hand. Instead, the concrete exploded outward, dust and debris erupting in a cloud that choked the air. Marcus pulled his fist back, knuckles unmarked, and stared at the crater he'd made.
+The impact would have shattered a normal man's hand. Instead, the concrete exploded outward, dust and debris erupting in a cloud that choked the air. John pulled his fist back, knuckles unmarked, and stared at the crater he'd made.
 
 Six feet deep. The rebar twisted like taffy.
 
@@ -99,11 +99,11 @@ He'd known he was stronger. The Grays—those alien things that had taken him—
 
 But this?
 
-Marcus ran. Not jogging. *Running.* His legs pumped like pistons, feet barely touching ground, the warehouse blurring around him as he circled it once, twice, faster, faster, until the wind screamed and his lungs burned and he had to stop before he ran through the walls.
+John ran. Not jogging. *Running.* His legs pumped like pistons, feet barely touching ground, the warehouse blurring around him as he circled it once, twice, faster, faster, until the wind screamed and his lungs burned and he had to stop before he ran through the walls.
 
 He checked his watch. Forty seconds. He'd just run three miles in forty seconds.
 
-The warehouse creaked in the sudden stillness. Marcus bent over, hands on knees, breathing hard but not as hard as he should be. His body recovered too fast. His heart already slowing to normal. The burning in his muscles already fading.
+The warehouse creaked in the sudden stillness. John bent over, hands on knees, breathing hard but not as hard as he should be. His body recovered too fast. His heart already slowing to normal. The burning in his muscles already fading.
 
 He straightened, looking at his hands in the dim light filtering through the broken windows.
 
@@ -121,11 +121,11 @@ Someone had to make Headly and Reynolds face what they'd done.
 
 Someone had to show the world that the blue wall wasn't invincible.
 
-Marcus pulled out his phone. Opened the encrypted backup of Shanice's dashcam footage he'd saved before IA seized the original. Watched it one more time. Memorized every frame. Every lie. Every detail.
+John pulled out his phone. Opened the encrypted backup of Rebecca's dashcam footage he'd saved before IA seized the original. Watched it one more time. Memorized every frame. Every lie. Every detail.
 
 Then he deleted it.
 
-He didn't need evidence anymore. He didn't need proof or procedure or the system that had failed Shanice. He didn't need to convince a jury or persuade a judge or hope that somewhere, somehow, the machinery would work.
+He didn't need evidence anymore. He didn't need proof or procedure or the system that had failed Rebecca. He didn't need to convince a jury or persuade a judge or hope that somewhere, somehow, the machinery would work.
 
 He just needed to be fast enough that they couldn't run.
 
@@ -137,41 +137,41 @@ And strong enough that they couldn't fight back.
 
 Headly lived in Bridgeport, third floor of a walk-up near 35th and Morgan. Good neighborhood for cops. Quiet. Safe.
 
-Marcus watched from across the street as Headly's lights went on at 11 PM. End of shift. The killer had probably stopped for a beer, maybe swung by Reynolds' place to laugh about the funeral, about how they'd pulled it off, about how that bitch Shanice had gotten what she deserved for poking her nose where it didn't belong.
+John watched from across the street as Headly's lights went on at 11 PM. End of shift. The killer had probably stopped for a beer, maybe swung by Reynolds' place to laugh about the funeral, about how they'd pulled it off, about how that bitch Rebecca had gotten what she deserved for poking her nose where it didn't belong.
 
-The rage that thought brought made Marcus's vision blur red.
+The rage that thought brought made John's vision blur red.
 
 He forced it down. Controlled it. He'd learned control during those eighty-three days. Whatever the Grays had done to him, however they'd changed him, they'd also given him something else. Clarity. Focus. The ability to channel everything he felt into a single point.
 
 Headly's apartment lights went out at 11:47 PM.
 
-Marcus crossed the street at 11:48.
+John crossed the street at 11:48.
 
 He didn't knock. The door lock was cheap brass. It shattered under his grip like plastic. The door swung open silently on well-oiled hinges.
 
-Headly's apartment was exactly what Marcus expected. Sports memorabilia. Beer cans. Dirty dishes. The smell of takeout and stale sweat. The living room of a man who'd stopped trying.
+Headly's apartment was exactly what John expected. Sports memorabilia. Beer cans. Dirty dishes. The smell of takeout and stale sweat. The living room of a man who'd stopped trying.
 
 Or maybe never started.
 
-Marcus moved through the darkness like smoke. Enhanced vision let him see in the dim glow from the window. Enhanced hearing picked up Headly's snoring from the bedroom, heavy and irregular. The sleep of someone who thought they'd gotten away with it.
+John moved through the darkness like smoke. Enhanced vision let him see in the dim glow from the window. Enhanced hearing picked up Headly's snoring from the bedroom, heavy and irregular. The sleep of someone who thought they'd gotten away with it.
 
 The bedroom door was open. Headly lay sprawled across his bed, one arm hanging off the side, mouth open. His service weapon sat on the nightstand within easy reach.
 
-Marcus stared at it. At the gun that might have been the same model that killed Shanice. At the badge sitting next to it, gleaming in the streetlight filtering through the blinds.
+John stared at it. At the gun that might have been the same model that killed Rebecca. At the badge sitting next to it, gleaming in the streetlight filtering through the blinds.
 
 He could end it now. Quick. Clean. Headly would never wake up.
 
 But that would be mercy.
 
-Marcus reached out and touched Headly's shoulder.
+John reached out and touched Headly's shoulder.
 
-The man jerked awake, hand scrabbling for his gun. Marcus caught his wrist before his fingers touched metal. Squeezed. Not hard enough to break. Just hard enough to make the point.
+The man jerked awake, hand scrabbling for his gun. John caught his wrist before his fingers touched metal. Squeezed. Not hard enough to break. Just hard enough to make the point.
 
-Headly's eyes went wide. "Who the fuck—Williams?"
+Headly's eyes went wide. "Who the fuck—Rivers?"
 
 "Hello, Tom."
 
-Recognition. Then confusion. Then fear. Marcus watched it play across Headly's face like a movie. The man tried to pull away. Marcus held him effortlessly, like holding a child.
+Recognition. Then confusion. Then fear. John watched it play across Headly's face like a movie. The man tried to pull away. John held him effortlessly, like holding a child.
 
 "What the fuck are you doing in my house?" Headly's voice pitched higher. "You're breaking like five laws—"
 
@@ -179,73 +179,73 @@ Recognition. Then confusion. Then fear. Marcus watched it play across Headly's f
 
 "What?"
 
-Marcus's grip tightened. Bones creaked. "Say her name. The woman you murdered."
+John's grip tightened. Bones creaked. "Say her name. The woman you murdered."
 
 Headly's face went pale. "I don't—it wasn't murder, it was a clean shoot, she was—"
 
 "*Say her name.*"
 
-"Shanice!" It came out as a shriek. "Shanice Williams, okay? Jesus Christ, let go, you're breaking my fucking arm!"
+"Rebecca!" It came out as a shriek. "Rebecca Carranza, okay? Jesus Christ, let go, you're breaking my fucking arm!"
 
-Marcus pulled him out of bed like he weighed nothing. Headly stumbled, tried to throw a punch. Marcus caught it. Headly's fist hit Marcus's palm and stopped like it had hit a wall.
+John pulled him out of bed like he weighed nothing. Headly stumbled, tried to throw a punch. John caught it. Headly's fist hit John's palm and stopped like it had hit a wall.
 
-"I watched the footage," Marcus said quietly. "Before IA destroyed it. I watched you murder my cousin. I watched you plant that gun. I watched Reynolds block the camera. I watched you lie."
+"I watched the footage," John said quietly. "Before IA destroyed it. I watched you murder my sister. I watched you plant that gun. I watched Reynolds block the camera. I watched you lie."
 
 Headly's face crumbled. "Look, man, I didn't—it wasn't supposed to—she was going to report us, okay? She found out about the guns we were moving and she was going to fucking report us and ruin everything—"
 
-The confession hit Marcus like a physical blow. Part of him had hoped. Hoped it was an accident. Hoped there was some explanation. Hoped the world wasn't as broken as it seemed.
+The confession hit John like a physical blow. Part of him had hoped. Hoped it was an accident. Hoped there was some explanation. Hoped the world wasn't as broken as it seemed.
 
 But Headly just kept talking.
 
 "—and Reynolds said we could make it look clean, said we could say she pulled on us, and I panicked, okay? I fucking panicked! But it worked, right? IA cleared us, the DA dropped it, nobody knows—"
 
-"I know," Marcus said.
+"I know," John said.
 
-Headly looked up at him. Really looked. Saw something in Marcus's eyes that made him start shaking.
+Headly looked up at him. Really looked. Saw something in John's eyes that made him start shaking.
 
-"Marcus, please. Please, man, we were brothers. We worked together, we—"
+"John, please. Please, man, we were brothers. We worked together, we—"
 
-"We were never brothers." Marcus lifted Headly off the ground with one hand, watching him dangle, watching his feet kick uselessly. "Brothers don't murder family. Brothers don't lie. Brothers don't hide behind badges while they destroy lives."
+"We were never brothers." John lifted Headly off the ground with one hand, watching him dangle, watching his feet kick uselessly. "Brothers don't murder family. Brothers don't lie. Brothers don't hide behind badges while they destroy lives."
 
 "What are you—Jesus Christ, what *are* you?"
 
-Marcus carried him to the window. Opened it one-handed, Headly clutched in the other, the cool Chicago night air rushing in.
+John carried him to the window. Opened it one-handed, Headly clutched in the other, the cool Chicago night air rushing in.
 
-"I'm a consequence," Marcus said.
+"I'm a consequence," John said.
 
 Then he threw Headly through it.
 
-Three stories. Not high enough to kill. Just high enough to break most of the bones in his body. Marcus watched him fall, watched him scream, watched him hit the alley dumpster with a crunch that echoed off the buildings.
+Three stories. Not high enough to kill. Just high enough to break most of the bones in his body. John watched him fall, watched him scream, watched him hit the alley dumpster with a crunch that echoed off the buildings.
 
 Headly lay there, broken, breathing in short gasps, unable to move.
 
-Marcus dropped from the window. Three stories. He landed in a crouch, concrete cracking slightly beneath his feet. He straightened, walking over to where Headly lay crumpled in the garbage.
+John dropped from the window. Three stories. He landed in a crouch, concrete cracking slightly beneath his feet. He straightened, walking over to where Headly lay crumpled in the garbage.
 
-The man's eyes tracked him. Terrified. In pain. Understanding, finally, what Marcus had become.
+The man's eyes tracked him. Terrified. In pain. Understanding, finally, what John had become.
 
-Marcus knelt beside him. Pulled out a marker from his pocket. Wrote four words across Headly's forehead:
+John knelt beside him. Pulled out a marker from his pocket. Wrote four words across Headly's forehead:
 
 **I DESERVE BETTER**
 
-"That's what Shanice's movement says," Marcus told him. "The people fighting against cops like you. The people demanding justice. I'm giving them some."
+"That's what Rebecca's movement says," John told him. "The people fighting against cops like you. The people demanding justice. I'm giving them some."
 
 He stood. Looked down at Headly's broken form.
 
-"You'll live," Marcus said. "You'll tell everyone what happened here. And no one will believe you. Because how could Marcus Williams, five-foot-eleven, one-ninety pounds, throw a man out a third-story window? How could he survive a three-story drop? How could he do any of this?"
+"You'll live," John said. "You'll tell everyone what happened here. And no one will believe you. Because how could John Rivers, five-foot-eleven, one-ninety pounds, throw a man out a third-story window? How could he survive a three-story drop? How could he do any of this?"
 
-Marcus stepped back. "But you'll know. And Reynolds will know when I visit him. And everyone in that precinct will know that the consequences finally came due."
+John stepped back. "But you'll know. And Reynolds will know when I visit him. And everyone in that precinct will know that the consequences finally came due."
 
 He walked away, Headly's whimpers fading behind him.
 
 ---
 
-**Marcus's Apartment - Dawn**
+**John's Apartment - Dawn**
 
-Marcus sat on his couch, staring at his hands as sunrise painted the city gold.
+John sat on his couch, staring at his hands as sunrise painted the city gold.
 
 He'd crossed a line tonight. Assault. Breaking and entering. Attempted murder, maybe, though Headly would live. All the things he'd spent eight years as a cop fighting against.
 
-But Headly would live. Marcus had made sure of that. Just like he'd make sure Reynolds lived. And Hayes. And Morrison. And everyone else who'd helped murder Shanice and cover it up.
+But Headly would live. John had made sure of that. Just like he'd make sure Reynolds lived. And Hayes. And Morrison. And everyone else who'd helped murder Rebecca and cover it up.
 
 They'd live broken. Terrified. Marked. Examples.
 
@@ -253,29 +253,29 @@ His phone buzzed. Text from an unknown number.
 
 *We need to talk. What you did tonight was noticed. -K.E.*
 
-Kaiser Eziobi. The Nigerian billionaire who'd been emailing Marcus for weeks. Talking about Africa. About building something better. About using power responsibly.
+Kaiser Eziobi. The Nigerian billionaire who'd been emailing John for weeks. Talking about Africa. About building something better. About using power responsibly.
 
-Marcus deleted the message.
+John deleted the message.
 
 He wasn't interested in responsibility. He'd been responsible for eight years. He'd followed the rules. Trusted the system. Believed in the badge.
 
-And Shanice was dead because of it.
+And Rebecca was dead because of it.
 
-No. Marcus was done with systems. Done with rules. Done with waiting for someone else to deliver justice.
+No. John was done with systems. Done with rules. Done with waiting for someone else to deliver justice.
 
 He had a list now. Twenty-seven names. Everyone who'd participated in the machinery that protected Headly and Reynolds. Everyone who'd looked the other way. Everyone who'd chosen the blue wall over the truth.
 
 He'd visit them all. One by one. Night by night.
 
-Until they understood what Shanice had understood:
+Until they understood what Rebecca had understood:
 
 The system was broken.
 
-And Marcus Williams was the consequence of that failure.
+And John Rivers was the consequence of that failure.
 
 He stood, walked to his window, looked out at the waking city. Somewhere out there, Reynolds was getting the news about Headly. Somewhere, the precinct was scrambling. Somewhere, someone was starting to realize that the rules had changed.
 
-Marcus smiled, and it was not a kind expression.
+John smiled, and it was not a kind expression.
 
 Let them come. Let them try to stop him.
 
@@ -466,15 +466,15 @@ He straightened, the armor manifesting fully now, coating him in liquid gold tha
 
 The message from Kaiser Eziobi came at 11 PM.
 
-*Received your request. Africa has its own challenges, but I respect what you're building. I can offer intelligence assets and limited LSW support. However, I need something in return. There's an American operative causing problems. Marcus Williams. Former Chicago police. Enhanced. Dangerous. He's heading to Lagos. If our paths cross, I may need Establishment 24's backing.*
+*Received your request. Africa has its own challenges, but I respect what you're building. I can offer intelligence assets and limited LSW support. However, I need something in return. There's an American operative causing problems. John Rivers. Former Chicago police. Enhanced. Dangerous. He's heading to Lagos. If our paths cross, I may need Establishment 24's backing.*
 
-Raghavan stared at the message. Marcus Williams. He'd read the reports. The cop who'd gone rogue. The vigilante they called Stampede. A man who'd decided that the system was too broken to save and that violence was the only answer.
+Raghavan stared at the message. John Rivers. He'd read the reports. The cop who'd gone rogue. The vigilante they called Stampede. A man who'd decided that the system was too broken to save and that violence was the only answer.
 
 A man not unlike Raghavan himself, in some ways. Except Raghavan had chosen to work within the system. To build instead of destroy.
 
 Most days, he wasn't sure which approach was right.
 
-He drafted a response. *I cannot commit Establishment 24 to your personal conflicts. But if Williams threatens civilians, we will respond. Focus on the intelligence. I need everything your networks have on Pakistani LSW defectors.*
+He drafted a response. *I cannot commit Establishment 24 to your personal conflicts. But if Rivers threatens civilians, we will respond. Focus on the intelligence. I need everything your networks have on Pakistani LSW defectors.*
 
 Before he could send it, another message appeared. This one flagged urgent. Coded. From an asset in Kashmir.
 
@@ -1333,7 +1333,7 @@ Something that would change everything.
 
 **Year 2 has ended. The world is changing:**
 
-- Marcus "Stampede" Williams has begun his campaign of retribution against corrupt police
+- John "Stampede" Rivers has begun his campaign of retribution against corrupt police
 - Colonel Raghavan Reddy prepares Establishment 24 for Thug Birham's attack
 - Karine Abrahamian's NuroNuro technology has put her in the crosshairs of world powers
 - President Carlos Mendoza of Spain has lost his wife and begun a hunt for the Jackal responsible

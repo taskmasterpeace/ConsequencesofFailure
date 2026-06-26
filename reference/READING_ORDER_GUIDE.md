@@ -54,7 +54,7 @@ These are the "absolutely fucking riveting" character/president profiles:
 
 #### BATCH_1_CRITICAL_PRESIDENTS.md (84KB, ~60 min)
 - Stampede (cop vigilante)
-- Kali Mwangi (Kenya, albino sound-absorber — merged into Jawah Matu; kept as alternate-draft seed)
+- Kali Mwangi (Kenyan alternate-draft name, albino sound-absorber — merged into **Jawah Matu**, who is canonically **Tanzanian**, male, absorbs sound ≤70 dB via exposed skin; kept here only as a draft seed)
 - Hank Foster (USA president)
 - Spanish President
 - Johnny Rain (Uganda)
@@ -106,7 +106,7 @@ These are YOUR original ideas - raw, unpolished, but full of gold:
 **Jonny Rain.txt** - Ugandan musician-president
 **Kaiser/Eziobi files** (temp_kaiser.txt, temp_eziobi.txt, Eziobi.txt)
 **Atlas Protocol notes.txt** - Moses and alien weapon
-**Todd Ravage Benchley.txt** - Vaughn's right-hand man
+**Todd Ravage Benchley.txt** - Vaughn's right-hand man (canon name: Todd "Shogun" Benchley; the "Ravage" in the filename is not his canon alias)
 **Establishment 24.txt** - India's LSW organization
 **COF_India.txt** (90KB) - Detailed India storylines
 

@@ -210,7 +210,7 @@
 
 **LEADERSHIP:**
 - **Owner:** Vaughn Galloway
-- **Operations Commander:** Todd "Showgun" Benchley (Black male officer)
+- **Operations Commander:** Todd "Shogun" Benchley (Black male officer)
 
 ---
 

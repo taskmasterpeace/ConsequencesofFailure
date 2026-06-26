@@ -715,7 +715,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Murders police officers systematically
 - Becomes international fugitive
 - Announces plan to go to New York before disappearing
-- Kaiser Eziobie attempts to recruit him
+- Kaiser Eziobi attempts to recruit him
 - US government opposes recruitment
 - Called "Justice" by himself, "The Stampede" by media
 - Public divided: some support anti-corruption cause
@@ -772,8 +772,8 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 
 ### NIGERIA
 
-**Kaiser Eziobie**
-- Nigerian businessman from Lagos/Okigwe
+**Kaiser Eziobi**
+- Nigerian (Igbo) businessman from Okigwe
 - 56-year-old helicopter pilot
 - Betrayed homosexual business partner (led to partner's death)
 - Acquired company through betrayal
@@ -819,14 +819,14 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Loyal to Ugandan government initially
 - Experiences growth/change from traveling
 - Friends: Sam and Ali (fellow students)
-- Potentially works with: Sissy Oliver, Kaiser Eziobie, Johnny Raine
+- Potentially works with: Cissy Oliva, Kaiser Eziobi, Johnny Raine
 - Navigating dangerous Kampala (B13 gang activity)
 
-**Sissy Oliver / Cissy Oliva (Uganda)**
+**Cissy Oliva (Uganda)**
 - Most wealthy person in Africa
-- Received universal genetic engineering knowledge post-abduction
+- Received complete knowledge of one college course (genetic engineering) post-abduction [Sage; the source of that knowledge is a late reveal]
 - Biggest taxpayer in Uganda
-- Powers: Knowledge of universal genetic engineering (applicable to any biological entity)
+- Powers: Complete mastery of a single college course in genetic engineering (a Sage's knowledge, not omniscience)
 - Develops custom DNA animals technology
 - Makes Uganda one of richest countries in Africa
 - Conflict with Ugandan government over ethical limitations
@@ -1441,7 +1441,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Multiple scandals emerged
 - Calls for dissolution
 - Nigerians wary of government LSW use in law enforcement
-- Caused Kaiser Eziobie to flee Nigeria in exile
+- Caused Kaiser Eziobi to flee Nigeria in exile
 
 ---
 
@@ -1673,12 +1673,12 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Government: Federal Republic, Hybrid Regime
 - LSW Activity: Legal
 - LSW Regulations: Banned
-- Notable: Kaiser Eziobie (exile), S.A.R.C. scandals, "Its Voice" algorithm
+- Notable: Kaiser Eziobi (exile), S.A.R.C. scandals, "Its Voice" algorithm
 
 **Uganda:**
 - President: Ronald Opio (Male)
 - Government: Republic, Hybrid Regime
-- Notable: Johnny Raine (politician), Sissy Oliver (richest in Africa), Moses (Atlas Protocol)
+- Notable: Johnny Raine (politician), Cissy Oliva (richest in Africa), Moses (Atlas Protocol)
 
 **Tanzania:**
 - President: [Name not specified in data]
@@ -1757,7 +1757,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
    - Creates legal gray areas
 
 4. **Regional Power Shifts:**
-   - Uganda becomes rich via Sissy Oliver
+   - Uganda becomes rich via Cissy Oliva
    - Nigeria loses influence due to S.A.R.C. scandals
    - India rises as LSW management model
    - Traditional powers threatened by LSW nations
@@ -1943,7 +1943,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Moses initially loyal to government
 - Travels internationally
 - Experiences growth and change
-- May work with Sissy Oliver, Kaiser Eziobie, Johnny Raine
+- May work with Cissy Oliva, Kaiser Eziobi, Johnny Raine
 - Represents Uganda's LSW capability
 
 ---
@@ -1968,7 +1968,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 
 3. **Character Age Inconsistencies:**
    - Liu Xiao described as both 49 and "young man in his twenties"
-   - Kaiser Eziobie age 56, but timeline unclear with events
+   - Kaiser Eziobi age 56, but timeline unclear with events
    - Character aging across 8 years not tracked
 
 **The Alliance of Four:**
@@ -2268,7 +2268,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
 - Colonel Raghavan Reddy
 - Asha
 - Liu Xiao
-- Kaiser Eziobie
+- Kaiser Eziobi
 - Moses
 - Johnny Raine
 - Stampede
@@ -2479,7 +2479,7 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
     - Is he an LSW or just politician?
     - Survive to Year 8?
 
-31. What happens to Sissy Oliver?
+31. What happens to Cissy Oliva?
     - Continue making Uganda rich?
     - Does government force her to engineer humans?
     - What's her fate?
@@ -2554,10 +2554,10 @@ Consequences of Failure is a complex geopolitical sci-fi universe spanning 8 sea
       - Moses
       - Vaughan Galloway
       - Rusty Richards
-      - Kaiser Eziobie
+      - Kaiser Eziobi
       - Johnny Raine
       - Stampede
-      - Sissy Oliver
+      - Cissy Oliva
       - Todd Benchley
 
 ### ENDING QUESTIONS

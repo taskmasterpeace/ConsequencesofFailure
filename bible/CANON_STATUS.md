@@ -23,13 +23,13 @@ A quick heuristic that holds up across the repo:
 | Who/What | Canonical source (trust this) | Status | Note |
 |---|---|---|---|
 | **Rusty Richards** | `prose/Episode 0.txt` | ✅ SOLID | The foundational spine — the warning, the 8 years, the order of events. `NOVEL_PART_1` is an AI expansion of it (⚠️ verify). |
-| **John Rivers "Stampede"** | `canon/characters/Stampede.txt` | ✅ SOLID *(records fixed)* | Reference layer corrected this session. **Prose still contaminated:** `BATCH_1`, `NOVEL_PART_2` Ch6 (Marcus/Shanice version). |
+| **John Rivers "Stampede"** | `canon/characters/Stampede.txt` | ✅ SOLID | **Names fixed repo-wide** (Marcus→John, Shanice→Rebecca). **Remaining:** deeper rejected *beats* in `BATCH_1` + `NOVEL_PART_2` Ch6 (kinetic/super-strength vs canon **gravity**; Rebecca's death method; the "I DESERVE BETTER" misattribution) still need a prose-rewrite pass. |
 | **Kaiser Eziobi** | `canon/characters/Eziobi.txt` + `COF Notes.txt` | ⚠️ CHECK | Original is short. `KAISER_STRATEGIC_ABILITIES`/`_ENHANCED` are huge AI expansions (~20k words) — need your eyes on whether that's your Kaiser. Death = U.S. assassination (you ruled). |
 | **Moses Apio** | `prose/Atlas Protocol Episodes.txt` + `notes.txt` | ✅ SOLID *(fixed)* | Lake Victoria origin + Mbarara hometown locked this session. |
 | **Liu Xiao** | `canon/characters/Liu Xaio Story Spine.txt` | ✅ but ❓ THIN | Solid premise (blind man given sight, CCP watches), but only ~1.9k words — underdeveloped. |
 | **Raghavan Reddy / Asha** | `Establishment 24.txt`, `COF_India.txt` + `CHARACTER_RAGHAVAN_REDDY.md` | ⚠️ CHECK | Mix of original + derived; verify the golden-armor/time-travel details are yours. |
 | **Johnny Rain** | `canon/characters/Jonny Rain.txt` | ✅ SOLID | Non-powered revolutionary. `CHARACTER_JOHNNY_RAIN.md` is the derived profile. |
-| **Cissy Oliva (Sissy Oliver?)** | `COF Notes.txt` + `CHARACTER_SISSY_OLIVER.md` | ⚠️ CHECK | Even the **name spelling** is unsettled. Profile is AI-derived — verify. |
+| **Cissy Oliva** | `COF Notes.txt` + `CHARACTER_SISSY_OLIVER.md` | ✅ name fixed | Spelling ruled **Cissy Oliva** and corrected repo-wide. **Sage** = complete knowledge of one college course (source is a late reveal). Profile still AI-derived — verify story details. |
 | **Todd Benchley** | `Benchley Series.txt`, `Todd Ravage Benchley.txt` | ✅ but ❓ INCOMPLETE | You've said you have **more Benchley material not yet in the repo.** |
 | **Deck 52 / Charles Sapphire / Vaughn Galloway** | `Deck 52 Rachel Maddow_.txt` + the dump you pasted | 🃏 SCATTERED | Rich enough to be its own film — but self-contradictory (see rulings below). Needs consolidation into one clean faction entry. |
 | **King Stefanos** | `King Stefanos.txt` + `…These Wounds…txt` | ✅ SOLID *(uncatalogued)* | Real material, but **not in the character index.** |

@@ -410,7 +410,7 @@
 
 **ANSWER:**
 - **Owned by: Vaughn Galloway**
-- **Operations Commander: Todd "Showgun" Benchley** (black guy)
+- **Operations Commander: Todd "Shogun" Benchley** (black guy)
 - SPEAR = Special Personnel for Extraterrestrial Assault and Research
 
 ---
@@ -465,7 +465,7 @@
 - Terrorist organization got enough money and reach "to really go crazy"
 
 **THE TRAGEDY:**
-- **That terrorist organization killed Charles Sapphire's wife (Emily)**
+- **That terrorist organization killed Charles Sapphire's fiancée (Emily Rhaige)**
 - This happened when Vaughn and Charles had already fallen out from business
 - **This made the split permanent and personal**
 

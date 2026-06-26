@@ -1,11 +1,11 @@
-# SISSY OLIVER
+# CISSY OLIVA
 ## Nigeria's Genetic Engineering Sage, Uganda's Richest Prisoner
 
 ---
 
 ## BASIC INFO
 
-**Full Name:** Sissy Oliver
+**Full Name:** Cissy Oliva
 **Nickname/Codename:** "The Creator" (used by wealthy buyers), "Africa's Miracle" (Uganda government propaganda)
 **Age:** 16-17 years old (Year 1)
 **Nationality:** Nigerian (born in Lagos)
@@ -50,7 +50,7 @@
 **The Return:**
 - Reappeared in exact same spot
 - Only 10 minutes had passed
-- But Sissy had changed completely
+- But Cissy had changed completely
 - Eyes distant, mind processing impossible knowledge
 - Spoke about genetics, DNA, protein folding
 - Concepts far beyond her education level
@@ -93,7 +93,7 @@
 - Success! The genetics work perfectly!
 - Then... waiting
 - Months pass, embryo develops slowly
-- Sissy watches it grow at agonizing natural pace
+- Cissy watches it grow at agonizing natural pace
 - "I can see the finished creature in my mind. But I'll be 18 before it's born."
 
 **The Realization:**
@@ -152,19 +152,19 @@
 
 ### UGANDA'S INTEREST:
 **How President Mugisha Learned:**
-- Nigerian government testing Sissy's hybrid embryo
+- Nigerian government testing Cissy's hybrid embryo
 - News reaches intelligence networks
 - Uganda's President Mugisha sees opportunity
 - He has access to growth accelerant (slime)
-- Sissy has knowledge to create valuable products
+- Cissy has knowledge to create valuable products
 - Perfect match
 
 **The Recruitment:**
-- Ugandan delegation approaches Sissy in Nigeria
+- Ugandan delegation approaches Cissy in Nigeria
 - Offers everything: state-of-art lab, unlimited resources
 - Most importantly: **access to the slime**
 - "Come to Uganda. Create your miracles. Make us both rich."
-- Sissy 17 years old, frustrated, desperate to use her knowledge
+- Cissy 17 years old, frustrated, desperate to use her knowledge
 - Parents warn her: "Don't trust them. Come home."
 - She sees only the opportunity
 - "I can finally create what I see in my mind."
@@ -196,12 +196,12 @@
 - Eyes: feline slits with octopus color-changing ability
 
 **Growth Process:**
-- Sissy designs genetics, creates embryo
+- Cissy designs genetics, creates embryo
 - Embryo placed in specialized growth chamber
 - Slime applied in controlled doses
 - Growth accelerated 10-15x normal rate
 - Panther-Octopus reaches maturity in 8 months (vs. 4-5 years)
-- Sissy watches her design come to life
+- Cissy watches her design come to life
 - "It's perfect. It's exactly what I imagined."
 - Pride mixed with horror: "I shouldn't be able to do this."
 
@@ -222,7 +222,7 @@
 - Each creature unique, one-of-a-kind
 - **Cannot mass produce**
 - Each hybrid requires months of careful growth
-- Sissy must personally design genetics for stability
+- Cissy must personally design genetics for stability
 - Monitoring required to prevent developmental issues
 - Limited production: maybe 4-6 hybrids per year
 
@@ -246,7 +246,7 @@
 8. **Dolphin-Leopard** - Aquatic hunter with feline grace
 
 **Each One Is Art:**
-- Sissy refuses to create identical copies
+- Cissy refuses to create identical copies
 - Each hybrid has unique variations
 - Different color patterns, size ratios, behavioral traits
 - Buyers value uniqueness
@@ -257,7 +257,7 @@
 **Revenue:**
 - Uganda exports $400-600 million annually from hybrids
 - Government takes 70% cut
-- Sissy receives 30% (still $120-180 million/year)
+- Cissy receives 30% (still $120-180 million/year)
 - By Year 3: **Richest person in Africa**
 - Personal wealth exceeds $500 million
 - More profitable than weapons manufacturing
@@ -267,10 +267,10 @@
 **Economic Impact:**
 - Uganda becomes one of richest countries in Africa
 - Infrastructure improves (roads, hospitals, schools)
-- All funded by Sissy's creations
+- All funded by Cissy's creations
 - Government propaganda: "Our Sage made us prosperous"
 - International recognition for biotech innovation
-- Sissy portrayed as national hero
+- Cissy portrayed as national hero
 - Reality: she's a prisoner who made her captors rich
 
 ---
@@ -280,7 +280,7 @@
 ### PRESIDENT MUGISHA'S CONTROL:
 
 **The Arrangement:**
-- Sissy lives in luxury compound
+- Cissy lives in luxury compound
 - State-of-art lab, living quarters, security
 - Everything she could want: books, games, entertainment
 - Can't leave without permission
@@ -291,7 +291,7 @@
 
 **The Demands:**
 - Mugisha orders specific hybrids for buyers
-- Sissy must fulfill commissions
+- Cissy must fulfill commissions
 - No choice in clients
 - Creates creatures for dictators, criminals, corrupt elite
 - "I want my creations to help people, not entertain monsters."
@@ -300,7 +300,7 @@
 **The Leverage:**
 - Her family still in Nigeria
 - Mugisha has connections, could threaten them
-- Sissy knows: disobedience means danger for parents, siblings
+- Cissy knows: disobedience means danger for parents, siblings
 - Trapped by love and fear
 - "I stay to protect them."
 - Can't flee to another country
@@ -316,18 +316,18 @@
 - Crocodile-Cobra for amphibious assassination
 - Tiger-Wasp swarms for crowd control
 
-**Sissy Refuses:**
+**Cissy Refuses:**
 - "I create life, not weapons."
 - First time she's directly defied him
 - Mugisha furious: "You work for ME. You do what I say."
-- Sissy: "You can't force me to design genetics. They'll be unstable if I sabotage them."
+- Cissy: "You can't force me to design genetics. They'll be unstable if I sabotage them."
 - Standoff
 
 **The Threat:**
 - Mugisha: "Your family in Lagos lives peacefully. Would be shame if something happened."
 - Not subtle, not hidden
 - Direct threat
-- Sissy realizes: she's not just owned, she's enslaved
+- Cissy realizes: she's not just owned, she's enslaved
 - Must compromise or family dies
 
 **The Compromise:**
@@ -445,14 +445,14 @@
 - Warned her not to go to Uganda
 - She didn't listen
 - Now they're leverage for Mugisha
-- Sissy sends money but can't protect them
+- Cissy sends money but can't protect them
 - Guilt and love in equal measure
 
 **Siblings:**
 - Younger brother and sister
 - Miss their big sister
 - Don't understand why she left
-- Sissy video calls when allowed
+- Cissy video calls when allowed
 - Pretends everything is fine
 - "They can't know I'm a prisoner."
 
@@ -475,7 +475,7 @@
 **Midnight (Her First Creation):**
 - Panther-Octopus hybrid
 - Kept at facility "for research"
-- Really: Sissy refused to sell it
+- Really: Cissy refused to sell it
 - Her companion, her comfort
 - Only creature she trusts completely
 - Midnight responds to her emotions
@@ -568,7 +568,7 @@
 - Uganda's regime fragmenting
 - Mugisha increasingly desperate and dangerous
 - Demands escalate: human-hybrid experiments
-- Sissy refuses absolutely
+- Cissy refuses absolutely
 - "That's the line. I won't cross it even if you kill me."
 - Considers escape but family still hostage
 - Johnny Rain's resistance growing
@@ -586,14 +586,14 @@
 
 2. **The Sacrifice:**
    - Mugisha demands human hybrids for defense against invasion
-   - Sissy refuses
+   - Cissy refuses
    - He executes her as traitor
    - Dies protecting her principles
    - Her creations remember her, mourn her
 
 3. **The Revolution:**
    - Johnny Rain succeeds, Mugisha falls
-   - Sissy freed, becomes hero
+   - Cissy freed, becomes hero
    - Uses knowledge to rebuild Uganda
    - Medical applications, agriculture
    - But guilt about her creations remains
@@ -667,13 +667,13 @@
 - Can manipulate objects with tentacles
 
 **Personality:**
-- Loyal to Sissy exclusively
+- Loyal to Cissy exclusively
 - Protective, gentle with her
 - Curious, playful
 - Aggressive toward threats
-- Emotional intelligence (reads Sissy's mood)
+- Emotional intelligence (reads Cissy's mood)
 
-**Status:** Kept at facility, Sissy's companion
+**Status:** Kept at facility, Cissy's companion
 
 ### 2. SKYFALL (Eagle-Shark)
 **Appearance:**
@@ -778,10 +778,10 @@
 - Carries tablet with genetic designs
 
 **Key Images:**
-1. **The Abduction Return:** Sissy reappearing after 10 minutes, eyes glowing with knowledge, family terrified
+1. **The Abduction Return:** Cissy reappearing after 10 minutes, eyes glowing with knowledge, family terrified
 2. **First Frustration:** Staring at slowly-growing embryo, knowing she'll wait years
-3. **The Slime:** Sissy applying growth accelerant to hybrid chamber, wonder and horror on face
-4. **Midnight's Birth:** Panther-Octopus emerging from chamber, Sissy reaching toward it, tears streaming
+3. **The Slime:** Cissy applying growth accelerant to hybrid chamber, wonder and horror on face
+4. **Midnight's Birth:** Panther-Octopus emerging from chamber, Cissy reaching toward it, tears streaming
 5. **The Compound:** Luxury lab behind barbed wire, gilded cage
 6. **The Refusal:** Standing before Mugisha, "I won't create weapons," defiance and fear
 7. **The Catalog:** Holographic displays of hybrid designs, each one impossible and beautiful
@@ -848,37 +848,37 @@
 ## KEY SCENES
 
 ### 1. THE RETURN (Year 1)
-**Scene:** Sissy reappears on Lagos street after 10-minute absence. Family rushing to her. She's speaking in rapid-fire scientific terms. "The genetic code—I can see it—protein folding, chromosomal pairs, hybridization factors—" Mother shaking her: "Sissy! What happened?" She focuses, sees their fear. "I... I don't know. But I know everything now." That night: drawing genetic blueprints, designs for impossible creatures. Family watching in horror and wonder.
+**Scene:** Cissy reappears on Lagos street after 10-minute absence. Family rushing to her. She's speaking in rapid-fire scientific terms. "The genetic code—I can see it—protein folding, chromosomal pairs, hybridization factors—" Mother shaking her: "Cissy! What happened?" She focuses, sees their fear. "I... I don't know. But I know everything now." That night: drawing genetic blueprints, designs for impossible creatures. Family watching in horror and wonder.
 
 ### 2. THE FRUSTRATION (Year 1-2)
-**Scene:** Nigerian government lab. Sissy standing before slowly-growing embryo in tank. Panther-Octopus, barely visible. Growth chart shows: 8% development, 14 months remaining. She presses forehead to glass. Lab director: "It's working! Your design is stable!" Sissy: "I know. I designed it perfectly. Now I get to watch it grow for a year and a half." Director: "That's still remarkable!" Sissy, voice breaking: "I can see it fully grown in my mind. This is torture."
+**Scene:** Nigerian government lab. Cissy standing before slowly-growing embryo in tank. Panther-Octopus, barely visible. Growth chart shows: 8% development, 14 months remaining. She presses forehead to glass. Lab director: "It's working! Your design is stable!" Cissy: "I know. I designed it perfectly. Now I get to watch it grow for a year and a half." Director: "That's still remarkable!" Cissy, voice breaking: "I can see it fully grown in my mind. This is torture."
 
 ### 3. THE OFFER (Year 2)
-**Scene:** Ugandan delegation in fancy suits. Sissy in small Nigerian lab. They show her vials of glowing slime. "Growth accelerant. Months instead of years." Her eyes widen. Reaches for it. "Where did you get this?" "Our government has... resources. Come to Uganda. Unlimited supply. State-of-art facility. Create your miracles." Sissy barely hearing rest. Staring at slime. Seeing years of frustration solved. "When do we leave?" Parents in background, worried: "Sissy, wait—" Too late. She's already decided.
+**Scene:** Ugandan delegation in fancy suits. Cissy in small Nigerian lab. They show her vials of glowing slime. "Growth accelerant. Months instead of years." Her eyes widen. Reaches for it. "Where did you get this?" "Our government has... resources. Come to Uganda. Unlimited supply. State-of-art facility. Create your miracles." Cissy barely hearing rest. Staring at slime. Seeing years of frustration solved. "When do we leave?" Parents in background, worried: "Cissy, wait—" Too late. She's already decided.
 
 ### 4. MIDNIGHT'S BIRTH (Year 2)
-**Scene:** Kampala lab, months later. Growth chamber opening. Slime-covered form emerging. Panther body, tentacles unfurling. Midnight taking first breath. Sissy approaching slowly, hand extended. It's perfect. Exactly as she imagined. Tentacle wraps around her wrist gently. Suction cups pulse with bioluminescence. She laughs and cries simultaneously. "Hello, beautiful. I made you." Then, quieter: "I'm so sorry. I brought you into a world that will use you." Midnight's eyes meet hers. Understanding there. Or maybe just reflection of her guilt.
+**Scene:** Kampala lab, months later. Growth chamber opening. Slime-covered form emerging. Panther body, tentacles unfurling. Midnight taking first breath. Cissy approaching slowly, hand extended. It's perfect. Exactly as she imagined. Tentacle wraps around her wrist gently. Suction cups pulse with bioluminescence. She laughs and cries simultaneously. "Hello, beautiful. I made you." Then, quieter: "I'm so sorry. I brought you into a world that will use you." Midnight's eyes meet hers. Understanding there. Or maybe just reflection of her guilt.
 
 ### 5. THE CAGE REALIZED (Year 2)
-**Scene:** Sissy trying to leave compound for Lagos. Guards stop her. "You need permission from President's office." "I'm visiting my family." "We know. Permission required." Hours of bureaucracy. Finally Mugisha calls. "Sissy, my dear, you're too valuable. For your protection, we must know your movements." "I'm a prisoner." "You're our greatest treasure. Treasures must be kept safe." Phone clicks off. Sissy standing at gate. Barbed wire above. Luxury prison below. Richest girl in Africa. Can't visit her mother.
+**Scene:** Cissy trying to leave compound for Lagos. Guards stop her. "You need permission from President's office." "I'm visiting my family." "We know. Permission required." Hours of bureaucracy. Finally Mugisha calls. "Cissy, my dear, you're too valuable. For your protection, we must know your movements." "I'm a prisoner." "You're our greatest treasure. Treasures must be kept safe." Phone clicks off. Cissy standing at gate. Barbed wire above. Luxury prison below. Richest girl in Africa. Can't visit her mother.
 
 ### 6. THE FIRST SALE (Year 3)
-**Scene:** Russian oligarch's private plane. Sissy presenting Eagle-Shark (Skyfall). Creature is magnificent. Flies, dives into pool, emerges. Oligarch clapping. "How much?" "One hundred million." "Sold!" Signing papers. Sissy forced to smile. Watches them cage Skyfall. It thrashes, confused. Looks at her. Why are you letting this happen? Sissy turns away. Mugisha's hand on her shoulder: "Excellent work. See how valuable you are?" That night, she vomits. Can't stop crying. Midnight curls around her. Only comfort.
+**Scene:** Russian oligarch's private plane. Cissy presenting Eagle-Shark (Skyfall). Creature is magnificent. Flies, dives into pool, emerges. Oligarch clapping. "How much?" "One hundred million." "Sold!" Signing papers. Cissy forced to smile. Watches them cage Skyfall. It thrashes, confused. Looks at her. Why are you letting this happen? Cissy turns away. Mugisha's hand on her shoulder: "Excellent work. See how valuable you are?" That night, she vomits. Can't stop crying. Midnight curls around her. Only comfort.
 
 ### 7. THE WEAPON DEMAND (Year 4-5)
-**Scene:** Mugisha's office. He wants combat hybrids. "Bear-Scorpion. Lethal venom. Military application." Sissy: "No." Mugisha, surprised: "Excuse me?" "I create life. Not weapons." His face hardens. "You work for ME." She stands. First time she's defied him directly. "You can imprison me. You can threaten me. But you can't force me to design genetics. I'll sabotage them. They'll be unstable. Useless." Standoff. Mugisha's voice goes cold. "Your family in Lagos. Mother, father, little brother, little sister. They live peacefully. That could change." Sissy's defiance cracks. He sees it. "Defensive hybrids only," she whispers. "For now," he agrees. She's lost and they both know it.
+**Scene:** Mugisha's office. He wants combat hybrids. "Bear-Scorpion. Lethal venom. Military application." Cissy: "No." Mugisha, surprised: "Excuse me?" "I create life. Not weapons." His face hardens. "You work for ME." She stands. First time she's defied him directly. "You can imprison me. You can threaten me. But you can't force me to design genetics. I'll sabotage them. They'll be unstable. Useless." Standoff. Mugisha's voice goes cold. "Your family in Lagos. Mother, father, little brother, little sister. They live peacefully. That could change." Cissy's defiance cracks. He sees it. "Defensive hybrids only," she whispers. "For now," he agrees. She's lost and they both know it.
 
 ### 8. THE GUILT (Year 5)
-**Scene:** News reaches Sissy: Skyfall killed trying to escape Russian oligarch's compound. Shot by guards. She's in lab, designing new hybrid. Stops mid-calculation. Tablet falls from hands. Lab assistant: "Dr. Oliver?" Sissy silent. Seeing Skyfall's birth, its first flight, its eyes looking at her. Then: guards shooting, it falling, dying. "I killed it." "What?" "I created it just to suffer and die. I'm the monster." Midnight sensing her distress, tentacles wrapping around her. She buries face in its fur. Screaming. No sound. Just pain.
+**Scene:** News reaches Cissy: Skyfall killed trying to escape Russian oligarch's compound. Shot by guards. She's in lab, designing new hybrid. Stops mid-calculation. Tablet falls from hands. Lab assistant: "Dr. Oliva?" Cissy silent. Seeing Skyfall's birth, its first flight, its eyes looking at her. Then: guards shooting, it falling, dying. "I killed it." "What?" "I created it just to suffer and die. I'm the monster." Midnight sensing her distress, tentacles wrapping around her. She buries face in its fur. Screaming. No sound. Just pain.
 
 ### 9. THE LINE (Year 6-7)
-**Scene:** Mugisha demands human-hybrid experiments. "Imagine: human intelligence with LSW strength engineered in." Sissy: "No. Absolutely not." "I wasn't asking." She stands. "That's the line. You can kill me. I won't cross it." He studies her. Sees she means it. "You'd die for this principle?" "Yes." Long silence. "Fine. For now. But the world is changing, Sissy. Soon you may not have choice." She leaves. Hands shaking. Knows he's right. Sooner or later, he'll force her. Or kill her. No other options.
+**Scene:** Mugisha demands human-hybrid experiments. "Imagine: human intelligence with LSW strength engineered in." Cissy: "No. Absolutely not." "I wasn't asking." She stands. "That's the line. You can kill me. I won't cross it." He studies her. Sees she means it. "You'd die for this principle?" "Yes." Long silence. "Fine. For now. But the world is changing, Cissy. Soon you may not have choice." She leaves. Hands shaking. Knows he's right. Sooner or later, he'll force her. Or kill her. No other options.
 
 ### 10. POSSIBLE ENDING - THE RELEASE (Year 8)
-**Scene:** Uganda in chaos. Alliance invasion. Mugisha's regime collapsed. Compound guards fled. Sissy stands in lab. Door unlocked for first time in years. Freedom. Midnight beside her. Other hybrids in their chambers. She could leave. Johnny Rain's people offering extraction. Family safe in Nigeria. But the hybrids... Sissy opening chambers, one by one. "You're free. All of you. I'm so sorry for what I did. Go. Live." They emerge, confused. Midnight stays with her. Others flee into jungle. Ecosystem disaster? Ecological balance destroyed? She doesn't know. But they deserve freedom. She does too. Final image: Sissy walking through compound gates. Midnight at her side. Free at last. But the guilt goes with her.
+**Scene:** Uganda in chaos. Alliance invasion. Mugisha's regime collapsed. Compound guards fled. Cissy stands in lab. Door unlocked for first time in years. Freedom. Midnight beside her. Other hybrids in their chambers. She could leave. Johnny Rain's people offering extraction. Family safe in Nigeria. But the hybrids... Cissy opening chambers, one by one. "You're free. All of you. I'm so sorry for what I did. Go. Live." They emerge, confused. Midnight stays with her. Others flee into jungle. Ecosystem disaster? Ecological balance destroyed? She doesn't know. But they deserve freedom. She does too. Final image: Cissy walking through compound gates. Midnight at her side. Free at last. But the guilt goes with her.
 
 ### ALTERNATE ENDING - THE SACRIFICE (Year 8)
-**Scene:** Mugisha's final demand: "Human hybrids. For defense. NOW." Sissy: "No." Gun to her head. "Create them or die." She closes eyes. Sees her creations. Midnight. Skyfall. All of them. Sees her family. Nigeria. Home. Then sees the future: human-hybrids, abominations, suffering. "No." Click. Mugisha: "Last chance." She opens eyes. Smiles. "I create life. Not monsters. Pull the trigger." He does. She falls. Midnight roars. Kills Mugisha. Too late to save her. Last thought: "At least I stayed myself." Dies. Her creations remember. The Creator who refused to become destroyer.
+**Scene:** Mugisha's final demand: "Human hybrids. For defense. NOW." Cissy: "No." Gun to her head. "Create them or die." She closes eyes. Sees her creations. Midnight. Skyfall. All of them. Sees her family. Nigeria. Home. Then sees the future: human-hybrids, abominations, suffering. "No." Click. Mugisha: "Last chance." She opens eyes. Smiles. "I create life. Not monsters. Pull the trigger." He does. She falls. Midnight roars. Kills Mugisha. Too late to save her. Last thought: "At least I stayed myself." Dies. Her creations remember. The Creator who refused to become destroyer.
 
 ---
 
@@ -908,13 +908,13 @@
 ---
 
 *"I can design miracles. Perfect genetic combinations that nature never imagined. But I can't design my own freedom."*
-— Sissy Oliver
+— Cissy Oliva
 
 *"They're not products. Not weapons. Not toys. They're living beings I brought into this world. Their suffering is my responsibility. Their freedom is my dream."*
-— Sissy Oliver
+— Cissy Oliva
 
 *"Knowledge without freedom is just another cage. A prettier one, maybe. But still a cage."*
-— Sissy Oliver
+— Cissy Oliva
 
 *"I became the richest person in Africa by creating life. And the poorest, by losing my own."*
-— Sissy Oliver
+— Cissy Oliva

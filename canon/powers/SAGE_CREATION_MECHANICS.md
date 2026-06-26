@@ -1,5 +1,7 @@
 # SAGE CREATION MECHANICS
 
+> **[CANON]** Sage = complete knowledge of one college course; the source is a late reveal (see `bible/powers/SAGES.md`).
+
 ## Core Concept
 
 **SAGES = Knowledge LSW**
@@ -165,7 +167,7 @@ The knowledge Sages receive is fundamentally different from learned information:
 
 ### Examples of Sage Knowledge
 
-**Sissy Oliver - Genetic Engineering Sage:**
+**Cissy Oliva - Genetic Engineering Sage:**
 - Complete understanding of genetic code for all known species
 - Mastery of hybridization techniques
 - Knowledge of growth acceleration methods
@@ -308,7 +310,7 @@ The Grays failed to account for human power structures, resource scarcity, and t
 
 ### Case Studies - Sages and Their Fates
 
-**Sissy Oliver - Genetic Engineering Sage:**
+**Cissy Oliva - Genetic Engineering Sage:**
 
 **Knowledge Received:**
 - Complete genetic engineering mastery

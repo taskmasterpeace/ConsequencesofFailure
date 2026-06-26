@@ -125,7 +125,7 @@ aesthetic.
 
 ---
 
-## ASHA (India's Time Traveler, The Dying Sage)
+## ASHA (India's Time Traveler, The Dying Time-Walker)
 
 **Prompt 1: The Jump**
 ```
@@ -162,7 +162,7 @@ photorealistic. Scale should emphasize the thousands willing to die for him.
 
 ---
 
-## STAMPEDE / MARCUS WILLIAMS (The Rage, The Fallen)
+## STAMPEDE / JOHN RIVERS (The Rage, The Fallen)
 
 **Prompt 1: First Kill**
 ```

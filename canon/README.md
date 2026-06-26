@@ -1,7 +1,7 @@
 # CONSEQUENCES OF FAILURE
 
 > *"The villain of the world is not he with the fangs and cape, but he who preys on the innocent and vulnerable."*
-> — Kaiser Eziobie, Nigerian pilot turned living superweapon
+> — Kaiser Eziobi, Nigerian pilot turned living superweapon
 
 ---
 
@@ -102,7 +102,7 @@ Seeking atonement, he becomes a wanderer trying to unite and uplift Africa using
 
 ### UGANDA: THE GENIUS & THE PROTOCOL
 
-**Sissy Oliver**, the wealthiest person in Africa, received universal genetic engineering knowledge post-abduction. She's turned Uganda into one of the richest countries in Africa through custom DNA animals—but the government wants her to engineer human eggs, crossing ethical lines she refuses to cross.
+**Cissy Oliva**, the wealthiest person in Africa, received complete knowledge of one college course (genetic engineering) post-abduction. She's turned Uganda into one of the richest countries in Africa through custom DNA animals—but the government wants her to engineer human eggs, crossing ethical lines she refuses to cross.
 
 **Moses Apio**, a young mechanic from Mbarara, encounters the mysterious **Atlas Protocol** during training—granting him unknown powers and thrusting him into the geopolitical chaos consuming his country.
 

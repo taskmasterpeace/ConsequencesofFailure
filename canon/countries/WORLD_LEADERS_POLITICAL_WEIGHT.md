@@ -130,8 +130,8 @@ Lucas Mendes faces the impossible choice between his democratic principles and p
 - Mendes knows but can't prove it
 - Their final confrontation will determine Brazil's future
 
-**Kaiser Eziobi (Uganda, deceased):**
-- Mendes studied Kaiser's Kampala Accord as model
+**Kaiser Eziobi (Nigeria, deceased):**
+- Mendes studied Kaiser's pan-African accord as model [CONFLICT: "Kampala Accord" naming ties Kaiser to Uganda's capital, but Kaiser is Nigerian (Igbo, from Okigwe) — flagged for creator ruling]
 - They exchanged letters about democratic LSW governance
 - Kaiser's assassination devastates Mendes's hope
 - Eulogy: "They killed him because he dreamed of justice. Will they kill us all?"
@@ -773,8 +773,8 @@ She might be COMPLETELY RIGHT that technology + humanitarian LSW is optimal stra
 - Tanaka: "Your pragmatism is effective. Also monstrous."
 - Both right, both wrong
 
-**Kaiser Eziobi (Uganda, deceased):**
-- Tanaka studied his Kampala Accord
+**Kaiser Eziobi (Nigeria, deceased):**
+- Tanaka studied his pan-African accord [CONFLICT: "Kampala Accord" naming ties Kaiser to Uganda; Kaiser is Nigerian (from Okigwe) — flagged]
 - Saw him as fellow visionary for humane LSW policy
 - His assassination devastated her hope
 - Speech at memorial: "They killed a man who dared to dream we could be better"

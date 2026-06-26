@@ -274,7 +274,7 @@
 
 ### Stampede - First Kill
 **Status:** ✏️ OUTLINED 🎬
-**What Happens:** Marcus Williams finds Officer Headly (killed his cousin). Confrontation. Rage activates powers. Beats him to death. Leaves note: "I DESERVE BETTER." Realizes he's become a killer.
+**What Happens:** John Rivers (alias "Stampede"; gravity power) confronts the cop responsible for his sister Det. Rebecca Carranza's death. Rage activates powers. Realizes he's become a killer. [REWRITE FLAG: this scene was originally drafted as the rejected "Marcus Williams / cousin Shanice / Officer Headly / 'I DESERVE BETTER'" version — names corrected to canon; specific beats need a rewrite pass to match John Rivers' story.]
 
 ### Liu Xiao - Sister's Face
 **Status:** ✏️ OUTLINED

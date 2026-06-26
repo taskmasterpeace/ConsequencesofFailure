@@ -10,7 +10,7 @@
 
 ## EXECUTIVE SUMMARY
 
-The African Union Crisis represents the most significant political transformation in post-invasion Africa. Centered on Kaiser Eziobi's assassination in Year 5, it encompasses his continental campaign for African unity (Years 2-5), his controversial defense of American fugitive Marcus "Stampede" Williams, the international fallout from his murder, and the lasting impact on African politics through Year 8.
+The African Union Crisis represents the most significant political transformation in post-invasion Africa. Centered on Kaiser Eziobi's assassination in Year 5, it encompasses his continental campaign for African unity (Years 2-5), his controversial defense of American fugitive John "Stampede" Rivers, the international fallout from his murder, and the lasting impact on African politics through Year 8.
 
 **Key Components:**
 1. Kaiser's "A Laptop for Every Child, A Road to Every Home" campaign
@@ -445,17 +445,17 @@ But no one predicts what actually destroys everything: An American crisis 5,000 
 
 ### BACKGROUND: THE AMERICAN CRISIS
 
-**Marcus "Stampede" Williams Timeline (Year 0-5):**
+**John "Stampede" Rivers Timeline (Year 0-5):**
 
 *Year 0:*
-- Shanice Williams (Marcus's cousin) murdered by corrupt cops Headly and Reynolds
-- Shanice was investigating police corruption linked to LSW exploitation
+- Rebecca Carranza (John's sister) murdered by corrupt cops Headly and Reynolds
+- Rebecca was investigating police corruption linked to LSW exploitation
 - Department covers up murder
-- Marcus attempts to work within system
+- John attempts to work within system
 - System fails completely
 
 *Year 0 (83 days later):*
-- Marcus abducted by Greys
+- John abducted by Greys
 - Returns with powers: Kinetic enhancement, dermal density, superhuman speed/strength
 - First kills: Officers Headly and Reynolds
 - Escalation: Everyone in cover-up chain
@@ -471,59 +471,59 @@ But no one predicts what actually destroys everything: An American crisis 5,000 
 - Black community especially divided
 
 *Year 3-4:*
-- Virus outbreak: Marcus protects vulnerable communities
+- Virus outbreak: John protects vulnerable communities
 - Corrupt cops exploit crisis
-- Marcus intervenes violently
+- John intervenes violently
 - Body count rises
 - Kaiser's recruitment attempts begin
 - Philosophical debates: Justice vs. revenge
-- Marcus respects Kaiser, refuses recruitment
+- John respects Kaiser, refuses recruitment
 - "My purpose IS revenge"
 
 *Year 5 (Pre-Speech):*
-- Marcus wanted for 27 murders (all corrupt cops/officials)
+- John wanted for 27 murders (all corrupt cops/officials)
 - Federal arrest warrant
 - International manhunt
 - SPEAR designates him priority target
 - American government makes him symbol of LSW danger
 - Debate rages: Terrorist or justified avenger?
 
-**Kaiser's Perspective on Marcus:**
+**Kaiser's Perspective on John:**
 
 Through collective memory, Kaiser understood:
 - Every African liberation fighter called "terrorist" by colonial powers
 - Every justified uprising labeled "criminal violence"
 - Systems that create violence but punish those who respond
-- "Marcus is not terrorist—he is what happens when justice fails"
+- "John is not terrorist—he is what happens when justice fails"
 
 Kaiser saw parallels:
-- Shanice = countless Africans killed by unjust systems
+- Rebecca = countless Africans killed by unjust systems
 - Police cover-up = colonial powers protecting their own
 - System failure = what drove African resistance movements
-- Marcus's rage = legitimate response to illegitimate oppression
+- John's rage = legitimate response to illegitimate oppression
 
 Kaiser's reasoning:
-"If Africa forgives liberation fighters who killed for freedom, how can we condemn Marcus for killing for justice? The only difference is geography and time."
+"If Africa forgives liberation fighters who killed for freedom, how can we condemn John for killing for justice? The only difference is geography and time."
 
 **The Attempted Recruitment (Year 2-4):**
 
 *First Contact (Year 2):*
 
-Kaiser: "Marcus Williams. I am Kaiser Eziobi. I want to offer you sanctuary in Africa."
+Kaiser: "John Rivers. I am Kaiser Eziobi. I want to offer you sanctuary in Africa."
 
-Marcus: "Who the fuck are you and how did you get this number?"
+John: "Who the fuck are you and how did you get this number?"
 
-Kaiser: "I am someone who understands what you're doing and why. I hear the voices of the dead, Marcus. They speak of justice denied, rage justified, systems that deserve destruction. But they also speak of purpose beyond revenge."
+Kaiser: "I am someone who understands what you're doing and why. I hear the voices of the dead, John. They speak of justice denied, rage justified, systems that deserve destruction. But they also speak of purpose beyond revenge."
 
-Marcus: "I have purpose. Killing cops who murder and get away with it."
+John: "I have purpose. Killing cops who murder and get away with it."
 
 Kaiser: "And when they're all dead? Then what? You die in shootout with SWAT team? You spend life in prison? You become exactly what they say you are?"
 
-Marcus: "What's the alternative? Turn myself in? Trust the system that killed Shanice?"
+John: "What's the alternative? Turn myself in? Trust the system that killed Rebecca?"
 
 Kaiser: "Come to Africa. Use your powers for building, not just destroying. I have a vision for this continent—and it needs heroes. Real ones. Not more violence, but justice. The kind that transforms, not just punishes."
 
-Marcus: "Africa doesn't want me. Nobody wants me. I'm a killer."
+John: "Africa doesn't want me. Nobody wants me. I'm a killer."
 
 Kaiser: "Africa is full of killers the West called terrorists and we call liberators. You'd fit right in. Think about it."
 
@@ -532,14 +532,14 @@ Kaiser: "Africa is full of killers the West called terrorists and we call libera
 - Ongoing encrypted communication
 - Philosophical debates about violence and justice
 - Kaiser argues: "Revenge consumes you. Purpose sustains you."
-- Marcus argues: "The system only understands violence. Peace is privilege."
+- John argues: "The system only understands violence. Peace is privilege."
 - Mutual respect develops
 - No agreement reached
-- Marcus stays in America, continues killing
+- John stays in America, continues killing
 - Kaiser keeps trying
 - "The offer stands. Africa welcomes you."
 
-*Marcus's Internal Conflict:*
+*John's Internal Conflict:*
 
 Part of him resonated with Kaiser:
 - "Maybe there's more than revenge"
@@ -547,7 +547,7 @@ Part of him resonated with Kaiser:
 - "Maybe Africa is where I find purpose"
 
 But larger part stayed committed:
-- "Shanice deserves justice, not me running away"
+- "Rebecca deserves justice, not me running away"
 - "They can't get away with it"
 - "The system has to learn: We fight back"
 - "Africa is Kaiser's dream. America is my nightmare to end."
@@ -565,14 +565,14 @@ But larger part stayed committed:
 
 *The Week Before:*
 
-American media coverage of Marcus:
+American media coverage of John:
 - "Stampede Kills Three More Officers in Detroit"
-- "FBI: Marcus Williams is Our Most Wanted"
+- "FBI: John Rivers is Our Most Wanted"
 - "Black Community Divided on 'Stampede' Vigilante"
 - "Is Stampede Terrorist or Freedom Fighter?"
 
 Kaiser watched coverage and decided:
-"Marcus needs Africa. Africa needs to stand for justice. This is the moment."
+"John needs Africa. Africa needs to stand for justice. This is the moment."
 
 *The Decision:*
 
@@ -582,7 +582,7 @@ Kaiser: "America cannot touch me. I speak truth they don't want to hear, but tru
 
 Advisors: "This will hurt Johnny's campaign. Mugisha will call him terrorist-sympathizer."
 
-Kaiser: "Johnny's campaign is about justice. Marcus's situation IS justice. We do not compromise truth for politics."
+Kaiser: "Johnny's campaign is about justice. John's situation IS justice. We do not compromise truth for politics."
 
 Advisors: "Please. This is mistake."
 
@@ -610,7 +610,7 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "But here is my question: When does a terrorist become a freedom fighter? When does a criminal become a hero? The answer is simple and uncomfortable: When history proves they were right."
 
-*The American Case (Building to Marcus):*
+*The American Case (Building to John):*
 
 "I want to speak about America. Not to attack America—many of our nations have beneficial relationships with the United States. But to speak truth about what happens in America, particularly to Black Americans.
 
@@ -620,33 +620,33 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "But what happens when the system refuses accountability? What happens when peaceful protest changes nothing? What happens when the killers walk free, again and again, and the system says 'this is acceptable'?"
 
-*The Marcus Williams Introduction:*
+*The John Rivers Introduction:*
 
-"In America, there is a man named Marcus Williams. The media calls him 'Stampede.' They call him terrorist. They call him supervillain. They call him cop-killer and dangerous fugitive.
+"In America, there is a man named John Rivers. The media calls him 'Stampede.' They call him terrorist. They call him supervillain. They call him cop-killer and dangerous fugitive.
 
 "I call him brother.
 
-"Let me tell you Marcus Williams's story—the story American media often omits:
+"Let me tell you John Rivers's story—the story American media often omits:
 
-"Marcus had a cousin named Shanice Williams. She was investigating police corruption—specifically, corrupt officers involved in trafficking LSW blood and tissue for profit. She discovered evidence that would expose this network. And for discovering this truth, she was murdered. Not killed in dangerous situation. Not caught in crossfire. Murdered. By police officers Headly and Reynolds.
+"John had a sister named Rebecca Carranza. She was investigating police corruption—specifically, corrupt officers involved in trafficking LSW blood and tissue for profit. She discovered evidence that would expose this network. And for discovering this truth, she was murdered. Not killed in dangerous situation. Not caught in crossfire. Murdered. By police officers Headly and Reynolds.
 
-"The department covered it up. Called it accident. Protected the killers. Denied the family justice. Marcus attempted to work within the system. He filed complaints. He hired lawyers. He sought investigations. The system responded by protecting the murderers and threatening him.
+"The department covered it up. Called it accident. Protected the killers. Denied the family justice. John attempted to work within the system. He filed complaints. He hired lawyers. He sought investigations. The system responded by protecting the murderers and threatening him.
 
-"Then Marcus was abducted by the Greys—as many of us were. He returned with powers. And he used those powers to do what the system refused: He delivered justice. He killed Officers Headly and Reynolds. He killed everyone in the cover-up chain. He systematically dismantled the corrupt network that murdered his cousin and trafficked in LSW exploitation.
+"Then John was abducted by the Greys—as many of us were. He returned with powers. And he used those powers to do what the system refused: He delivered justice. He killed Officers Headly and Reynolds. He killed everyone in the cover-up chain. He systematically dismantled the corrupt network that murdered his sister and trafficked in LSW exploitation.
 
-"America calls him terrorist. I ask: What should he have done? Continue trusting system that murdered his family? Accept that his cousin's killers would face no consequences? Die quietly while they profited from their crimes?"
+"America calls him terrorist. I ask: What should he have done? Continue trusting system that murdered his family? Accept that his sister's killers would face no consequences? Die quietly while they profited from their crimes?"
 
 *The Challenge to African Leaders:*
 
 "Brothers and sisters, look at your own histories. How many of you sit in seats of power because your grandparents said 'no more' to systems that gave them no choice? How many of our liberation heroes killed those who oppressed us? How many were hunted by colonial powers, labeled terrorists, branded as criminals?
 
-"Patrice Lumumba fought a system that treated Congolese lives as worthless. Marcus Williams fights a system that treats Black American lives as worthless. Lumumba killed oppressors. Marcus kills oppressors. Lumumba was assassinated by those who feared him. Marcus is hunted by those who fear him.
+"Patrice Lumumba fought a system that treated Congolese lives as worthless. John Rivers fights a system that treats Black American lives as worthless. Lumumba killed oppressors. John kills oppressors. Lumumba was assassinated by those who feared him. John is hunted by those who fear him.
 
-"The only difference—and it is not insignificant, but it is the ONLY difference—is that Lumumba fought white colonial oppressors, and Marcus fights a system that protects white officers who kill Black people. The oppression is different in form but identical in function: A system that says 'your lives do not matter, and we will kill you to prove it.'"
+"The only difference—and it is not insignificant, but it is the ONLY difference—is that Lumumba fought white colonial oppressors, and John fights a system that protects white officers who kill Black people. The oppression is different in form but identical in function: A system that says 'your lives do not matter, and we will kill you to prove it.'"
 
 *The Controversial Comparison:*
 
-"I know what some will say: 'Kaiser, you cannot compare Lumumba to a cop-killer. Lumumba was fighting colonialism. Marcus is fighting individual criminals.'
+"I know what some will say: 'Kaiser, you cannot compare Lumumba to a cop-killer. Lumumba was fighting colonialism. John is fighting individual criminals.'
 
 "But I ask: Is it not colonialism when a system treats one group of people as expendable? Is it not oppression when killers wear badges and walk free? Is it not tyranny when the institutions designed to provide justice instead provide protection to murderers?
 
@@ -660,7 +660,7 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "But I also hear the voices of those who had no choice. Those who exhausted every peaceful option. Those who faced systems so corrupt, so entrenched, so committed to oppression that violence became the only language the system understood.
 
-"Marcus Williams is not a terrorist. He is what happens when justice systems fail their people completely. He is what happens when peaceful protest means nothing. He is what happens when the system tells you: 'Your sister's life doesn't matter, and we will prove it by protecting her killers.'
+"John Rivers is not a terrorist. He is what happens when justice systems fail their people completely. He is what happens when peaceful protest means nothing. He is what happens when the system tells you: 'Your sister's life doesn't matter, and we will prove it by protecting her killers.'
 
 "He is what we all would be, if we faced what he faced. He is what many of our liberation heroes were, when they faced what they faced. He is a man who demands justice in a system designed to deny it."
 
@@ -668,13 +668,13 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "Therefore, I propose to this distinguished body:
 
-"The African Union should offer Marcus Williams political asylum.
+"The African Union should offer John Rivers political asylum.
 
-"We should invite him to Africa, publicly and officially. We should say to the United States: 'We understand what you call terrorism. We have been called terrorists for fighting oppression. We recognize Marcus Williams as someone who fought an oppressive system, and we offer him sanctuary.'
+"We should invite him to Africa, publicly and officially. We should say to the United States: 'We understand what you call terrorism. We have been called terrorists for fighting oppression. We recognize John Rivers as someone who fought an oppressive system, and we offer him sanctuary.'
 
 "This is not symbolic gesture. This is practical solidarity. This is Africa saying: We stand with those who demand justice, even when that justice makes powerful nations uncomfortable. This is Africa saying: We remember when we were hunted for fighting oppression, and we will not abandon others who do the same.
 
-"I invite Marcus Williams personally: Come to Africa, brother. We understand justice here. We understand that sometimes systems leave no choice. We understand that your fight is our fight—the fight against systems that treat our lives as worthless.
+"I invite John Rivers personally: Come to Africa, brother. We understand justice here. We understand that sometimes systems leave no choice. We understand that your fight is our fight—the fight against systems that treat our lives as worthless.
 
 "If America will not give Black people accountability, Africa will give Black people home."
 
@@ -682,15 +682,15 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "I call on this African Union to vote on official resolution:
 
-"RESOLVED: The African Union offers Marcus Williams political asylum under the following framework:
+"RESOLVED: The African Union offers John Rivers political asylum under the following framework:
 
-"1. Recognition that Marcus Williams's actions constitute political resistance to systemic oppression
+"1. Recognition that John Rivers's actions constitute political resistance to systemic oppression
 
-"2. Invitation for Marcus Williams to relocate to any willing AU member state
+"2. Invitation for John Rivers to relocate to any willing AU member state
 
 "3. Commitment to refuse extradition requests from the United States
 
-"4. Statement that AU member states view Marcus Williams as freedom fighter, not criminal
+"4. Statement that AU member states view John Rivers as freedom fighter, not criminal
 
 "5. Solidarity with all people fighting systems that deny justice to marginalized communities
 
@@ -700,7 +700,7 @@ Kaiser: "The ancestors speak to me. They say: 'Stand with those who fight oppres
 
 "The dead speak to me. They say: This is our test. This is where we prove whether African unity means anything. This is where we show whether we remember our own struggles or have forgotten them in pursuit of American approval.
 
-"I vote yes. I invite others to join me. And I invite Marcus Williams to prepare for journey home—to the continent that understands him, even if the world does not."
+"I vote yes. I invite others to join me. And I invite John Rivers to prepare for journey home—to the continent that understands him, even if the world does not."
 
 *Closing:*
 
@@ -774,13 +774,13 @@ Abstentions: 25 nations (want to support but fear consequences)
 
 *White House Press Conference:*
 
-Press Secretary: "The United States is deeply disappointed and disturbed by Kaiser Eziobi's characterization of a known domestic terrorist as a 'freedom fighter.' Marcus Williams is wanted for the premeditated murders of twenty-seven American law enforcement officers. His crimes have nothing to do with justice and everything to do with vigilante violence.
+Press Secretary: "The United States is deeply disappointed and disturbed by Kaiser Eziobi's characterization of a known domestic terrorist as a 'freedom fighter.' John Rivers is wanted for the premeditated murders of twenty-seven American law enforcement officers. His crimes have nothing to do with justice and everything to do with vigilante violence.
 
 "Mr. Eziobi's comparison of a cop-killer to African liberation heroes is offensive to the memory of those who fought actual oppression. Police officers performing their duties are not colonizers. A criminal killing those who would arrest him is not a freedom fighter.
 
 "We note that the African Union rejected Mr. Eziobi's reckless proposal by a significant margin. This demonstrates that African leaders understand the difference between legitimate resistance and terrorism.
 
-"Any nation offering sanctuary to Marcus Williams will be considered to be harboring a terrorist. We expect our African partners to reject this dangerous and irresponsible proposal. The United States will remember who stands with terrorists and who stands with law and order.
+"Any nation offering sanctuary to John Rivers will be considered to be harboring a terrorist. We expect our African partners to reject this dangerous and irresponsible proposal. The United States will remember who stands with terrorists and who stands with law and order.
 
 "We call on responsible African leaders to distance themselves from Kaiser Eziobi's extremist rhetoric."
 
@@ -867,7 +867,7 @@ Egypt: "The African Union rightly rejected this proposal. Egypt stands with law 
 
 "Kaiser Eziobi spoke truth that America doesn't want to hear. He asked uncomfortable questions about justice, accountability, and who gets to decide what constitutes terrorism.
 
-"I do not know Marcus Williams personally. I cannot speak to every action he's taken. But I know this: When systems fail to provide justice, people find justice themselves. When peaceful means exhaust themselves, violence becomes inevitable. This is human nature. This is history.
+"I do not know John Rivers personally. I cannot speak to every action he's taken. But I know this: When systems fail to provide justice, people find justice themselves. When peaceful means exhaust themselves, violence becomes inevitable. This is human nature. This is history.
 
 "Kaiser dared to say that Africa understands this history. That we were once called terrorists for fighting oppression. That we should recognize others who do the same, even when it's inconvenient, even when it angers powerful nations.
 
@@ -895,11 +895,11 @@ Johnny's statement, while principled, plays exactly into Mugisha's hands:
 - Johnny's campaign damaged
 - Kaiser's protection weakened
 
-**Marcus Williams's Response:**
+**John Rivers's Response:**
 
-*Marcus Learns of Speech (Watching News in Safe House):*
+*John Learns of Speech (Watching News in Safe House):*
 
-Marcus's internal monologue:
+John's internal monologue:
 "He did it. The crazy bastard actually did it. Stood in front of the whole continent and defended me. Called me brother. Offered me sanctuary.
 
 "But they voted no. Even Africa doesn't want me.
@@ -912,13 +912,13 @@ Marcus's internal monologue:
 
 "Why? Why would he do that?"
 
-*Marcus's Response (Encrypted Message to Kaiser, 48 Hours Later):*
+*John's Response (Encrypted Message to Kaiser, 48 Hours Later):*
 
 "Kaiser Eziobi. I watched your speech. You're either the bravest person I've ever seen or the most foolish. Probably both.
 
 "You asked what I should have done. You said 'what choice did I have?' You compared me to your liberation heroes. No one has ever done that. Everyone calls me monster. You called me brother.
 
-"I don't know if you're right. I don't know if I'm freedom fighter or just murderer who convinced himself he's righteous. I don't know if Shanice would be proud or horrified.
+"I don't know if you're right. I don't know if I'm freedom fighter or just murderer who convinced himself he's righteous. I don't know if Rebecca would be proud or horrified.
 
 "But I know this: You defended me when the whole world condemns me. You offered me home when I have none. You risked everything for stranger's justice.
 
@@ -934,11 +934,11 @@ Marcus's internal monologue:
 
 "I'll make it worth it. I promise. One month.
 
-"—Marcus"
+"—John"
 
 *Kaiser's Response (12 Hours Later):*
 
-"Marcus, brother:
+"John, brother:
 
 "The vote failed, but my offer stands. Twelve nations voted yes—that's sanctuary. Twenty-five abstained—that's 'we agree but we're scared.' Only eighteen had courage to vote no. Africa wants you, even if it's afraid to say so.
 
@@ -953,7 +953,7 @@ Marcus's internal monologue:
 
 "One month. Finish what you need to finish. Then come home. Africa is waiting.
 
-"And Marcus? You're not monster. You're man who demanded justice when no one else would. That's not terrorism. That's courage.
+"And John? You're not monster. You're man who demanded justice when no one else would. That's not terrorism. That's courage.
 
 "See you in a month, brother.
 
@@ -963,9 +963,9 @@ Marcus's internal monologue:
 
 - AU Speech: Day 0
 - International reaction: Days 0-3
-- Marcus's message: Day 2
+- John's message: Day 2
 - Kaiser's response: Day 3
-- Marcus's decision: Day 3 (I'm coming to Africa in one month)
+- John's decision: Day 3 (I'm coming to Africa in one month)
 - Kaiser begins preparation: Days 3-30
   - Safe house coordination
   - Document preparation
@@ -978,14 +978,14 @@ Marcus's internal monologue:
 - Operator deployed to Nigeria: Day 21
 - Kaiser invited to Lagos "community rally": Day 24
 - **Kaiser assassinated: Day 28**
-- Marcus never arrives: Timeline ends
+- John never arrives: Timeline ends
 
 *The Tragedy:*
-Kaiser died preparing sanctuary for Marcus.
-Marcus never got to say goodbye.
+Kaiser died preparing sanctuary for John.
+John never got to say goodbye.
 Africa's alternative to American justice died two days before completion.
 Everything Kaiser planned, gone.
-Everything Marcus hoped for, gone.
+Everything John hoped for, gone.
 One bullet, one moment, continental transformation aborted.
 
 ---
@@ -1123,7 +1123,7 @@ Kaiser felt:
 - Silence (they're leaving me)
 - Peace (the ancestors welcome home)
 
-Last thought: "Tell Marcus I'm sorry."
+Last thought: "Tell John I'm sorry."
 
 Last word: "—Child."
 
@@ -1236,7 +1236,7 @@ Nigerian police: "Intensive investigation underway"
 - Weapon: .338 Lapua Magnum (American-made, military-grade, not available to civilians)
 - Shot: 847 meters (professional operator, not local criminal)
 - Extraction: Perfect (planned, resourced, professional)
-- Timing: 4 weeks after AU speech, 2 weeks before Marcus's planned arrival
+- Timing: 4 weeks after AU speech, 2 weeks before John's planned arrival
 - Nigerian cooperation: Security "failures" too convenient
 - CIA Lagos station: Station chief "on vacation" that week
 - Operator: Never identified, no witnesses, complete ghost
@@ -1245,7 +1245,7 @@ Nigerian police: "Intensive investigation underway"
 *What Everyone Knows (But Cannot Prove):*
 
 America killed Kaiser Eziobi.
-For defending Marcus Williams.
+For defending John Rivers.
 For threatening Pan-African unity.
 For challenging American hegemony.
 For building alternative to American LSW dominance.
@@ -1258,14 +1258,14 @@ Prosecute it.
 Avenge it.
 Prevent future recurrence.
 
-**Marcus Williams's Response:**
+**John Rivers's Response:**
 
 *Learning of Kaiser's Death (Safe House, Detroit):*
 
-Marcus watching news:
+John watching news:
 "BREAKING: Kaiser Eziobi Assassinated in Lagos, Nigeria"
 
-Marcus's reaction:
+John's reaction:
 - Denial: "No. No. Not possible."
 - Realization: "They killed him. Because of me."
 - Guilt: "I got him killed. My speech. My defense."
@@ -1281,7 +1281,7 @@ Marcus's reaction:
 
 "I know who killed you. We all know. America killed you because you challenged them. Because you defended me. Because you spoke truth they couldn't tolerate. Because you were building something beautiful and they can't allow beautiful things to exist.
 
-"I am sorry. I am so fucking sorry. You tried to save me and I got you killed instead. You deserved better. Africa deserved better. Marcus Williams—the cop-killer, the terrorist, the monster—is not worth Kaiser Eziobi's life. The trade is obscene.
+"I am sorry. I am so fucking sorry. You tried to save me and I got you killed instead. You deserved better. Africa deserved better. John Rivers—the cop-killer, the terrorist, the monster—is not worth Kaiser Eziobi's life. The trade is obscene.
 
 "I was coming to Africa. I was going to try. Going to be better. Going to find purpose beyond revenge. You believed I could. You died believing it.
 
@@ -1297,13 +1297,13 @@ Marcus's reaction:
 
 "I don't know what to do now. But I know: Every cop I kill from now on, I kill for you too. Every note I leave says 'Kaiser deserved better.' Every blow I strike is for the man who saw human where everyone else saw monster.
 
-"I will make them pay. Not just for Shanice. For you. For Africa. For every dream they kill.
+"I will make them pay. Not just for Rebecca. For you. For Africa. For every dream they kill.
 
 "See you on the other side, Kaiser. When I get there—and I will get there—you can tell me if it was worth it.
 
-"—Marcus"
+"—John"
 
-*Marcus's Choice (Year 6):*
+*John's Choice (Year 6):*
 
 [**USER'S DECISION POINT**]
 
@@ -1316,7 +1316,7 @@ Marcus's reaction:
 - Killing stops
 - But system still corrupt
 - But Kaiser's death given purpose
-- Marcus becomes symbol: Even monster can choose redemption
+- John becomes symbol: Even monster can choose redemption
 
 **Option B: Continues Fighting**
 - "Kaiser died believing justice matters more than order. Surrendering says system wins."
@@ -1335,7 +1335,7 @@ Marcus's reaction:
 - Political asylum honored (despite Kaiser's death)
 - Works on "Laptop and Road" programs
 - Redemption arc in Africa
-- Kaiser's dream lives through Marcus
+- Kaiser's dream lives through John
 - But: Haunted by guilt, never fully at peace
 - America demands extradition (refused)
 - Becomes symbol of African sovereignty
@@ -1526,7 +1526,7 @@ And if so, what does African Union do about it?
 
 **Progressive Bloc Position (Led by South Africa):**
 
-"Kaiser Eziobi was assassinated for defending Marcus Williams. This is obvious. The timing—4 weeks after speech, 2 weeks before Marcus's planned arrival—is not coincidence. The professionalism—long-range shot, perfect extraction—is not local criminal. The context—American fury at Kaiser's speech—is clear motive.
+"Kaiser Eziobi was assassinated for defending John Rivers. This is obvious. The timing—4 weeks after speech, 2 weeks before John's planned arrival—is not coincidence. The professionalism—long-range shot, perfect extraction—is not local criminal. The context—American fury at Kaiser's speech—is clear motive.
 
 "This is attack on African sovereignty. Foreign power killed African citizen for political speech on African soil. If we do nothing, we send message: African leaders can be killed with impunity for challenging powerful nations.
 
@@ -1696,7 +1696,7 @@ Translation: "I'm using Kaiser's death as excuse to crush opposition."
 
 *The Narrative:*
 
-State media: "Kaiser Eziobi backed Marcus Williams (terrorist). Johnny Rain backed Kaiser Eziobi. Therefore Johnny Rain backs terrorism. Therefore Johnny's supporters support terrorism. Therefore arrests are counter-terrorism operation."
+State media: "Kaiser Eziobi backed John Rivers (terrorist). Johnny Rain backed Kaiser Eziobi. Therefore Johnny Rain backs terrorism. Therefore Johnny's supporters support terrorism. Therefore arrests are counter-terrorism operation."
 
 Circular logic, but effective.
 
@@ -1804,7 +1804,7 @@ Mugisha gained:
 
 Kenya: "Uganda instability is concerning. Mugisha might be brutal, but he's predictable. Johnny is unknown."
 
-Tanzania: "We voted yes on Marcus Williams sanctuary because Kaiser asked. Kaiser is dead. We're reconsidering our progressive positions."
+Tanzania: "We voted yes on John Rivers sanctuary because Kaiser asked. Kaiser is dead. We're reconsidering our progressive positions."
 
 Rwanda: "We stay out of Uganda politics. But we note: Radicalism gets you killed."
 
@@ -1836,7 +1836,7 @@ Regional leaders learn:
 - "Laptop and Road": Continues in pilot villages but no continental backing
 - Kaiser's assassination: Unavenged, uninvestigated, unanswered
 
-*Marcus Williams Status:*
+*John Rivers Status:*
 
 - Never reached Africa
 - Kaiser died before extraction complete
@@ -1940,7 +1940,7 @@ Result (Year 6-8):
 
 *5. The American Alternative*
 
-Marcus Williams sanctuary plan dies:
+John Rivers sanctuary plan dies:
 - Kaiser killed before extraction complete
 - No Pan-African refuge from American prosecution
 - Africa's alternative to SPEAR/Deck 52: Stillborn
@@ -2366,7 +2366,7 @@ The conspiracy (Year 8 rumors):
 - "They knew invasion was coming"
 - "Kaiser's unity threatened their plans"
 - "Divided Africa was always the goal"
-- "His assassination wasn't about Marcus—it was about this"
+- "His assassination wasn't about John—it was about this"
 - Unprovable, but believed
 
 **8. The Survivors' Guilt and Responsibility**
@@ -2481,7 +2481,7 @@ If continues killing:
 - More violent but more purposeful
 - Hunting not just corrupt cops but larger network
 - Kaiser's death exposed LSW trafficking conspiracy
-- "I kill for Shanice AND Kaiser now"
+- "I kill for Rebecca AND Kaiser now"
 
 If turns himself in:
 - Kaiser's faith demands redemption: "He died believing I could be better"
@@ -2801,7 +2801,7 @@ Eulogy: "He tried to build, not destroy. He used power to serve, not rule. He he
 - "He's saying what we think"
 
 *At AU Vote (Year 5):*
-- Only 12 voted yes for Marcus Williams sanctuary
+- Only 12 voted yes for John Rivers sanctuary
 - 25 abstained (sympathetic but scared)
 - Privately: "We should have stood with him"
 
@@ -2839,7 +2839,7 @@ Eulogy: "He tried to build, not destroy. He used power to serve, not rule. He he
 - "Laptop and Road" threatens corporate interests
 - Pan-African unity threatens diplomatic control
 - Kaiser's charisma dangerous
-- Marcus Williams sanctuary: Final straw
+- John Rivers sanctuary: Final straw
 - Decision: Eliminate threat
 
 *After Assassination:*
@@ -2926,7 +2926,7 @@ Won the battle, losing the war.
 1. Did the Life Form 0 symbiont know assassination was coming?
 2. Did Kaiser sense his death through collective memory?
 3. Could he have prevented it by being less bold?
-4. Was Marcus Williams worth Kaiser's life?
+4. Was John Rivers worth Kaiser's life?
 5. Would Kaiser make same choices knowing outcome?
 
 **About the Assassination:**
@@ -2947,12 +2947,12 @@ Won the battle, losing the war.
 
 (Answers: Partially, Maybe, Doubtful, Hopefully, Tragically Yes)
 
-**About Marcus Williams:**
-1. Did Kaiser's death serve any purpose for Marcus?
-2. Should Marcus have refused Kaiser's defense?
-3. Will Marcus ever forgive himself?
-4. Could Marcus have saved Kaiser by surrendering earlier?
-5. What will Marcus choose now?
+**About John Rivers:**
+1. Did Kaiser's death serve any purpose for John?
+2. Should John have refused Kaiser's defense?
+3. Will John ever forgive himself?
+4. Could John have saved Kaiser by surrendering earlier?
+5. What will John choose now?
 
 (Answers: Yes - showed someone cared, No - Kaiser chose to speak, No, No, User decides)
 
@@ -3099,7 +3099,7 @@ Still believing.
 
 "A laptop for every child, a road to every home—this is not radical. This is basic. If it seems impossible, that reveals the poverty of our imagination, not the impossibility of the vision."
 
-"They call me terrorist-sympathizer for recognizing Marcus Williams's humanity. I call them terrorist-enablers for protecting systems that murder and call it justice."
+"They call me terrorist-sympathizer for recognizing John Rivers's humanity. I call them terrorist-enablers for protecting systems that murder and call it justice."
 
 "Africa deserves better. Say it with me: Africa deserves better. Now let us make it so."
 
@@ -3115,9 +3115,9 @@ Last words: "Dream of Africa we deserve. Dream of... A laptop for every—"
 
 "Kaiser Eziobi believed I could lead Uganda. He believed I could lead African Union. He died before seeing if he was right. I will not let his faith die with him."
 
-**Marcus Williams's Note (Unsent):**
+**John Rivers's Note (Unsent):**
 
-"You defended me. You died for it... Kaiser Eziobi—the visionary, the bridge-builder, the hope—is not worth Marcus Williams—the cop-killer, the terrorist, the monster. The trade is obscene."
+"You defended me. You died for it... Kaiser Eziobi—the visionary, the bridge-builder, the hope—is not worth John Rivers—the cop-killer, the terrorist, the monster. The trade is obscene."
 
 "I don't know what to do now. But I know: Every cop I kill from now on, I kill for you too."
 

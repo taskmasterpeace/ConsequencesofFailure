@@ -4,66 +4,73 @@
 
 ---
 
-## CHARACTER #1: STAMPEDE (THE COP ON RAMPAGE)
+## CHARACTER #1: STAMPEDE — JOHN RIVERS (THE COP ON RAMPAGE)
 **Country:** United States
-**Role:** Former Police Officer / Vigilante Supervillain
+**Real name:** John Rivers (alias "Stampede"); sister: LAPD Det. Rebecca Carranza
+**Role:** Former LAPD Officer / Vigilante Supervillain
 **Age:** 29
 **Power Status:** Enhanced
 **Threat Level:** 4
 
 ### THE SHORT STORY:
 
-Marcus "Marc" Williams stood in the rain outside the 14th Precinct, watching through the chain-link fence as shift change happened. He knew every face. Officer Donnelly—works patrol with his cousin. Sergeant Hayes—coached Marcus in the academy. Detective Pruit—recommended him for commendation twice.
+John Rivers stood in the rain outside the LAPD station, watching through the chain-link fence as shift change happened. He knew every face. Officer Donnelly—works patrol with his sister. Sergeant Hayes—coached John in the academy. Detective Pruit—recommended him for commendation twice.
 
-And there, laughing at some joke near the coffee machine visible through the break room window, Officers Headly and Reynolds. The men who killed his cousin Shanice.
+And there, laughing at some joke near the coffee machine visible through the break room window, Officers Headly and Reynolds. The men who killed his sister, Detective Rebecca Carranza.
 
-The dashcam footage was clear. Shanice, hands up, complying. Headly's gun drawn. "She's reaching!" A lie. Three shots. Shanice falling. Then the throwaway piece—a Saturday night special kept in Headly's trunk—planted in Shanice's purse while Reynolds blocked the camera angle with his body.
+[CONFLICT — power: this draft gives Stampede kinetic/speed/dermal-density powers, but canon (Stampede.txt, README, bible) is **gravitational field manipulation**. Flagged for creator ruling; names/relationship corrected to canon, power text left as the rewrite-layer draft.]
 
-Marcus knew the routine because he'd done it. Not murder, never that, but the blue wall? The brotherhood? He'd held that line. When his partner roughed up a suspect too much, Marcus looked away. When evidence went missing from the locker, Marcus didn't ask questions. When the union rep told him to keep his mouth shut about what he saw, Marcus nodded.
+[CONFLICT — death of sister: this draft has her killed in a street traffic stop; canon (Stampede.txt) is a **car-bomb assassination** to silence her LAPD Shooter's Club gun-trafficking investigation. Flagged for creator ruling.]
 
-Until it was Shanice bleeding out on the pavement.
+The dashcam footage was clear. Rebecca, hands up, complying. Headly's gun drawn. "She's reaching!" A lie. Three shots. Rebecca falling. Then the throwaway piece—a Saturday night special kept in Headly's trunk—planted in Rebecca's purse while Reynolds blocked the camera angle with his body.
+
+John knew the routine because he'd done it. Not murder, never that, but the blue wall? The brotherhood? He'd held that line. When his partner roughed up a suspect too much, John looked away. When evidence went missing from the locker, John didn't ask questions. When the union rep told him to keep his mouth shut about what he saw, John nodded.
+
+Until it was Rebecca bleeding out on the pavement.
 
 The internal investigation was a joke. Paid administrative leave. The DA—who golfed with the Police Commissioner—declined to prosecute. "Insufficient evidence." The dashcam footage mysteriously corrupted in storage. Headly and Reynolds back on duty in six weeks.
 
-Marcus tried to stay. Tried to be the change from inside. But every day in that uniform felt like drowning. When he reported Reynolds bragging about the throwaway gun at a bar, Marcus found himself transferred to the night shift in the worst precinct. When he pushed harder, his performance reviews suddenly documented behavioral issues. The message was clear: shut up or get out.
+John tried to stay. Tried to be the change from inside. But every day in that uniform felt like drowning. When he reported Reynolds bragging about the throwaway gun at a bar, John found himself transferred to the night shift in the worst precinct. When he pushed harder, his performance reviews suddenly documented behavioral issues. The message was clear: shut up or get out.
 
-Then came the abduction. Eighty-three days gone. When Marcus woke on the street where he'd vanished, he felt different. Stronger. Faster. His skin seemed harder, denser. He could run at highway speeds. Impact that should shatter bone barely bruised him.
+Then came the abduction. Eighty-three days gone. When John woke on the street where he'd vanished, he felt different. Stronger. Faster. His skin seemed harder, denser. He could run at highway speeds. Impact that should shatter bone barely bruised him.
 
 The Greys had given him something. Not salvation. A tool.
 
-Marcus turned in his badge the next morning. Cleaned out his locker while his former brothers-in-arms avoided his eyes. That night, Officer Headly worked a solo patrol—against protocol, but who was going to report it?
+John turned in his badge the next morning. Cleaned out his locker while his former brothers-in-arms avoided his eyes. That night, Officer Headly worked a solo patrol—against protocol, but who was going to report it?
 
-The impact threw Headly's cruiser thirty feet. Marcus pulled him from the wreckage, let him see the face.
+The impact threw Headly's cruiser thirty feet. John pulled him from the wreckage, let him see the face.
 
-"Marc? Jesus Christ, Marc, what are you—"
+"Rivers? Jesus Christ, John, what are you—"
 
-"Her name was Shanice Williams. Say it."
+"Her name was Rebecca Carranza. Say it."
 
-"Marc, please, I—"
+"John, please, I—"
 
 The first blow shattered Headly's jaw. The second and third were mercy.
 
-Marcus left him breathing. Barely. With a note pinned to his chest: "I DESERVE BETTER."
+John left him breathing. Barely. With a note pinned to his chest: "I DESERVE BETTER."
 
-Reynolds lasted longer, fought harder. Still breathing when Marcus left him.
+Reynolds lasted longer, fought harder. Still breathing when John left him.
 
-Then Sergeant Hayes, who'd approved the falsified reports. Lieutenant Morrison, who killed the investigation. Captain Stokes, who transferred Marcus for speaking up.
+Then Sergeant Hayes, who'd approved the falsified reports. Lieutenant Morrison, who killed the investigation. Captain Stokes, who transferred John for speaking up.
 
-The media called him Stampede—a cop gone rogue, targeting law enforcement with superhuman strength and speed. The FBI manhunt was the largest in a decade. But every night Marcus added another name to his list. Not random violence. Surgical justice. Every target had participated in the machinery that protected bad cops and punished good ones.
+The media called him Stampede—a cop gone rogue, targeting law enforcement with superhuman strength and speed. The FBI manhunt was the largest in a decade. But every night John added another name to his list. Not random violence. Surgical justice. Every target had participated in the machinery that protected bad cops and punished good ones.
 
-Kaiser Eziobie found him in a Pittsburgh safe house three months into the rampage. The Nigerian billionaire with the alien symbiont. The man building a better world.
+Kaiser Eziobi found him in a Los Angeles safe house three months into the rampage. The Nigerian billionaire with the alien symbiont. The man building a better world.
 
 "I can give you purpose beyond revenge," Kaiser said. "Africa needs heroes. Real ones. Not more violence."
 
-Marcus wanted to believe. Wanted redemption. But when he looked in the mirror, all he saw was Shanice's blood.
+John wanted to believe. Wanted redemption. But when he looked in the mirror, all he saw was Rebecca's blood.
 
-"I'm not a hero," Marcus said. "I'm a consequence."
+"I'm not a hero," John said. "I'm a consequence."
 
-Kaiser kept trying. Kept reaching out. Right up until the night in Lagos when Marcus went after a corrupt police commander, and Kaiser tried to stop him. The fight lasted seven minutes. When it ended, Kaiser Eziobi—billionaire, visionary, Africa's great hope—was dead.
+[CONFLICT — Kaiser's death: this draft has Stampede kill Kaiser in a confrontation abroad, but canon (CLAUDE.md, README, TIMELINE) is that **Stampede never reaches Africa** and Kaiser is **assassinated by U.S./Western intelligence in Okigwe, Nigeria**. Flagged for creator ruling; not silently rewritten.]
 
-And Marcus Williams became America's most wanted supervillain.
+Kaiser kept trying. Kept reaching out. Right up until the night when John went after a corrupt police commander, and Kaiser tried to stop him. The fight lasted seven minutes. When it ended, Kaiser Eziobi—billionaire, visionary, Africa's great hope—was dead.
 
-The irony wasn't lost on him. He'd spent his whole life enforcing the law. Now he'd become exactly what he once hunted. But as he disappeared into the shadows, as SPEAR and governments worldwide mobilized to find him, Marcus felt something he hadn't felt since Shanice died.
+And John Rivers became America's most wanted supervillain.
+
+The irony wasn't lost on him. He'd spent his whole life enforcing the law. Now he'd become exactly what he once hunted. But as he disappeared into the shadows, as SPEAR and governments worldwide mobilized to find him, John felt something he hadn't felt since Rebecca died.
 
 Purpose.
 
@@ -98,13 +105,13 @@ Purpose.
 ### STORY ARC:
 
 **Season 1-2:**
-Shanice's murder. Marcus's attempts to work within the system. The abduction and return. First kills—Headly and Reynolds. Escalation as Marcus systematically targets the corrupt apparatus. Media coverage, public divided. Some see him as vigilante hero, others as terrorist. Kaiser's recruitment attempts begin.
+Rebecca's murder. John's attempts to work within the system. The abduction and return. First kills—Headly and Reynolds. Escalation as John systematically targets the corrupt apparatus. Media coverage, public divided. Some see him as vigilante hero, others as terrorist. Kaiser's recruitment attempts begin.
 
 **Season 3-5:**
-Virus outbreak creates chaos—Marcus focuses on protecting vulnerable communities from corrupt cops exploiting the crisis. Kaiser continues outreach. Their philosophical debates about justice vs. revenge. Marcus begins questioning his methods. The Lagos incident—Marcus tries to stop a massacre, Kaiser intervenes, and in the struggle, Kaiser dies. Marcus becomes international fugitive. U.S. government makes him symbol of LSW danger.
+Virus outbreak creates chaos—John focuses on protecting vulnerable communities from corrupt cops exploiting the crisis. Kaiser continues outreach. Their philosophical debates about justice vs. revenge. John begins questioning his methods. [CONFLICT: per canon, Stampede never reaches Africa and Kaiser is assassinated by U.S./Western intelligence in Okigwe — not killed by Stampede. Flagged.] John becomes international fugitive. U.S. government makes him symbol of LSW danger.
 
 **Season 6-8:**
-Hunted by SPEAR, national governments, and LSW bounty hunters. Marcus forced underground. Discovers larger conspiracy—his targets weren't random bad cops but part of organized network trafficking LSW blood/tissue. Shanice's murder was to silence her investigation into police corruption tied to LSW exploitation. Final confrontation with the network's leaders, possibly involving FIST/SPEAR. Alien invasion forces choice: die a villain or live as a soldier. Marcus's tragic end or redemption—TBD.
+Hunted by SPEAR, national governments, and LSW bounty hunters. John forced underground. Discovers larger conspiracy—his targets weren't random bad cops but part of organized network trafficking LSW blood/tissue. Rebecca's murder was to silence her investigation into the Shooter's Club's gun-trafficking ring (tied to LSW exploitation). Final confrontation with the network's leaders, possibly involving FIST/SPEAR. Alien invasion forces choice: die a villain or live as a soldier. John's tragic end or redemption—TBD.
 
 ---
 
@@ -591,7 +598,7 @@ For twenty-seven years, Uganda had stability. Imperfect, bloody, corrupt stabili
 
 Then the LSW arrived.
 
-Cissy Oliva was the miracle Mugisha needed. A Sage with universal genetic engineering knowledge, she could have gone anywhere—America, Europe, China. Instead, she stayed in Uganda. Patriotic. Naive.
+Cissy Oliva was the miracle Mugisha needed. A Sage with the complete knowledge of a single college course—genetic engineering—she could have gone anywhere—America, Europe, China. Instead, she stayed in Uganda. Patriotic. Naive.
 
 Mugisha gave her resources, protection, praise. In return, Cissy's biotech innovations made Uganda rich. Designer crops that grew in drought. Animals engineered for disease resistance. Medical treatments that African nations bought eagerly.
 
@@ -1280,7 +1287,7 @@ Japan under siege (economically, diplomatically, low-level military). Akiko losi
 **END OF BATCH 1: CRITICAL CHARACTERS + KEY PRESIDENTS**
 
 **Summary:**
-- 3 powered characters (Stampede, Kali, Hank) showing range of LSW types and moral positions
+- 3 powered characters (Stampede/John Rivers, Kali [alternate-draft seed — merged into Jawah Matu, Tanzania], Hank) showing range of LSW types and moral positions
 - 7 non-powered world leaders navigating LSW politics in different contexts
 - Geographic diversity: USA, Kenya, Canada, Spain, Uganda (2), Brazil, Israel, Iran, Japan
 - Thematic diversity: revenge, isolation, faith, grief, authoritarianism, compromise, idealism, pragmatism, fear, hope
