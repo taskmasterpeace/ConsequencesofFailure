@@ -266,8 +266,6 @@ After the armor manifests, Raghavan does NOT return to civilization.
 - Major Gupta (right-hand man)
 - **12 core agents** including:
   - **Asha** (time traveler, Level 5 threat)
-  - **Jawah Matu**
-  - **Lawal**
   - Others TBD
 
 **Core Values:** Patriotism, Dedication, Sacrifice
@@ -330,7 +328,6 @@ After the armor manifests, Raghavan does NOT return to civilization.
 
 **Allies:**
 - **Asha** (time traveler) - His most powerful asset, complicated relationship (her power costs her sanity)
-- **Jawah Matu & Lawal** - Core team members, absolute loyalty
 - **Vijay Randhawa** - His government handler, complex relationship (respect but distrust)
 - **Indian government** - Officially aligned, secretly does things they can't acknowledge
 

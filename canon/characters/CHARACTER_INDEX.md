@@ -27,14 +27,13 @@
 18. Elif Korkmaz (Turkey) - LSW Level 2, Sand Shaper
 19. General David Sharon (Israel) - Non-Powered, IDF Chief of Staff
 20. Hank "Crossfire" Foster (Canada) - LSW Level 2, Probability Field Manipulation
-21. Jawah Matu (India) - Establishment 24 Member
+21. Jawah Matu (Tanzania) - LSW, Sound Absorption (≤70 dB, at will, via exposed skin) [earlier name: Lawal]
 22. Jelani (Uganda) - LSW, Enhanced Strength/Speed, Mugisha's bodyguard
 23. Johnny "Sun of the Soil" Rain (Uganda) - Non-Powered, Musician/Revolutionary
 24. Kaiser Eziobi (Nigeria) - LSW Level 5, Alien Symbiont (DECEASED)
 25. Kali "The Albino" Mwangi (Kenya) - LSW Level 3, Sound Absorption/Redistribution
 26. Kamaria (Uganda) - LSW, Phasing, Mugisha's bodyguard
-27. Lawal (India) - Establishment 24 Member
-28. Lieutenant Syed Ahmad (Malaysia) - Non-Powered, Naval Commander
+27. Lieutenant Syed Ahmad (Malaysia) - Non-Powered, Naval Commander
 29. Liu Xiao (China) - LSW, Motivated by Sister's Death
 30. Liu Xiao's Sister (China) - LSW, Memory Manipulation (DECEASED)
 31. Major Arash Tehrani (Iran) - LSW Level 3, Heat Sovereign
@@ -88,8 +87,9 @@
 **Nigeria (1):**
 - Kaiser Eziobi (LSW Level 5, Symbiont) - DECEASED
 
-**Tanzania (1):**
+**Tanzania (2):**
 - Zephaniah Mwangaza (LSW, Time/Mind) - DECEASED
+- Jawah Matu (LSW, Sound Absorption ≤70 dB) [earlier name: Lawal]
 
 **Uganda (5):**
 - President Ronald Opio "Mugisha" (Non-Powered)
@@ -139,11 +139,9 @@
 - Liu Xiao (LSW)
 - Liu Xiao's Sister (LSW) - DECEASED
 
-**India (6):**
+**India (3):**
 - Colonel Raghavan "Gourav" Reddy (LSW Level 5)
 - Asha (LSW Level 5)
-- Jawah Matu (Establishment 24)
-- Lawal (Establishment 24)
 - Thug Birham (Non-Powered, Criminal)
 
 **Indonesia (2):**
@@ -283,8 +281,6 @@
 **Establishment 24 (India):**
 - Colonel Raghavan "Gourav" Reddy (Leader)
 - Asha
-- Jawah Matu
-- Lawal
 
 **Magen Teams (Israel):**
 - Team Aleph (referenced - mostly deceased)
@@ -382,6 +378,7 @@
 
 ### Sound
 - Kali "The Albino" Mwangi (Kenya) - Sound absorption and redistribution
+- Jawah Matu (Tanzania) - Sound absorption (≤70 dB, at will, via exposed skin) [earlier name: Lawal]
 
 ### Mental/Emotional
 - Maria Carmen Quispe (Peru) - Emotional amplification/conductor
@@ -467,7 +464,7 @@
 
 6. **Rachid Benali (Morocco)** - Intelligence coordinator who knows about Yael-Tariq cooperation, Omar's deterioration, Arash's doubts, Elif's activities—files on everyone
 
-7. **Colonel Raghavan Reddy (India)** - Establishment 24 leader connected to Asha, Jawah Matu, Lawal, Indian government, international LSW community
+7. **Colonel Raghavan Reddy (India)** - Establishment 24 leader connected to Asha, Indian government, international LSW community
 
 8. **President Lucas Mendes (Brazil)** - Connected to 81 Brazilian LSW (divided loyalties), military generals, cartels, state governors, international partners
 

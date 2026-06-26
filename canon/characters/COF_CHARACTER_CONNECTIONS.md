@@ -36,13 +36,14 @@
 **Type**: India's powered human team
 **Leader**: Colonel Raghavan "Gourav" Reddy (The Garuda)
 **Base**: India
-**Members**: 8 total
+**Members**: ~8 total
 
 ### Known Members:
 1. **Raghavan "Gourav" Reddy** - Leader, "The Garuda", flight powers
-2. **Jawah Matu** - India/Nigeria connection
-3. **Lawal** - Member
-4. **[5 Unknown Members]** - Powers/roles to be documented
+2. **Asha** - Time traveler (Level 5)
+3. **[Other members]** - Powers/roles to be documented
+
+> Note: Jawah Matu (and his earlier draft name "Lawal") is NOT a member of Establishment 24. He is Tanzanian — see the Tanzania entries. The "India/Nigeria connection" was a fabrication and has been removed.
 
 ### Connections:
 - Allied with SPEAR
@@ -113,10 +114,8 @@ Colonel Raghavan "Gourav" Reddy (The Garuda)
                 |
     +-----------+-----------+
     |           |           |
-  Jawah       Lawal    [6 Others]
-   Matu
-    |
-[Also connected to Nigeria]
+  Asha     [Other      [More
+            members]   members]
 ```
 
 ### Individual Profiles
@@ -129,16 +128,6 @@ Colonel Raghavan "Gourav" Reddy (The Garuda)
 - **Powers**: Flight (presumed), leadership
 - **Role**: Leader of Establishment 24
 - **Major Achievement**: Defended India against major threats
-
-#### Jawah Matu
-- **Origins**: Connected to both India AND Nigeria
-- **Powers**: Unknown (needs documentation)
-- **Role**: Bridge between Indian and African storylines?
-
-#### Lawal
-- **Origins**: Likely Nigerian or West African name
-- **Powers**: Unknown
-- **Connection**: Works with Establishment 24
 
 #### Thug Birham
 - **Role**: Antagonist to Establishment 24
@@ -229,12 +218,6 @@ Liu Xiao ----[mourning/revenge?]----> Sister (deceased)
 - **President**: Ronald Opio (from CSV data)
 - **Connection**: Possibly works with or opposes Eziobi/Kaiser
 - **Status**: Competent? Corrupt? Unknown
-
-### Jawah Matu Connection
-- **Mystery**: How does Jawah Matu connect India to Nigeria?
-- **Dual citizenship?**
-- **Family ties?**
-- **Mission assignment?**
 
 ---
 
@@ -351,17 +334,13 @@ graph TB
     DECK52[Deck 52 - USA] -.-> SPEAR
 
     E24[Establishment 24 - India] --> RAGHAVAN[Raghavan Reddy]
-    E24 --> JAWAH[Jawah Matu]
-    E24 --> LAWAL[Lawal]
-    E24 --> OTHERS[5 Others]
+    E24 --> ASHA[Asha - Time Traveler]
+    E24 --> OTHERS[Other members]
 
-    JAWAH -.-> NIGERIA[Nigeria Connection]
-
-    ASHA[Asha - Time Traveler] -.-> E24
     MWAN[Mwangaza † - Time Traveler] -.-> PAST[Warned Before Death?]
 
     EZIOBI[Eziobi - Nigeria] --> KAISER[Kaiser]
-    EZIOBI -.-> NIGERIA
+    EZIOBI -.-> NIGERIA[Nigeria Connection]
 
     LIUXIAO[Liu Xiao - China] --> SISTER[Sister † - Memory Manipulator]
 
@@ -414,7 +393,7 @@ timeline
     title Character Appearances by Season
     Year Zero : Ring Protagonist : Black Woman Jackal : Ring Entity
     Season 1 : SPEAR Forms : Galloway : Spahire : First LSWs Appear
-    Season 2 : Establishment 24 Revealed : Raghavan Goes Public : Jawah Matu : Lawal
+    Season 2 : Establishment 24 Revealed : Raghavan Goes Public : Asha
     Season 3 : Deck 52 Emerges : Eziobi Major Arc Begins : Kaiser Appears
     Season 4 : Liu Xiao Story Begins : Sister's Death Revealed
     Season 5 : More LSWs Come Out of Hiding
@@ -443,7 +422,6 @@ timeline
 
 ## Unknown Relationships (Need Clarification)
 - Asha ↔ Establishment 24 (works with them? independent?)
-- Jawah Matu ↔ Nigeria characters (family? mission?)
 - Rusty Richards ↔ Anyone (who does he connect to?)
 - Black Woman Jackal ↔ Grays (knowing servant? unwitting tool?)
 - Liu Xiao ↔ Chinese Government (working for? against?)
@@ -451,13 +429,6 @@ timeline
 ---
 
 # CROSS-REGIONAL CONNECTIONS
-
-## India ↔ Nigeria
-**Link**: Jawah Matu
-- Member of Establishment 24 (India)
-- Has connection to Nigeria
-- Possibly family origin or mission assignment
-- Could connect to Eziobi story
 
 ## USA ↔ Global
 **Link**: SPEAR
@@ -483,15 +454,14 @@ timeline
 # QUESTIONS ABOUT CONNECTIONS
 
 1. **Does Asha work WITH Establishment 24 or separately?**
-2. **How exactly does Jawah Matu bridge India and Nigeria?**
-3. **What's Rusty Richards' connection to the main teams?**
-4. **Do Galloway and Spahire eventually reconcile or stay rivals?**
-5. **Does Liu Xiao ever connect with other regional heroes?**
-6. **Is there a character who coordinates between all regions?**
-7. **Do any humans work WITH the Grays knowingly?**
-8. **Which character discovers the truth about the Ring Entity?**
-9. **Does the Black Woman Jackal ever face Establishment 24?**
-10. **Who leads the global defense in Season 8 - is there one supreme commander?**
+2. **What's Rusty Richards' connection to the main teams?**
+3. **Do Galloway and Spahire eventually reconcile or stay rivals?**
+4. **Does Liu Xiao ever connect with other regional heroes?**
+5. **Is there a character who coordinates between all regions?**
+6. **Do any humans work WITH the Grays knowingly?**
+7. **Which character discovers the truth about the Ring Entity?**
+8. **Does the Black Woman Jackal ever face Establishment 24?**
+9. **Who leads the global defense in Season 8 - is there one supreme commander?**
 
 ---
 
@@ -530,16 +500,15 @@ timeline
 # NEXT STEPS
 
 To complete this character map:
-1. Name the 5 unknown Establishment 24 members
+1. Name the unknown Establishment 24 members
 2. Clarify Asha's relationship to E24
-3. Define Jawah Matu's India-Nigeria connection
-4. Identify Rusty Richards' role and connections
-5. Detail the Black Woman Jackal's character
-6. Map out Deck 52's structure
-7. Identify SPEAR's leadership
-8. Create profiles for major antagonists
-9. Show how regional forces coordinate in Season 8
-10. Define the "high profile event" that unites LSWs
+3. Identify Rusty Richards' role and connections
+4. Detail the Black Woman Jackal's character
+5. Map out Deck 52's structure
+6. Identify SPEAR's leadership
+7. Create profiles for major antagonists
+8. Show how regional forces coordinate in Season 8
+9. Define the "high profile event" that unites LSWs
 
 ---
 

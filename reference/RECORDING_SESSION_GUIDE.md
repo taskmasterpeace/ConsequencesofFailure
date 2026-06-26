@@ -98,7 +98,7 @@
 
 **Q28**: Establishment 24 Origins - How did these 8 people come together? Who recruited them?
 
-**Q29**: Jawah Matu's Powers - What are her specific abilities? And how does she connect India to Nigeria?
+**Q29**: Jawah Matu's Powers - ✅ RESOLVED: Tanzanian, male; takes away/absorbs sound at will up to 70 dB through exposed skin. NOT Indian, NOT Establishment 24. "Lawal" = same person (earlier draft name). No India/Nigeria connection.
 
 **Q30**: Thug Birham's Fate - Does the villain Thug Birham die, get captured, or escape? What IS Thug Birham - person, organization, or what?
 

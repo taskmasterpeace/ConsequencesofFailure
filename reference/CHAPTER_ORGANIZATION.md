@@ -76,7 +76,7 @@ Saying "Chapter 2" is confusing because:
 - **2.2 - Global: Knowledge as Power** (Nations realize Sages = strategic assets)
 
 ### ESTABLISHMENT 24 FORMATION
-- **2.3 - Raghavan: Assembling the Team** (Asha, Jawah, Lawal recruited)
+- **2.3 - Raghavan: Assembling the Team** (Asha recruited)
 - **2.4 - Asha: The Time Traveler** (Her origin, first jump, cost revealed)
 - **2.5 - India: Icchatām Ganga** (Ganga cleanup project, E24 goes public)
 

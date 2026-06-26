@@ -1569,7 +1569,7 @@
 **Hidden Depths:** His divine powers may have spiritual purpose beyond combat
 
 ### RELATIONSHIPS:
-**Allies:** Establishment 24 team (Asha, Jawah Matu, Lawal), Indian government
+**Allies:** Establishment 24 team (Asha), Indian government
 **Enemies:** Thug Birham, threats to India, those exploiting LSW
 **Complicated:** International LSW community (respected but India-focused)
 **Family:** Nitya Reddy (deceased wife), family lost in bus crash—catalyst for transformation
@@ -1577,7 +1577,7 @@
 ### STORY ARC:
 **Year 1:** Family tragedy—bus crash kills wife Nitya and family. Grief catalyzes powers. Golden armor manifests. Military integration.
 
-**Year 2-4:** Establishment 24 formation under his leadership. Team building with Asha, Jawah, Lawal. Ganga cleanup operations (using powers for civilian good). Becomes symbol of India's strength.
+**Year 2-4:** Establishment 24 formation under his leadership. Team building with Asha. Ganga cleanup operations (using powers for civilian good). Becomes symbol of India's strength.
 
 **Year 5-8:** India's defense against regional threats. Establishment 24 crucial to stability. Alien invasion—Raghavan's powers may have been preparation for this. Possible cosmic destiny revealed. Protection of India during final battles.
 
@@ -1599,7 +1599,7 @@
 
 ### CROSS-REFERENCES:
 **Appears In:** characters.json
-**Connected Characters:** Asha (teammate), Jawah Matu (teammate), Lawal (teammate), Nitya Reddy (deceased wife), Thug Birham (enemy)
+**Connected Characters:** Asha (teammate), Nitya Reddy (deceased wife), Thug Birham (enemy)
 
 ---
 
@@ -1638,8 +1638,7 @@
 - Zephaniah Mwangaza (Tanzania)
 - Liu Xiao (China)
 - Liu Xiao's Sister (China)
-- Jawah Matu (India)
-- Lawal (India)
+- Jawah Matu (Tanzania) [earlier name: Lawal]
 - Rusty Richards (USA)
 - Ring Protagonist (USA)
 - Black Woman Jackal (USA)

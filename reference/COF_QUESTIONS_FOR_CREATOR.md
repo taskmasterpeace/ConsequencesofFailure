@@ -57,7 +57,7 @@ Record yourself answering these questions. Don't worry about being perfect - jus
 
 19. **Establishment 24 Origins**: How did these 8 people come together? Who recruited them?
 
-20. **Jawah Matu's Powers**: You mention Jawah Matu (India/Nigeria) - what are her specific abilities?
+20. **Jawah Matu's Powers**: ✅ RESOLVED — Jawah Matu is **Tanzanian** and **male** (NOT Indian, NOT Establishment 24). His power: takes away/absorbs sound at will, up to **70 dB**, through **exposed skin**. "Lawal" is an earlier draft name for the same man.
 
 21. **Thug Birham's Fate**: Does the villain Thug Birham die, get captured, or escape?
 

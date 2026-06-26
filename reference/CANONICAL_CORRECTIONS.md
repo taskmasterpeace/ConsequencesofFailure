@@ -118,6 +118,23 @@
 
 ---
 
+### JAWAH MATU - NATIONALITY & IDENTITY (RESOLVED)
+
+**OLD INCORRECT VERSION (AI rewrite-layer fabrication):**
+- Indian; member of India's Establishment 24
+- "Lawal" treated as a separate person
+- "India ↔ Nigeria bridge" / dual citizenship mystery
+- Referred to as "her/she"
+
+**RESOLVED CANON:**
+- **Jawah Matu is TANZANIAN** (born Dar es Salaam), **male**, an albino soldier/war hero.
+- **Power:** absorbs/takes away sound at will, up to **70 dB**, through **exposed skin**.
+- **"Lawal" is the SAME PERSON** — an earlier draft name (confirmed by the author's note inside `canon/characters/Lawal.txt`).
+- He is **NOT** Indian and **NOT** a member of Establishment 24. The India/Nigeria connection was fabricated from the name "Lawal" and is purged.
+- Authoritative profile: `bible/characters/JAWAH_MATU.md` and `bible/CHARACTER_ROSTER.md`.
+
+---
+
 ### CHARLES SAPPHIRE - ORIGIN TIMELINE CORRECTED
 
 **OLD INCORRECT VERSION:**
@@ -629,7 +646,7 @@ After Rusty's warning and first LSWs appear, EVERY government scrambles globally
 6. How Asha's sanity deterioration specifically manifests
 7. The 5 unknown Establishment 24 members (names, powers, backstories)
 8. Asha's full character development arc
-9. Jawah Matu's powers and Nigeria-India connection
+9. ~~Jawah Matu's powers and Nigeria-India connection~~ RESOLVED — Tanzanian, male, sound-absorber (≤70 dB via exposed skin); "Lawal" = same person; no India/Nigeria connection (see Character Corrections above)
 10. Thug Birham - person or organization? What are they?
 
 ### Organization Development Needed:

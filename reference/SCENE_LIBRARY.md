@@ -108,7 +108,7 @@
 ### Establishment 24 Formation
 **Status:** ✏️ OUTLINED
 **Location:** New Delhi, later Establishment 24 headquarters
-**Characters:** Raghavan Reddy, Asha (time traveler), Jawah Matu, Lawal, Indian government officials
+**Characters:** Raghavan Reddy, Asha (time traveler), Indian government officials
 **What Happens:** India announces Establishment 24. Raghavan as leader. Asha demonstrated as strategic asset (time travel). "Making India safe and prosperous for all Indians, by any means necessary."
 **Emotional Beat:** Hope that LSW can be force for good (spoiler: complicated)
 **Science Moment:** Time travel mechanics, memory loss as cost

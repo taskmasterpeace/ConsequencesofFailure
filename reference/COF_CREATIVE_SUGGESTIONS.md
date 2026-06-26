@@ -587,13 +587,15 @@ The Deep communicate through water vibrations:
 **All 8 members have powers based on Indian mythology**:
 
 1. **Raghavan "Garuda" Reddy** - Flight, divine sight (eagle/bird deity)
-2. **Jawah Matu** - ? (needs connection)
-3. **Lawal** - ? (needs connection)
-4. **Member 4** - Strength (Hanuman, monkey god)
-5. **Member 5** - Fire (Agni, fire god)
-6. **Member 6** - Water (Varuna, water deity)
-7. **Member 7** - Illusions (Maya concept)
-8. **Member 8** - Energy/Power (Shakti concept)
+2. **Asha** - Time travel (Level 5)
+3. **Member 3** - Strength (Hanuman, monkey god)
+4. **Member 4** - Fire (Agni, fire god)
+5. **Member 5** - Water (Varuna, water deity)
+6. **Member 6** - Illusions (Maya concept)
+7. **Member 7** - Energy/Power (Shakti concept)
+8. **Member 8** - (TBD)
+
+> Note: Jawah Matu / "Lawal" is NOT an Establishment 24 member — he is Tanzanian (sound-absorbing albino). Removed from this Indian-mythology team list.
 
 **Why This Works**:
 - Culturally grounded in Indian tradition

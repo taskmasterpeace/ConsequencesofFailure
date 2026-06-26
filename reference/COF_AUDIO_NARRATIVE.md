@@ -98,9 +98,9 @@ While SPEAR handles global operations, India has something special. Something un
 
 Establishment 24.
 
-Led by Colonel Raghavan Reddy - though some call him Gourav, and honestly I'm not entirely sure which name he prefers - this man is known as the Garuda. The mythical bird. He can fly, presumably, and he leads a team of eight extraordinary individuals.
+Led by Colonel Raghavan Reddy - though some call him Gourav, and honestly I'm not entirely sure which name he prefers - this man is known as the Garuda. The mythical bird. He can fly, presumably, and he leads a team of extraordinary individuals.
 
-There's Jawah Matu, connected to both India and Nigeria somehow. There's Lawal. There are six others whose stories we need to explore further.
+There's Asha, the time traveler. And there are others whose stories we need to explore further.
 
 Together, they defended India against the alien threat. They fought something called Thug Birham - whether that's a person, an organization, or an alien-influenced entity, I'm not certain. But they fought, and based on what we know, they won their battles.
 
@@ -438,7 +438,7 @@ About the time travelers: Who is the third one in Season Six? How do Asha's powe
 
 About the aliens: What's the fourth race? What do the Grays really want? Can Iron Eaters be reasoned with or are they just hungry machines?
 
-About the characters: Is Gourav the same as Raghavan Reddy? What are Jawah Matu's powers? Does Eziobi survive all eight seasons? What's Rusty Richards' story?
+About the characters: Is Gourav the same as Raghavan Reddy? Does Eziobi survive all eight seasons? What's Rusty Richards' story?
 
 About the organizations: Who really controls SPEAR? How does Deck 52 fit in? What's FIST's connection to all this?
 

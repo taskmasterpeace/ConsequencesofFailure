@@ -320,9 +320,13 @@
 
 ### Q29: Jawah Matu
 
-**ANSWER:**
-- Powers: Unknown, needs development
-- India-Nigeria connection: Needs to be figured out
+**ANSWER (RESOLVED — locked canon):**
+- **Nationality:** Tanzanian (born Dar es Salaam). **Male.** Albino soldier/war hero.
+- **Powers:** Takes away/absorbs sound at will, up to **70 dB**, through **exposed skin**.
+- **NOT** Indian and **NOT** a member of Establishment 24.
+- **"Lawal" is the same person** — an earlier draft name.
+- The "India-Nigeria connection" was a fabrication (from the name "Lawal") and is purged.
+- See `bible/characters/JAWAH_MATU.md`.
 
 ---
 
