@@ -10,14 +10,14 @@
 - **The first real celebrity superweapon** — he and his wife are a famous power-couple; his fame is part of the story (how the world first falls in love with an LSW).
 - **Wife: Marletta** `[name locked; was Sophia/Marietta]` — a **famous Greek news reporter** `[PROPOSED]` (media-couple; plays into Greece's press tensions). **NOT an LSW** (creator changed this). The car-accident "Sophia + son" backstory is **retired.**
 
-## Power — symbiont-granted explosive energy  `[PROPOSED — "make it dope"]`
-His power comes from a **symbiont / companion** (like Moses/Kaiser) — flag to flesh its personality. What it does:
+## Power — explosive energy  `[PROPOSED — "make it dope"]`
+A **Grey-gifted LSW power** (NOT a symbiont — creator ruled the symbiont/companion idea OUT). **Core mechanic:** he **concentrates the energy so it *forms* in front of him**, then it either **FIRES** (an attack) or **PROPELS** (a thrust — movement/flight). One power, two modes: *form → fire* or *form → propel.* What it does:
 
 - He generates and throws **small motes of explosive energy** — **yellow, glittery, jittery/unstable-looking** as they fly — that **detonate on contact with anything solid and substantial** (a wall; the ground → **craters**). **Scale stays pulled back** — structural/cratering, human-scale, *not* city-leveling.
 - **The signature + the flaw = the spikes.** Each mote is **jagged — barbed with spurs that jut out at angles** (a tiny spiked sun / caltrop). It looks menacing — and it's his **built-in limitation:** the spikes stick out past the core, so the mote blows the instant **any spike** touches a surface, not just the core.
 - **The no-plot-armor limit:** early on he **can't thread it.** Try to send a spitball-sized mote through a doorway-sized gap at an angle and a straw-length spike clips the frame — it **detonates before it's through.** He can blow a wall; he *can't* make a clean, precise, low-collateral shot. **Early Stefanos is devastating but clumsy** — collateral damage is his curse (which is exactly what makes the pacifist's fall so tragic).
 - **The growth arc (the universe's "powers grow" rule, embodied):** over time he learns to **control the shape** — first dulling/retracting the spurs a little, then sculpting the geometry: smooth lances that thread a doorway, flat discs, **shaped charges** that blast in one direction. Mastery = *precision and control*, not bigger booms. He's the model for "show the power growing across the stories."
-- **Flight `[PROPOSED]`:** not generic flight — he **rides his own detonations.** Drops a shaped mote and **surfs the blast/recoil** — violent, improvised hops and glides on controlled explosions. (Distinct from Stampede, who *falls toward* gravity wells; Stefanos is *pushed by* blasts. A nice cross-roster motif, two different physics.)
+- **Flight / movement (the "propel" mode):** the same energy that fires can instead **propel** him — it forms and **thrusts** him in a direction (a controlled push), not serene flight. (Distinct from Stampede surfing gravity wells — Stefanos is *pushed by* his own forming energy.)
 
 ## The tragedy (re-cut)
 - **The trigger = the pregnancy.** Stefanos gets **Marletta pregnant.** The unborn child of a superweapon is the prize — and it puts the couple on the radar of **the Jackals** (LSW blood-hunters). *("It's not just blood" — they harvest cerebral fluid + LSW genetic material, and now an LSW's unborn child.)* See `bible/factions/THE_JACKALS.md`.
@@ -30,6 +30,7 @@ His power comes from a **symbiont / companion** (like Moses/Kaiser) — flag to 
 ## Flags / reconcile with the original file
 - ✅ **The assassin / Act-3 antagonist = Sandra** (the Jackal). **"Andrea Rivera" is RETIRED** — replaced everywhere; **Act 3 = Stefanos vs Sandra.**
 - ✅ **"Her face" = acquired shapeshifting** (he wears Marletta's face; synthesized shapeshifter fluid, per the original).
-- ⚠️ **Galloway / FIST:** does the **FIST-infiltration ("Steven Sullivan") arc** survive, with **Galloway the one who hired Sandra** — or is it now a cleaner Stefanos-vs-Sandra hunt? Confirm.
-- ⚠️ **Symbiont/companion** — still needs a personality/identity.
+- ✅ **No symbiont** — his explosive energy is a **Grey-gifted LSW power** (the "symbiont/companion" idea is dropped).
+- ✅ **The "Steven Sullivan" / FIST-infiltration arc is DROPPED** (creator doesn't recognize it — it was the original file's invention). It's a **clean Stefanos-vs-Sandra hunt**; Galloway isn't part of this thread unless re-added.
 - ✅ **Marletta** (name locked); `[PROPOSED]` famous Greek news reporter — confirm the reporter detail.
+- `[open]` how he acquires **shapeshifting** (to wear Marletta's face) — its old origin was tied to the now-dropped hiding arc; TBD.
