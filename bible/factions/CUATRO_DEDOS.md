@@ -10,13 +10,13 @@ The Mexican cartel that supplies the grounded, **no-powers** crime layer of COF.
 ## Cast (from "American Expansion" C1–C2)
 
 ### Cartel side
-- **Diego "El Maestro" Rivera** — boss. **Former mathematics professor**; tailored suit; inspects shipments with a mathematician's rigor and demands perfection. The hands-off kingpin whose interest is itself a death sentence (CONDEMNED frames him exactly this way: "El Maestro… did not come to parking lots"; "Mr. Rivera himself"). Estranged from his son **Alex**, whom he calls "mijo"; thinks of the cartel as his "other child." Driving the Montana expansion. **= the "El Maestro / Diego Rivera" already named in CONDEMNED — consistent across both stories.**
+- **Diego "El Maestro" Rivera** — boss. **Former mathematics professor**; tailored suit; inspects shipments with a mathematician's rigor and demands perfection. The hands-off kingpin whose interest is itself a death sentence (CONDEMNED frames him exactly this way: "El Maestro… did not come to parking lots"; "Mr. Rivera himself"). Estranged from his son **Alex**, whom he calls "mijo"; thinks of the cartel as his "other child." Driving the Montana expansion. **= the "El Maestro / Diego Rivera" already named in CONDEMNED — consistent across both stories.** **✅ RULED 2026-06-26: Diego DIES.** His death opens the power vacuum that **Jance Bloomberg** fills (see RESOLVED conflicts below).
 - **Lucia "La Ingeniera" Gomez** — Diego's strategist/engineer. Architect of the Montana expansion plan. The systems-thinker who turns Diego's demand for perfection into logistics.
 - **Miguel "El Lobo" Santos** — Diego's henchman/enforcer (present at the shipment inspection).
 - **Ricardo** — operator/enforcer; Diego orders him to "handle" rival **Arturo Ramirez** (lethal).
-- **Rafa** — lieutenant/contact who phones in the Arturo Ramirez problem. ⚠ Likely the same **Rafa Morales** who is the cartel's LA gun-buyer and door-holder in CONDEMNED (see ties). Treat as one character pending creator confirmation.
+- **Rafa** — **✅ RULED 2026-06-26: the cartel's medic/fixer — ONE man.** The "American Expansion" lieutenant/contact (phones in the Arturo Ramirez problem), the CONDEMNED LA gun-buyer/door-holder (**Rafa Morales**), and the Shooters-Club-Ch.2 underground medic are all the same person.
 - **Arturo Ramirez** — rival moving on cartel turf (Eastside docks); marked for death. `[minor]`
-- **Alex Rivera** — Diego's estranged son. In this treatment he **fled the life** for basketball and anonymity. ⚠ Hard conflict with the Jance "Alex" identity — see conflicts.
+- **Alex Rivera** — Diego's estranged son. In this treatment he **fled the life** for basketball and anonymity. **✅ RULED 2026-06-26: Alex DIES; Jance Bloomberg takes his identity (Echo Mirage) to seize & reform the cartel.** See RESOLVED conflicts below.
 
 ### The Montana expansion plan (C2)
 - **Why Montana:** vast unmonitored land, thin/under-resourced law enforcement, isolation.
@@ -34,18 +34,19 @@ The Mexican cartel that supplies the grounded, **no-powers** crime layer of COF.
 - **↔ Shooter's Club / "Condemned":** Cuatro Dedos is the buyer at the end of the LAPD ghost-gun skim. Chain in CONDEMNED: **Sgt. Gene Bonny/Rob Holt → Rafa Morales → Diego "El Maestro" Rivera.** The cartel's "appetite" formalizing the gun deal ("we're thinking of you less as a vendor and more as a division") is the engine of the Shooter's Club's collapse. CONDEMNED also stages informant **Eddie Pruitt's** murder as Cuatro Dedos "turf consolidation," and ends on Diego reading a spreadsheet and deciding the LA end needs "new management."
 - **↔ Jance Bloomberg:** per `bible/CHARACTER_ROSTER.md`, **Jance Bloomberg** (= Jance Morales; "Mexico Kid"; "Hermit of Big Pharma") **takes over and reforms the cartel under a dead friend's identity** (LSW **Echo Mirage** — voice/perception impersonation). The dead friend's name is **Alex** → see conflicts (this is how the two threads likely knit together).
 
-## ⚠ Conflicts / reconciliations to flag (creator ruling needed)
+## Conflicts / reconciliations — RULED 2026-06-26
 
-1. **Who is the founder/boss?** The roster (`CHARACTER_ROSTER.md` line 45) lists the cartel as **"Eduardo Cuatros" (founder), son Alex.** This treatment makes **Diego "El Maestro" Rivera** the boss with **son Alex.** `[PROPOSED reconciliation]`: most likely one of —
-   - (a) **Diego Rivera is the operational boss / "El Maestro"**, and **"Cuatros" is the cartel's name only** (Cuatro Dedos = "Four Fingers"), with "Eduardo Cuatros" being a mis-parse of the cartel name into a founder; **or**
-   - (b) **Eduardo Cuatros is an earlier/figurehead founder** and **Diego Rivera is the boss who actually runs it** (succession or layered hierarchy).
-   Note **Diego Rivera = the "El Maestro / Diego Rivera" already named in CONDEMNED — that part is consistent.** Both Diego and "Eduardo Cuatros" are written with a son named **Alex**, which strongly suggests they're the **same boss-figure under two names** — favoring (a). **Flagged, not resolved.**
+1. **Who is the founder/boss? — ✅ RESOLVED.** **Diego "El Maestro" Rivera is the boss** (= the "El Maestro / Diego Rivera" already named in CONDEMNED). **"Eduardo Cuatros" = the cartel's namesake/figurehead** (the org's name; Cuatro Dedos = "Four Fingers"), not a separate active boss. Note: **≥1 other cartel exists `[TBD]`** — Cuatro Dedos stays the main cartel.
 
-2. **Alex's fate (the keystone).** Here **Alex fled the life** (basketball, anonymity) and is alive; Diego mourns the estrangement. But canon (roster) has **Jance Bloomberg assume a dead friend named "Alex"'s identity** to take over and reform the cartel. `[PROPOSED reconciliation]`: **Alex Rivera leaves the cartel → later dies → Jance Bloomberg (Alex's friend) assumes "Alex's" identity** (via Echo Mirage) and uses it to walk into the cartel and reform it. That single chain reconciles "Alex fled," "Alex is dead," and "Jance becomes Alex." If so, **Diego = Alex's father = the boss Jance ultimately displaces/reforms around.** Big implication: it would make Diego the cartel's throughline boss across CONDEMNED → American Expansion → the Jance arc. **Flagged — needs the creator's word on whether Alex dies and Jance becomes him.**
+2. **Alex's fate (the keystone) — ✅ RESOLVED (LOCKED).** **Diego DIES**, opening the power vacuum. **Alex Rivera (Diego's dead heir) — Jance Bloomberg takes Alex's identity** (via **Echo Mirage**, voice/perception impersonation) to **seize and reform the cartel.** Chain: Alex leaves the life → dies → Diego dies → **Jance walks in as "Alex"** and reforms it. This makes the cartel's throughline run CONDEMNED → American Expansion → the Jance arc.
 
 3. **Spelling: "Cuatro Dedos" vs "Cuatros Dedos."** Treatments + CONDEMNED use **Cuatro Dedos**; the roster's Jance line uses **Cuatros Dedos**. Pick one canonical spelling. (Also flagged in `SHOOTERS_CLUB.md`.) **Flagged.**
 
-4. **Is "Rafa" one person?** "American Expansion" has a lieutenant **Rafa** (phones in the Arturo Ramirez problem); CONDEMNED has **Rafa Morales** (LA gun-buyer / door-holder). Same surname-less first name + same org → almost certainly the same man. **Treat as one pending confirmation.**
+4. **Is "Rafa" one person? — ✅ RESOLVED (LOCKED).** **Yes — Rafa = the cartel's medic/fixer, ONE man.** The "American Expansion" lieutenant, the CONDEMNED LA gun-buyer (**Rafa Morales**), and the Shooters-Club-Ch.2 underground medic are the same person.
 
-## Status
-**SCATTERED / treatment-stage.** No locked per-character bible files yet for Diego, Lucia, Dan Torres, etc. Diego Rivera and Rafa (Morales) are the only cartel-side names with prior canon footing (CONDEMNED). New characters here (Lucia, Miguel, Ricardo, Dan/Michael Torres, Mrs. Caldwell, Arturo Ramirez) are introduced by this treatment and not yet in `CHARACTER_ROSTER.md`.
+## The Clown-Sheriff (Ramiro Guzman)  `[to develop — RULED 2026-06-26]`
+A vigilante who **terrorizes the cartels one at a time.** A **heavyset man who dresses as a policeman but wears clown makeup**; barely seen. His police **uniform matched the district of the *second* cartel he hit** (a deliberate tell — he comes dressed in the colors of his next target's turf). **Cuatro Dedos stays the main cartel** — he is a recurring external predator on the cartel world, not its boss.
+
+- **Identity:** = the README's Mexican clown-vigilante, **Ramiro Guzman** (retired detective → clown vigilante; see `CHARACTER_ROSTER.md`).
+- **Trigger / emotional core:** *"my son has to go home"* — a child lost to the cartels.
+- **Status:** `[to develop]` — backstory, power/non-power status, and exact cartel sequence still open.

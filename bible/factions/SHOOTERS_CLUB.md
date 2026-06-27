@@ -33,31 +33,28 @@ The grounded, **no-powers** floor of the COF world: a prestige police-corruption
 - **"The Range"** — here a **repurposed gun range that doubles as an evidence center / training facility**, used as the unit's **smuggling hub**. *(Note: CONDEMNED also has "the Range" as a sub-basement gunsmithing shop/furnace — the name carries over, but the function is described differently. Possibly the same place; flag if the creator means them to match.)*
 - **Ron-Ron** — a **rapper** (caught in a Memphis-vs-New-York rap beef; a diss song helped **spark the gang fire**). Agrees to perform at a staged **"peace" event** — cover for the unit's manipulation.
 - **Mack** — **Ron-Ron's bodyguard**, re-enlisted by the unit; a "punching bag," **morally torn** (knows something's wrong with what he's being used for).
-- **Rafa** — here an **underground medic** who treats Gene's **lingering bullet wound off-books** at a clinic. Texts the warning: *"Police raided the clinic. They found your blood. Someone's onto us."* **(Conflict: in CONDEMNED, Rafa Morales is the cartel buyer/gun middleman, not a medic — see below.)**
+- **Rafa** — here an **underground medic** who treats Gene's **lingering bullet wound off-books** at a clinic. Texts the warning: *"Police raided the clinic. They found your blood. Someone's onto us."* **(RESOLVED 2026-06-26: Rafa = the cartel's medic/fixer — ONE man. The CONDEMNED gun-middleman and this Ch.2 underground medic are the same person; see RESOLVED conflicts below.)**
 - **The mall shooting** — a gang calling itself **"Glocktober Surprise"** kills **12** at a mall.
 - **The Greenway Apartments clash** — a gang firefight involving a **grenade**.
 - **Press spin** — the carnage is laundered to the public as **"gang retaliation."**
-- **Bonny's home life** — wife **Martha**, sons **Jake & Matt**; a distant family dinner shows the job has cost him his family.
-- **IA investigator** — **Sarah Richards** (later, inconsistently, **Sarah Pauley**), driven by her **father's "tarnished legacy"**, chasing the high-quality firearms flooding LA. **Det. Larson** warns her off.
+- **Bonny's home life** — ~~wife **Martha**, sons **Jake & Matt**~~ (DROPPED per RESOLVED conflict #1: canon family = wife **Carol** + dying daughter **Maddie**); a distant family dinner shows the job has cost him his family.
+- **IA investigator** — ~~**Sarah Richards** / **Sarah Pauley**~~ (RETIRED per RESOLVED conflict #2: the IA investigator = **Rebecca Carranza**), driven by her **father's "tarnished legacy"**, chasing the high-quality firearms flooding LA. **Det. Larson** warns her off.
 
 ### Roster candidates from this draft (all `[PROPOSED]`, pending the ruling below)
 - **Ron-Ron** — rapper, lit the gang-war fuse via a rap beef; performs the staged "peace" event.
 - **Mack** — Ron-Ron's bodyguard; the unit's reluctant, morally-torn instrument.
-- **Rafa** *(draft role)* — underground medic running a clinic. **Likely NOT a new character — probably a role-collision with the canon Rafa Morales (cartel). Do not add as separate until ruled.**
-- **The IA investigator** — **Sarah Richards / Sarah Pauley** (one person, two names in one chapter). **Likely the same role CONDEMNED gives to Dawn Petrakis. Do not add as separate until ruled.**
+- **Rafa** *(draft role)* — underground medic running a clinic. **RESOLVED: = the cartel's Rafa, ONE man — the cartel's medic/fixer (not a new character).**
+- **The IA investigator** — ~~**Sarah Richards / Sarah Pauley**~~. **RESOLVED: = Rebecca Carranza** (John Rivers/Stampede's relative). Retire the Richards/Pauley names; she fills the role CONDEMNED gave to "Dawn Petrakis."
 - **Det. Larson** — the cop who warns the IA investigator off.
 
-## ⚠ Conflicts with CONDEMNED canon — DO NOT silently resolve (creator ruling needed)
-The Chapter 2 draft contradicts the locked CONDEMNED story (`prose/shooters-club/CONDEMNED.md`) on several core facts. Flagging, not resolving:
+## Conflicts with CONDEMNED canon — RULED 2026-06-26
+The Chapter 2 draft contradicted the locked CONDEMNED story (`prose/shooters-club/CONDEMNED.md`) on several core facts. The creator ruled on the load-bearing ones:
 
-1. **Bonny's family.** CONDEMNED (canon) = wife **Carol**, dying daughter **Maddie** — and **Maddie's medical debt is the entire motive** for the ghost-gun skim. This draft = wife **Martha**, sons **Jake & Matt**, and no dying-daughter motive. **Direct, load-bearing conflict** (it removes the engine of CONDEMNED's tragedy).
-2. **The IA investigator's name(s).** CONDEMNED = **Sgt. Dawn Petrakis** (her brother Nick was killed by a "resurrected" gun; her motive is dead guns the system swore were destroyed). This draft = **"Sarah Richards,"** then **inconsistently "Sarah Pauley"** later in the *same* chapter — and her motive is **her father's "tarnished legacy."** Two open problems: (a) the draft's investigator name is internally inconsistent; (b) the draft motive ("father's tarnished legacy") matches **neither** Petrakis (dead brother) **nor** clearly anyone else. **Three-way identity question to resolve:** is the "investigator driven by her father's tarnished legacy" meant to be —
-   - **Det. Rebecca Carranza** (Stampede/John Rivers's sister, an IA-adjacent cop tied to the Shooter's Club origin per the roster), or
-   - **Dawn Petrakis** (the canon IA investigator), or
-   - **a third, new person**?
-   The name mess (**Richards / Pauley / Petrakis / Carranza**) needs one ruling.
+1. **Bonny's family — ✅ RESOLVED (LOCKED).** Canon = wife **Carol**, dying daughter **Maddie** (spelling **Maddie**) — and **Maddie's medical debt is the entire motive** for the ghost-gun skim. The Ch.2 "wife **Martha**, sons **Jake & Matt**" version is **DROPPED.**
+2. **The IA investigator — ✅ RESOLVED (LOCKED).** The investigator = **Rebecca Carranza** (John Rivers/Stampede's relative — *the different surnames hid that they're related*). Retire **"Sarah Richards"/"Sarah Pauley."** She fills the role CONDEMNED gave to **"Dawn Petrakis."**
+   - ⚠ **FLAG (open):** the creator said **"cousins"** this pass, but `Stampede.txt` earlier said **"sister."** Confirm the exact relationship (cousins vs. sister).
 3. **Spelling: "Bonnie" vs canon "Bonny."** The draft spells it **"Bonnie"** throughout; canon (CONDEMNED, roster) is **"Bonny."** Standardize on **Bonny** unless the creator says otherwise.
-4. **"Rafa" — medic vs cartel middleman.** This draft makes Rafa an **underground medic** patching Gene up. CONDEMNED makes **Rafa Morales** the **cartel gun-buyer / middleman** to El Maestro (Diego Rivera). Same name, opposite role — reconcile (one Rafa? two? a role the draft reassigned?).
+4. **"Rafa" — medic vs cartel middleman — ✅ RESOLVED (LOCKED).** **Rafa = the cartel's medic/fixer — ONE person.** The CONDEMNED gun-middleman and the Ch.2 underground medic are the same man.
 5. **Premise drift (note, not a name conflict).** CONDEMNED's unit is a *passive* parasite on existing violence (skim seized guns → sell untraceable ghosts → fund Maddie's care). This draft's unit is an *active* arsonist — **manufacturing a gang war** to drive demand ("break the city to save it"). The creator should decide whether Chapter 2's "puppet masters" premise replaces, precedes, or is incompatible with CONDEMNED's quieter skim.
 
 ## ⚠ Needs the creator's ruling (real conflicts to resolve)

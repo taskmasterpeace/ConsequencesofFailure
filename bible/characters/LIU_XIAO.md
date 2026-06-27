@@ -4,7 +4,7 @@
 
 > **Sourcing.** Creator originals: `canon/characters/Liu Xaio Story Spine.txt` (verbatim preserved at `prose/liu-xiao/ORIGIN.md`) + brain-dump Thread E (`reference/dumps/2026-06-26-brain-dump.md`). Country facts from `canon/countries/Country Master Sheet - Country.csv` (China). Canonical spelling **Liu Xiao** (original file often "Liu Xaio").
 >
-> **Age reconciliation:** canon age is **60** (Thread E). The original spine says "49"; discarded draft fragments say "twenties." The 60-year-old version wins. Earlier ages preserved in ORIGIN.md as history only.
+> **Age — ✅ RULED 2026-06-26 (LOCKED):** **age 60** (60–65 acceptable). The original spine's "49" and the discarded "twenties" fragments are superseded; preserved in ORIGIN.md as history only.
 
 ## Identity
 - **Liu Xiao** — 60-year-old man, **Beijing**; **legally blind from birth**; an **outdoor / parlor massage therapist** working alongside other blind people in downtown Beijing.
@@ -21,7 +21,7 @@ Lee doesn't come; Liu sets out home in the pouring rain; hears an altercation; i
 - **Wavering loyalty:** publicly the perfect patriot; privately marked by what the CCP did to his sister. This tension is the engine of his arc — and the thing **Zhang Wei** (the past-traveler) is sent to probe. See [[ZHANG_WEI]].
 
 ## Muo sphere mechanics `[canon]`
-- **There are 3 of them.** (Earlier original fragments say 5; **canon is 3** per Thread E.) Basketball-sized alien life-forms, psionically bonded to Liu and obedient to his will; he can summon them without speaking or gesturing.
+- **There are 3 of them. ✅ RULED 2026-06-26 (LOCKED): 3 Muo spheres.** (Earlier original fragments say 5; superseded.) Basketball-sized alien life-forms, psionically bonded to Liu and obedient to his will; he can summon them without speaking or gesturing.
 - **Attachment:** a sphere attaches to the **back of the neck / spine**, tapping the neural pathways, to bond with a person.
 - **Activation phrase — "Muo":** the spheres communicate by thought, but the user must first **say "Muo"** to open the channel and talk to the sphere.
 - **The sphere controls power intensity:** it **mutes or amplifies** the granted power based on its own (dis)approval of the host — the sphere has a vote.
@@ -36,8 +36,8 @@ Lee doesn't come; Liu sets out home in the pouring rain; hears an altercation; i
 Communist state, perceived as an **Authoritarian Regime**; motto **"Serve The People!"**; leader title **President**; **LSW activity Regulated**, **vigilantism Banned**. A state that *manufactures and owns* its heroes — which is exactly why Liu's private doubts are dangerous.
 
 ## Open rulings / flags
-- **Age:** 60 (locked here) vs original "49"/"twenties." Using 60.
-- **Sphere count:** 3 (locked here) vs original "5." Using 3.
+- **Age:** ✅ **RESOLVED 2026-06-26 — LOCKED at 60** (60–65 acceptable). (Was: 60 vs original "49"/"twenties.")
+- **Sphere count:** ✅ **RESOLVED 2026-06-26 — LOCKED at 3.** (Was: 3 vs original "5.")
 - **Nanovirus mechanic:** preserved from the original but `[PROPOSED]` for canon — confirm before plotting on it.
 - **Sister-in-the-US defection beat:** `[PROPOSED]` from the original conflict seed.
 

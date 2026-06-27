@@ -77,17 +77,19 @@ A quick heuristic that holds up across the repo:
 - **Rusty Richards LOCKED:** **non-powered.** He's the **herald/prophet** who lobbies world leaders to take the threat seriously — he does **NOT** lead or organize LSWs in battle (corrects master-timeline beat #32). Later epithet: **"the Tomorrow Man."**
 - **Deck 52 founder:** the Benchley draft's "**Daniel Sapphire**, ex-roommate of Vaughn Galloway" = our locked **Charles Sapphire** (confirms the Charles↔Vaughn roommate/rivalry). Use **Charles**, not Daniel, unless re-ruled.
 
-**FROM THE 2026-06-26 BRAIN-DUMP** *(raw: `reference/dumps/2026-06-26-brain-dump.md`; filed into bible/prose by thread):*
-- ✅ **Zhang Wei = the 2nd time-traveler (PAST, China)** — names the long-open slot (Asha = future). Reaffirms **Zephaniah = a seer, not a traveler** (both travel slots now filled). → `bible/characters/ZHANG_WEI.md`.
-- ✅ **Emily "Raine" = Emily Rhaige** (draft variant; confirms she's an actress) — locked to **Rhaige**.
-- ⚠️ **Benchley's wife — dies or divorces?** The Olympic draft kills wife **"Maria"**; locked canon = wife **divorces** him. Pick one. *(The Olympic kidnapping is proposed as the Akrahuhum capture Galloway ransoms him from — works only if the wife-death is dropped. "Akra-Hatun" = Akrahuhum.)*
-- ⚠️ **Bonny's family — Carol + dying daughter Maddie (CONDEMNED, = the motive) vs Martha + sons Jake/Matt (Ch.2 draft).** CONDEMNED is the finished story. Which family?
-- ⚠️ **Shooters Club IA investigator** — CONDEMNED = **Dawn Petrakis**; Ch.2 = **Sarah Richards/Pauley** (internally inconsistent); roster also has **Rebecca Carranza** (Stampede's sister, IA-adjacent). One ruling to merge/keep.
-- ⚠️ **Cuatro Dedos boss/founder** — roster "**Eduardo Cuatros** (founder)" vs the dump's **Diego "El Maestro" Rivera** (boss; = CONDEMNED's Diego Rivera). And **Alex's fate** — he flees/lives here, but canon has Jance take a dead "Alex's" identity. Reconcile.
-- ⚠️ **"Taskmaster"** (Charles+Vaughn's MIT startup) — where vs Deck 52 + Rhaige Sapphire, and what happens to it at the split? (Charles's pre-Deck-52 fortune?)
-- ⚠️ **Liu Xiao** — lock age (**60**?) and sphere count (**3**?) over older drafts (49/twenties; 5).
-- ⚠️ **"Chaotic vortex"** (E24; caused Reddy's disappearance) — undefined; may be the same vortex as Reddy's origin crash / a time-displacement phenomenon. Define.
-- ⚠️ **Rafa** — cartel gun-buyer (CONDEMNED) vs underground medic (Ch.2 draft): same person or name collision?
+**FROM THE 2026-06-26 BRAIN-DUMP — RULINGS (creator, this session):** *(raw: `reference/dumps/2026-06-26-brain-dump.md`; filed by thread)*
+- ✅ **Zhang Wei = the 2nd time-traveler (PAST, China)**; reaffirms **Zephaniah = seer, not traveler** (both slots filled).
+- ✅ **Emily "Raine" = Emily Rhaige** (actress; locked **Rhaige**).
+- ✅ **Benchley's wife DIVORCES him** (later) — the Olympic **"Maria killed" beat is DROPPED.** The Olympic kidnapping = the **Akrahuhum** capture Galloway ransoms him from (wife survives, divorces him down the line). "Akra-Hatun" → Akrahuhum.
+- ✅ **Bonny's family = wife Carol + dying daughter Maddie** (CONDEMNED) — the Ch.2 "Martha + sons" is **dropped.** Spelling **Maddie.**
+- ✅ **Shooters Club IA investigator = Rebecca Carranza** (John Rivers's relative; different surnames hid the link). Retire "Sarah Richards/Pauley"; she fills the role CONDEMNED gave "Dawn Petrakis." ⚠️ **Relationship: creator said "cousins" this pass; earlier canon (Stampede.txt) said "sister" — confirm sister vs cousin.**
+- ✅ **Cuatro Dedos: the boss Diego "El Maestro" Rivera DIES.** His death opens the vacuum **Jance Bloomberg** fills — taking the dead heir **Alex's** identity (Echo Mirage) to seize & reform the cartel. *(Diego = CONDEMNED's Diego Rivera; "Eduardo Cuatros" = the cartel's namesake/figurehead.)*
+- ✅ **NEW — the Clown-Sheriff (= the Mexican clown-vigilante, `Ramiro Guzman`):** a heavyset man who dresses as a **policeman but in clown makeup**, barely seen, who **terrorizes the cartels one by one** (his uniform matched the district of the *second* cartel he hit; **Cuatro Dedos** stays the main cartel; ≥1 other cartel exists). Trigger: **"my son has to go home"** (a child lost to the cartels). To develop.
+- ✅ **Taskmaster = Charles's pre-Deck-52 fortune.** At the split, **Vaughn keeps Taskmaster; Charles exits but retains an ongoing payout** (the income that seeds Deck 52). `[PROPOSED — "make it sound right"]`
+- ✅ **Liu Xiao = age 60** (60–65 ok); **3 Muo spheres.**
+- ✅ **The "Chaotic Vortex" = the one recurring vortex of the whole universe** (the Greys' displacement/abduction phenomenon — same vortex everywhere). Reddy's case: the bus **wrecked**, and the vortex **sucked them in after the wreck.**
+- ✅ **Rafa = the cartel's medic/fixer** (one person — reconciles CONDEMNED's gun-middleman with the Ch.2 underground medic).
+- ⏳ Incoming (creator to provide): a **second cartel story** + more on Taskmaster.
 
 ---
 
