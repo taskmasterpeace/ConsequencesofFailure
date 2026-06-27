@@ -1,5 +1,7 @@
 # FIST / SPEAR — Vaughn Galloway's paramilitary  `[faction file]`
 
+> ⚠️ **`[NEEDS DEVELOPMENT]`** — the creator finds the current FIST/SPEAR material **weak**. Treat the below as **scaffolding to rebuild**, not finished canon. (The one strong hook: FIST unknowingly guards the "supercomputer" = a node of **Its Voice** — see `bible/factions/ITS_VOICE.md`.)
+
 ## CANON — the organization
 - **SPEAR** = Galloway's **vision** (rejected): *Special Personnel for Extraterrestrial Assault & Research* — an **international** team where all nations unite their LSWs against the coming Alliance of Four. He proposes it at the UN; **the US, China, and Russia veto it.** Galloway calls the rejection **"the worst mistake in human history."** **SPEAR is never created.**
 - **FIST** = the **reality** (US-only fallback): *First Infantry Strike Team* — a private paramilitary the White House asks Galloway to lead after the **Tragedy at Andrews** + the Living Super Weapon Threshold Treaty. Scientists + soldiers + LSWs. To the public, America's answer to the LSW threat; to Washington, just an arm of its intelligence/military.

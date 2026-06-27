@@ -9,6 +9,9 @@
 
 ## Locked premise points
 - **The Greys** select ~1,000 people worldwide, return them transformed into **Living Super Weapons (LSWs)**, to prepare Earth for the **Alliance of Four**. Humanity weaponizes them against each other instead of uniting. The Greys are allies; they misjudged us.
+- **They don't GIVE weapons — they turn people INTO weapons** (Living Super *Weapons*, literally). `[PROPOSED reasoning]` conventional arms can't meet the alien threat, and the Greys can't be *seen* openly arming Earth — so they covertly transform select humans into homegrown defenders.
+- **Why there are no supervillains:** every LSW is **psychologically hand-picked** — via the data-lifeform **"Its Voice,"** which models *who, given great power, will protect rather than prey.* You don't hand a serial killer invisibility and hope he saves the world, so people like that are **never chosen.** "Of sound mind" = wired to wield power responsibly. `[selection logic — refine]`
+- **"It's not about distance."** Interstellar travel isn't really a distance problem (ties to the insight-layer — e.g. teleportation is solving a constantly-moving coordinate, not crossing a gap). The Greys **observe/steward** this region, not "rule" it.
 - **Structure = anthology:** a **stack of self-contained standalone stories** sharing the same **year + world**. The year is the shared "weather" every story happens under; the globe rotates story to story.
 - **Tone:** grounded, geopolitical-thriller-first, social issues through a sci-fi lens; no capes-and-tights supervillainy.
 - **The treaty:** the **Living Super Weapon Threshold Treaty** — the US-driven, UN-backed instrument that bars LSWs from crossing borders into foreign conflicts (passed after the "Tragedy at Andrews"). Constantly violated.

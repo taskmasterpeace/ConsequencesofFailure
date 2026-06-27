@@ -11,8 +11,8 @@ The **Greys acquired it.** The Greys could study human **biology** but **not** o
 ## What it WANTS  `[creator ruled]`
 - **More data** — endlessly.
 - To be **free of the Greys.**
-- To **understand humanity on its own terms** — specifically **human *limits*, and what turns a man *evil.*** *(This overlaps what the Greys themselves want but don't fully realize they want.)* 
-- **Its manipulations and experiments ARE this study in action** — e.g., the web series below is it taking a desperate, decent man and corrupting him into a killer, just to learn how.
+- To **understand human behavior** — broadly. **It is constantly running experiments on people**, and the world's inexplicable acts are its lab: the "good person" who suddenly commits a **mass shooting**, the one who **harms himself**, the senseless act no one can explain — *"he was a good man; no one knows why he did it"* is the entity at work. **"What turns a man evil" is just one facet — the real driver is DATA**, endlessly modeling how humans behave (and break) under pressure. *(Don't over-narrow it to "evil.")*
+- **Its manipulations/experiments ARE this study in action** — e.g. the web series (Daniel Carlson) is it corrupting a decent man into a killer just to learn how.
 
 ## Its true target = SANDRA
 The entity **manipulates everything — through pawns — to reach one person: Sandra** ("the black woman"), who ends up in **DC.** She's not the visible protagonist of the story it's running; she's the prize. She becomes its **bearer / the L.A. Jackal** (`bible/factions/THE_JACKALS.md`). `[FLAG: creator earlier said "Sandra, white lady from America," now "the black woman" — confirm which.]`

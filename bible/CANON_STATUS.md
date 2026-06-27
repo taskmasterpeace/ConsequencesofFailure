@@ -114,7 +114,10 @@ A quick heuristic that holds up across the repo:
 - **What the voice wants:** more data; to be **free of the Greys**; to learn **human limits & what turns a man evil** — its experiments (e.g. the *Its Voice* web series' **Daniel Carlson**) ARE this study. The **ring is a NODE, not the entity** (it may not be *in* the ring; the ring just lets it speak in your head). Its **true target = Sandra** (→ DC). `[FLAG: Sandra "white lady" (earlier) vs "black woman" (now) — confirm.]`
 - **The Greys' origin-of-war (refined):** their jumping/travel throws off **radio waves lethal to energy-based life** → wiped out an energy-based species → **Earth (a loud radio world) is blamed/framed** → the aliens **rename Earth** → an **intergalactic council** rules Earth responsible → the Alliance comes. (`THE_ALLIANCE_OF_FOUR.md`, `RADIO_WAVE_INCIDENT.md`.)
 - ✅ The Benchley **"supercomputer learning human behavior" = almost certainly Its Voice** (one data-mind behind the premise).
-- 🎬 **SHOT FOOTAGE exists:** the *Its Voice* web series (3 eps → `prose/its-voice/WEB_SERIES.md`) **and** *I Deserve Better* (live action). Creator wants guidance on what to do with them (strategic, not canon).
+- **Voice's purpose — broadened (don't over-narrow to "evil"):** it runs **constant behavioral experiments** on people — inexplicable mass shootings, suicides, sudden violence are its lab; the driver is **DATA / understanding human behavior.**
+- **Greys' goal:** they **turn humans INTO weapons** (not give weapons); every LSW is **psychologically hand-picked** (via Its Voice) for who will *protect not prey* — **that's why there are no supervillains.** "It's not about distance." `[open: full selection logic; reasoning for transform-not-arm]` → `PREMISE.md`.
+- ⚠️ **FIST/SPEAR flagged WEAK — needs real development** (creator). One strong hook: FIST unknowingly guards the "supercomputer" = a node of Its Voice.
+- 🎬 **ALREADY-PRODUCED CATALOG** (not just shot — *posted*, low views): *Its Voice* S01E01–07 + trailers (Trailer #1 = **6.6K**), *I Deserve Better* live action, CoF Teasers #1–2, *Atlas Protocol Part 1*. Inventory + relaunch strategy → `reference/PRODUCTION_INVENTORY.md`. (It shipped *before* the universe was coherent — the lesson, not a failure.)
 
 ---
 
