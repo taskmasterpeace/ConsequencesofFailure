@@ -150,6 +150,40 @@ The spine that runs under the entire saga, in order:
 
 ---
 
+## Origin (MIT)
+
+> **Source.** The creator's three origin chapters, captured verbatim in `reference/dumps/2026-06-26-brain-dump.md` (Thread B) and transcribed faithfully to `prose/deck-52/ORIGIN_MIT.md` (B1 *A Cosmic Coincidence*, B2 *The Birth of Taskmaster*, B3 *The Cheat Check Controversy*). This is the dramatized telling of the spine already summarized in §6; it adds the **named mentors**, the **on-stage Emily beat**, and the explicit cause of Vaughn's UFO obsession.
+
+What these chapters establish as canon:
+
+- **They meet at MIT** as freshmen, at a bulletin board — **confirms the locked "Met at MIT" canon** (§2, §3). Vaughn: lanky, well-dressed, mischievous. Charles: bespectacled, guarded. Charles's line — *"I know a thing or two about family secrets."*
+- **Vaughn's father = the actor who publicly claimed alien abduction.** It ruined his career/reputation and is the **origin of Vaughn's lifelong UFO/extraterrestrial obsession** — the obsession that later drives FIST → SPEAR (§3). (Consistent with the locked "son of a famous Hollywood actor" detail; this adds *why* the ET fixation took hold.)
+- **They co-found "Taskmaster"** — an **anonymous crypto-exchange platform** ("a system built on trust, powered by cutting-edge cryptography"); the name was chosen because it "commands respect and efficiency." It launches to instant global success (investors, journalists, tech giants). Toast: *"the unstoppable force of Galloway and Sapphire."* (Matches the locked Taskmaster framing in §6; this is the founding scene.)
+- **"Cheat Check"** — Vaughn's loyalty-testing feature (hire actors to flirt with users' partners) — is what **drives the moral split.** Charles objects on principle; Vaughn pushes it through; media firestorm; the rift becomes permanent and philosophical. This is the **first fracture** (§5 Cheat Check, §6 step 3).
+- **Mentors: Professor Helena Krieg and Professor Ackerman.** Krieg observes the two from a distance in Ch.1 (*"Two brilliant minds drawn together by the cosmos…"*); both are named as Taskmaster mentors in Ch.2. *(New minor characters — see roster note below.)*
+- **Charles meets the actress (Emily).** In Ch.3 a young actress takes the stage and captures Charles's heart, "setting events in motion." Written here as **"Emily Raine"** — reconciled to locked canon **Emily Rhaige** (see conflict 1 below). This origin scene **confirms Emily is an actress** (consistent with §2's "aspiring Black actress").
+
+### ⚠️ Conflicts flagged (do not silently resolve)
+
+1. **Emily "Raine" vs locked "Emily Rhaige."** The origin chapters call the actress **"Emily Raine."** Locked canon is **Emily Rhaige** — Charles's **fiancée**, and the namesake of the **Rhaige Sapphire** fashion line (§2, §5). **Reconciliation:** the character is **Emily Rhaige**; **"Raine" is a draft/transcription variant** of "Rhaige" and is *not* a separate person. The origin scene usefully **confirms she is an actress** (locked: aspiring Black actress, motto *"life is like a deck of cards"*). `[Reconciled — flag for creator confirm: surname spelling "Rhaige," and that there is only one Emily.]`
+
+2. **Where does "Taskmaster" sit vs the canon orgs (Deck 52 PMC + Rhaige Sapphire)?** Taskmaster is the **MIT-era startup the two co-found** — it **predates** both Deck 52 and Rhaige Sapphire, which are founded **later, by Charles alone, after the friendship breaks and Emily is murdered.** `[PROPOSED corporate timeline — flag for ruling]`:
+   - **Phase 1 — Taskmaster (co-owned, MIT-era).** Charles + Vaughn's joint venture; the anonymous crypto-exchange marketplace. **This is the wealth engine that makes both men rich** and likely seeds **Charles's pre-Deck-52 fortune.** *(Open: at the split, is Taskmaster sold/divided, does one partner buy the other out, or does it keep running as a contested joint asset? — needs a ruling.)*
+   - **Phase 2 — the split (Cheat Check).** The Cheat Check betrayal and the public feud end the partnership; each man goes on to build his own empire.
+   - **Phase 3 — rival empires.** Charles → **Deck 52** (PMC) + **Rhaige Sapphire** (fashion), proposed under the **52 Holdings** parent (§1). Vaughn → **FIST → SPEAR** (+ WildSpeak / TuneForge). 
+   - **Note vs RoboForge:** §1/§9 currently credit **RoboForge v1** (Deck-52-era industrial fabrication) as "what makes Charles a billionaire." Taskmaster now offers an **earlier, pre-Deck-52** wealth source. These need not conflict — **Taskmaster = the original fortune (with Vaughn); RoboForge = the later Deck-52 fortune (Charles alone)** — but the creator should rule on which is the headline source of Charles's wealth, and what happens to Taskmaster after the split. `[Flag for ruling.]`
+
+3. **"Daniel Sapphire" (earlier draft name) = Charles.** Already creator-ruled (§9 item 7). Recorded here only so the origin material isn't mistaken for a different person.
+
+### Roster additions (minor characters, MIT-era)
+
+- **Professor Helena Krieg** `[PROPOSED — new minor character]` — MIT professor; mentor to Charles & Vaughn; the "cosmic" observer who frames their meeting. Their Taskmaster mentor.
+- **Professor Ackerman** `[PROPOSED — new minor character]` — MIT professor; co-mentor on Taskmaster. *(First name TBD.)*
+
+> *Not added to `CHARACTER_ROSTER.md` in this pass (per task scope). Surfaced here for the creator to bless and the roster to absorb.*
+
+---
+
 ## 7. THE FIRST ALIEN BREADCRUMB — the burned woman
 
 The cold-open hook of the launch story, and the hinge where the corporate saga meets the alien saga.

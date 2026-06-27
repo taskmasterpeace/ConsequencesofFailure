@@ -21,8 +21,9 @@
 | **Vaughn Galloway** | USA / FIST → SPEAR | Non-powered eccentric billionaire, UFO-obsessed; Charles's ex-best-friend and arch-rival | `COF Notes.txt`, `Episode 0.txt`, `SPEAR Pilot Script.txt` | **SOLID** |
 | **Todd "Shogun" Benchley** (was "Ravage") | USA / FIST→SPEAR | Black ex-Airborne Ranger Colonel, ex-Akrahuhum POW (Galloway paid ransom); commands FIST/SPEAR | `canon/characters/Benchley Series.txt`, `Todd Ravage Benchley.txt` | **SOLID.** Use **"Shogun."** Wife **divorces** him (drop AI "car-crash widower / kids"). |
 | **Col. Raghavan Reddy** ("Gourav") | India / Establishment 24 (leader) | LSW Lv5, **Divine Metamorphosis** (golden Garuda armor); family killed in crash | `Establishment 24.txt`, `COF_India.txt` | **SOLID/CHECK** (#2 = **Major Gupta**) |
-| **Asha** | India / Establishment 24 | LSW Lv5, one of only **2 time travelers**; each trip costs memory/sanity | `Establishment 24.txt`, `COF_India.txt` | **THIN** |
-| **Liu Xiao** | China | Formerly-blind masseur; controls alien **Muo Spheres** (random temp powers); wavering CCP loyalty | `canon/characters/Liu Xaio Story Spine.txt` | **THIN** (~1.9k words) |
+| **Asha** | India / Establishment 24 | LSW Lv5, one of only **2 time travelers** (the other is **Zhang Wei**, China = past); each trip costs memory/sanity | `Establishment 24.txt`, `COF_India.txt` | **THIN** |
+| **Liu Xiao** (son Lee) | China | Formerly-blind Beijing masseur (60); **Mother Muo** implant + **3 Muo spheres** (grant temp powers; tether 20/8/2 ft, distance = strength; say "Muo"); **Protector of China**; wavering CCP loyalty | `canon/characters/Liu Xaio Story Spine.txt`, `bible/characters/LIU_XIAO.md` | **THIN→building** |
+| **Zhang Wei** (a daughter) | China | LSW — **time-travel to the PAST** to audit Party loyalty; **the 2nd of the two time-travelers** (Asha = future); watches Liu Xiao | `bible/characters/ZHANG_WEI.md` | **THIN** (new) |
 | **Cissy Oliva** (AI file: "Sissy Oliver") | Uganda / govt-controlled | **Sage** — complete knowledge of genetic engineering; wealthiest person in Africa | `COF Notes.txt`, `CHARACTER_SISSY_OLIVER.md` | **THIN — name CONTAMINATED** (creator ruled **CISSY**). |
 | **Sgt. Eugene "Gene" Bonny** (daughter **Maddie**, wife **Carol**) | USA / LAPD "Shooter's Club" | Non-powered; runs the unit's ghost-gun ring to pay his dying daughter's medical debt | `prose/shooters-club/CONDEMNED.md` | **SOLID** |
 | **Rob Holt** | USA / Shooter's Club (LAPD) | Bonny's protégé who flips informant; Bonny takes the fall to save him | `prose/shooters-club/CONDEMNED.md` | **SOLID** |
@@ -95,6 +96,15 @@
 | Chief Tanielu Manu | Pacific Islands | Non-powered political leader |
 | Senator Waxly (+ Sen. Miller) | USA | Non-powered; opposes the LSW treaty |
 | President Anthony/Anton Parker | USA | Non-powered, LSW-era president (Galloway ally) |
+
+## Added 2026-06-26 (from the brain-dump — full notes in the linked files)
+- **Cuatro Dedos cartel** (`bible/factions/CUATRO_DEDOS.md`): **Diego "El Maestro" Rivera** (boss, ex-math professor; = CONDEMNED's Diego), **Lucia "La Ingeniera" Gomez** (strategist/engineer), **Miguel "El Lobo" Santos**, **Ricardo**, **Alex Rivera** (Diego's son — ⚠ vs Jance's "Alex"), **Officer Dan Torres** (Montana cop; brother **Michael**, dec.), **Mrs. Caldwell**, **Arturo Ramirez**.
+- **China** (`bible/characters/ZHANG_WEI.md`): **Zhang Wei** — the **2nd time-traveler (past)**.
+- **Establishment 24 / Invisible Guardians** (`bible/factions/ESTABLISHMENT_24.md`): **Vijay Randhawa** (Chief Defense Officer), **Major KK (Karunesh Kundera)**, **Major Srikanth Nayarit**, **Mallika** (Presidium leader; lost her child), **Aria** (lawyer), **Aman Bashir** (Reddy's agent).
+- **Shooters Club Ch.2** (`bible/factions/SHOOTERS_CLUB.md`, DRAFT): **Ron-Ron** (rapper), **Mack** (bodyguard), **Det. Larson** — plus draft name-collisions (Sarah Richards/Pauley; Rafa-as-medic) pending ruling.
+- **Deck 52 origin** (`prose/deck-52/ORIGIN_MIT.md`): **Prof. Helena Krieg**, **Prof. Ackerman** (MIT mentors).
+
+*(Captured for the record; promote to full rows as they develop.)*
 
 ## Gaps & conflicts (need a ruling)
 

@@ -77,6 +77,18 @@ A quick heuristic that holds up across the repo:
 - **Rusty Richards LOCKED:** **non-powered.** He's the **herald/prophet** who lobbies world leaders to take the threat seriously — he does **NOT** lead or organize LSWs in battle (corrects master-timeline beat #32). Later epithet: **"the Tomorrow Man."**
 - **Deck 52 founder:** the Benchley draft's "**Daniel Sapphire**, ex-roommate of Vaughn Galloway" = our locked **Charles Sapphire** (confirms the Charles↔Vaughn roommate/rivalry). Use **Charles**, not Daniel, unless re-ruled.
 
+**FROM THE 2026-06-26 BRAIN-DUMP** *(raw: `reference/dumps/2026-06-26-brain-dump.md`; filed into bible/prose by thread):*
+- ✅ **Zhang Wei = the 2nd time-traveler (PAST, China)** — names the long-open slot (Asha = future). Reaffirms **Zephaniah = a seer, not a traveler** (both travel slots now filled). → `bible/characters/ZHANG_WEI.md`.
+- ✅ **Emily "Raine" = Emily Rhaige** (draft variant; confirms she's an actress) — locked to **Rhaige**.
+- ⚠️ **Benchley's wife — dies or divorces?** The Olympic draft kills wife **"Maria"**; locked canon = wife **divorces** him. Pick one. *(The Olympic kidnapping is proposed as the Akrahuhum capture Galloway ransoms him from — works only if the wife-death is dropped. "Akra-Hatun" = Akrahuhum.)*
+- ⚠️ **Bonny's family — Carol + dying daughter Maddie (CONDEMNED, = the motive) vs Martha + sons Jake/Matt (Ch.2 draft).** CONDEMNED is the finished story. Which family?
+- ⚠️ **Shooters Club IA investigator** — CONDEMNED = **Dawn Petrakis**; Ch.2 = **Sarah Richards/Pauley** (internally inconsistent); roster also has **Rebecca Carranza** (Stampede's sister, IA-adjacent). One ruling to merge/keep.
+- ⚠️ **Cuatro Dedos boss/founder** — roster "**Eduardo Cuatros** (founder)" vs the dump's **Diego "El Maestro" Rivera** (boss; = CONDEMNED's Diego Rivera). And **Alex's fate** — he flees/lives here, but canon has Jance take a dead "Alex's" identity. Reconcile.
+- ⚠️ **"Taskmaster"** (Charles+Vaughn's MIT startup) — where vs Deck 52 + Rhaige Sapphire, and what happens to it at the split? (Charles's pre-Deck-52 fortune?)
+- ⚠️ **Liu Xiao** — lock age (**60**?) and sphere count (**3**?) over older drafts (49/twenties; 5).
+- ⚠️ **"Chaotic vortex"** (E24; caused Reddy's disappearance) — undefined; may be the same vortex as Reddy's origin crash / a time-displacement phenomenon. Define.
+- ⚠️ **Rafa** — cartel gun-buyer (CONDEMNED) vs underground medic (Ch.2 draft): same person or name collision?
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*
