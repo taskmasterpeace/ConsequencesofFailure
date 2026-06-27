@@ -91,6 +91,16 @@ A quick heuristic that holds up across the repo:
 - ✅ **Rafa = the cartel's medic/fixer** (one person — reconciles CONDEMNED's gun-middleman with the Ch.2 underground medic).
 - ⏳ Incoming (creator to provide): a **second cartel story** + more on Taskmaster.
 
+**KING STEFANOS — re-cut (creator, this session):** → `bible/characters/KING_STEFANOS.md`
+- **Alexandr Stefanos** (no "e"), 41, **President of Greece** (retire "Minister of the Interior"). **The first celebrity superweapon.**
+- Wife **Marlena** (was Sophia/Marietta) — **NOT an LSW**; `[PROPOSED]` a famous Greek news reporter. Retire the "car-accident Sophia + son" backstory.
+- **Trigger = the pregnancy** (Marlena pregnant by an LSW → the Jackals come; *"not just blood"*).
+- **Power PULLED BACK** — symbiont-granted **jagged explosive-energy** motes (detonate on solid contact → craters; barbed spikes cause **premature detonation** = the no-plot-armor limit; grows into precision/shaping; "flies" by **riding his own blasts**). Not city-leveling.
+- **The Jackal = Sandra** ("the L.A. Jackal" / the sentient ring "Its Voice"). New faction file → `bible/factions/THE_JACKALS.md`. *(Reconciles roster "Sandra — ring entity.")*
+- Tragedy ≈ **Year 3** of the timeline.
+- ⚠️ Reconcile w/ original file: is **Sandra = "Andrea Rivera"** (the original assassin)? Does **Galloway** still order the hit + the FIST-infiltration ("Steven Sullivan") arc? Define the **"wears Marlena's face"** ability; flesh the **symbiont/companion.**
+- ⏳ Design: Sandra's break-in extraction "**goes wrong**" (climax — options proposed).
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*
