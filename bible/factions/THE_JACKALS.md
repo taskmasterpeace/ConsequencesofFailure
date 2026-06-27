@@ -5,7 +5,7 @@
 **Their trade-craft:** Jackals are **especially good at getting *into* a country, getting what they need, and getting *out*** — quiet infiltration and extraction across borders, under the radar of the treaty and national security. (A grounded, human echo of the Xanthi's "step in anywhere" infiltration — the Jackals do it with skill, not powers.)
 
 **Why they matter (universe engine):** the Jackals are the predator layer beneath the whole world. They connect:
-- **King Stefanos** — **Sandra** ("the L.A. Jackal") comes for his pregnant wife **Marlena** (see `bible/characters/KING_STEFANOS.md`).
+- **King Stefanos** — **Sandra** ("the L.A. Jackal") comes for his pregnant wife **Marletta** (see `bible/characters/KING_STEFANOS.md`).
 - **Tanzania / Zephaniah Mwangaza** — her cerebral fluid becomes the drug **"Kuruka."**
 - **Cissy Oliva** — when the Jackals reveal that **LSW DNA is different**, her genetics gift becomes drug-manufacturing gold (per `INBOX.md`).
 

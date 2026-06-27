@@ -92,13 +92,15 @@ A quick heuristic that holds up across the repo:
 - ⏳ Incoming (creator to provide): a **second cartel story** + more on Taskmaster.
 
 **KING STEFANOS — re-cut (creator, this session):** → `bible/characters/KING_STEFANOS.md`
-- **Alexandr Stefanos** (no "e"), 41, **President of Greece** (retire "Minister of the Interior"). **The first celebrity superweapon.**
-- Wife **Marlena** (was Sophia/Marietta) — **NOT an LSW**; `[PROPOSED]` a famous Greek news reporter. Retire the "car-accident Sophia + son" backstory.
-- **Trigger = the pregnancy** (Marlena pregnant by an LSW → the Jackals come; *"not just blood"*).
+- **Alexandr Stefanos** (no "e"), 41. **Rises from Minister of the Interior → President of Greece.** **The first celebrity superweapon.**
+- Wife **Marletta** (was Sophia/Marietta) — **NOT an LSW**; `[PROPOSED]` a famous Greek news reporter. Retire the "car-accident Sophia + son" backstory.
+- **Trigger = the pregnancy** (Marletta pregnant by an LSW → the Jackals come; *"not just blood"*).
 - **Power PULLED BACK** — symbiont-granted **jagged explosive-energy** motes (detonate on solid contact → craters; barbed spikes cause **premature detonation** = the no-plot-armor limit; grows into precision/shaping; "flies" by **riding his own blasts**). Not city-leveling.
 - **The Jackal = Sandra** ("the L.A. Jackal" / the sentient ring "Its Voice"). New faction file → `bible/factions/THE_JACKALS.md`. *(Reconciles roster "Sandra — ring entity.")*
-- Tragedy ≈ **Year 3** of the timeline.
-- ⚠️ Reconcile w/ original file: is **Sandra = "Andrea Rivera"** (the original assassin)? Does **Galloway** still order the hit + the FIST-infiltration ("Steven Sullivan") arc? Define the **"wears Marlena's face"** ability; flesh the **symbiont/companion.**
+- **The fall = "the 4 days":** 8 days locked away → a Homelander-style TV speech → walks out and levels Turkey over **4 days** (countless dead). A **war crime** because the **Living Super Weapon Threshold Treaty** bars *governments* from wielding LSWs (only companies — the workaround); a head of state doing it = the ultimate violation → **the first LSW branded a villain / war-criminal / fugitive.**
+- **Timeline:** `[TBD]` but **EARLY** (the "first celebrity → first villain" landmark).
+- ✅ **"Andrea Rivera" RETIRED** — the assassin & Act-3 antagonist is **Sandra.** ✅ **"Wears Marletta's face" = acquired shapeshifting.**
+- ⚠️ Open: does the **Galloway / FIST-infiltration ("Steven Sullivan")** arc survive (Galloway hired Sandra)? Flesh the **symbiont/companion.**
 - ⏳ Design: Sandra's break-in extraction "**goes wrong**" (climax — options proposed).
 
 ---
