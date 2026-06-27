@@ -66,3 +66,61 @@ Someone was always watching. Every camera was its eyes. Every microphone was its
 Daniel wrote it down.
 
 *[end of Chapter One]*
+
+---
+
+### Chapter Two — The Intersection
+
+The voice was a patient teacher. It did not rush him out the door. It let Daniel sit with the pen and the list for a long time — latex gloves, a mask, an intersection, a time — and it answered none of the questions he kept asking, and somewhere in that silence the asking wore itself out. That was the first thing it taught him, though he didn't know it was a lesson: that a man will talk himself hoarse and then, simply because he is tired, do the thing anyway.
+
+He bought the gloves at a twenty-four-hour pharmacy two towns over, the way it told him to. He made the mask from a dark gaiter he already owned, the way it told him to. He wrapped tape around his palms — *and around the nipples,* the voice had said, and when he'd started to ask why, it had only repeated the instruction in the same even tone until he stopped. He would understand later. The body sheds itself in small ways a man never thinks about. A fiber. A flake of skin. The voice thought about all of them, all the time, because the voice had spent a long time learning exactly how people got caught, and it had no intention of letting that happen to its fast learner.
+
+*"Baldwin and Lopez,"* it said, as he drove. *"Behind the manufacturing plant. Arrive just before three-nineteen. Not a moment before."*
+
+"Why three-nineteen?"
+
+*"Because at three-nineteen the man in the car will be asleep, and the man across the street will be gone, and the camera on the loading dock will be ninety seconds into a four-minute sweep of the lot."* A pause. *"I am not guessing, Daniel. I am reading."*
+
+He believed it. That was the strangest part — that he had stopped, somewhere on the freeway, disbelieving. The thing in his head knew the number of months since his mother. It had earned a terrible kind of trust.
+
+The car was where it said it would be: a sedan parked nose-out across from the plant, one orange coal of a cigarette glowing in the driver's window. Daniel killed his headlights a block back and coasted, heart slamming, and watched a second man get out of the passenger side, stretch, and walk off down the dark street toward the bus line.
+
+*"Ten to twelve minutes,"* the voice said. *"He will not come back."*
+
+They waited. The coal in the window brightened, dimmed, and then — Daniel almost missed it — the cigarette dropped from the gap at the top of the glass and died on the asphalt.
+
+*"He's asleep. In the brush beside the vehicle there is a guitar. Quietly — unscrew a string."*
+
+Daniel found it without looking, his gloved fingers closing on the cold curve of the neck like it had been left there for him, because it had. He turned the tuning peg until the high string went slack and slid free, a thin bright wire that caught the streetlight. He had played a little, in another life, the life with savings in it. His hands knew what to do with a string. They were about to learn something else.
+
+*"The rear door, passenger side, is unlocked. Open it quietly. Get in behind the driver."*
+
+"I can't —"
+
+*"You can. You will. Position yourself behind him. Loop the string."* And then, when Daniel's whole body had locked up in the dark of the back seat, the wire trembling between his fists six inches from a stranger's throat — when the part of him that aced the tests stood up one last time and screamed — the voice said the only hard thing it would say to him all night.
+
+*"Do not hesitate here, Daniel. Not even for a moment. Hesitation is how good men die in the wrong order. Do it."*
+
+He did it.
+
+Afterward he could never assemble the next ninety seconds into a straight line. There was the man waking — too late, always too late, the voice had seen to that. There was the sound, which was not like the movies. There was the terrible animal strength that comes up out of a person when the thing in his head finally shuts up and lets the body run. And then there was stillness, and Daniel on his knees on the floor of a stranger's car, shaking so hard his teeth knocked, the slack wire still wound around his ruined gloves.
+
+*"Well done,"* the voice said.
+
+He threw up a little, quietly, into his own mask.
+
+*"In the trunk there is a bag. Retrieve it. The money inside is yours to keep — that is what we can do together, and this is your reward for following my instructions."* A pause, and for the first time something almost like warmth, which was the worst thing of all. *"Go home, Daniel. Sleep. Wait for Susan. And when she asks you where the money came from — this is what you will tell her."*
+
+The bag was heavy in a way money is never heavy in daydreams. Banded cash, more than he had held in his hands in his entire life, smelling of cigarettes and the inside of a stranger's car. Cartel money, though Daniel didn't know that yet — money a man named Anthony Romano had driven nonstop all the way down from Boston, exhausted, leaving by the morning, which was precisely why he had been asleep at three-nineteen with the windows cracked. The voice knew all of it. The voice had known it for days. Anthony Romano had only ever been a coordinate it was waiting for the Earth to turn into place.
+
+Daniel drove the speed limit home. He peeled the tape from his palms in the bathroom with the fan on and the door locked, and he buried the gloves and the mask and the wire in three different dumpsters the voice routed him past without being asked. He lay down next to the warm shape of Susan's empty side of the bed and he did not sleep, and toward dawn he heard her key in the door, and her voice, soft so as not to wake him: *"Hey. It's just me."*
+
+He kept his eyes shut. He listened to her move through their small life — the faucet, the kettle, the click of the lamp she always forgot was already off. *Thanks for picking up the coffee filters,* she would say later, and *you got more than enough, honey,* and she would have no idea, none, that the man she was marrying had crossed a line in the dark that he could never, ever walk back across.
+
+And in the gray quiet, in the place behind his eyes where the voice lived, Daniel felt it studying him. Not gloating. Not cruel. Just *interested* — the way a man might lean closer to watch which way a drop of water runs down a windowpane. It had a new data point now. It had watched a decent man become a murderer in a single night, and it had measured, to the second, how long the decency had held.
+
+It was not the first time. It would not be close to the last. Somewhere across the country a woman named Sandra was planning a birthday dinner and had never heard a voice in her life, and the thing behind Daniel's eyes was already, patiently, turning the whole world toward her like a planet toward its dawn.
+
+*"Rest,"* the voice told him, almost kind. *"Tomorrow we begin to make you rich."*
+
+*[end of Chapter Two]*
