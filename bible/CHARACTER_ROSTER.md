@@ -103,6 +103,7 @@
 - **Establishment 24 / Invisible Guardians** (`bible/factions/ESTABLISHMENT_24.md`): **Vijay Randhawa** (Chief Defense Officer), **Major KK (Karunesh Kundera)**, **Major Srikanth Nayarit**, **Mallika** (Presidium leader; lost her child), **Aria** (lawyer), **Aman Bashir** (Reddy's agent).
 - **Shooters Club Ch.2** (`bible/factions/SHOOTERS_CLUB.md`, DRAFT): **Ron-Ron** (rapper), **Mack** (bodyguard), **Det. Larson** — plus draft name-collisions (Sarah Richards/Pauley; Rafa-as-medic) pending ruling.
 - **Deck 52 origin** (`prose/deck-52/ORIGIN_MIT.md`): **Prof. Helena Krieg**, **Prof. Ackerman** (MIT mentors).
+- **"Its Voice" web series** (SHOT; `prose/its-voice/WEB_SERIES.md`): **Daniel Carlson** (the voice's corrupted pawn), **Susan Rebecca Vincent** (his fiancée/nurse), **John "Woody" Carlson** (dec. brother), **Carlos** (friend, killed), the surveillance crew **Gertie / Tanisha / Rustin**, cartel loan-boss **Lorenzo Espinoza**. *(Sandra appears here as a side character but is the entity's true target → DC. ⚠ "white lady" vs "black woman" — confirm.)*
 
 *(Captured for the record; promote to full rows as they develop.)*
 

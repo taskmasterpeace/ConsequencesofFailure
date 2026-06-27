@@ -110,6 +110,12 @@ A quick heuristic that holds up across the repo:
 - *(Creator has produced its actual **voice** as a finished audio asset — use in the audio-drama pipeline.)*
 - ⚠️ Open: is the entity **loyal to the Greys** or its **own ends**? does it **steer** Sandra? how many **pieces/bearers**? does it have a **name**?
 
+**ITS VOICE / GREYS — deepened (creator, this session):**
+- **What the voice wants:** more data; to be **free of the Greys**; to learn **human limits & what turns a man evil** — its experiments (e.g. the *Its Voice* web series' **Daniel Carlson**) ARE this study. The **ring is a NODE, not the entity** (it may not be *in* the ring; the ring just lets it speak in your head). Its **true target = Sandra** (→ DC). `[FLAG: Sandra "white lady" (earlier) vs "black woman" (now) — confirm.]`
+- **The Greys' origin-of-war (refined):** their jumping/travel throws off **radio waves lethal to energy-based life** → wiped out an energy-based species → **Earth (a loud radio world) is blamed/framed** → the aliens **rename Earth** → an **intergalactic council** rules Earth responsible → the Alliance comes. (`THE_ALLIANCE_OF_FOUR.md`, `RADIO_WAVE_INCIDENT.md`.)
+- ✅ The Benchley **"supercomputer learning human behavior" = almost certainly Its Voice** (one data-mind behind the premise).
+- 🎬 **SHOT FOOTAGE exists:** the *Its Voice* web series (3 eps → `prose/its-voice/WEB_SERIES.md`) **and** *I Deserve Better* (live action). Creator wants guidance on what to do with them (strategic, not canon).
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*
