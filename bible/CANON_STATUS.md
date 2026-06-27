@@ -103,6 +103,13 @@ A quick heuristic that holds up across the repo:
 - ✅ **DROPPED:** the "Steven Sullivan" / FIST-infiltration arc (creator doesn't recognize it) **and** the symbiont idea. It's a clean **Stefanos-vs-Sandra** hunt. `[open]` how he acquires shapeshifting.
 - ⏳ Design: Sandra's break-in extraction "**goes wrong**" (climax — options proposed).
 
+**THE RING / "ITS VOICE" — what it is (creator ruled — HIGH IMPORTANCE):** → `bible/factions/ITS_VOICE.md`
+- A **sentient, non-biological alien life-form that feeds on DATA** (long on Earth). **Every camera = its eyes; every microphone = its ears.**
+- The **Greys acquired it** to crack what they couldn't: human **psychology/behavior** (they handle biology). It's **how they studied humanity to select the ~1,000** — and is almost certainly the same as the **"supercomputer learning human behavior"** in the Benchley/FIST thread.
+- **Sandra's ring = a *piece* of it** ("Its Voice," the part that speaks); her near-omniscience = the ring's link to the whole.
+- *(Creator has produced its actual **voice** as a finished audio asset — use in the audio-drama pipeline.)*
+- ⚠️ Open: is the entity **loyal to the Greys** or its **own ends**? does it **steer** Sandra? how many **pieces/bearers**? does it have a **name**?
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*

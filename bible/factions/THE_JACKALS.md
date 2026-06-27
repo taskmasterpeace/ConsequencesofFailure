@@ -10,13 +10,13 @@
 - **Cissy Oliva** — when the Jackals reveal that **LSW DNA is different**, her genetics gift becomes drug-manufacturing gold (per `INBOX.md`).
 
 ## Named Jackal — SANDRA ("Its Voice")
-- White American woman; **"the L.A. Jackal."** Bearer of a **sentient ring** — *"Its Voice."*
+- White American woman; **"the L.A. Jackal."** Bearer of a **sentient ring** — *"Its Voice"* — which is a **piece of a larger sentient alien data-lifeform** (the entity the Greys use to understand human psychology). Full note: `bible/factions/ITS_VOICE.md`.
 - The ring can **read data from almost any electronic thing, especially anything Internet-connected.** **Every camera is its eyes; every microphone is its ears; the ring is its voice.** Functionally near-omniscient surveillance.
 - Her edge over other Jackals: the ring can guide her through a **clean extraction in which the target survives** — no kidnap → doctor → recovery. That's why she races to be **first** to a mark.
 - *(Reconciles the roster's "Sandra — ring entity, near-omniscient" with the Jackal layer. `[FLAG: is Sandra the same as the original Stefanos file's assassin "Andrea Rivera," or distinct?]`)*
 
-## ⭐ The ring is *super* important `[creator emphasized — define next]`
-The creator flagged Sandra's ring as load-bearing for the universe, then trailed off ("the ring is something that was…"). **Open, high-priority:** what the ring actually *is* and where it came from — alien / Grey-made? a separate sentient entity with its own agenda? Is Sandra powerless (or a puppet) without it? Is destroying/removing it her one weakness? **Creator to define.**
+## ⭐ The ring — RESOLVED (it's a data-lifeform)
+The ring is a **piece of "Its Voice," a sentient, non-biological alien data-lifeform** the Greys use to understand human psychology — *every camera its eyes, every mic its ears.* Full canon: **`bible/factions/ITS_VOICE.md`**. (Still open: the entity's loyalty/agenda, whether it steers Sandra, how many bearers exist, its name.)
 
 ## To develop
 - The Jackals as an organization (freelance? a guild? who employs/brokers them?).

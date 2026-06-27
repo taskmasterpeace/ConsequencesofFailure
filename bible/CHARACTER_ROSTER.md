@@ -35,7 +35,7 @@
 | **Pole Zimmerman** | USA (Port Alder, WA) / "Shooter's Club" (biker gang) | Non-powered white-supremacist outlaw-biker; viral provocateur | `canon/characters/Pole Zimmerman.txt` | **THIN — uncatalogued.** A *different* "Shooter's Club" (name collision). |
 | **Karine Abrahamian** (was "Karina") | Armenia (via Berlin) | LSW (NuroNuro nano-tech); abducted art/linguistics student | `canon/characters/Karina.txt` | **THIN — uncatalogued.** Two backstory versions. |
 | **Ramiro Guzman** | Mexico | The **"Clown-Sheriff"** — heavyset man in a **cop uniform + clown makeup**; barely seen; **terrorizes the cartels one by one** (his uniform matches the district of his next target; Cuatro Dedos stays the main cartel). Trigger: a **son lost to the cartels** (*"my son has to go home"*). README's "Mexican clown-vigilante" | `COF Notes.txt`, README, `bible/factions/CUATRO_DEDOS.md` | **THIN** (`[to develop]`) |
-| **Sandra** ("Its Voice"; "the L.A. Jackal") | USA / the Jackals | **Jackal** (LSW blood-hunter) with a **sentient ring** — reads all networked data (cameras = eyes, mics = ears, ring = voice); does "clean" extractions where the victim survives. Comes for Stefanos's wife Marlena | `COF Notes.txt`, `THE_RING_SERIES.md`, `bible/factions/THE_JACKALS.md` | **CHECK→building** |
+| **Sandra** ("Its Voice"; "the L.A. Jackal") | USA / the Jackals | **Jackal** (LSW blood-hunter); her ring is a **piece of "Its Voice," a sentient alien data-lifeform** (reads all networked data — cameras = eyes, mics = ears); does "clean" extractions where the victim survives. Comes for Stefanos's wife Marletta | `COF Notes.txt`, `bible/factions/ITS_VOICE.md`, `bible/factions/THE_JACKALS.md` | **CHECK→building** |
 
 ## Factions / organizations
 

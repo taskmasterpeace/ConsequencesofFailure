@@ -5,6 +5,8 @@ The militarized armada bound for Earth — the war the whole series counts down 
 ## The Greys — allies (NOT one of the Four)
 Guilt-driven (and strategic) dimensional travelers who try to prepare us: they abduct ~**1,000** people of sound mind and return them transformed into **Living Super Weapons (LSWs)**, betting humanity will unite. We didn't — we turned the gifts on each other. The Greys misjudged us.
 
+**How they learned us:** the Greys could study human *biology* but **not** our *psychology* — so they **outsourced understanding human behavior** to a sentient alien **data-lifeform** ("**Its Voice**" — every camera its eyes, every mic its ears). That's how they came to know us well enough to choose the ~1,000 (and it's almost certainly the "supercomputer learning human behavior" in the FIST thread). See `bible/factions/ITS_VOICE.md`.
+
 ## The precursor — the Iron Eaters (NOT one of the Four)
 Self-evolving, metal-eating nanite swarm/AI. **A scout / "softener" wave sent ahead of the main armada (~Year 4)** — the advance force any smart invasion deploys first: consume infrastructure, weaken the defenders. **Deck 52** captures and weaponizes them into **RoboForge v2**. (See `bible/factions/DECK_52_SAPPHIRE_GALLOWAY.md`.)
 
