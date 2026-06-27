@@ -16,6 +16,7 @@ The grounded, **no-powers** floor of the COF world: a prestige police-corruption
 ## 🔒 COP NAMES — LOCKED
 - **Officer Oliver** — the corrupt cop in *I Deserve Better* who runs the cover-up of Tyrell Lober's killing (plants the gun, coaches the story). Canonical spelling: **Oliver.** **NOT a Shooter's Club member; NOT a recurring/throughline character** (creator correction).
 - **Officer Headly** — the cop who fires the shot that kills Tyrell. Canonical spelling: **Headly** (retire the "Headley/Headler" variants).
+- ⚠️ **CONFLICT (the produced film):** *"I Deserve Better: The Tragic Story of Tyrell Lober"* (`prose/i-deserve-better/FILM_TYRELL_LOBER.md`) names **Officer Timothy Oliver** as the cop charged with **BOTH the murder and the cover-up** — i.e. in the film, **Oliver is the shooter and there is no "Headly."** The produced original likely wins → **Timothy Oliver = killer + cover-up** (and "Headly" may be a draft/contaminated invention). **Creator to confirm.** Also note: the "weapon" was a **drone/game controller**; sister **Janine Lober** = museum curator; IA detective **Deborah Winston** breaks the cover-up.
 
 ## Timeline (ruled)
 - **Condemned = PRE-WAR** (before the LSWs/aliens) — the grounded Shooter's Club era.
