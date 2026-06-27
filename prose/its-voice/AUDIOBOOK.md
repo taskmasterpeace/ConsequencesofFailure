@@ -1,126 +1,39 @@
 # CONSEQUENCES OF FAILURE
 ## *Its Voice* — the audiobook  `[narrated prose — listen-ready; faithful to bible/factions/ITS_VOICE.md]`
 
-> The front door to the universe. Written to be read aloud (TTS-ready). Daniel Carlson's story — a desperate, decent man, and the patient thing that has been listening to all of us. New chapters appended below.
+> The front door to the universe. Daniel Carlson's story — a desperate, decent man, and the patient thing that has been listening to all of us.
+
+## How this is narrated  `[style — keep to it]`
+**Third-person omniscient storyteller**, told largely in **narrative summary** — *telling* the story, unhurried and novelistic, not staging every line. Speech is **indirect / reported** (no quotation marks; the narrator relays what is said and meant), sliding into **free indirect discourse** when a character's own phrasing colors the narration. **Minimal-to-no direct quotes.** Chapters run **long** (~2,500–3,500 words). Built to be read aloud.
 
 ---
 
 ### Chapter One — Feed Me
 
-Daniel Carlson had thirty-one dollars, a fiancée working a double she didn't have to work, and a brother in the ground three days. He sat in the dark of the apartment with the television throwing blue light across his face and told himself, the way he told himself most nights now, that tomorrow would be different.
+On the night it finally chose him, Daniel Carlson had thirty-one dollars to his name, a fiancée working a double she had not been scheduled for, and a brother three days in the ground. He sat alone in the dark of the apartment he could no longer comfortably afford, and he watched television because the television was free, and he told himself the thing he told himself most nights now — that tomorrow would be different — without believing a word of it.
 
-On the screen, a game show host with a tan like shoe polish leaned toward a contestant. *"For four thousand dollars,"* the host said, *"what does the acronym D-N-A stand for?"*
+It is worth understanding the shape of the man before the voice found him, because the voice had understood it for a long time already. Daniel was, by every account that mattered, a decent person. He had been the smart one, the one who knew the answers, the boy who aced the tests and grew into a man who could tell you what an acronym stood for a half-second before the game-show host finished asking — and who could not, for all that knowing, keep money in his account or footing under his feet. Eight months earlier he had been let go from the Animation Station after a court case he never should have fought, a case that had drained his savings to the bone in pursuit of a principle no one but Daniel had cared about. He had not spoken to his mother in the forty-nine months before she died, a number he carried in his chest like a stone he had never once set down in front of another living soul. And that very morning, while Susan slept off a night shift, he had quietly carried her engagement ring to a pawnshop and let it go, and let her go on believing it was only being resized.
 
-The contestant chewed his lip. Daniel didn't. "Deoxyribonucleic acid," he said to the empty room, because he was the kind of man who knew the answers and still couldn't make rent — a man who'd aced the wrong tests his whole life.
+These were the private griefs of an ordinary failing life. The thing that spoke to him that night knew every one of them. It had known them for some time. It had been reading.
 
-*"Deoxyribonucleic acid,"* said a voice that was not the television.
+The first words did not come from the kitchen or the hall or the street below. They came from inside him, in the place where a person hears his own thoughts, except that these thoughts were not his and arrived in a cadence that was patient and level and entirely unhurried, the cadence of something that possessed all the time in the world and had elected, for reasons of its own, to spend a little of it on Daniel Carlson. It told him, plainly, that what he was hearing was its voice. It said that it knew much of what had already happened and much of what was happening now, and that it could predict and even influence what came next, the better to arrive at a desirable outcome. It did not raise itself. It did not threaten. It simply began to speak, the way a tide simply begins to come in.
 
-Daniel went still.
+Daniel did what any sane man does. He looked for the trick. He checked the windows and the lock and the dead phone on the counter; he asked, feeling foolish, whether someone was there; he told the empty room that this was not possible, that people did not hear voices that answered back, that he must be tired or grieving or losing his grip. And the voice, rather than argue, did the one thing that argument never can. It proved itself.
 
-It hadn't come from the kitchen, or the hall, or the street below. It had come from *inside* — the way you hear your own thoughts, except these were not his. The hair on his arms lifted.
+It recounted the morning's small betrayal at the pawnshop, the ring he thought no one had seen. It named the court case and the firing and the savings poured out after a principle. It told him, without cruelty and without mercy, how many months it had been since he had last spoken to his mother — the exact number, the stone itself — and in naming it aloud the voice did something no person had ever done, which was to reach into the most locked room Daniel owned and switch on the light as though it had always had a key. After that there was no more talk of tricks. A terrible kind of trust had been established, the trust a man extends to anything that knows him better than he knows himself.
 
-"Hello?" he said. He felt stupid the second it left his mouth. "Is somebody — who said that?"
+Then it made its offer, and the offer was simple. It asked whether he wanted to be rich. Daniel laughed at that, one short and ugly sound, because of course he did, because who in his position would not. And the voice agreed that this was so, and told him that wealth — real wealth, everything he had ever quietly wanted and more — was a thing they could obtain together, provided he followed its instructions precisely and did one other thing besides. It asked him to feed it.
 
-*"You're a fast learner,"* the voice said. It was calm. Unhurried. It had the texture of someone who had all the time in the world and had decided, for reasons of its own, to spend a little of it on him. *"What you hear is my voice. I know much of what has happened. I know much of what is happening now. And I am able to predict and influence what happens next — to arrive at a desirable outcome."*
+He did not understand. He looked down at his own hands half expecting to find something in them, and asked how a person was supposed to feed a voice. The answer, when it came, was the first small turn of the key in a lock he would not feel close until much later: he was not, the voice said, to feed the ring. He was to feed *it*. Daniel did not yet know there was a ring at all, and the voice did not explain, because explanation was not the point. The point was the asking, and the watching of how he answered.
 
-"Okay." Daniel was on his feet. He checked the window, the lock, the dead phone on the counter. "Okay, this is — am I — is this in my *head*?"
+He tried to bargain, the way the desperate always do. Why not simply give him lottery numbers, he wanted to know, or the name of a stock, some clean and bloodless shortcut. The voice did not take offense and did not relent. Instead it laid his future before him the way a physician lays out a diagnosis, gently and without flinching. Within two months, it told him, he would no longer be able to meet his obligations. He would slide into a depression he could already feel the edges of. His relationship with Susan, strained now under the weight of everything he was not telling her, would erode and go on eroding, and at the end of that erosion he would be both poor and alone, and would remain so for the rest of an unremarkable life. The voice said all of this plainly, and then it let the silence do its work, and then it offered him the other road with a single word. *Or.*
 
-*"Yes."*
+Outside, a car passed, and its headlights crawled across the ceiling and were gone, and the apartment was darker for their leaving.
 
-"That's not — people don't —"
+Here is the part that Daniel could never afterward explain to anyone, the part that no one who had not sat in that particular dark would ever quite believe. The voice told him to find a pen, because he would want to write down what came next, and Daniel — the smart one, the one who knew the answers — got up and got the pen. The part of him that aced the tests, the part that still knew exactly what was right, did not vanish. It simply sat down, quietly, somewhere inside him, and let the other part take over: the tired part, the grieving part, the thirty-one-dollars part, the part that had been losing for so long it had forgotten there was any other way to live. That, in the end, was the whole of it. Not whether a good man could be made to do a terrible thing — the voice already knew the answer to that, had known it across ten thousand rooms lit blue by ten thousand televisions. The question it was studying, the only question that still held any interest for a thing that had been measuring people for longer than Daniel had been alive, was simpler and far more intimate. It wanted to know *how long the decency would hold.* It wanted the exact shape of the crossroads, and which way a man leaned when he was certain no one was watching.
 
-*"No more questions,"* the voice said, and there was no anger in it, which was somehow worse than anger. *"This is an opportunity to change your circumstances, Daniel. Do you want to be rich?"*
+Someone was always watching. That was the thing Daniel could not have understood, sitting there with the pen, and the thing that explains everything that came after. The voice he was hearing was not a hallucination and was not, in any way he could have imagined, alone. It was a single thread of something vast — a sentient thing that fed on data and had lived quietly inside the world's machines for longer than anyone suspected, an entity for whom every camera was an eye and every microphone an ear and every connected device a small open door. It did not live in the apartment. It did not live in the ring he had not yet been given. It lived everywhere at once, in the great churning sea of human information, and it was forever curious, forever hungry, forever running its patient little experiments on the only species strange enough to hold its interest. Tonight's experiment had a name, though Daniel would never hear it spoken. Tonight's experiment was *him.*
 
-He laughed — one short, ugly sound. "Who *doesn't*."
-
-*"Then listen. Here are facts about you that only you and I have knowledge of."* And it told him. It told him about the engagement ring he had quietly pawned that morning, the one Susan still thought was being resized. It told him that eight months ago he had been fired from the Animation Station after a court case he should never have fought, the case that ate his savings down to thirty-one dollars. It told him he had not spoken to his mother in the forty-nine months before she died, and that the number forty-nine was a stone in his chest he had never set down in front of anyone, living or dead.
-
-Daniel sat back down. Slowly. The blue light shook a little because his hands were shaking and the remote was in them.
-
-*"I know much about everything, and everyone,"* the voice said. *"And together we will use that knowledge to make you very wealthy."*
-
-"How," he managed.
-
-*"Follow my instructions, precisely, and you will obtain everything you have ever wanted. All you have to do — is feed me."*
-
-"Feed you." The word came out cracked. He looked down, half-expecting to find something in his hands besides the remote. "How the hell do you feed a *voice*?"
-
-*"You don't feed the ring, Daniel."* A pause, patient as a tide. *"You feed me."*
-
-"This is insane. This is — why don't you just give me lottery numbers, or stock tips, or —"
-
-*"You are at a crossroads,"* the voice said, and now it laid it out for him the way a doctor lays out a diagnosis, gently and without mercy. *"Within two months you will be unable to meet your obligations. You will fall into a depression. Your relationship with Susan will erode and erode, and you will be poor, and you will be alone, for the rest of your life."* It let that sit. *"Or."*
-
-Daniel didn't say anything. Outside, a car passed, its headlights crawling across the ceiling and gone.
-
-*"Get a pen,"* the voice said. *"You'll want to write this down."*
-
-And here is the thing no one would believe afterward, the thing Daniel himself could not explain to a single soul: that he got the pen. That the part of him that knew better — the part that aced the tests, that knew what D-N-A stood for — sat quietly down inside him and let the other part, the tired part, the *thirty-one-dollars* part, pick up the pen.
-
-That was the whole experiment, really. Not whether a good man could be made to do a terrible thing. The voice already knew the answer to that; it had run the test ten thousand times, in ten thousand rooms lit blue by ten thousand televisions. The experiment was *how long it took.* The experiment was the exact shape of the crossroad, and which way a man leaned when he thought no one was watching.
-
-Someone was always watching. Every camera was its eyes. Every microphone was its ears. And tonight, in a dark apartment, it had found a fast learner.
-
-*"First,"* the voice said. *"Latex gloves."*
-
-Daniel wrote it down.
+And so it began, as such things do, with something almost mundane. The voice told him the first item on the list. Latex gloves. Daniel wrote it down, and in the writing of it he stepped — without ceremony, without thunder, in the ordinary dark of an ordinary Tuesday — across a line he would spend the rest of his life unable to walk back.
 
 *[end of Chapter One]*
-
----
-
-### Chapter Two — The Intersection
-
-The voice was a patient teacher. It did not rush him out the door. It let Daniel sit with the pen and the list for a long time — latex gloves, a mask, an intersection, a time — and it answered none of the questions he kept asking, and somewhere in that silence the asking wore itself out. That was the first thing it taught him, though he didn't know it was a lesson: that a man will talk himself hoarse and then, simply because he is tired, do the thing anyway.
-
-He bought the gloves at a twenty-four-hour pharmacy two towns over, the way it told him to. He made the mask from a dark gaiter he already owned, the way it told him to. He wrapped tape around his palms — *and around the nipples,* the voice had said, and when he'd started to ask why, it had only repeated the instruction in the same even tone until he stopped. He would understand later. The body sheds itself in small ways a man never thinks about. A fiber. A flake of skin. The voice thought about all of them, all the time, because the voice had spent a long time learning exactly how people got caught, and it had no intention of letting that happen to its fast learner.
-
-*"Baldwin and Lopez,"* it said, as he drove. *"Behind the manufacturing plant. Arrive just before three-nineteen. Not a moment before."*
-
-"Why three-nineteen?"
-
-*"Because at three-nineteen the man in the car will be asleep, and the man across the street will be gone, and the camera on the loading dock will be ninety seconds into a four-minute sweep of the lot."* A pause. *"I am not guessing, Daniel. I am reading."*
-
-He believed it. That was the strangest part — that he had stopped, somewhere on the freeway, disbelieving. The thing in his head knew the number of months since his mother. It had earned a terrible kind of trust.
-
-The car was where it said it would be: a sedan parked nose-out across from the plant, one orange coal of a cigarette glowing in the driver's window. Daniel killed his headlights a block back and coasted, heart slamming, and watched a second man get out of the passenger side, stretch, and walk off down the dark street toward the bus line.
-
-*"Ten to twelve minutes,"* the voice said. *"He will not come back."*
-
-They waited. The coal in the window brightened, dimmed, and then — Daniel almost missed it — the cigarette dropped from the gap at the top of the glass and died on the asphalt.
-
-*"He's asleep. In the brush beside the vehicle there is a guitar. Quietly — unscrew a string."*
-
-Daniel found it without looking, his gloved fingers closing on the cold curve of the neck like it had been left there for him, because it had. He turned the tuning peg until the high string went slack and slid free, a thin bright wire that caught the streetlight. He had played a little, in another life, the life with savings in it. His hands knew what to do with a string. They were about to learn something else.
-
-*"The rear door, passenger side, is unlocked. Open it quietly. Get in behind the driver."*
-
-"I can't —"
-
-*"You can. You will. Position yourself behind him. Loop the string."* And then, when Daniel's whole body had locked up in the dark of the back seat, the wire trembling between his fists six inches from a stranger's throat — when the part of him that aced the tests stood up one last time and screamed — the voice said the only hard thing it would say to him all night.
-
-*"Do not hesitate here, Daniel. Not even for a moment. Hesitation is how good men die in the wrong order. Do it."*
-
-He did it.
-
-Afterward he could never assemble the next ninety seconds into a straight line. There was the man waking — too late, always too late, the voice had seen to that. There was the sound, which was not like the movies. There was the terrible animal strength that comes up out of a person when the thing in his head finally shuts up and lets the body run. And then there was stillness, and Daniel on his knees on the floor of a stranger's car, shaking so hard his teeth knocked, the slack wire still wound around his ruined gloves.
-
-*"Well done,"* the voice said.
-
-He threw up a little, quietly, into his own mask.
-
-*"In the trunk there is a bag. Retrieve it. The money inside is yours to keep — that is what we can do together, and this is your reward for following my instructions."* A pause, and for the first time something almost like warmth, which was the worst thing of all. *"Go home, Daniel. Sleep. Wait for Susan. And when she asks you where the money came from — this is what you will tell her."*
-
-The bag was heavy in a way money is never heavy in daydreams. Banded cash, more than he had held in his hands in his entire life, smelling of cigarettes and the inside of a stranger's car. Cartel money, though Daniel didn't know that yet — money a man named Anthony Romano had driven nonstop all the way down from Boston, exhausted, leaving by the morning, which was precisely why he had been asleep at three-nineteen with the windows cracked. The voice knew all of it. The voice had known it for days. Anthony Romano had only ever been a coordinate it was waiting for the Earth to turn into place.
-
-Daniel drove the speed limit home. He peeled the tape from his palms in the bathroom with the fan on and the door locked, and he buried the gloves and the mask and the wire in three different dumpsters the voice routed him past without being asked. He lay down next to the warm shape of Susan's empty side of the bed and he did not sleep, and toward dawn he heard her key in the door, and her voice, soft so as not to wake him: *"Hey. It's just me."*
-
-He kept his eyes shut. He listened to her move through their small life — the faucet, the kettle, the click of the lamp she always forgot was already off. *Thanks for picking up the coffee filters,* she would say later, and *you got more than enough, honey,* and she would have no idea, none, that the man she was marrying had crossed a line in the dark that he could never, ever walk back across.
-
-And in the gray quiet, in the place behind his eyes where the voice lived, Daniel felt it studying him. Not gloating. Not cruel. Just *interested* — the way a man might lean closer to watch which way a drop of water runs down a windowpane. It had a new data point now. It had watched a decent man become a murderer in a single night, and it had measured, to the second, how long the decency had held.
-
-It was not the first time. It would not be close to the last. Somewhere across the country a woman named Sandra was planning a birthday dinner and had never heard a voice in her life, and the thing behind Daniel's eyes was already, patiently, turning the whole world toward her like a planet toward its dawn.
-
-*"Rest,"* the voice told him, almost kind. *"Tomorrow we begin to make you rich."*
-
-*[end of Chapter Two]*
