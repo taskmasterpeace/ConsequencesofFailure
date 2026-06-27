@@ -7,6 +7,7 @@
 ## Identity (locked)
 - **Name:** **Alexandr Stefanos** (spelling: *Alexandr*, no "e"). Age **41.**
 - **Role:** **rises from Minister of the Interior → President of Greece** (creator-delegated; the rise is the engaging arc — he's **President** by the time of the tragedy). Wealthy Athens family; businessman → politician; rose as a **pacifist peacemaker.** Nickname **"King Stefanos"** from a popular Greek TV character (also a pacifist).
+- **Greece (not Italy) — locked.** Reason: **Greece ↔ Turkey** is a real, clear adversary pairing — it gives his retaliation a credible, grounded enemy.
 - **The first real celebrity superweapon** — he and his wife are a famous power-couple; his fame is part of the story (how the world first falls in love with an LSW).
 - **Wife: Marletta** `[name locked; was Sophia/Marietta]` — a **famous Greek news reporter** `[PROPOSED]` (media-couple; plays into Greece's press tensions). **NOT an LSW** (creator changed this). The car-accident "Sophia + son" backstory is **retired.**
 
