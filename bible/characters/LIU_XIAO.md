@@ -29,6 +29,7 @@ Lee doesn't come; Liu sets out home in the pouring rain; hears an altercation; i
 - **Severance = off:** if the connection is severed, the **granted effects vanish** instantly.
 - **Personalities:** each sphere has its **own distinct personality / temperament** — they are characters, not tools.
 - **Temporary powers for others:** attaching grants a host a **temporary (often random) superpower**; detaching removes it.
+- **The return scene `[canon — 2026-06-28]`:** the **Chaotic Vortex** pulls Liu in; to him it feels instantaneous; he comes out — sometimes elsewhere — **changed** (he can suddenly **see**, his **knees feel good**). Into a gathered crowd he says *help*, and the spheres **go to work on bystanders** to save/serve him: one is **attached at the neck → a brief seizure → wakes with complete medical knowledge** (a Matrix-style download, able to give a diagnosis on the spot); another is **plugged in and given actual power.** Shows the spheres' triage logic — they recruit and equip nearby humans on the fly.
 - **Comfort range:** happiest within ~20 ft of Liu; pine to return if taken miles away for long; rest when their host sleeps; need no food or water.
 - **Nanite phobia `[from original — verify if still canon]`:** Muo panic near **nanites** (e.g. Iron Eaters); prolonged exposure kills them, and a dead Muo emits a black "power" that seeds a **brain-eating nanovirus** turning the infected hostile and enraged. Possible tie to the Iron Eaters / Alliance-of-Four threat — flag for a creator ruling before using.
 
