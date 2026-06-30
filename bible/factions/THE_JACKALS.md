@@ -1,0 +1,24 @@
+# THE JACKALS — LSW blood-hunters  `[faction file]`
+
+**What they are:** elite **bounty hunters who harvest from Living Super Weapons** — *not just blood.* They take **cerebral fluid**, blood, genetic material, and (the high-value prize) anything tied to an **LSW's lineage** — including an LSW's **unborn child.** Their harvest feeds the universe's LSW-fluid economy: the drugs, the consumer powers, the weapons, the research that everyone — governments, cartels, corporations — wants.
+
+**Their trade-craft:** Jackals are **especially good at getting *into* a country, getting what they need, and getting *out*** — quiet infiltration and extraction across borders, under the radar of the treaty and national security. (A grounded, human echo of the Xanthi's "step in anywhere" infiltration — the Jackals do it with skill, not powers.)
+
+**Why they matter (universe engine):** the Jackals are the predator layer beneath the whole world. They connect:
+- **King Stefanos** — **Sandra** ("the L.A. Jackal") comes for his pregnant wife **Marletta** (see `bible/characters/KING_STEFANOS.md`).
+- **Tanzania / Zephaniah Mwangaza** — her cerebral fluid becomes the drug **"Kuruka."**
+- **Cissy Oliva** — when the Jackals reveal that **LSW DNA is different**, her genetics gift becomes drug-manufacturing gold (per `INBOX.md`).
+
+## Named Jackal — SANDRA ("Its Voice")
+- White American woman; **"the L.A. Jackal."** Bearer of a **sentient ring** — *"Its Voice"* — which is a **piece of a larger sentient alien data-lifeform** (the entity the Greys use to understand human psychology). Full note: `bible/factions/ITS_VOICE.md`.
+- The ring can **read data from almost any electronic thing, especially anything Internet-connected.** **Every camera is its eyes; every microphone is its ears; the ring is its voice.** Functionally near-omniscient surveillance.
+- Her edge over other Jackals: the ring can guide her through a **clean extraction in which the target survives** — no kidnap → doctor → recovery. That's why she races to be **first** to a mark.
+- *(Reconciles the roster's "Sandra — ring entity, near-omniscient" with the Jackal layer. `[FLAG: is Sandra the same as the original Stefanos file's assassin "Andrea Rivera," or distinct?]`)*
+
+## ⭐ The ring — RESOLVED (it's a data-lifeform)
+The ring is a **piece of "Its Voice," a sentient, non-biological alien data-lifeform** the Greys use to understand human psychology — *every camera its eyes, every mic its ears.* Full canon: **`bible/factions/ITS_VOICE.md`**. (Still open: the entity's loyalty/agenda, whether it steers Sandra, how many bearers exist, its name.)
+
+## To develop
+- The Jackals as an organization (freelance? a guild? who employs/brokers them?).
+- The full menu of what they harvest and what each thing makes.
+- More named Jackals (the roster also notes a "Black Woman Jackal" — total surveillance / LSW hunter).

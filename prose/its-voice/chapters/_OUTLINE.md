@@ -1,0 +1,25 @@
+# ITS VOICE — Season 1, EXPANDED (16-chapter map)  `[writers'-room spec]`
+
+Goal: ~4× the old 7-chapter draft (~47k words total). Same arc, deepened — more chapters, each **~3,000–3,300 words**.
+**Style (non-negotiable):** third-person **omniscient storyteller**, **narrative summary**, **free-indirect / reported speech — NO quotation marks, minimal direct quotes**, read-aloud. Faithful to `bible/factions/ITS_VOICE.md` (the data-lifeform feeds on data + runs experiments; the ring is a node, not the entity; Daniel is the *calibration*, Sandra is the *work*; ties to the Cuatro Dedos cartel, the gun economy, SPEAR, Rusty Richards). Each writer should READ the current `prose/its-voice/AUDIOBOOK.md` for voice + the prose to expand, and mark inventions `[PROPOSED]`.
+
+| Ch | Title | Draw from | Beats to hit (deepen, don't just pad) |
+|----|-------|-----------|---------------------------------------|
+| 01 | **The Animator** | NEW (expand old Ch1's backstory) | Daniel's pre-fall life in full: the Animation Station job, the court case he should never have fought, the savings poured out, the firing; Susan working doubles; brother **John "Woody"** dying; the mother **Barbara**; the pawned engagement ring that morning; thirty-one dollars. End the night he sits down in the dark. |
+| 02 | **Feed Me** | old Ch1 | The voice arrives mid–game-show (the DNA answer); proves itself with his secrets (the ring, the firing, the 49 months); the offer — wealth if he follows and "feeds" it ("you don't feed the ring"); the crossroads laid out; he gets the pen. |
+| 03 | **The List** | old Ch2 (prep half) | The patient teacher; the gloves two towns over; the mask; the tape (and the body's small sheddings the voice studies); the drive to Baldwin & Lopez; why 3:19; "I am reading, not guessing." End approaching the car. |
+| 04 | **The Intersection** | old Ch2 (kill half) | The sleeping man; the second man leaving; the cigarette; the guitar string; the killing rendered in summary; the bag (cartel money — Anthony Romano); routed dumpsters; home; the entity's cold first reading. |
+| 05 | **The Morning After** | old Ch3 (lie/money) | The scripted lie to Susan (the ring "antique," $12k); the first relief of money; guilt metabolizing; the voice fattening him; the better small things turning back on. |
+| 06 | **The Wake** | old Ch3 (wake/cartel) | John's funeral; the eulogy; Daniel's guilt-laced speech; the overdressed men from **Lorenzo Espinoza**; Carlos implicated; the cartel walking backward up the line. |
+| 07 | **The Feed** | NEW (from old Ch3/Ch6 crew) | The surveillance room: **Gertie, Tanisha, Rustin**; their own crossroads-bargains; how they "keep the feed clean"; the eyes/ears everywhere; Gertie's "he's a calibration" worldview; Rustin's unease. |
+| 08 | **The Dead End** | NEW (from old Ch3 cops) | The patient detective(s); reading the scene from the evidence outward; the guitar-string loop that points everywhere but at Daniel; the honest certainty that the case fits too well; the file cooling. |
+| 09 | **The Second Errand** | old Ch4 (cartel redirect) | Not a kill — the theater that walks the cartel's question onto a rival; Daniel guided through moves he doesn't fully see; Carlos saved without knowing; Daniel feeling like a protector. |
+| 10 | **What the Money Buys** | old Ch4 (world) | The repaired life vs the invisible mortgage; Carlos the **guns man** opening the gun economy; **SPEAR** brushing his life; **Rusty Richards** as cultural weather; the larger machine = the same enterprise that chose the 1,000. |
+| 11 | **The Cabernet** | old Ch5 | The camping trip; the real re-proposal; the **Traveler Cabernet** (719 bottles; his father; "make your own magic"); the bottle he won't open; a stolen normal. |
+| 12 | **The Setup** | old Ch5 (heist arranged) | The job arrives through Carlos as "opportunity" (arranged by the voice); the frightened gun-dealer; Daniel doesn't say no; the voice confirms the angles; the guns-in-the-house warning. |
+| 13 | **The Job** | old Ch6 (heist) | The night; the masks; the entry; the terrified owner; the safe; the rush of a thing going right; Daniel crossing from a man who did a terrible thing to a man who does them. |
+| 14 | **The Floor** | old Ch6 (the turn) | The voice's arithmetic: Carlos talks, Carlos is a thread back, the threat to Susan/the life; "do not hesitate"; Daniel kills Carlos; the enormous nothing where horror should be; the calibration closes. |
+| 15 | **What It Came For** | old Ch7 (aftermath) | Everything he wanted = the punishment; the voice withdraws (the worse silence); the law turned; the corked bottle on the shelf; the man at the window at 3 a.m. |
+| 16 | **The Work** | old Ch7 (Sandra turn) | Sandra arrives in **DC**; she's never heard it; she was the work all along; the voice — calibrated now — prepares to speak to *her*; close on the threshold of Season 2 (the phone's light, "for the first time, it got ready to let her hear it"). |
+
+*Writers: write ONLY your `prose/its-voice/chapters/CH<NN>.md` — header `### Chapter <N> — <Title>` … body … `[end of Chapter <N>]`. Do NOT commit. The coordinator assembles all 16 into `AUDIOBOOK.md`.*
