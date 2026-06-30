@@ -129,6 +129,15 @@ A quick heuristic that holds up across the repo:
 - ✅ **Cissy Oliva** — "Oprah of Uganda," sells custom merged exotic animals; cracked cloning only via the **Bloodhunters' aging/de-aging cream** (insight: you can't clone without aging the clone).
 - ⚠️ **OPEN FLAGS from this pass (need a creator ruling):** (1) **"Son of the Soil" (Kaiser) vs "Sun of the Soil" (Johnny Rain)** — title overlap. (2) **Iron Eaters timing** — Year 3 (this telling) vs Year 4 (locked). (3) **Deck 52 founders' race** — brain-dump "two white guys" vs originals' mixed white/Black Charles (originals win pending ruling). (4) **The Otherworld death beat** — undecided between two options. (5) the **Liu Xiao return scene** (Muo spheres grant bystanders temp medical-knowledge/power to save him) — fold into `LIU_XIAO.md` next pass.
 
+**GREYS / ALLIANCE WORLDBUILDING SESSION (creator, 2026-06-29)** *(paused — resume via `reference/SESSION_BOOKMARK_greys-alliance.md`; details in `bible/factions/THE_GREYS.md` + `THE_ALLIANCE_OF_FOUR.md`)*:
+- ✅ **The Greys' deep-time spine** = guilt across three accidental extinctions: **Mars (first silence)** → **The Long Burial (their arrival = the Yucatán impact that killed the dinosaurs)** → **The Silent Requiem (energy-species death)**. **Zuma = the gateway** (one active door, Zuma↔Mars). **The Reseeding** = life recovers → humanity in Africa by the gateway (no "source of life"). The deep-time sites (**Yucatán crater + Göbekli Tepe**) become the **proof that confirms Rusty Richards.**
+- ✅ **Alien design mandate:** **non-humanoid** (incl. the Xanthi), biologically plausible (*Alien: Earth* standard), niche-specific, rich homeworlds. **Reveal alien names only when important.**
+- ✅ **Functional armada** + **phased invasion as biological necessity** (Earth must be made livable for the occupiers).
+- ✅ **Council names (layered):** **Concord of Living Continuance** (institution) · **Hollow Meridian** (venue) · **"Conclave of the Stars"** (referent).
+- ✅ **The Archive = Its Voice's origin species** (data = cosmic delicacy). **Auralith = the dead translators** (their death cripples galactic diplomacy) — nameless in-story for now.
+- ✅ **Alliance of Four re-cut:** DUMP **The Deep** + **The Strategist Race** (generic); KEEP **Xanthi** (redesign non-humanoid); ADD **Mountain-Eaters** (Cathedral Giants) + **Ash-Weather** (Ashborn). **All other races preserved** → `reference/dumps/2026-06-29-alien-species-pitch.md`.
+- ⏳ **OPEN (2 confirms to resume):** (1) **The Slaught — keep or dump?** ⚠️ it's a *creator original* (`canon/aliens/Alien Type_ The Slaught.txt`), not a generic pitch race — rec: keep (ground-swarm niche). (2) **Confirm the Four:** Xanthi · Slaught · Mountain-Eaters · Ash-Weather. *(Plus: what killed Mars + how the Mountain-Eaters arrive → the room.)*
+
 ---
 
 *This map is my best read of the ground truth — correct anything and it's law. Built [bible v0]; grows as we consolidate each faction.*

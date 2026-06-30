@@ -26,13 +26,31 @@ Self-evolving, metal-eating nanite swarm/AI. The **"softener" wave sent ahead of
 
 > **`[FLAG — TIMELINE]`** In the 2026-06-28 creator dump, the Iron Eaters arrive **end-Year-2 / Year-3**. The novel / locked CANON places the **South America satellite crash at Year 4**. These conflict. **Surfaced for a creator ruling — not silently resolved.** (Per the Golden Rule, the creator's word decides; this file holds both until then.)
 
-## The Four
-| # | Race | Status |
-|---|---|---|
-| 1 | **The Slaught** | `[TBD — needs development]` |
-| 2 | **The Deep** | `[TBD — needs development]` |
-| 3 | **The Strategist Race** | The planners / tacticians of the Alliance. `[sketch — develop]` |
-| 4 | **The Xanthi** | Dimensional "Doorwalkers." Designed below `[PROPOSED mechanics]`. |
+## The Four `[RE-CUT 2026-06-29 — pending 2 creator confirms; see SESSION_BOOKMARK]`
+**Design mandate:** every species is **non-humanoid**, biologically plausible (the *Alien: Earth* standard), niche-specific, with a vivid homeworld. **Reveal their names in-story only when it matters.** It's a **coalition of distinct species** (NOT one species in castes) — clashing agendas = more political intrigue. It works as a **functional armada** (each fills a niche no other can):
+
+| # | Race (working label) | Niche | Source |
+|---|---|---|---|
+| 1 | **The Xanthi** | Infiltration / decapitation (the doors + the Mark; also "the eyes") | yours — **redesign non-humanoid** (see below) |
+| 2 | **The Slaught** | Ground infestation / shock troops (tunnels, sewers, swarm) | **your original** — `canon/aliens/Alien Type_ The Slaught.txt` ⚠️ `[confirm keep vs dump]` |
+| 3 | **The Mountain-Eaters** | Living siege-fortresses / logistics / occupation platforms | adopted (pitch "Cathedral Giants") `[PROPOSED]` |
+| 4 | **The Ash-Weather** | Atmosphere / environment (makes Earth livable for the occupiers) | adopted (pitch "Ashborn") `[PROPOSED]` |
+
+- **DUMPED — too generic:** The Deep, The Strategist Race.
+- **The phased invasion is a biological necessity, not just tactics:** most of the Alliance **can't live in Earth's air as-is.** Iron Eaters strip the defenses → **Ash-Weather rebuilds the atmosphere** into something the others can occupy → **Slaught** take the ground → **Mountain-Eaters** anchor the siege → **Xanthi** infiltrate/decapitate (they need no air — they come through doors).
+- **The Mountain-Eaters' threat** = they don't chase; they're **walking continents that ARE the occupation** — mobile fortresses that carry/manufacture the war, can't be killed (neurons distributed through the whole mass), and terraform by sheer presence. *(How they arrive → the room.)*
+- **Full creature/galaxy bank** (all parked races preserved): `reference/dumps/2026-06-29-alien-species-pitch.md`.
+
+### The council (names locked, layered) `[2026-06-29]`
+- **The Concord of Living Continuance** — the institution. NOT a "UN" — a **biological treaty system** whose purpose is to **stop a young civilization from causing extinctions it's too primitive to perceive.** Earth just caused one.
+- **The Hollow Meridian** — the venue: a neutral megastructure inside a dead star, a chamber per biology. The **dead translators' chamber sits empty — the accusation.**
+- **"Conclave of the Stars"** — the colloquial referent (the creator's original name).
+
+### The trigger species = the galaxy's translators `[PROPOSED, 2026-06-29]`
+The energy-species the **Silent Requiem** killed were the **Concord's universal translators** — the only life able to interpret between radically different beings. Their death **severed the nervous system of interstellar diplomacy** → why the whole galaxy mobilizes over one death, and why the Greys' cover-up is so dangerous. Kept **nameless in-story** for now; eventual reveal name **"the Auralith."**
+
+### Its Voice's origin species `[2026-06-29]`
+The data-lifeform **Its Voice**'s origin species = **"the Archive"** — a civilization that collects minds/whole civilizations ("we saved you" — after deleting your freedom). **Data is a cosmic delicacy, like energy.** → `bible/factions/ITS_VOICE.md`.
 
 ---
 
