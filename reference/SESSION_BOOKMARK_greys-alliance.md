@@ -18,15 +18,20 @@
 - **DUMP:** The Deep, The Strategist Race (too generic).
 - **All other races preserved** in the galaxy bank: `reference/dumps/2026-06-29-alien-species-pitch.md`.
 
-## ⏳ OPEN — answer to resume (the only blockers)
-1. **The Slaught — KEEP or dump?** ⚠️ It's **your own original** (`canon/aliens/Alien Type_ The Slaught.txt`), not a generic pitch race — it IS the "bug race we already have." My rec: **keep** (fills the ground-swarm niche; already non-humanoid/vivid).
-2. **Confirm the new Alliance of Four roster:** **Xanthi** (redesigned non-humanoid) · **Slaught** (your original) · **Mountain-Eaters** (pitch "Cathedral Giants") · **Ash-Weather** (pitch "Ashborn"). Yes / swap?
-3. Minor (I'll default unless you say otherwise): energy-species stays **nameless now** ("Auralith" later); Greys keep name **"the Greys"** (pitch "Veyr" optional).
+## ✅ RESOLVED 2026-06-29 (end of session)
+- **Slaught — KEPT** (creator confirmed). · **Xanthi — KEPT** (redesign non-humanoid). · **Ash-Weather — in** `[PROPOSED]`.
+- **"Auralith" — ADOPTED** as the dead translator-species' name (revealed in-story only when it matters).
+- **Greys' true-name "Veyr" — PARKED.** Creator waffled ("we can go with that… no, that's not it") → default **"the Greys"** until he decides.
+
+## ⏳ OPEN — the real blockers to resume
+1. **The Mountain-Eaters — SOLVE or SWAP.** Creator (twice) doesn't buy them: *"too slow — if it takes 30 years to do anything, how do they come to Earth and be a threat?"* Either solve it (candidate: not self-propelled — **delivered/grown as the unkillable occupation endgame**; slowness = the horror, "you already lost") or **swap** for a bank species. This is the 4th-slot question.
+2. **What killed Mars** → the room.
+3. **How the Mountain-Eaters arrive** (if kept) → the room.
 
 ## ▶️ NEXT STEPS (after the 2 confirms)
 1. Finalize `THE_ALLIANCE_OF_FOUR.md` (lock the Four, redesign the Xanthi non-humanoid, write the Mountain-Eaters + Ash-Weather entries with homeworlds).
 2. **Then** hand to the writers' room to pitch the texture: the **Concord scene at the Hollow Meridian**, the Grey clans, the Zuma cover-org, **what killed Mars**, how the Mountain-Eaters arrive.
-3. Creator still owes: the **full Its Voice Season 2** (folds into the Archive origin-species).
+3. Creator still owes: the **FULL Its Voice Season One AND Two** ("y'all don't even know Its Voice S1" — what we have isn't the complete canonical S1). When given → **send it to the writers' room** + fold into the Archive origin-species.
 
 ## 📁 Files written this session
 - `bible/factions/THE_GREYS.md` — the deep-time spine (NEW).

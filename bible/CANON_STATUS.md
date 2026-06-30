@@ -136,7 +136,8 @@ A quick heuristic that holds up across the repo:
 - ✅ **Council names (layered):** **Concord of Living Continuance** (institution) · **Hollow Meridian** (venue) · **"Conclave of the Stars"** (referent).
 - ✅ **The Archive = Its Voice's origin species** (data = cosmic delicacy). **Auralith = the dead translators** (their death cripples galactic diplomacy) — nameless in-story for now.
 - ✅ **Alliance of Four re-cut:** DUMP **The Deep** + **The Strategist Race** (generic); KEEP **Xanthi** (redesign non-humanoid); ADD **Mountain-Eaters** (Cathedral Giants) + **Ash-Weather** (Ashborn). **All other races preserved** → `reference/dumps/2026-06-29-alien-species-pitch.md`.
-- ⏳ **OPEN (2 confirms to resume):** (1) **The Slaught — keep or dump?** ⚠️ it's a *creator original* (`canon/aliens/Alien Type_ The Slaught.txt`), not a generic pitch race — rec: keep (ground-swarm niche). (2) **Confirm the Four:** Xanthi · Slaught · Mountain-Eaters · Ash-Weather. *(Plus: what killed Mars + how the Mountain-Eaters arrive → the room.)*
+- ✅ **End-of-session confirms:** **Slaught KEPT** + **Xanthi KEPT** (redesign non-humanoid); **Ash-Weather in** `[PROPOSED]`; **"Auralith" adopted** as the translator-species' name; **Greys' true-name "Veyr" parked** (default "the Greys").
+- ⏳ **OPEN (the real blocker):** **The Mountain-Eaters — SOLVE or SWAP.** Creator (twice): *"too slow to threaten Earth — 30 years to do anything."* Solve (candidate: delivered/grown as the unkillable occupation endgame; slowness = the horror) or swap from the bank. *(Plus: what killed Mars → the room; full **Its Voice S1+S2** owed → send to the room.)*
 
 ---
 

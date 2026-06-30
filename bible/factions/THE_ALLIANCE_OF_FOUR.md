@@ -32,8 +32,8 @@ Self-evolving, metal-eating nanite swarm/AI. The **"softener" wave sent ahead of
 | # | Race (working label) | Niche | Source |
 |---|---|---|---|
 | 1 | **The Xanthi** | Infiltration / decapitation (the doors + the Mark; also "the eyes") | yours — **redesign non-humanoid** (see below) |
-| 2 | **The Slaught** | Ground infestation / shock troops (tunnels, sewers, swarm) | **your original** — `canon/aliens/Alien Type_ The Slaught.txt` ⚠️ `[confirm keep vs dump]` |
-| 3 | **The Mountain-Eaters** | Living siege-fortresses / logistics / occupation platforms | adopted (pitch "Cathedral Giants") `[PROPOSED]` |
+| 2 | **The Slaught** | Ground infestation / shock troops (tunnels, sewers, swarm) | **your original** — `canon/aliens/Alien Type_ The Slaught.txt` — ✅ **KEPT (creator confirmed 2026-06-29)** |
+| 3 | **The Mountain-Eaters** | Living siege-fortresses / logistics / occupation platforms | adopted (pitch "Cathedral Giants") — ⚠️ **UNRESOLVED:** creator: *"too slow to be a threat — if it takes them 30 years to do anything, how do they come to Earth and threaten us?"* Must SOLVE before locking, or SWAP from the bank. *(Candidate solve: they don't self-propel across space — they're **delivered/grown** as the occupation endgame; their slowness is the horror — once one lands, that region is theirs on geological time and nothing can move or kill a continent. They're the "you already lost" species, not a battlefield combatant. → the room.)* |
 | 4 | **The Ash-Weather** | Atmosphere / environment (makes Earth livable for the occupiers) | adopted (pitch "Ashborn") `[PROPOSED]` |
 
 - **DUMPED — too generic:** The Deep, The Strategist Race.
@@ -47,7 +47,7 @@ Self-evolving, metal-eating nanite swarm/AI. The **"softener" wave sent ahead of
 - **"Conclave of the Stars"** — the colloquial referent (the creator's original name).
 
 ### The trigger species = the galaxy's translators `[PROPOSED, 2026-06-29]`
-The energy-species the **Silent Requiem** killed were the **Concord's universal translators** — the only life able to interpret between radically different beings. Their death **severed the nervous system of interstellar diplomacy** → why the whole galaxy mobilizes over one death, and why the Greys' cover-up is so dangerous. Kept **nameless in-story** for now; eventual reveal name **"the Auralith."**
+The energy-species the **Silent Requiem** killed were the **Concord's universal translators** — the only life able to interpret between radically different beings. Their death **severed the nervous system of interstellar diplomacy** → why the whole galaxy mobilizes over one death, and why the Greys' cover-up is so dangerous. **Name adopted (creator, 2026-06-29): "the Auralith"** — kept **nameless in-story** until the reveal matters.
 
 ### Its Voice's origin species `[2026-06-29]`
 The data-lifeform **Its Voice**'s origin species = **"the Archive"** — a civilization that collects minds/whole civilizations ("we saved you" — after deleting your freedom). **Data is a cosmic delicacy, like energy.** → `bible/factions/ITS_VOICE.md`.
