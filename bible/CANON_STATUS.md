@@ -60,6 +60,8 @@ A quick heuristic that holds up across the repo:
 
 **Loose threads:** the README's **Mexican clown-vigilante** has no source file — does that character still exist? *(Cissy spelling resolved: **CISSY**.)*
 
+**Country sheet — Congo rows likely label-swapped** *(flagged 2026-07-10 while building SPEAR)*: "Republic of the Congo" (№75, pop **89.5M**, no president listed) carries **DR Congo's** population, while "Congo" (№19, **5.6M**) carries the Republic's. The SPEAR console joins them to the world map **by population** so the numbers land on the right shapes; confirm the intended naming and fill in both presidents.
+
 **✅ RESOLVED — from the lore dump (creator ruled):**
 - **Name:** series/universe = **Consequences of Failure**. **Superhero Tactics** = the eventual video-game version (same world).
 - **Threat:** **Alliance of Four** is canon; the 6-oxygen-aliens draft is dead.
