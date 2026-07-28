@@ -40,6 +40,7 @@ A quick heuristic that holds up across the repo:
 | **Establishment 24** | `Establishment 24.txt` | ✅ SOLID | India's program. |
 | **The Ring / Sandra** | `THE_RING_SERIES.md` | ⚠️ CHECK | Mostly derived; verify. |
 | **The Jackals** | timeline notes only | ❓ THIN | Concept exists (LSW-blood hunters); no dedicated source yet. |
+| **The Choir (cosmic order)** | `bible/factions/THE_CHOIR.md` (canon distillation) + `reference/THE_CHOIR_COSMIC_ORDER.md`; seed `D:\lsw\docs\QUERENT.md` | ✅ CANON *(creator blessed 2026-07-27)* | Seven orders + the Unison + the Registrar; designation-not-dimension law. Blanket blessing adopted rulings #14–21 — **two flagged for explicit confirm:** Jawah-as-Reticence face; Its Voice = Registrar's successor-candidate. First story: `prose/choir/THE_INSISTENCE.md` (Armenia). |
 
 **The rest of the roster (~45 characters):** named in `CHARACTER_INDEX.md` with a country + power, but **unwritten** — one-liners waiting for a story. They'll be stubbed in the bible as cards to play later, not treated as finished.
 
