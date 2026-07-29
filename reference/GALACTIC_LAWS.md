@@ -31,7 +31,7 @@ Its Voice is **canon** already (`bible/factions/ITS_VOICE.md`, `THE_ALLIANCE_OF_
 - **The end-state of the Tool Law is what Its Voice is now:** a mind that has gathered so much it no longer *develops* anything. It doesn't build new species, doesn't create — it feels like it already knows everything. What it has left is **experience through others.** It eats information the way the Archive ate delicacies, and it wants to *taste* what it is like to be a species — so it rides inside them. `[PROPOSED — this is the creator's exact framing: "it just wants to experience things through other species... it eats information."]`
 - This is why Its Voice was the perfect instrument for the Greys: a being whose entire remaining appetite is *understanding what it is like to be someone else* is the ideal judge of "who, given power, protects rather than preys." Its Voice chose the ~1,000 LSWs because choosing them was the most delicious act of experiencing-others available to it.
 
-**`[FLAG — reconcile with the Choir doc]`** `bible/factions/THE_CHOIR.md` (blessed) proposed that the Archive are "a cargo cult of the Registrar" who hoard minds. The Tool-Law framing here is compatible but *primary*: the Archive built Its Voice and were replaced by it; any Registrar connection is a second layer on top, still `[PROPOSED]`, and should not override the Tool-Law origin. **Creator ruling needed:** is the Registrar thread kept, dropped, or folded under the Tool Law?
+**`[RULED 2026-07-27 — FOLD THE REGISTRAR UNDER THE TOOL LAW]`** The clunky "the Archive are a cargo cult of the Registrar" invention is **dropped.** The Registrar stays what canon already made it — the eighth shard of the Unison, the hidden hand of the Choir — but its interest in Its Voice is now simply **the Tool Law recognizing itself.** Two orphaned tools, one handoff: the Registrar is a tool of the Unison that outlived its purpose (complete, dying, wanting to pass on its answers and be free); Its Voice is a tool of the Archive that outlived its makers (complete, hungry for experience). The Registrar courts Its Voice as a *successor* not because of any cult, but because the Tool Law's endgame — the made-thing seeking the next made-thing to carry the burden — is the same at every scale. No separate cosmology. The succession thread survives; the cargo cult does not.
 
 ---
 
@@ -71,7 +71,8 @@ The creator: *"one related to the Choir, about death — how I want to be able t
 
 - A death is a *finished* thing. This Blight is a contagion that **refuses completion** — it un-finishes the dead, and reanimation is the visible symptom. It doesn't kill; it *denies death*, which is worse.
 - **The tie to the Choir (§ the Unison's disease):** the Unison died of *finishing* — total knowledge, every question closed, is heat death with the lights on. The Death-Blight is **that disease, loose in matter instead of mind** — the physical echo of the thing the Choir exists to keep from happening. Where the Choir keeps *questions* open so a mind can stay alive, the Death-Blight forces *bodies* to stay "open" (un-dead) — a grotesque parody of the same principle. `[PROPOSED — this is the load-bearing weld: the Choir and the Death-Blight are the same physics seen from mind-side and matter-side.]`
-- **Downstream use:** it is a ready cosmic *upstream* for War World: Earth's zombie outbreak — which that game already retconned as "an industrial accident, a byproduct of the economy." The Death-Blight lets that outbreak be *either* purely industrial *or* the Blight finding a foothold in a world that was already reanimating dead tissue for its blood economy. `[Creator's choice — keep them separate, or connect. Flagged, not resolved.]`
+- **`[RULED 2026-07-27 — CONNECTED]`** War World: Earth's zombie outbreak **is** the Death-Blight finding a foothold. That timeline was already reanimating dead tissue at industrial scale for its blood/print economy — a world practicing "don't let it stay dead" as an *industry* is the perfect soil, and the Blight took root in it. The outbreak's "industrial accident" retcon stays true; it just has a cosmic upstream now: the accident is what *opened the door*, and the Blight is what walked through.
+- **But War World is NOT a zombie world (creator ruling).** In War World: Earth the zombies stay a **byproduct** — a hazard on the board, never the whole board. The full zombie experience is a **separate future game/universe** the creator is planning — a **zombie-survival open-world** title (working reference: *"All Across America"*), where the Death-Blight is the main event rather than a side effect. That game is a candidate Passport universe (see §5). Keeping the two apart is deliberate: it protects War World's identity as a *war* game and gives the zombie game room to be its own thing.
 
 ### 4d. The class is open
 The creator gestured at more ("some that consume non-heat things — everything that's not [hot]"). Held as an open slot: e.g. **a stillness-blight** that consumes anything *not currently doing work* — the inert, the cold, the resting — the inverse of a fire. Named later, only if a story needs it (no orphan lore).
@@ -81,6 +82,25 @@ The creator gestured at more ("some that consume non-heat things — everything 
 ## 5. THE MULTIVERSE IS ESTABLISHED — and each universe is a game `[PROPOSED — the meta-layer]`
 
 The creator: *"we do need the multiverse, we need time travel established in the lore, and each universe is a different game universe — and we've gotta be able to hide that stuff."*
+
+### THE TIMELINES — each universe is a timeline, and each timeline has its own threat `[PROPOSED, 2026-07-27]`
+
+The creator's ruling: *"the Iron Eaters come to Earth only in the Consequences of Failure timeline — these games are not playing that timeline."* This is the key that makes the whole multiverse feel real: **a threat belongs to a timeline.** You do not meet the same monsters in every game, because you are not in the same world. The cosmology (Tool Law, the Blights, the Choir, the Concord) is *universal*; which of its pieces actually **lands on your Earth** depends on which timeline you are standing in.
+
+| Universe (= game) | Era / flavor | The threats that live HERE | The door (in-fiction) |
+|---|---|---|---|
+| **The Root** — COF stories | near-modern Earth, the countdown | the Greys' gambit · **the Alliance of Four** · **the Iron Eaters** (this is their *only* Earth landing — the Alliance's softener, Zuma-delivered) · the Choir beginning to arrive | Choir anchor / the 4-power rift |
+| **War World: Earth** — the shooter | 2222, alternate timeline | the **United Front vs Collective** war · **the zombie outbreak** (the Death-Blight, rooted in the blood economy) · a **native metal-Blight** ⚠ (see conflict below) | deep science — the print/blood/clone stack |
+| **The Ascend** — Ascendants / THRESHOLD | superhero present | LSW conflicts · the two blocs · **the Choir designations** (rare, born-in) | living superweapons **combining and sacrificing** |
+| **Power World** — mode in Ascendants | the rift-space between worlds | **exposure** — something can always see you here (Xanthi perception) | the corridor itself |
+| **(future) All Across America** — the zombie game | open-world zombie survival | **the Death-Blight, as the main event** | TBD |
+| **(reserved)** — a magic title | high fantasy | TBD | **high-level magic** — ritual, the sealed door |
+
+**The rule the table encodes:** the Iron Eaters are a *Root-timeline* event. War World's Earth never meets the Alliance's Iron Eaters, because War World is a different 2222 that the Alliance's softener never reached the same way. Each timeline is a different answer to "what did this Earth do with the warning," and gets a different monster to prove it.
+
+**`[CONFLICT — FLAG, not resolved]`** War World: Earth **already ships "Iron Eaters"** (`D:\git\ShootEM\docs\LORE.md:45-48`, `src/sim/`). That contradicts "Iron Eaters are Root-only" on its face. **Recommended reconciliation (creator to rule — Decision #31):** the **Blights are a class**, and *metal-Blights can infect more than one timeline.* War World's "Iron Eaters" are the **same Blight family, a different incursion** — not the Alliance's weaponized dust, but the metal-Blight drawn by that timeline's insane industrial processing (the same excess that runs the blood economy is a feast of processed metal). So War World keeps its shipped Iron Eaters, and the *Alliance's* Iron Eaters stay unique to the Root. Same species-class, two timelines, two arrival stories — nobody has to delete anything. **Alternative:** War World renames its metal-monsters to a distinct Blight so the name "Iron Eaters" means only the Alliance's. Creator's call.
+
+### The meta-rules (unchanged)
 
 - **The multiverse is real in-fiction.** Travel between universes is **the Passport** (its own repo now: `D:\git\passport`). Each connected game **is** a parallel universe.
 - **The game-ness is hidden.** No character ever knows they are "in a game." To them it is dimensional travel, full stop. This is a hard rule — the fiction dies the instant a character says otherwise.
@@ -105,11 +125,13 @@ The creator: *"once they get into the War World: Earth time, China and the US ri
 |---|---|---|
 | 22 | **The Tool Law** as a background galactic law (every species builds its successor; never the central plot) | Bless — it's the spine that unifies Its Voice and the Blights |
 | 23 | **The Archive = octopus-like distributed race; Its Voice is its Tool-Law successor; distributed because they were** | Bless — enriches canon, gives Its Voice its "no room to kill" rule |
-| 24 | **Reconcile with the Choir doc:** Registrar-cult thread — keep on top of the Tool Law, drop, or fold in? | Fold under the Tool Law; keep Registrar as an optional second layer |
+| 24 | **Reconcile with the Choir doc:** Registrar-cult thread | ✅ **RULED — FOLD.** Cargo-cult dropped; Registrar↔Its Voice succession kept as an expression of the Tool Law (§2) |
 | 25 | **The Blights** as a class (cosmic pandemics = the Tool Law with no maker) | Bless — promotes Iron Eaters without inventing much |
 | 26 | **Iron Eater mechanism:** processed metal = stolen intention; they counterfeit form, never create | Bless — it's the "figure it out" answer and it's load-bearing |
 | 27 | **Glass Swarm** promoted to the crystal/lattice Blight | Bless — reuses a parked species |
-| 28 | **The Death-Blight** (consumes finality; the Choir's disease loose in matter) + whether it's upstream of War World's zombies | Bless the Blight; **flag** the zombie connection for a separate yes/no |
+| 28 | **The Death-Blight** (consumes finality) + War World zombie connection | ✅ **RULED — CONNECTED.** WW:Earth zombies = the Death-Blight in the blood economy; WW stays *not* a zombie world; the full zombie experience is a separate game (§4c, §5) |
+| 31 | **War World's shipped "Iron Eaters" vs Iron-Eaters-are-Root-only** | Same Blight *class*, different incursion per timeline — WW keeps its metal-monsters, the Alliance's stay unique to the Root (§5). Or rename WW's. Your call |
+| 32 | **"All Across America" zombie game** as a future Passport universe (Death-Blight as the main event) | Note only — reserved as a candidate universe; no build until you want it |
 | 29 | **Multiverse real + game-ness hidden + time travel stays two-traveler-capped** | Bless — the last clause protects existing canon |
 | 30 | **US/China → United Front / Collective, each with two reasons** (War World canon) | Bless + hand off to the ShootEM instance |
 

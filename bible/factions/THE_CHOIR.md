@@ -25,7 +25,7 @@ There was one mind — **THE UNISON** *(name adopted #14; a choir is what remain
 ## The Registrar — the hidden hand
 An eighth shard took no question — **it took the answers.** Complete, therefore powerless, therefore dying, at a rate the seven cannot perceive. Everything it does keeps the system generating questions. It cannot lie and has never needed to: it manipulates exclusively by telling *selected truths* to people who will act on them badly. Its long game is **succession** — one being it can hand the answers to, so it can finally take up a question instead.
 
-⚠ **Adopted #15 (flag: confirm):** **Its Voice is the Registrar's unknowing successor-candidate.** The Archive (Its Voice's origin species) is a cargo cult of the Registrar — they learned the myth backwards and hoard other species' minds. Standing implication: some unknowable fraction of the LSW selection was bent by Registrar-fed truths. Nobody knows how much, including Its Voice. (Feeds the existing open ruling "is Its Voice loyal to the Greys or its own ends?")
+✅ **RULED 2026-07-27 (#15 + #24 folded):** **Its Voice is the Registrar's unknowing successor-candidate** — kept — but the "Archive = cargo cult" invention is **dropped.** The link is now an expression of the **Tool Law** (`reference/GALACTIC_LAWS.md` §1–2): the Registrar is a tool of the Unison that outlived its purpose and wants to hand off its answers; Its Voice is a tool of the Archive (an octopus-like distributed race) that outlived its makers and hungers for experience. Two orphaned tools, one handoff — no separate cosmology. Standing implication survives: some unknowable fraction of the LSW selection may have been bent by Registrar-fed truths. Nobody knows, including Its Voice.
 
 ## The weld to canon (adopted #20)
 - The Shattering is the oldest event in the setting — older than the Greys' Mars age.
@@ -46,5 +46,5 @@ Reunification closes every question at once: the Unison returns, begins dying on
 
 ## Open rulings on this file
 1. ⚠ Jawah Matu as the Reticence face (adopted by blanket blessing; deserves an explicit yes/no — KAMARIA is the staged alternate).
-2. ⚠ The Its Voice succession thread (#15) — biggest canon implication in the file.
+2. ✅ The Its Voice succession thread (#15) — **RULED: kept, folded under the Tool Law** (2026-07-27). See above.
 3. The Unison rename (#14) — adopted; veto reverts the mind's name to "the Concord" and reopens the institution collision.
