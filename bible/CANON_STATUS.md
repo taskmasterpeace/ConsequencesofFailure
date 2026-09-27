@@ -93,6 +93,7 @@ A quick heuristic that holds up across the repo:
 - ✅ **The "Chaotic Vortex" = the one recurring vortex of the whole universe** (the Greys' displacement/abduction phenomenon — same vortex everywhere). Reddy's case: the bus **wrecked**, and the vortex **sucked them in after the wreck.**
 - ✅ **Rafa = the cartel's medic/fixer** (one person — reconciles CONDEMNED's gun-middleman with the Ch.2 underground medic).
 - ⏳ Incoming (creator to provide): a **second cartel story** + more on Taskmaster.
+- ✅ **2026-09-27 — only TWO cartels in COF:** **Cuatro Dedos** (the main cartel) and **one second cartel** (name and story still to come from the creator). The real-world cartel names in the AI-derived country files (Gulf Cartel, Cali Cartel, PCC, Jalisco New Generation) are **not canon** and are not used in the game.
 
 **KING STEFANOS — re-cut (creator, this session):** → `bible/characters/KING_STEFANOS.md`
 - **Alexandr Stefanos** (no "e"), 41. **Rises from Minister of the Interior → President of Greece.** **The first celebrity superweapon.**
