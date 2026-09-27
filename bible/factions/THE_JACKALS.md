@@ -10,7 +10,7 @@
 - **Cissy Oliva** — when the Jackals reveal that **LSW DNA is different**, her genetics gift becomes drug-manufacturing gold (per `INBOX.md`).
 
 ## Named Jackal — SANDRA ("Its Voice")
-- White American woman; **"the L.A. Jackal."** Bearer of a **sentient ring** — *"Its Voice"* — which is a **piece of a larger sentient alien data-lifeform** (the entity the Greys use to understand human psychology). Full note: `bible/factions/ITS_VOICE.md`.
+- Black American woman (ruled 2026-06-28 in CANON_STATUS; confirmed by Robert 2026-09-27); **"the L.A. Jackal."** Bearer of a **sentient ring** — *"Its Voice"* — which is a **piece of a larger sentient alien data-lifeform** (the entity the Greys use to understand human psychology). Full note: `bible/factions/ITS_VOICE.md`.
 - The ring can **read data from almost any electronic thing, especially anything Internet-connected.** **Every camera is its eyes; every microphone is its ears; the ring is its voice.** Functionally near-omniscient surveillance.
 - Her edge over other Jackals: the ring can guide her through a **clean extraction in which the target survives** — no kidnap → doctor → recovery. That's why she races to be **first** to a mark.
 - *(Reconciles the roster's "Sandra — ring entity, near-omniscient" with the Jackal layer. `[FLAG: is Sandra the same as the original Stefanos file's assassin "Andrea Rivera," or distinct?]`)*
