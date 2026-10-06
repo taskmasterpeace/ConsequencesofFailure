@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: SPEAR CONSOLE — COF EYES ONLY▊
+  - generic [ref=e4]:
+    - generic [ref=e5]: Top Secret // COF Eyes Only // Handle via SPEAR channels
+    - banner [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e8]: ▲ SPEAR
+        - generic [ref=e9]: Consequences of Failure // Global LSW Intelligence Console
+      - generic [ref=e10]:
+        - generic [ref=e11]: UPLINK CANON 2026-07-10
+        - button "SEARCH /" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: SEARCH
+          - generic [ref=e14]: /
+    - generic [ref=e15]:
+      - navigation [ref=e16]:
+        - button "SITUATION 168 1" [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]: SITUATION
+          - generic [ref=e19]: "168"
+          - generic [ref=e20]: "1"
+        - button "PERSONS 134 2" [ref=e21] [cursor=pointer]:
+          - generic [ref=e22]: PERSONS
+          - generic [ref=e23]: "134"
+          - generic [ref=e24]: "2"
+        - button "FACTIONS 13 3" [ref=e25] [cursor=pointer]:
+          - generic [ref=e26]: FACTIONS
+          - generic [ref=e27]: "13"
+          - generic [ref=e28]: "3"
+        - button "POWERS 4" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: POWERS
+          - generic [ref=e31]: "4"
+        - button "ARCHIVE 58 5" [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: ARCHIVE
+          - generic [ref=e34]: "58"
+          - generic [ref=e35]: "5"
+        - button "CANON DESK 20 6" [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]: CANON DESK
+          - generic [ref=e38]: "20"
+          - generic [ref=e39]: "6"
+        - generic [ref=e40]:
+          - generic [ref=e41]: ORIGINALS BEAT THE REWRITE LAYER. FLAG, DON'T RESOLVE.
+          - generic [ref=e42]: canon uplink 2026-07-10
+          - generic [ref=e43]:
+            - text: "rebuild:"
+            - code [ref=e44]: node tools/spear/build.mjs
+      - main [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47]: GLOBAL SITUATION — 8 YEARS TO ARRIVAL
+          - heading "The world before the Alliance" [level=1] [ref=e48]
+          - generic [ref=e49]: Every country the Master Sheet quantifies, colored by the selected intelligence layer. Click any nation to open its file.
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: "168"
+              - generic [ref=e53]: Country files
+            - generic [ref=e54]:
+              - generic [ref=e55]: "134"
+              - generic [ref=e56]: Persons of interest
+            - generic [ref=e57]:
+              - generic [ref=e58]: "19"
+              - generic [ref=e59]: Solid dossiers
+            - generic [ref=e60]:
+              - generic [ref=e61]: "20"
+              - generic [ref=e62]: Open rulings
+            - generic [ref=e63]:
+              - generic [ref=e64]: 289k
+              - generic [ref=e65]: Words on file
+            - generic [ref=e66]:
+              - generic [ref=e67]: "1037"
+              - generic [ref=e68]: Cities mapped
+          - generic [ref=e69]:
+            - combobox [ref=e70]:
+              - 'option "LAYER: LSW ACTIVITY" [selected]'
+              - 'option "LAYER: GOVT CORRUPTION"'
+              - 'option "LAYER: TERRORISM"'
+              - 'option "LAYER: REGIME TYPE"'
+              - 'option "LAYER: LSW REGULATION"'
+              - 'option "LAYER: VIGILANTISM"'
+              - 'option "LAYER: CLONING LAW"'
+              - 'option "LAYER: CYBER CAPABILITY"'
+              - 'option "LAYER: SCIENCE"'
+              - 'option "LAYER: MILITARY"'
+              - 'option "LAYER: INTELLIGENCE SVC"'
+              - 'option "LAYER: MEDIA FREEDOM"'
+              - 'option "LAYER: GDP PER CAPITA"'
+              - 'option "LAYER: HEALTHCARE"'
+              - 'option "LAYER: DIGITAL DEV"'
+            - generic [ref=e71]: 168 country files · 6 micro-territories flagged as markers
+          - generic [ref=e72]:
+            - generic [ref=e257]:
+              - button "+" [ref=e258] [cursor=pointer]
+              - button "−" [ref=e259] [cursor=pointer]
+              - button "◎" [ref=e260] [cursor=pointer]
+            - generic [ref=e261]:
+              - generic [ref=e262]: LSW ACTIVITY
+              - generic [ref=e263]: "20"
+              - generic [ref=e269]: "90"
+              - generic [ref=e271]: NO DATA
+              - generic [ref=e273]: NO FILE
+      - complementary [ref=e275]:
+        - generic [ref=e276]:
+          - button "‹" [ref=e277] [cursor=pointer]
+          - button "×" [ref=e278] [cursor=pointer]
+    - contentinfo "Open the Canon Desk" [ref=e280] [cursor=pointer]:
+      - generic [ref=e281]: THE WIRE
+      - generic [ref=e282]: "⚠ RULING NEEDED — Alliance of Four: The Mountain-Eaters — SOLVE or SWAP (the real blocker) ··· ⚠ RULING NEEDED — Timeline: Iron Eaters arrival — Year 3 vs Year 4 ··· ⚠ RULING NEEDED — Titles: \"Son of the Soil\" (Kaiser) vs \"Sun of the Soil\" (Johnny Rain) ··· ⚠ RULING NEEDED — Deck 52: Founders' race ··· ⚠ RULING NEEDED — Deck 52: Vaughn's hometown — Ohio vs near San Francisco ··· ⚠ RULING NEEDED — Deck 52: Benchley's ransom — $4M vs $6M ··· ⚠ RULING NEEDED — Deck 52: US president of the era — Williamson vs Anthony vs Parker ··· ⚠ RULING NEEDED — Deck 52: Fashion line — \"Rhaige Sapphire\" vs \"Rhaige Elegance\"; is \"52 Holdings\" canon? ··· ⚠ RULING NEEDED — Kaiser: Are the big AI \"enhanced/strategic abilities\" docs canon? ··· ⚠ RULING NEEDED — Otherworld: The death beat — two options, undecided ··· ⚠ RULING NEEDED — Its Voice: Loyal to the Greys — or its own ends? ··· ⚠ RULING NEEDED — King Stefanos: How does he acquire shapeshifting? ··· ⚠ RULING NEEDED — FIST / SPEAR: Flagged WEAK — needs real development ··· ⚠ RULING NEEDED — Roster: Hank Foster — Arkansas (original) vs Canada (index) ··· ⚠ RULING NEEDED — Roster: Uganda president — Mugisha/Ronald Opio vs original Akena ··· ⚠ RULING NEEDED — Roster: Two \"Shooter's Clubs\" — disambiguate ··· ⚠ RULING NEEDED — Powers: CPI open forks ×5 ··· ⚠ RULING NEEDED — Liu Xiao: Fold in the return scene ··· ⚠ RULING NEEDED — Production: Owed to the room ··· ⚠ RULING NEEDED — Country sheet: Congo rows — labels likely swapped ··· ⚠ RULING NEEDED — Alliance of Four: The Mountain-Eaters — SOLVE or SWAP (the real blocker) ··· ⚠ RULING NEEDED — Timeline: Iron Eaters arrival — Year 3 vs Year 4 ··· ⚠ RULING NEEDED — Titles: \"Son of the Soil\" (Kaiser) vs \"Sun of the Soil\" (Johnny Rain) ··· ⚠ RULING NEEDED — Deck 52: Founders' race ··· ⚠ RULING NEEDED — Deck 52: Vaughn's hometown — Ohio vs near San Francisco ··· ⚠ RULING NEEDED — Deck 52: Benchley's ransom — $4M vs $6M ··· ⚠ RULING NEEDED — Deck 52: US president of the era — Williamson vs Anthony vs Parker ··· ⚠ RULING NEEDED — Deck 52: Fashion line — \"Rhaige Sapphire\" vs \"Rhaige Elegance\"; is \"52 Holdings\" canon? ··· ⚠ RULING NEEDED — Kaiser: Are the big AI \"enhanced/strategic abilities\" docs canon? ··· ⚠ RULING NEEDED — Otherworld: The death beat — two options, undecided ··· ⚠ RULING NEEDED — Its Voice: Loyal to the Greys — or its own ends? ··· ⚠ RULING NEEDED — King Stefanos: How does he acquire shapeshifting? ··· ⚠ RULING NEEDED — FIST / SPEAR: Flagged WEAK — needs real development ··· ⚠ RULING NEEDED — Roster: Hank Foster — Arkansas (original) vs Canada (index) ··· ⚠ RULING NEEDED — Roster: Uganda president — Mugisha/Ronald Opio vs original Akena ··· ⚠ RULING NEEDED — Roster: Two \"Shooter's Clubs\" — disambiguate ··· ⚠ RULING NEEDED — Powers: CPI open forks ×5 ··· ⚠ RULING NEEDED — Liu Xiao: Fold in the return scene ··· ⚠ RULING NEEDED — Production: Owed to the room ··· ⚠ RULING NEEDED — Country sheet: Congo rows — labels likely swapped"

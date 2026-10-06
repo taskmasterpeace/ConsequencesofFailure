@@ -20,7 +20,11 @@
       "Bash(C:/git/COF/temp_kaiser.txt)",
       "Bash(C:/git/COF/temp_eziobi.txt)",
       "WebFetch(domain:powerlisting.fandom.com)",
-      "Bash(C:gitCOFtemp_update.txt)"
+      "Bash(C:gitCOFtemp_update.txt)",
+      "Skill(artifact-design)",
+      "Skill(artifact-design:*)",
+      "Bash(ls -la /d/lsw 2>&1 | head -60)",
+      "Bash(bash \"C:/Users/taskm/.claude/skills/switchboard/bus.sh\" inbox cof)"
     ],
     "deny": [],
     "ask": []
