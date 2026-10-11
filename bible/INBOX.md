@@ -1,0 +1,32 @@
+# BIBLE INBOX — raw creator lore to file
+
+Captured so nothing's lost. These get filed into proper entries as we build. Newest first.
+
+## Threads to develop (creator, spoken — timeline-review session)
+- **Deck 52 ↔ Benchley loose connection:** someone on Deck 52 should have a *loose* tie to Todd "Shogun" Benchley. (Benchley is "special" — handle with care.) Develop when the Benchley transcripts arrive.
+- **Character traits = a "secret unlock":** the creator feels the cast lacks a proper *character-traits* structure, and that nailing distinct traits/personality is a hidden key to making them feel alive. Build a character-traits layer into the bible sheet. *(Details later.)*
+- **UN-as-a-joke tonal beat:** the real UN "feels like a joke" — play with that (e.g. a recurring shot of the flags outside the UN) as satire.
+- **Stay art-style-flexible:** don't marry the universe to one visual style.
+- **Benchley S1 season-arc:** creator green-lit "do whatever we gotta do" → going with **Arc C** (officials secretly working *with* the aliens; interlocks with Deck 52 + the supercomputer thread).
+
+## Fresh character enrichments (creator, spoken)
+- **Rusty Richards** — The yacht party is the first big awards where human artists *beat* the AI music — and they suspect it may be the **last year** they can (the AI songs are getting good). Among the guests is his friend, a **Chicago gangsta/drill rapper ("2 Glocks")**. They're friends because Rusty **vouched for him as a character witness** and helped him beat a case; they later cut a **hit song together**. The media buzzed/sneered about Rusty associating with the rapper "on trial" — and Rusty showed up anyway. *(Already partly in `Episode 0.txt` — 2 Glocks is there.)*
+- **Liu Xiao** — Has **fears that follow him around, literally tethered to him** (a manifested individuality beat — comes LATER, not at the start). Now that he can **see**, he **smokes cigarettes** (creator wants to keep this if we can — wants characters to feel like real individuals).
+- **Cissy Oliva** — spelling is **CISSY** (C-I-S-S-Y), pronounceable however. Her abilities become far more **useful/lucrative for Uganda** at a specific turn: when **the rise of the Jackals** reveals that **LSW DNA is different** — meaning you can **manufacture whole new drugs** from it. *(Creator has a full list of sci-fi drugs to draw on — get this from him.)* General principle he stated: **certain powers/characters become more useful at certain points as the world changes.**
+
+- **Todd Benchley** — **name change: Todd "Shogun" Benchley** (was "Ravage"). He's **Vaughn Galloway's** right hand, *not* Charles's — ransomed from Akrahuhum by Vaughn, became his bodyguard, then commander of **FIST** (Vaughn's org; the rival to Charles's Deck 52). Ex-Army Colonel / Airborne Ranger. *(Correction: drop the "wife killed in a car accident / two kids" — instead his **wife divorces him** somewhere down the line.)*
+
+## New lore — latest session (creator, spoken)
+- **THE PIT MONSTER (creator's FIRST/original vision — emotional anchor, handle with care):** a massive, muscular, **white-furred wolf-like creature**, ~1.5–2 people tall, immense strength, fully savage. **Eats only human flesh** — so they feed it condemned criminals. Kept in a **~20-foot pit** it can't climb out of. A **weapon that is also a person** — captors won't use high-caliber rounds on it because it's too valuable to destroy. Some country keeps it as a living weapon. Very dark. *Country TBD. This is the first image the creator ever had for this whole world.*
+- **TWO TIME TRAVELERS (hard rule):** the world has **exactly two** — one travels to the **PAST** (a man, works for **China**), one travels to the **FUTURE** (the woman = **Asha**). The past-traveler, going further and further back, notices **Liu Xiao** (the sphere guy) seems **more loyal the deeper into the past** he looks — he's investigating a loyalty pattern.
+- **Liu Xiao / the CCP:** China manufactures heroes via the *People's World Hero?* game show and **patriotizes** Liu (blind masseuse → given sight → 2nd most beloved man in the country). Hugely valuable to the CCP.
+- **Cissy Oliva — the animal empire:** a **liquid/gel** (NOT originally hers — she *leverages* it) accelerates growth. She turns it on **animal embryos → cloning + gene-mixing**, engineering **custom hybrid exotic animals** for the ultra-rich. **Uganda legalizes it** (order a customized mixed animal in ~3 months); she becomes **one of the richest people alive** and **Uganda's highest taxpayer.** (Pairs with her other turn: when the Jackals reveal LSW DNA is different, her gifts also become drug-manufacturing gold.)
+- **Moon Escape (an ending thread):** the **Chinese resistance** plans to flee to the **Moon** to start a new society away from the CCP — enabled by that same liquid/gel + certain LSW powers.
+
+## To file from the big lore dump
+- **Nations roster** (creator-curated "what's happening per country" — much marked DONE): China *People's World Hero?* game show → **People's World Army**; Establishment 24 + caste tension; **Nigeria S.A.R.C.** (police-brutality unit) → Kaiser leaves in exile; **Armenia / Karine Abrahamian / NuroNuro** (brain-sharing nano-tech); North Korea **sonic leash**; Venezuela **Vigilantes de la Noche**; Egypt **the Awakener**; Haiti **Limyè / Lonbraj**; Libya **al-Furqan**; El Salvador **Avenging Angel (Daria Perez)**; Sudan **Falcons of Jediane**; Maldives **Daughters of Eve**; Tanzania **Zephaniah Mwangaza**; Russia **"Khraniteli"**; Colombia **FARC**; Kyrgyzstan season-controller. → reconcile with `canon/countries/` (some already there).
+- **Deck 52 card structure** (suits Hearts/Diamonds/Clubs/Spades; ranks Dealer→Jokers/Wildcards; RoboForge; Wildcard Initiative; Charles vs Vaughn/Taskmaster/Emily origin) — fully in chat; consolidate into the faction entry.
+- **"I Deserve Better"** — both an in-universe **AI-directed nonprofit** AND **Tyrell Lober's** killing (shot by **Officer Headly**, cover-up coached by **Officer Oliver** who plants a gun). Note: the Stampede rewrite seems to have *borrowed* "Headly" from here.
+
+## Production tools mentioned (not canon — pipeline)
+- **"Sides & Sounds" auto-drama formatter:** a prompt/tool that converts a prose story → a master sheet (per-character line counts, one-line descriptions, full SFX list) + character "sides" (name + their spoken lines only). For the narrated/audio-drama pipeline.

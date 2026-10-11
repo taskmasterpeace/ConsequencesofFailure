@@ -26,3 +26,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 temp_*.txt
+
+# Duplicate Manager (generated artifacts - regenerate with scripts/scan-duplicates.ps1)
+duplicate-manager.html
+cof-cleanup.ps1
+scripts/_dedupe_list.txt

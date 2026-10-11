@@ -1,0 +1,1055 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23090d0a'/%3E%3Cpath d='M8 2 L14 13 L2 13 Z' fill='none' stroke='%237be388' stroke-width='1.6'/%3E%3C/svg%3E">
+<title>SPEAR // COF INTELLIGENCE CONSOLE</title>
+<style>
+/* ============ SPEAR — situation-room identity (dark by design) ============ */
+:root {
+  --void: #090d0a;
+  --panel: #0f1510;
+  --panel2: #131b14;
+  --panel3: #182219;
+  --line: #22301f;
+  --line2: #35472f;
+  --phos: #7be388;
+  --phos-dim: #3d7a4a;
+  --phos-soft: rgba(123,227,136,.12);
+  --amber: #e8b64c;
+  --amber-soft: rgba(232,182,76,.12);
+  --alert: #e5484d;
+  --alert-soft: rgba(229,72,77,.12);
+  --ink: #e6efe2;
+  --mut: #8fa38c;
+  --dim: #5c6e59;
+  --paper: #d8cfae;
+  --mono: 'Cascadia Mono', Consolas, ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+  --sans: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --rail-w: 218px;
+  --drawer-w: 540px;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  background: var(--void);
+  color: var(--ink);
+  font-family: var(--mono);
+  font-size: 13px;
+  line-height: 1.5;
+  overflow: hidden;
+  font-variant-numeric: tabular-nums;
+}
+/* film: scanlines + vignette */
+body::after {
+  content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 90;
+  background: repeating-linear-gradient(0deg, rgba(0,0,0,.16) 0 1px, transparent 1px 3px);
+  opacity: .35; mix-blend-mode: multiply;
+}
+body::before {
+  content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 89;
+  background: radial-gradient(120% 90% at 50% 40%, transparent 55%, rgba(0,0,0,.5));
+}
+::selection { background: var(--phos-dim); color: var(--ink); }
+button { font: inherit; color: inherit; background: none; border: none; cursor: pointer; }
+:focus-visible { outline: 1.5px solid var(--phos); outline-offset: 1px; }
+a { color: var(--phos); }
+
+#app { height: 100%; display: flex; flex-direction: column; }
+
+/* ---- classification chrome ---- */
+#classbar {
+  background: var(--alert); color: #14090a; text-align: center;
+  font-weight: 700; letter-spacing: .35em; font-size: 10px; padding: 3px 0 2px;
+  text-transform: uppercase; flex: 0 0 auto; user-select: none;
+}
+header {
+  flex: 0 0 auto; display: flex; align-items: center; gap: 16px;
+  padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel);
+}
+.brand { display: flex; align-items: baseline; gap: 12px; }
+.brand .sig {
+  font-size: 21px; font-weight: 700; letter-spacing: .3em; color: var(--phos);
+  text-shadow: 0 0 18px rgba(123,227,136,.35);
+}
+.brand .sig::before { content: '▲ '; color: var(--amber); text-shadow: none; }
+.brand .sub { color: var(--mut); font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase; }
+header .right { margin-left: auto; display: flex; gap: 14px; align-items: center; color: var(--dim); font-size: 11px; letter-spacing: .08em; }
+header .right b { color: var(--mut); font-weight: 400; }
+kbd {
+  border: 1px solid var(--line2); border-bottom-width: 2px; border-radius: 4px;
+  padding: 0 5px; font-family: var(--mono); font-size: 10px; color: var(--mut); background: var(--panel2);
+}
+#searchBtn { display: flex; gap: 8px; align-items: center; border: 1px solid var(--line); border-radius: 6px; padding: 5px 10px; color: var(--dim); transition: border-color .15s, color .15s; }
+#searchBtn:hover { border-color: var(--phos-dim); color: var(--mut); }
+
+/* ---- body grid ---- */
+#body { flex: 1; display: flex; min-height: 0; position: relative; }
+nav#rail {
+  flex: 0 0 var(--rail-w); border-right: 1px solid var(--line); background: var(--panel);
+  display: flex; flex-direction: column; padding: 10px 0;
+}
+.navbtn {
+  display: flex; align-items: center; gap: 10px; text-align: left;
+  padding: 9px 14px; margin: 1px 8px; border-radius: 6px; color: var(--mut);
+  letter-spacing: .1em; font-size: 11.5px; text-transform: uppercase;
+  border-left: 2px solid transparent; transition: all .15s;
+}
+.navbtn .k { margin-left: auto; color: var(--dim); font-size: 10px; }
+.navbtn .n { color: var(--dim); font-size: 10px; min-width: 3ch; text-align: right; }
+.navbtn:hover { background: var(--panel2); color: var(--ink); }
+.navbtn.on { background: var(--phos-soft); color: var(--phos); border-left-color: var(--phos); }
+.navbtn.on .n { color: var(--phos); }
+#rail .foot { margin-top: auto; padding: 12px 16px; border-top: 1px solid var(--line); color: var(--dim); font-size: 10px; line-height: 1.7; letter-spacing: .05em; }
+#rail .foot .doct { color: var(--mut); margin-bottom: 6px; }
+#rail .foot code { color: var(--phos-dim); }
+
+main#stage { flex: 1; min-width: 0; overflow-y: auto; padding: 18px 20px 40px; scrollbar-color: var(--line2) transparent; }
+
+/* ---- generic building blocks ---- */
+.eyebrow { color: var(--amber); font-size: 10px; letter-spacing: .3em; text-transform: uppercase; margin-bottom: 4px; }
+h1.vt { font-size: 17px; margin: 0 0 2px; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; }
+.vsub { color: var(--mut); font-size: 11.5px; margin-bottom: 16px; }
+.statrow { display: grid; grid-template-columns: repeat(auto-fit, minmax(128px, 1fr)); gap: 8px; margin: 14px 0; }
+.stat { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+.stat .n { font-size: 21px; font-weight: 700; letter-spacing: -.02em; color: var(--phos); line-height: 1.1; }
+.stat.warn .n { color: var(--amber); }
+.stat.hot .n { color: var(--alert); }
+.stat .l { color: var(--dim); font-size: 9.5px; text-transform: uppercase; letter-spacing: .18em; margin-top: 4px; }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; margin-bottom: 12px; }
+.panel h3 { margin: 0 0 10px; font-size: 11px; letter-spacing: .25em; text-transform: uppercase; color: var(--mut); font-weight: 700; }
+.badge {
+  display: inline-block; font-size: 9.5px; letter-spacing: .12em; padding: 1.5px 7px; border-radius: 4px;
+  border: 1px solid var(--line2); color: var(--mut); text-transform: uppercase; vertical-align: 1px;
+}
+.badge.trust { color: var(--phos); border-color: var(--phos-dim); background: var(--phos-soft); }
+.badge.verify { color: var(--alert); border-color: rgba(229,72,77,.45); background: var(--alert-soft); }
+.badge.bible { color: var(--amber); border-color: rgba(232,182,76,.45); background: var(--amber-soft); }
+.badge.solid { color: var(--phos); border-color: var(--phos-dim); background: var(--phos-soft); }
+.badge.thin { color: var(--amber); border-color: rgba(232,182,76,.45); background: var(--amber-soft); }
+.badge.idx { color: var(--mut); }
+.badge.sup { color: var(--dim); border-style: dashed; }
+.badge.flag { color: var(--alert); border-color: rgba(229,72,77,.45); }
+.badge.open { color: var(--alert); border-color: var(--alert); background: var(--alert-soft); font-weight: 700; }
+.badge.done { color: var(--phos); border-color: var(--phos-dim); }
+.chip {
+  display: inline-flex; align-items: center; gap: 5px; font-size: 10.5px; letter-spacing: .06em;
+  border: 1px solid var(--line2); border-radius: 999px; padding: 2.5px 10px; color: var(--mut);
+  background: var(--panel2); cursor: pointer; transition: all .13s; text-transform: none;
+}
+.chip:hover { border-color: var(--phos-dim); color: var(--phos); }
+.chip.on { border-color: var(--phos); color: var(--phos); background: var(--phos-soft); }
+.stamp {
+  display: inline-block; border: 2px solid var(--alert); color: var(--alert); border-radius: 4px;
+  font-weight: 700; letter-spacing: .28em; font-size: 10px; padding: 3px 10px 2px; text-transform: uppercase;
+  transform: rotate(-2deg); opacity: .9; background: rgba(9,13,10,.6);
+}
+.stamp.ok { border-color: var(--phos); color: var(--phos); }
+.stamp.amb { border-color: var(--amber); color: var(--amber); }
+.meter { display: grid; grid-template-columns: 14ch 1fr 4ch; gap: 8px; align-items: center; font-size: 11px; margin: 3px 0; }
+.meter .lb { color: var(--dim); text-transform: uppercase; letter-spacing: .1em; font-size: 9.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.meter .tr { display: block; height: 6px; background: var(--panel3); border-radius: 3px; overflow: hidden; }
+.meter .fl { display: block; height: 100%; border-radius: 3px; background: var(--phos-dim); }
+.meter .vl { color: var(--mut); text-align: right; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px; }
+.toolbar input[type=search] {
+  flex: 1; min-width: 200px; background: var(--panel); border: 1px solid var(--line); border-radius: 7px;
+  color: var(--ink); font: inherit; padding: 7px 12px;
+}
+.toolbar input::placeholder { color: var(--dim); }
+select {
+  background: var(--panel); color: var(--ink); border: 1px solid var(--line2); border-radius: 6px;
+  font: inherit; font-size: 11px; padding: 6px 8px; letter-spacing: .06em;
+}
+.count { color: var(--dim); font-size: 10.5px; letter-spacing: .1em; }
+
+/* ---- map view ---- */
+#mapwrap { position: relative; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+#mapwrap svg { display: block; width: 100%; height: auto; cursor: grab; }
+#mapwrap svg.panning { cursor: grabbing; }
+.cshape { stroke: var(--void); stroke-width: .45; transition: filter .12s; }
+.cshape.nofile { fill: #101711 !important; stroke: #1b2519; }
+.cshape:hover { filter: brightness(1.5); }
+.cshape.sel { stroke: var(--amber); stroke-width: 1.1; }
+.cmarker { fill: var(--phos); stroke: var(--void); stroke-width: .6; cursor: pointer; }
+.cmarker:hover { fill: var(--amber); }
+.graticule { stroke: rgba(123,227,136,.05); stroke-width: .5; fill: none; }
+#sweep { position: absolute; inset: 0; pointer-events: none; overflow: hidden; opacity: 0; }
+#sweep.run { opacity: 1; animation: sweepfade 2.8s ease forwards; }
+#sweep .bar { position: absolute; top: 0; bottom: 0; width: 22%; left: -25%;
+  background: linear-gradient(90deg, transparent, rgba(123,227,136,.14) 70%, rgba(123,227,136,.4));
+  animation: sweep 2.8s cubic-bezier(.4,0,.6,1) forwards; }
+@keyframes sweep { to { left: 105%; } }
+@keyframes sweepfade { 0%,85% { opacity: 1; } 100% { opacity: 0; } }
+.maptools { position: absolute; top: 10px; right: 10px; display: flex; flex-direction: column; gap: 4px; z-index: 5; }
+.maptools button {
+  width: 26px; height: 26px; border: 1px solid var(--line2); border-radius: 6px; background: rgba(15,21,16,.9);
+  color: var(--mut); font-size: 13px; line-height: 1;
+}
+.maptools button:hover { color: var(--phos); border-color: var(--phos-dim); }
+.legend { position: absolute; left: 10px; bottom: 8px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+  background: rgba(9,13,10,.75); border: 1px solid var(--line); border-radius: 6px; padding: 5px 10px; font-size: 9.5px; color: var(--mut); letter-spacing: .08em; z-index: 5; }
+.legend .sw { width: 11px; height: 11px; border-radius: 3px; display: inline-block; vertical-align: -2px; margin-right: 4px; }
+#tip {
+  position: fixed; z-index: 200; pointer-events: none; display: none; max-width: 300px;
+  background: rgba(9,13,10,.96); border: 1px solid var(--line2); border-radius: 8px; padding: 9px 12px;
+  box-shadow: 0 10px 34px rgba(0,0,0,.6);
+}
+#tip .tn { color: var(--phos); font-weight: 700; letter-spacing: .1em; text-transform: uppercase; font-size: 11.5px; }
+#tip .tr2 { color: var(--mut); font-size: 10.5px; margin-top: 2px; }
+#tip .tv { color: var(--amber); }
+
+/* ---- cards ---- */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(252px, 1fr)); gap: 9px; }
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--dim);
+  border-radius: 8px; padding: 10px 12px; cursor: pointer; transition: all .14s; position: relative;
+}
+.card:hover { background: var(--panel2); border-color: var(--line2); border-left-color: var(--phos); transform: translateY(-1px); }
+.card.SOLID { border-left-color: var(--phos); }
+.card.THIN, .card.CHECK { border-left-color: var(--amber); }
+.card.INDEX { border-left-color: var(--dim); }
+.card.SUPPORT { border-left-color: #2c3a2a; }
+.card .nm { font-weight: 700; letter-spacing: .04em; font-size: 12.5px; }
+.card .al { color: var(--dim); font-size: 10px; font-style: italic; }
+.card .pw { color: var(--mut); font-size: 11px; margin-top: 5px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card .mt { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 7px; }
+.cc { font-size: 9px; letter-spacing: .15em; color: var(--amber); border: 1px solid rgba(232,182,76,.35); padding: 0 5px; border-radius: 3px; }
+
+/* ---- drawer (dossier) ---- */
+#shade { position: absolute; inset: 0; background: rgba(0,0,0,.5); z-index: 30; opacity: 0; transition: opacity .2s; }
+#shade.on { opacity: 1; }
+aside#drawer {
+  position: absolute; top: 0; right: 0; bottom: 0; width: min(var(--drawer-w), 94vw); z-index: 40;
+  background: var(--panel); border-left: 1px solid var(--line2);
+  transform: translateX(102%); transition: transform .24s cubic-bezier(.3,.9,.3,1);
+  display: flex; flex-direction: column; box-shadow: -20px 0 60px rgba(0,0,0,.55);
+}
+aside#drawer.open { transform: none; }
+#drawer .dhead { flex: 0 0 auto; padding: 12px 16px 10px; border-bottom: 1px solid var(--line); display: flex; gap: 10px; align-items: flex-start; background: var(--panel2); }
+#drawer .dhead .back, #drawer .dhead .x { border: 1px solid var(--line2); border-radius: 6px; width: 26px; height: 26px; color: var(--mut); flex: 0 0 auto; }
+#drawer .dhead .back:hover, #drawer .dhead .x:hover { color: var(--phos); border-color: var(--phos-dim); }
+#drawer .dhead .x { margin-left: auto; }
+#drawer .dbody { flex: 1; overflow-y: auto; padding: 14px 16px 40px; scrollbar-color: var(--line2) transparent; }
+.dtitle { font-size: 16px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+.dsub { color: var(--mut); font-size: 11px; margin-top: 1px; }
+.kv { display: grid; grid-template-columns: 15ch 1fr; gap: 3px 12px; font-size: 11.5px; margin: 8px 0; }
+.kv .k { color: var(--dim); text-transform: uppercase; letter-spacing: .12em; font-size: 9.5px; padding-top: 2px; }
+.kv .v { color: var(--ink); }
+.kv .v.amb { color: var(--amber); font-style: italic; }
+.docacc { border: 1px solid var(--line); border-radius: 7px; margin: 6px 0; overflow: hidden; }
+.docacc > button { width: 100%; display: flex; gap: 8px; align-items: center; padding: 8px 10px; text-align: left; background: var(--panel2); font-size: 11px; }
+.docacc > button:hover { background: var(--panel3); }
+.docacc .pth { color: var(--mut); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.docacc .wd { margin-left: auto; color: var(--dim); font-size: 10px; flex: 0 0 auto; }
+.docacc .body { display: none; padding: 12px 14px; border-top: 1px solid var(--line); background: var(--void); max-height: 420px; overflow-y: auto; }
+.docacc.open .body { display: block; }
+.docbody { font-family: var(--sans); font-size: 13px; line-height: 1.65; color: #cdd8c9; max-width: 62ch; }
+.docbody h4 { font-family: var(--mono); color: var(--amber); font-size: 11px; letter-spacing: .2em; text-transform: uppercase; margin: 14px 0 6px; }
+.docbody p { margin: 0 0 10px; }
+.docbody pre { font-family: var(--mono); font-size: 10.5px; color: var(--mut); overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 8px; max-width: 100%; }
+.docbody b { color: var(--ink); }
+.trunc { color: var(--dim); font-size: 10px; font-style: italic; margin-top: 8px; }
+table.dt { width: 100%; border-collapse: collapse; font-size: 11px; }
+table.dt th { text-align: left; color: var(--dim); font-size: 9.5px; text-transform: uppercase; letter-spacing: .15em; font-weight: 400; padding: 4px 8px; border-bottom: 1px solid var(--line); }
+table.dt td { padding: 5px 8px; border-bottom: 1px solid var(--line); color: var(--mut); }
+table.dt td:first-child { color: var(--ink); }
+table.dt tr:hover td { background: var(--panel2); }
+.hvt { color: var(--alert); font-weight: 700; letter-spacing: .1em; font-size: 9.5px; }
+
+/* ---- powers ---- */
+.ladder td.rk { color: var(--phos); font-weight: 700; width: 4ch; }
+.ladder tr.alien td { color: var(--alert); }
+.ladder tr.alien td.rk { color: var(--alert); }
+.callout { border: 1px solid rgba(232,182,76,.4); background: var(--amber-soft); border-radius: 8px; padding: 11px 14px; margin: 10px 0; font-size: 12px; color: #e7d9b3; }
+.callout b { color: var(--amber); }
+.radar { display: block; margin: 0 auto; }
+.wcard { background: var(--panel2); border: 1px solid var(--line); border-radius: 8px; padding: 12px; }
+.wcard .wn { font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 12px; color: var(--phos); }
+.wrow { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
+.pline { display: flex; gap: 8px; align-items: baseline; padding: 5px 8px; border-bottom: 1px solid var(--line); font-size: 11.5px; cursor: pointer; }
+.pline:hover { background: var(--panel2); }
+.pline .pn { color: var(--ink); flex: 0 0 auto; }
+.pline .pp { color: var(--mut); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ---- desk ---- */
+.golden { border: 2px solid var(--alert); border-radius: 10px; padding: 14px 18px; background: var(--alert-soft); margin-bottom: 14px; }
+.golden .t { color: var(--alert); letter-spacing: .3em; font-size: 10px; font-weight: 700; margin-bottom: 6px; }
+.golden .b { font-size: 13px; color: #f0d9d5; line-height: 1.6; }
+.rcard { border-left: 3px solid var(--alert); }
+.rcard:hover { border-left-color: var(--alert); }
+.rcard .ar { color: var(--amber); font-size: 9.5px; letter-spacing: .22em; text-transform: uppercase; }
+.rcard .rt { font-weight: 700; font-size: 12.5px; margin: 3px 0 5px; }
+.rcard .rd { color: var(--mut); font-size: 11px; }
+.rcard .rf { color: var(--dim); font-size: 9.5px; margin-top: 7px; letter-spacing: .05em; }
+.rescard { border-left-color: var(--phos-dim); opacity: .82; cursor: default; }
+.rescard:hover { transform: none; border-left-color: var(--phos-dim); }
+
+/* ---- ticker ---- */
+footer#ticker {
+  flex: 0 0 auto; border-top: 1px solid var(--line); background: var(--panel);
+  display: flex; align-items: center; overflow: hidden; height: 30px; cursor: pointer;
+}
+#ticker .tag { flex: 0 0 auto; background: var(--alert); color: #14090a; font-weight: 700; font-size: 9.5px; letter-spacing: .2em; padding: 2px 10px; margin: 0 12px 0 0; border-radius: 3px; margin-left: 10px; }
+#ticker .belt { flex: 1; overflow: hidden; position: relative; height: 100%; }
+#ticker .run { position: absolute; white-space: nowrap; display: flex; align-items: center; height: 100%; color: var(--mut); font-size: 11px; letter-spacing: .05em; animation: tick 90s linear infinite; }
+#ticker:hover .run { animation-play-state: paused; }
+@keyframes tick { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+/* ---- palette ---- */
+#palette { position: fixed; inset: 0; z-index: 300; background: rgba(4,7,5,.7); display: none; }
+#palette.open { display: block; }
+#palette .box { width: min(620px, 92vw); margin: 10vh auto 0; background: var(--panel); border: 1px solid var(--line2); border-radius: 10px; box-shadow: 0 30px 80px rgba(0,0,0,.7); overflow: hidden; }
+#palette input { width: 100%; background: var(--panel2); border: none; border-bottom: 1px solid var(--line); color: var(--ink); font: inherit; font-size: 14px; padding: 13px 16px; }
+#palette input:focus { outline: none; }
+#palette .res { max-height: 46vh; overflow-y: auto; }
+.pr { display: flex; gap: 10px; align-items: center; padding: 8px 14px; cursor: pointer; font-size: 12px; }
+.pr:hover, .pr.hot { background: var(--phos-soft); }
+.pr .kind { flex: 0 0 auto; width: 8ch; color: var(--dim); font-size: 9px; letter-spacing: .18em; text-transform: uppercase; }
+.pr .sub { color: var(--dim); font-size: 10.5px; margin-left: auto; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 40%; }
+
+/* ---- boot ---- */
+#boot { position: fixed; inset: 0; z-index: 400; background: var(--void); display: flex; align-items: center; justify-content: center; transition: opacity .5s; }
+#boot.done { opacity: 0; pointer-events: none; }
+#boot pre { color: var(--phos); font-family: var(--mono); font-size: 13px; line-height: 1.9; text-shadow: 0 0 14px rgba(123,227,136,.4); }
+#boot .cur::after { content: '▊'; animation: blink .7s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+
+@media (max-width: 900px) {
+  nav#rail { position: absolute; z-index: 20; height: 100%; transform: translateX(-100%); transition: transform .2s; }
+  nav#rail.open { transform: none; }
+  :root { --drawer-w: 100vw; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+</style>
+</head>
+<body>
+
+<div id="boot"><pre id="bootlines"></pre></div>
+
+<div id="app">
+  <div id="classbar">Top Secret // COF Eyes Only // Handle via SPEAR channels</div>
+  <header>
+    <div class="brand">
+      <span class="sig">SPEAR</span>
+      <span class="sub">Consequences of Failure // Global LSW Intelligence Console</span>
+    </div>
+    <div class="right">
+      <span id="uplink"></span>
+      <button id="searchBtn" title="Search everything"><span>SEARCH</span><kbd>/</kbd></button>
+    </div>
+  </header>
+  <div id="body">
+    <nav id="rail"></nav>
+    <main id="stage"></main>
+    <div id="shade" hidden></div>
+    <aside id="drawer">
+      <div class="dhead">
+        <button class="back" id="dback" title="Back">‹</button>
+        <div style="flex:1;min-width:0" id="dheadtxt"></div>
+        <button class="x" id="dclose" title="Close (Esc)">×</button>
+      </div>
+      <div class="dbody" id="dbody"></div>
+    </aside>
+  </div>
+  <footer id="ticker" title="Open the Canon Desk">
+    <span class="tag">THE WIRE</span>
+    <div class="belt"><div class="run" id="tickrun"></div></div>
+  </footer>
+</div>
+
+<div id="palette"><div class="box">
+  <input id="palin" type="text" placeholder="Search persons, countries, factions, stories, rulings…" autocomplete="off">
+  <div class="res" id="palres"></div>
+</div></div>
+
+<div id="tip"></div>
+
+<script>
+'use strict';
+const DATA = "__SPEAR_DATA__";
+
+/* ================= utilities ================= */
+const $ = (s, r) => (r || document).querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function el(tag, attrs, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === 'class') n.className = v;
+    else if (k.startsWith('on')) n.addEventListener(k.slice(2), v);
+    else if (k === 'html') n.innerHTML = v;
+    else n.setAttribute(k, v);
+  }
+  for (const k of kids.flat()) if (k != null) n.append(k.nodeType ? k : document.createTextNode(k));
+  return n;
+}
+const fmt = (n) => n == null ? '—' : n.toLocaleString('en-US');
+const CC = (name) => { const c = DATA.countries.find(x => x.name === name); return c && c.code ? String(c.code).padStart(3, '0') : null; };
+const countryByName = new Map(DATA.countries.map(c => [c.name.toLowerCase(), c]));
+const charById = new Map(DATA.characters.map(c => [c.id, c]));
+const factionById = new Map(DATA.factions.map(f => [f.id, f]));
+
+/* minimal safe markdown-ish renderer for embedded documents */
+function mdLite(text) {
+  const out = [];
+  const lines = text.split('\n');
+  let para = [], pre = [];
+  const flushP = () => { if (para.length) { out.push('<p>' + inline(para.join(' ')) + '</p>'); para = []; } };
+  const flushPre = () => { if (pre.length) { out.push('<pre>' + pre.map(esc).join('\n') + '</pre>'); pre = []; } };
+  const inline = (s) => esc(s).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>').replace(/`([^`]+)`/g, '<code>$1</code>');
+  for (const raw of lines) {
+    const l = raw.replace(/\s+$/, '');
+    if (/^\s*\|/.test(l) || /^ {4,}/.test(raw)) { flushP(); pre.push(l); continue; }
+    flushPre();
+    if (!l.trim()) { flushP(); continue; }
+    const h = l.match(/^(#{1,6})\s+(.*)/);
+    if (h) { flushP(); out.push('<h4>' + inline(h[2]) + '</h4>'); continue; }
+    if (/^\s*[-*•]\s+/.test(l)) { flushP(); out.push('<p style="margin:0 0 4px">· ' + inline(l.replace(/^\s*[-*•]\s+/, '')) + '</p>'); continue; }
+    para.push(l.trim());
+  }
+  flushP(); flushPre();
+  return out.join('');
+}
+const layerBadge = (layer) => el('span', { class: 'badge ' + (layer === 'TRUST' ? 'trust' : layer === 'BIBLE' ? 'bible' : 'verify') },
+  layer === 'TRUST' ? 'RAW SOURCE' : layer === 'BIBLE' ? 'BIBLE' : 'AI-DERIVED · VERIFY');
+const devBadge = (dev) => el('span', { class: 'badge ' + (/SOLID/.test(dev) ? 'solid' : /THIN|CHECK/.test(dev) ? 'thin' : dev === 'INDEX' ? 'idx' : 'sup') }, dev);
+function meter(label, val, max, color) {
+  const pct = val == null ? 0 : Math.max(2, Math.min(100, (val / max) * 100));
+  return el('div', { class: 'meter' },
+    el('span', { class: 'lb', title: label }, label),
+    el('span', { class: 'tr' }, el('span', { class: 'fl', style: `width:${pct}%;background:${color || 'var(--phos-dim)'}` })),
+    el('span', { class: 'vl' }, val == null ? '—' : String(val)));
+}
+function docAccordion(d) {
+  const box = el('div', { class: 'docacc' });
+  const body = el('div', { class: 'body' });
+  let loaded = false;
+  const btn = el('button', { onclick: () => {
+    box.classList.toggle('open');
+    if (!loaded) { body.append(el('div', { class: 'docbody', html: mdLite(d.text) }), d.truncated ? el('div', { class: 'trunc' }, `truncated for the console — full document: ${d.path}`) : ''); loaded = true; }
+  }},
+    layerBadge(d.layer), el('span', { class: 'pth' }, d.path), el('span', { class: 'wd' }, fmt(d.words) + ' words'));
+  box.append(btn, body);
+  return box;
+}
+
+/* ================= drawer / dossiers ================= */
+const drawer = $('#drawer'), shade = $('#shade');
+let dstack = [];
+function openDossier(kind, id, push = true) {
+  const render = DOSSIERS[kind];
+  if (!render) return;
+  if (push) dstack.push([kind, id]);
+  $('#dback').style.visibility = dstack.length > 1 ? 'visible' : 'hidden';
+  const { head, body } = render(id);
+  $('#dheadtxt').replaceChildren(head);
+  const db = $('#dbody'); db.replaceChildren(body); db.scrollTop = 0;
+  drawer.classList.add('open'); shade.hidden = false;
+  requestAnimationFrame(() => shade.classList.add('on'));
+}
+function closeDossier() {
+  dstack = [];
+  drawer.classList.remove('open'); shade.classList.remove('on');
+  setTimeout(() => shade.hidden = true, 200);
+  document.querySelectorAll('.cshape.sel').forEach(p => p.classList.remove('sel'));
+}
+$('#dclose').onclick = closeDossier;
+shade.onclick = closeDossier;
+$('#dback').onclick = () => { if (dstack.length > 1) { dstack.pop(); const [k, i] = dstack[dstack.length - 1]; openDossier(k, i, false); } };
+
+const countryChip = (name) => {
+  const c = countryByName.get(String(name).toLowerCase());
+  if (!c) return el('span', { class: 'chip' }, name);
+  return el('button', { class: 'chip', onclick: () => openDossier('country', c.name) }, el('span', { class: 'cc' }, c.code || '···'), c.name);
+};
+const personChip = (id) => {
+  const p = charById.get(id);
+  return p ? el('button', { class: 'chip', onclick: () => openDossier('person', id) }, p.name) : null;
+};
+
+const DOSSIERS = {
+  /* ---------- country ---------- */
+  country(name) {
+    const c = countryByName.get(String(name).toLowerCase());
+    document.querySelectorAll('.cshape.sel').forEach(p => p.classList.remove('sel'));
+    if (c.mapKey) { const p = document.querySelector(`[data-k="${CSS.escape(c.mapKey)}"]`); if (p) p.classList.add('sel'); }
+    const head = el('div', {},
+      el('div', { class: 'eyebrow' }, `COUNTRY FILE ${c.code ? '#' + String(c.code).padStart(3, '0') : ''}`),
+      el('div', { class: 'dtitle' }, c.name),
+      el('div', { class: 'dsub' }, `${c.leaderTitle || 'Leader'}: ${c.president || 'UNKNOWN'}${c.presGender ? ' · ' + c.presGender : ''} · term ${c.presTerm ?? '—'} yrs`));
+    const persons = DATA.characters.filter(p => p.countries.includes(c.name));
+    const body = el('div', {},
+      c.motto && c.motto !== 'None' ? el('div', { class: 'callout' }, el('b', {}, 'MOTTO — '), `“${c.motto}”`) : null,
+      el('div', { class: 'kv' },
+        el('span', { class: 'k' }, 'Population'), el('span', { class: 'v' }, `${fmt(c.pop)} (rating ${c.popRating ?? '—'})`),
+        el('span', { class: 'k' }, 'Nationality'), el('span', { class: 'v' }, c.nationalities || '—'),
+        el('span', { class: 'k' }, 'Government'), el('span', { class: 'v' }, c.govType || '—'),
+        el('span', { class: 'k' }, 'Perception'), el('span', { class: 'v amb' }, c.govPerception || '—'),
+        el('span', { class: 'k' }, 'Capital punish.'), el('span', { class: 'v' }, c.capPun || '—')),
+      el('div', { class: 'panel' }, el('h3', {}, 'LSW File'),
+        meter('LSW activity', c.lswActivity, 100, 'var(--alert)'),
+        el('div', { class: 'kv' },
+          el('span', { class: 'k' }, 'LSW law'), el('span', { class: 'v' }, c.lswReg || '—'),
+          el('span', { class: 'k' }, 'Vigilantism'), el('span', { class: 'v' }, c.vigilantism || '—'),
+          el('span', { class: 'k' }, 'Cloning'), el('span', { class: 'v' }, c.cloning || '—'))),
+      el('div', { class: 'panel' }, el('h3', {}, 'Security posture'),
+        meter('Military', c.military, 100), meter('Mil. budget', c.milBudget, 100),
+        meter('Intel service', c.intel, 100), meter('Intel budget', c.intelBudget, 100),
+        meter('Law enforce.', c.lawEnf, 100), meter('LE budget', c.lawEnfBudget, 100),
+        meter('Terrorism', c.terrorism, 100, 'var(--alert)'), meter('Cyber', c.cyber, 100, 'var(--amber)')),
+      el('div', { class: 'panel' }, el('h3', {}, 'Society'),
+        meter('GDP', c.gdp, 100), meter('GDP / capita', c.gdpPC, 100),
+        meter('Healthcare', c.healthcare, 100), meter('Higher ed.', c.higherEd, 100),
+        meter('Social dev.', c.socialDev, 100), meter('Lifestyle', c.lifestyle, 100),
+        meter('Media freedom', c.mediaFreedom, 100), meter('Digital', c.digital, 100),
+        meter('Science', c.science, 100)),
+      persons.length ? el('div', { class: 'panel' }, el('h3', {}, `Persons of interest (${persons.length})`),
+        el('div', { style: 'display:flex;flex-wrap:wrap;gap:5px' }, persons.map(p => personChip(p.id)))) : null,
+      c.cities.length ? el('div', { class: 'panel' }, el('h3', {}, `Cities on file (${c.cities.length})`),
+        el('div', { style: 'overflow-x:auto' }, el('table', { class: 'dt' },
+          el('tr', {}, el('th', {}, 'City'), el('th', {}, 'Population'), el('th', {}, 'Profile'), el('th', {}, 'HVT'), el('th', {}, 'Crime'), el('th', {}, 'Safety')),
+          c.cities.slice(0, 14).map(ct => el('tr', {},
+            el('td', {}, ct.name), el('td', {}, fmt(ct.pop)),
+            el('td', {}, ct.types.join(' · ') || '—'),
+            el('td', {}, ct.hvt ? el('span', { class: 'hvt' }, ct.hvt) : '—'),
+            el('td', {}, ct.crime ?? '—'), el('td', {}, ct.safety ?? '—')))))) : null);
+    return { head, body };
+  },
+  /* ---------- person ---------- */
+  person(id) {
+    const p = charById.get(id);
+    const head = el('div', {},
+      el('div', { class: 'eyebrow' }, 'PERSON OF INTEREST'),
+      el('div', { class: 'dtitle' }, p.name),
+      p.aliases.length ? el('div', { class: 'dsub' }, 'a.k.a. ' + p.aliases.join(' · ')) : null);
+    const faction = DATA.factions.find(f => f.members.includes(p.id));
+    const body = el('div', {},
+      el('div', { style: 'display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px' },
+        devBadge(p.dev),
+        el('span', { class: 'badge' }, p.tier === 'lead' ? 'LEAD' : p.tier === 'index' ? 'STORY CARD' : 'SUPPORTING'),
+        el('span', { class: 'badge ' + (p.powered ? 'thin' : '') }, p.powerTag),
+        p.flags.map(f => el('span', { class: 'badge flag' }, '⚠ ' + f))),
+      el('div', { class: 'kv' },
+        el('span', { class: 'k' }, 'Affiliation'), el('span', { class: 'v' }, p.affiliation || '—'),
+        p.kin ? [el('span', { class: 'k' }, 'Known relations'), el('span', { class: 'v' }, p.kin)] : null,
+        el('span', { class: 'k' }, 'Sources'), el('span', { class: 'v', style: 'color:var(--dim);font-size:10.5px' }, p.sources)),
+      p.countries.length ? el('div', { style: 'display:flex;gap:5px;flex-wrap:wrap;margin:6px 0 10px' }, p.countries.map(countryChip)) : null,
+      el('div', { class: 'panel' }, el('h3', {}, 'Capability assessment'),
+        el('div', { style: 'font-size:12.5px;line-height:1.6' }, p.power)),
+      el('div', { class: 'panel' }, el('h3', {}, 'Analyst note'),
+        el('div', { style: 'font-size:11.5px;color:var(--mut);line-height:1.6' }, p.devNote)),
+      faction ? el('div', { style: 'margin:10px 0' }, el('button', { class: 'chip', onclick: () => openDossier('faction', faction.id) }, '▲ FACTION FILE — ' + faction.name)) : null,
+      p.docs.length ? el('div', { class: 'panel' }, el('h3', {}, `Attached documents (${p.docs.length})`), p.docs.map(docAccordion)) : null);
+    return { head, body };
+  },
+  /* ---------- faction ---------- */
+  faction(id) {
+    const f = factionById.get(id);
+    const head = el('div', {},
+      el('div', { class: 'eyebrow' }, f.kind === 'alien' ? 'XENO FILE' : 'FACTION FILE'),
+      el('div', { class: 'dtitle' }, f.name));
+    const body = el('div', {},
+      el('div', { style: 'font-size:12.5px;color:#cdd8c9;line-height:1.65;font-family:var(--sans);margin-bottom:10px' }, f.summary || '—'),
+      f.members.length ? el('div', { class: 'panel' }, el('h3', {}, `Known members (${f.members.length})`),
+        el('div', { style: 'display:flex;flex-wrap:wrap;gap:5px' }, f.members.map(personChip))) : null,
+      f.docs.length ? el('div', { class: 'panel' }, el('h3', {}, `Files (${f.docs.length})`), f.docs.map(docAccordion)) : null);
+    return { head, body };
+  },
+  /* ---------- story ---------- */
+  story(pathKey) {
+    const s = DATA.stories.find(x => x.path === pathKey);
+    const head = el('div', {},
+      el('div', { class: 'eyebrow' }, 'ARCHIVE ITEM'),
+      el('div', { class: 'dtitle' }, s.title),
+      el('div', { class: 'dsub' }, s.path));
+    const body = el('div', {},
+      el('div', { style: 'display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px' },
+        layerBadge(s.layer), el('span', { class: 'badge' }, s.status), el('span', { class: 'badge' }, fmt(s.words) + ' WORDS')),
+      s.cast.length ? el('div', { style: 'display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px' }, s.cast.map(personChip)) : null,
+      el('div', { class: 'panel' }, el('h3', {}, 'Opening excerpt'),
+        el('div', { class: 'docbody' }, ...s.excerpt.split(/\n\s*\n/).slice(0, 6).map(p => el('p', {}, p))),
+        el('div', { class: 'trunc' }, 'full text: ' + s.path)));
+    return { head, body };
+  },
+};
+
+/* ================= views ================= */
+const VIEWS = [
+  ['map', 'SITUATION', () => viewMap()],
+  ['persons', 'PERSONS', () => viewPersons()],
+  ['factions', 'FACTIONS', () => viewFactions()],
+  ['powers', 'POWERS', () => viewPowers()],
+  ['archive', 'ARCHIVE', () => viewArchive()],
+  ['desk', 'CANON DESK', () => viewDesk()],
+];
+let CURRENT = 'map';
+function go(view) {
+  CURRENT = view;
+  location.hash = view;
+  document.querySelectorAll('.navbtn').forEach(b => b.classList.toggle('on', b.dataset.v === view));
+  const stage = $('#stage');
+  stage.replaceChildren(VIEWS.find(v => v[0] === view)[2]());
+  stage.scrollTop = 0;
+}
+
+/* ---------- SITUATION (map) ---------- */
+const RAMP_HOT = ['#22301f', '#3a5c33', '#6e7f36', '#b98a34', '#cf6a33', '#d64545'];
+const RAMP_CAP = ['#1c2a22', '#28503c', '#2f7a52', '#3aa568', '#63cf8b', '#a5f0b8'];
+const CAT_SEMANTIC = {
+  'legal': '#57b65f', 'regulated': '#d9a23f', 'banned': '#d65b45', 'inactive': '#3d7a4a', 'active': '#d64545',
+  'full democracy': '#57b65f', 'flawed democracy': '#a6c24b', 'hybrid regime': '#d9a23f', 'authoritarian regime': '#d65b45',
+};
+const CAT_POOL = ['#4fa3a5', '#c7cf5a', '#cf6a33', '#57b65f', '#d9a23f', '#8fa38c'];
+const OVERLAYS = [
+  { k: 'lswActivity', label: 'LSW ACTIVITY', type: 'hot' },
+  { k: 'corruption', label: 'GOVT CORRUPTION', type: 'hot' },
+  { k: 'terrorism', label: 'TERRORISM', type: 'hot' },
+  { k: 'govPerception', label: 'REGIME TYPE', type: 'cat' },
+  { k: 'lswReg', label: 'LSW REGULATION', type: 'cat' },
+  { k: 'vigilantism', label: 'VIGILANTISM', type: 'cat' },
+  { k: 'cloning', label: 'CLONING LAW', type: 'cat' },
+  { k: 'cyber', label: 'CYBER CAPABILITY', type: 'cap' },
+  { k: 'science', label: 'SCIENCE', type: 'cap' },
+  { k: 'military', label: 'MILITARY', type: 'cap' },
+  { k: 'intel', label: 'INTELLIGENCE SVC', type: 'cap' },
+  { k: 'mediaFreedom', label: 'MEDIA FREEDOM', type: 'cap' },
+  { k: 'gdpPC', label: 'GDP PER CAPITA', type: 'cap' },
+  { k: 'healthcare', label: 'HEALTHCARE', type: 'cap' },
+  { k: 'digital', label: 'DIGITAL DEV', type: 'cap' },
+];
+let overlayKey = 'lswActivity';
+function overlayColors(ov) {
+  const vals = DATA.countries.map(c => c[ov.k]);
+  if (ov.type === 'cat') {
+    const uniq = [...new Set(vals.filter(Boolean))].sort();
+    let pi = 0;
+    const map = {};
+    for (const u of uniq) map[u] = CAT_SEMANTIC[u.toLowerCase()] || CAT_POOL[pi++ % CAT_POOL.length];
+    return { get: c => c[ov.k] ? map[c[ov.k]] : '#131b14', legend: uniq.map(u => [u, map[u]]) };
+  }
+  const nums = vals.filter(v => v != null);
+  const min = Math.min(...nums), max = Math.max(...nums);
+  const ramp = ov.type === 'hot' ? RAMP_HOT : RAMP_CAP;
+  const get = c => {
+    const v = c[ov.k];
+    if (v == null) return '#131b14';
+    const t = max === min ? 0 : (v - min) / (max - min);
+    return ramp[Math.min(ramp.length - 1, Math.floor(t * ramp.length))];
+  };
+  return { get, legend: [[`${min}`, ramp[0]], ['', ramp[2]], ['', ramp[3]], [`${max}`, ramp[ramp.length - 1]]] };
+}
+const VB0 = [0, 12, 1000, 398];
+let vb = [...VB0];
+function viewMap() {
+  const m = DATA.meta.counts;
+  const wrap = el('div', {});
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'GLOBAL SITUATION — 8 YEARS TO ARRIVAL'),
+    el('h1', { class: 'vt' }, 'The world before the Alliance'),
+    el('div', { class: 'vsub' }, 'Every country the Master Sheet quantifies, colored by the selected intelligence layer. Click any nation to open its file.'),
+    el('div', { class: 'statrow' },
+      el('div', { class: 'stat' }, el('div', { class: 'n' }, m.countries), el('div', { class: 'l' }, 'Country files')),
+      el('div', { class: 'stat' }, el('div', { class: 'n' }, m.persons), el('div', { class: 'l' }, 'Persons of interest')),
+      el('div', { class: 'stat' }, el('div', { class: 'n' }, m.solid), el('div', { class: 'l' }, 'Solid dossiers')),
+      el('div', { class: 'stat warn' }, el('div', { class: 'n' }, m.openRulings), el('div', { class: 'l' }, 'Open rulings')),
+      el('div', { class: 'stat' }, el('div', { class: 'n' }, (m.allWords / 1000).toFixed(0) + 'k'), el('div', { class: 'l' }, 'Words on file')),
+      el('div', { class: 'stat' }, el('div', { class: 'n' }, m.cities), el('div', { class: 'l' }, 'Cities mapped'))));
+  const sel = el('select', { onchange: e => { overlayKey = e.target.value; paintMap(); } },
+    OVERLAYS.map(o => el('option', { value: o.k, ...(o.k === overlayKey ? { selected: '' } : {}) }, 'LAYER: ' + o.label)));
+  wrap.append(el('div', { class: 'toolbar' }, sel, el('span', { class: 'count', id: 'mapcount' })));
+
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', vb.join(' '));
+  svg.id = 'worldsvg';
+  let g = '<g class="graticule">';
+  for (let x = 0; x <= 1000; x += 1000 / 12) g += `<line x1="${x}" y1="0" x2="${x}" y2="500"/>`;
+  for (let y = 0; y <= 500; y += 500 / 6) g += `<line x1="0" y1="${y}" x2="1000" y2="${y}"/>`;
+  g += '</g>';
+  const shapes = DATA.mapPaths.map(p =>
+    `<path class="cshape${p.file ? '' : ' nofile'}" data-k="${esc(p.key)}" d="${p.d}"/>`).join('');
+  svg.innerHTML =
+    `<defs><clipPath id="mapclip"><rect x="0" y="0" width="1000" height="500"/></clipPath></defs>` +
+    g +
+    `<g clip-path="url(#mapclip)"><g id="wgeo">${shapes}</g>` +
+    `<use href="#wgeo" x="-1000"/><use href="#wgeo" x="1000"/></g>` +
+    DATA.markers.map(mk => `<circle class="cmarker" data-c="${esc(mk.name)}" cx="${mk.xy[0]}" cy="${mk.xy[1]}" r="2.6"/>`).join('');
+  const mapbox = el('div', { id: 'mapwrap' });
+  mapbox.append(svg,
+    el('div', { id: 'sweep' }, el('div', { class: 'bar' })),
+    el('div', { class: 'maptools' },
+      el('button', { onclick: () => zoom(1.5), title: 'Zoom in' }, '+'),
+      el('button', { onclick: () => zoom(1 / 1.5), title: 'Zoom out' }, '−'),
+      el('button', { onclick: () => { vb = [...VB0]; svg.setAttribute('viewBox', vb.join(' ')); }, title: 'Reset' }, '◎')),
+    el('div', { class: 'legend', id: 'maplegend' }));
+  wrap.append(mapbox);
+
+  // interactions
+  const tip = $('#tip');
+  const keyToCountry = new Map(DATA.countries.filter(c => c.mapKey).map(c => [c.mapKey, c]));
+  svg.addEventListener('mousemove', (e) => {
+    const t = e.target;
+    let c = null;
+    if (t.classList.contains('cshape')) c = keyToCountry.get(t.dataset.k);
+    if (t.classList.contains('cmarker')) c = countryByName.get(t.dataset.c.toLowerCase());
+    if (!c) { if (t.classList.contains('cshape')) { tip.style.display = 'block'; tip.innerHTML = `<div class="tn">${esc(t.dataset.k)}</div><div class="tr2">NO COUNTRY FILE</div>`; positionTip(e); } else tip.style.display = 'none'; return; }
+    const ov = OVERLAYS.find(o => o.k === overlayKey);
+    tip.style.display = 'block';
+    tip.innerHTML = `<div class="tn">${esc(c.name)}</div>
+      <div class="tr2">${esc(c.leaderTitle || 'Leader')} <span class="tv">${esc(c.president || '?')}</span></div>
+      <div class="tr2">${esc(c.govPerception || '')}</div>
+      <div class="tr2">${ov.label}: <span class="tv">${esc(String(c[overlayKey] ?? '—'))}</span> · LSW: ${esc(c.lswReg || '—')}</div>`;
+    positionTip(e);
+  });
+  svg.addEventListener('mouseleave', () => tip.style.display = 'none');
+  svg.addEventListener('click', (e) => {
+    const t = e.target;
+    if (dragMoved) return;
+    if (t.classList.contains('cshape')) { const c = keyToCountry.get(t.dataset.k); if (c) openDossier('country', c.name); }
+    if (t.classList.contains('cmarker')) openDossier('country', t.dataset.c);
+  });
+  function positionTip(e) {
+    const pad = 14;
+    tip.style.left = Math.min(innerWidth - 320, e.clientX + pad) + 'px';
+    tip.style.top = Math.min(innerHeight - 130, e.clientY + pad) + 'px';
+  }
+  function zoom(f, cx, cy) {
+    const [x, y, w, h] = vb;
+    const nw = Math.max(60, Math.min(1000, w / f)), nh = nw * (VB0[3] / VB0[2]);
+    const fx = cx == null ? x + w / 2 : cx, fy = cy == null ? y + h / 2 : cy;
+    vb = [fx - nw * ((fx - x) / w), fy - nh * ((fy - y) / h), nw, nh];
+    svg.setAttribute('viewBox', vb.join(' '));
+  }
+  svg.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    const pt = svgPoint(e);
+    zoom(e.deltaY < 0 ? 1.3 : 1 / 1.3, pt.x, pt.y);
+  }, { passive: false });
+  let dragging = false, dragMoved = false, last = null;
+  function svgPoint(e) {
+    const r = svg.getBoundingClientRect();
+    return { x: vb[0] + (e.clientX - r.left) / r.width * vb[2], y: vb[1] + (e.clientY - r.top) / r.height * vb[3] };
+  }
+  svg.addEventListener('pointerdown', e => { dragging = true; dragMoved = false; last = svgPoint(e); svg.classList.add('panning'); svg.setPointerCapture(e.pointerId); });
+  svg.addEventListener('pointermove', e => {
+    if (!dragging) return;
+    const p = svgPoint(e);
+    const dx = p.x - last.x, dy = p.y - last.y;
+    if (Math.abs(dx) + Math.abs(dy) > 0.5) dragMoved = true;
+    vb[0] -= dx; vb[1] -= dy;
+    svg.setAttribute('viewBox', vb.join(' '));
+  });
+  svg.addEventListener('pointerup', () => { dragging = false; svg.classList.remove('panning'); });
+
+  setTimeout(() => {
+    paintMap();
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) $('#sweep').classList.add('run');
+  }, 0);
+  return wrap;
+}
+function paintMap() {
+  const ov = OVERLAYS.find(o => o.k === overlayKey);
+  const { get, legend } = overlayColors(ov);
+  const keyed = new Map(DATA.countries.filter(c => c.mapKey).map(c => [c.mapKey, c]));
+  document.querySelectorAll('.cshape').forEach(p => {
+    const c = keyed.get(p.dataset.k);
+    if (c) p.style.fill = get(c);
+  });
+  const lg = $('#maplegend');
+  if (lg) lg.replaceChildren(el('span', { style: 'color:var(--amber);letter-spacing:.2em' }, ov.label),
+    ...legend.map(([t, col]) => el('span', {}, el('span', { class: 'sw', style: 'background:' + col }), t)),
+    el('span', {}, el('span', { class: 'sw', style: 'background:#131b14' }), 'NO DATA'),
+    el('span', {}, el('span', { class: 'sw', style: 'background:#101711' }), 'NO FILE'));
+  const mc = $('#mapcount');
+  if (mc) mc.textContent = `${DATA.countries.length} country files · ${DATA.markers.length} micro-territories flagged as markers`;
+}
+
+/* ---------- PERSONS ---------- */
+const pstate = { q: '', tier: null, dev: null, tag: null };
+function viewPersons() {
+  const wrap = el('div', {});
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'PERSONS OF INTEREST'),
+    el('h1', { class: 'vt' }, 'The roster of record'),
+    el('div', { class: 'vsub' }, 'Compiled from bible/CHARACTER_ROSTER.md — every named human on file, aliases merged. Correct anything and it becomes law.'));
+  const grid = el('div', { class: 'grid' });
+  const count = el('span', { class: 'count' });
+  const chips = (items, key) => items.map(v => el('button', {
+    class: 'chip' + (pstate[key] === v ? ' on' : ''),
+    onclick: (e) => { pstate[key] = pstate[key] === v ? null : v; e.target.closest('.toolbar').querySelectorAll(`[data-g="${key}"]`).forEach(b => b.classList.toggle('on', b.textContent === pstate[key])); paint(); },
+    'data-g': key,
+  }, v));
+  const search = el('input', { type: 'search', placeholder: 'Search name, alias, power, faction… ', value: pstate.q, oninput: e => { pstate.q = e.target.value.toLowerCase(); paint(); } });
+  wrap.append(el('div', { class: 'toolbar' }, search,
+    chips(['lead', 'index', 'support'], 'tier'),
+    chips(['SOLID', 'THIN', 'INDEX'], 'dev'),
+    chips(DATA.powers.tags, 'tag'),
+    count), grid);
+  function paint() {
+    const q = pstate.q;
+    const list = DATA.characters.filter(p =>
+      (!pstate.tier || p.tier === pstate.tier) &&
+      (!pstate.dev || p.dev.includes(pstate.dev)) &&
+      (!pstate.tag || p.powerTag === pstate.tag) &&
+      (!q || (p.name + ' ' + p.aliases.join(' ') + ' ' + p.power + ' ' + p.affiliation).toLowerCase().includes(q)));
+    count.textContent = `${list.length} / ${DATA.characters.length} on file`;
+    grid.replaceChildren(...list.map(p => el('div', { class: 'card ' + p.dev.split(/[^A-Z]/)[0], onclick: () => openDossier('person', p.id) },
+      el('div', { class: 'nm' }, p.name),
+      p.aliases.length ? el('div', { class: 'al' }, '“' + p.aliases[0] + '”') : null,
+      el('div', { class: 'pw' }, p.power),
+      el('div', { class: 'mt' },
+        devBadge(p.dev),
+        el('span', { class: 'badge' }, p.powerTag),
+        p.countries[0] ? el('span', { class: 'cc' }, p.countries[0]) : null,
+        p.flags.length ? el('span', { class: 'badge flag' }, '⚠') : null))));
+  }
+  paint();
+  return wrap;
+}
+
+/* ---------- FACTIONS ---------- */
+function viewFactions() {
+  const wrap = el('div', {});
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'ORGANIZATIONS & THREATS'),
+    el('h1', { class: 'vt' }, 'Faction files'),
+    el('div', { class: 'vsub' }, 'Human organizations and xeno threats, with membership cross-linked to the roster.'));
+  const human = DATA.factions.filter(f => f.kind !== 'alien');
+  const alien = DATA.factions.filter(f => f.kind === 'alien');
+  const card = (f) => el('div', { class: 'card ' + (f.kind === 'alien' ? 'THIN' : 'SOLID'), onclick: () => openDossier('faction', f.id) },
+    el('div', { class: 'nm' }, f.name),
+    el('div', { class: 'pw', style: 'font-family:var(--sans)' }, f.summary || '—'),
+    el('div', { class: 'mt' },
+      el('span', { class: 'badge' }, f.members.length + ' MEMBERS'),
+      el('span', { class: 'badge' }, f.docs.length + ' FILES'),
+      f.kind === 'alien' ? el('span', { class: 'badge flag' }, 'XENO') : null));
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Human organizations'), el('div', { class: 'grid' }, human.map(card))));
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Xeno / origin files'), el('div', { class: 'grid' }, alien.map(card))));
+  return wrap;
+}
+
+/* ---------- POWERS ---------- */
+function radar(stats) {
+  const KEYS = Object.keys(stats), N = KEYS.length, R = 60, CX = 80, CY = 82;
+  const pt = (i, r) => [CX + r * Math.sin(i / N * 2 * Math.PI), CY - r * Math.cos(i / N * 2 * Math.PI)];
+  let s = `<svg class="radar" width="160" height="162" viewBox="0 0 160 162">`;
+  for (const ring of [3, 6, 9]) s += `<polygon points="${KEYS.map((_, i) => pt(i, ring / 9 * R).join(',')).join(' ')}" fill="none" stroke="var(--line)" stroke-width="1"/>`;
+  s += `<polygon points="${KEYS.map((k, i) => pt(i, stats[k] / 9 * R).join(',')).join(' ')}" fill="rgba(123,227,136,.18)" stroke="var(--phos)" stroke-width="1.4"/>`;
+  KEYS.forEach((k, i) => { const [x, y] = pt(i, R + 11); s += `<text x="${x}" y="${y}" fill="var(--dim)" font-size="7.5" font-family="var(--mono)" text-anchor="middle">${k.slice(0, 4)} ${stats[k]}</text>`; });
+  return s + '</svg>';
+}
+function viewPowers() {
+  const P = DATA.powers;
+  const wrap = el('div', {});
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'COF POWER INDEX (CPI)'),
+    el('h1', { class: 'vt' }, 'The no-plot-armor system'),
+    el('div', { class: 'vsub' }, 'Outcomes follow the numbers, not convenience. ' + P.status));
+  wrap.append(el('div', { class: 'callout' }, el('b', {}, 'RESOLUTION — '), P.resolution));
+  const cols = el('div', { style: 'display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px' });
+  cols.append(
+    el('div', { class: 'panel' }, el('h3', {}, 'The rank ladder (one scale for everything)'),
+      el('table', { class: 'dt ladder' }, P.ladder.map(([r, m]) =>
+        el('tr', { class: (r === 9 || r === 'X') ? 'alien' : '' }, el('td', { class: 'rk' }, String(r)), el('td', {}, m)))),
+      el('div', { class: 'trunc' }, P.ceiling)),
+    el('div', { class: 'panel' }, el('h3', {}, 'Seven attributes — every character, even non-powered'),
+      P.attributes.map(([a, d]) => el('div', { style: 'margin:4px 0;font-size:11.5px' }, el('b', { style: 'color:var(--phos);letter-spacing:.1em' }, a), el('span', { style: 'color:var(--mut)' }, ' — ' + d))),
+      el('h3', { style: 'margin-top:14px' }, 'Anatomy of a power'),
+      P.profile.map(([a, d]) => el('div', { style: 'margin:4px 0;font-size:11.5px' }, el('b', { style: 'color:var(--amber)' }, a), el('span', { style: 'color:var(--mut)' }, ' — ' + d)))));
+  wrap.append(cols);
+  wrap.append(el('div', { class: 'callout', style: 'border-color:var(--phos-dim);background:var(--phos-soft);color:#cfe9c9' }, el('b', { style: 'color:var(--phos)' }, 'THE SAGE EXCEPTION — '), P.sage));
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Worked examples'),
+    el('div', { class: 'wrow' }, P.worked.map(w => el('div', { class: 'wcard' },
+      el('div', { class: 'wn' }, w.name),
+      w.stats ? el('div', { html: radar(w.stats) }) : null,
+      el('div', { style: 'font-size:11px;color:var(--mut);margin-top:6px' }, w.power),
+      el('div', { style: 'font-size:10.5px;margin-top:5px' }, el('b', { style: 'color:var(--alert)' }, 'COST '), el('span', { style: 'color:var(--mut)' }, w.cost)),
+      el('div', { style: 'font-size:10.5px' }, el('b', { style: 'color:var(--amber)' }, 'COUNTER '), el('span', { style: 'color:var(--mut)' }, w.counter)),
+      w.charId ? el('button', { class: 'chip', style: 'margin-top:8px', onclick: () => openDossier('person', w.charId) }, 'OPEN DOSSIER') : null)))));
+  // capability browser
+  const tags = ['ALL', ...P.tags];
+  let curTag = 'ALL';
+  const listBox = el('div', {});
+  const paint = () => {
+    const list = DATA.characters.filter(c => c.tier !== 'support' && (curTag === 'ALL' || c.powerTag === curTag));
+    listBox.replaceChildren(...list.map(c => el('div', { class: 'pline', onclick: () => openDossier('person', c.id) },
+      el('span', { class: 'pn' }, c.name), el('span', { class: 'badge', style: 'flex:0 0 auto' }, c.powerTag), el('span', { class: 'pp' }, c.power))));
+  };
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Capability registry — by power source'),
+    el('div', { style: 'display:flex;gap:5px;flex-wrap:wrap;margin-bottom:8px' }, tags.map(t =>
+      el('button', { class: 'chip' + (t === curTag ? ' on' : ''), onclick: (e) => { curTag = t; e.target.parentElement.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x.textContent === t)); paint(); } }, t))),
+    listBox));
+  paint();
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Open forks — creator to choose'),
+    DATA.powers.forks.map((f, i) => el('div', { style: 'font-size:11.5px;color:var(--mut);margin:5px 0' }, el('b', { style: 'color:var(--amber)' }, `F${i + 1} `), f))));
+  return wrap;
+}
+
+/* ---------- ARCHIVE ---------- */
+function viewArchive() {
+  const wrap = el('div', {});
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'STORY ARCHIVE'),
+    el('h1', { class: 'vt' }, 'What exists, what shipped'),
+    el('div', { class: 'vsub' }, 'We tell stories first — this is the shelf. RAW SOURCE beats AI-DERIVED wherever they disagree.'));
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, 'Field-deployed (produced & posted)'),
+    el('div', { class: 'grid' }, DATA.produced.map(([t, d]) => el('div', { class: 'card SOLID', style: 'cursor:default' },
+      el('div', { class: 'nm' }, t), el('div', { class: 'pw', style: 'font-family:var(--sans)' }, d),
+      el('div', { class: 'mt' }, el('span', { class: 'stamp ok', style: 'font-size:8px;padding:2px 6px' }, 'DEPLOYED')))))));
+  const rows = DATA.stories.slice().sort((a, b) => b.words - a.words);
+  wrap.append(el('div', { class: 'panel' }, el('h3', {}, `Manuscripts on file (${rows.length})`),
+    el('div', { style: 'overflow-x:auto' }, el('table', { class: 'dt' },
+      el('tr', {}, el('th', {}, 'Title'), el('th', {}, 'Layer'), el('th', {}, 'Words'), el('th', {}, 'Cast on file')),
+      rows.map(s => el('tr', { style: 'cursor:pointer', onclick: () => openDossier('story', s.path) },
+        el('td', {}, s.title),
+        el('td', {}, layerBadge(s.layer)),
+        el('td', {}, fmt(s.words)),
+        el('td', {}, s.cast.slice(0, 4).map(id => { const n = charById.get(id)?.name; return n && n.replace(/"[^"]*"/g, '').trim().split(/\s+/).pop(); }).filter(Boolean).join(', ') || '—')))))));
+  return wrap;
+}
+
+/* ---------- CANON DESK ---------- */
+function viewDesk() {
+  const wrap = el('div', {});
+  const open = DATA.rulings.filter(r => r.s === 'OPEN');
+  const done = DATA.rulings.filter(r => r.s === 'RESOLVED');
+  wrap.append(
+    el('div', { class: 'eyebrow' }, 'CANON DESK'),
+    el('h1', { class: 'vt' }, 'Rulings & standing doctrine'),
+    el('div', { class: 'vsub' }, 'Everything waiting on the creator\'s word — nothing is lost until you decide. Compiled from bible/CANON_STATUS.md.'),
+    el('div', { class: 'golden' },
+      el('div', { class: 't' }, '★ STANDING ORDER — THE GOLDEN RULE'),
+      el('div', { class: 'b' }, DATA.doctrine.golden)),
+    el('div', { class: 'panel' }, el('h3', {}, 'Source-trust doctrine'),
+      el('table', { class: 'dt' }, DATA.doctrine.layers.map(([tag, name, desc]) => el('tr', {},
+        el('td', { style: 'width:1%' }, layerBadge(tag)),
+        el('td', {}, el('b', { style: 'color:var(--ink)' }, name), el('div', { style: 'color:var(--dim);font-size:10.5px' }, desc)))))),
+    el('div', { class: 'panel' }, el('h3', {}, `Needs your ruling (${open.length})`),
+      el('div', { class: 'grid', style: 'grid-template-columns:repeat(auto-fill,minmax(310px,1fr))' },
+        open.map(r => el('div', { class: 'card rcard', style: 'cursor:default' },
+          el('div', { class: 'ar' }, r.area),
+          el('div', { class: 'rt' }, r.title),
+          el('div', { class: 'rd' }, r.detail),
+          el('div', { class: 'rf' }, '⌥ ' + r.ref),
+          el('div', { style: 'position:absolute;top:8px;right:10px' }, el('span', { class: 'badge open' }, 'OPEN')))))),
+    el('div', { class: 'panel' }, el('h3', {}, `Recent rulings — resolved (${done.length})`),
+      el('div', { class: 'grid', style: 'grid-template-columns:repeat(auto-fill,minmax(310px,1fr))' },
+        done.map(r => el('div', { class: 'card rcard rescard' },
+          el('div', { class: 'ar' }, r.area),
+          el('div', { class: 'rt' }, r.title),
+          el('div', { class: 'rd' }, r.detail),
+          el('div', { class: 'rf' }, '✓ ' + r.ref),
+          el('div', { style: 'position:absolute;top:8px;right:10px' }, el('span', { class: 'badge done' }, 'RULED')))))));
+  return wrap;
+}
+
+/* ================= rail, ticker, palette, boot ================= */
+function buildRail() {
+  const m = DATA.meta.counts;
+  const counts = { map: m.countries, persons: m.persons, factions: m.factions, powers: '', archive: m.stories, desk: m.openRulings };
+  const rail = $('#rail');
+  rail.append(...VIEWS.map(([id, label], i) =>
+    el('button', { class: 'navbtn' + (id === CURRENT ? ' on' : ''), 'data-v': id, onclick: () => go(id) },
+      el('span', {}, label), el('span', { class: 'n' }, String(counts[id] ?? '')), el('span', { class: 'k' }, String(i + 1)))));
+  rail.append(el('div', { class: 'foot' },
+    el('div', { class: 'doct' }, 'ORIGINALS BEAT THE REWRITE LAYER. FLAG, DON\'T RESOLVE.'),
+    el('div', {}, 'canon uplink ' + DATA.meta.built),
+    el('div', {}, 'rebuild: ', el('code', {}, 'node tools/spear/build.mjs')),
+    location.protocol === 'file:' ? el('div', { style: 'margin-top:6px' },
+      'legacy: ', el('a', { href: 'story-bible-explorer.html', style: 'color:var(--phos-dim)' }, 'explorer'), ' · ',
+      el('a', { href: 'duplicate-manager.html', style: 'color:var(--phos-dim)' }, 'dedupe')) : null));
+  $('#uplink').innerHTML = `UPLINK <b>CANON ${DATA.meta.built}</b>`;
+}
+function buildTicker() {
+  const items = DATA.rulings.filter(r => r.s === 'OPEN').map(r => `⚠ RULING NEEDED — ${r.area}: ${r.title}`);
+  const run = $('#tickrun');
+  const text = items.join(' ··· ');
+  run.textContent = text + ' ··· ' + text;
+  $('#ticker').onclick = () => go('desk');
+}
+/* palette */
+const palette = $('#palette'), palin = $('#palin'), palres = $('#palres');
+let palIndex = null, palHot = 0;
+function buildPalIndex() {
+  palIndex = [];
+  for (const p of DATA.characters) palIndex.push({ kind: 'PERSON', label: p.name, sub: p.aliases[0] || p.affiliation, key: (p.name + ' ' + p.aliases.join(' ')).toLowerCase(), go: () => openDossier('person', p.id) });
+  for (const c of DATA.countries) palIndex.push({ kind: 'COUNTRY', label: c.name, sub: c.president || '', key: (c.name + ' ' + (c.president || '')).toLowerCase(), go: () => { go('map'); openDossier('country', c.name); } });
+  for (const f of DATA.factions) palIndex.push({ kind: 'FACTION', label: f.name, sub: f.members.length + ' members', key: f.name.toLowerCase(), go: () => openDossier('faction', f.id) });
+  for (const s of DATA.stories) palIndex.push({ kind: 'ARCHIVE', label: s.title, sub: fmt(s.words) + ' words', key: s.title.toLowerCase(), go: () => openDossier('story', s.path) });
+  for (const r of DATA.rulings.filter(r => r.s === 'OPEN')) palIndex.push({ kind: 'RULING', label: r.title, sub: r.area, key: (r.area + ' ' + r.title).toLowerCase(), go: () => go('desk') });
+}
+function openPal() { palette.classList.add('open'); palin.value = ''; palRender(''); palin.focus(); }
+function closePal() { palette.classList.remove('open'); }
+function palRender(q) {
+  if (!palIndex) buildPalIndex();
+  q = q.toLowerCase().trim();
+  const hits = !q ? palIndex.slice(0, 12) :
+    palIndex.map(it => ({ it, s: it.key.startsWith(q) ? 2 : it.key.includes(q) ? 1 : 0 }))
+      .filter(x => x.s).sort((a, b) => b.s - a.s).slice(0, 14).map(x => x.it);
+  palHot = 0;
+  palres.replaceChildren(...hits.map((h, i) => el('div', { class: 'pr' + (i === 0 ? ' hot' : ''), onclick: () => { closePal(); h.go(); } },
+    el('span', { class: 'kind' }, h.kind), el('span', {}, h.label), el('span', { class: 'sub' }, h.sub))));
+}
+palin.addEventListener('input', () => palRender(palin.value));
+palin.addEventListener('keydown', (e) => {
+  const rows = [...palres.children];
+  if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+    e.preventDefault();
+    palHot = (palHot + (e.key === 'ArrowDown' ? 1 : rows.length - 1)) % Math.max(1, rows.length);
+    rows.forEach((r, i) => r.classList.toggle('hot', i === palHot));
+    rows[palHot]?.scrollIntoView({ block: 'nearest' });
+  }
+  if (e.key === 'Enter') rows[palHot]?.click();
+});
+palette.addEventListener('click', (e) => { if (e.target === palette) closePal(); });
+$('#searchBtn').onclick = openPal;
+
+document.addEventListener('keydown', (e) => {
+  const typing = /INPUT|TEXTAREA|SELECT/.test(document.activeElement?.tagName || '');
+  if (e.key === 'Escape') { if (palette.classList.contains('open')) closePal(); else closeDossier(); return; }
+  if (typing) return;
+  if (e.key === '/' || ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k')) { e.preventDefault(); openPal(); return; }
+  const n = parseInt(e.key, 10);
+  if (n >= 1 && n <= VIEWS.length) go(VIEWS[n - 1][0]);
+});
+
+/* boot sequence */
+function boot() {
+  const bootEl = $('#boot');
+  const m = DATA.meta.counts;
+  const lines = [
+    'SPEAR CONSOLE — COF EYES ONLY',
+    '> ESTABLISHING UPLINK ................. OK',
+    `> DECRYPTING COUNTRY FILES (${m.countries}) ...... OK`,
+    `> INDEXING PERSONS OF INTEREST (${m.persons}) .. OK`,
+    `> LOADING CANON DESK — ${m.openRulings} OPEN RULINGS`,
+    '> THE UN SAID NO. YOU DIDN\'T.',
+  ];
+  let booted = false;
+  try { booted = !!sessionStorage.getItem('spearBooted'); sessionStorage.setItem('spearBooted', '1'); } catch (e) { /* sandboxed host */ }
+  if (booted || matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    bootEl.classList.add('done'); return;
+  }
+  const pre = $('#bootlines');
+  let i = 0;
+  const step = () => {
+    pre.textContent = lines.slice(0, i + 1).join('\n');
+    pre.classList.add('cur');
+    i++;
+    if (i < lines.length) setTimeout(step, i === 1 ? 260 : 170);
+    else setTimeout(() => bootEl.classList.add('done'), 620);
+  };
+  step();
+}
+
+/* init */
+buildRail();
+buildTicker();
+const startView = (location.hash || '#map').slice(1);
+go(VIEWS.some(v => v[0] === startView) ? startView : 'map');
+boot();
+</script>
+</body>
+</html>

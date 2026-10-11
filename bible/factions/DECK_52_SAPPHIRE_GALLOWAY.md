@@ -1,0 +1,253 @@
+# CANON SHEET — Deck 52 & the Sapphire–Galloway Saga
+
+**Faction file for the COF series bible.** This is the corporate/geopolitical "Game of Thrones" foundation of the whole universe — it **PREDATES the powers.** Two college friends build a fortune, fracture over a betrayal, lose the woman one of them loved, and turn rival empires against each other. Years later, that rivalry is the private-army layer the LSW era inherits. The alien story arrives *into* this world; it does not create it.
+
+> **Sourcing.** Built from the creator's originals — `canon/organizations/Deck 52 Rachel Maddow_.txt`, `canon/COF Notes.txt`, `canon/characters/Benchley Series.txt`, `canon/characters/Todd Ravage Benchley.txt`, `canon/characters/Senator Waxly.txt` — plus the creator-ruled `reference/CANONICAL_CORRECTIONS.md`, the bible `INBOX.md`, and the **creator brain-dump `reference/dumps/2026-06-28-jay-conversation.md` (§"Deck 52 origin")**, which CONFIRMS and DEEPENS this origin (Taskmaster→Cheat Check→Benchley ransom→Emily's death→Deck 52). The ALL-CAPS `COF_MASTER_CHARACTER_DATABASE.md` is the AI-rewrite layer and is used only for cross-check; where it conflicts with originals it loses (it mislabels Emily as "wife" and lists the org primarily as SPEAR). *(Terror-group spelling is standardized to **Akrahuhum** across the repo, matching the originals.)*
+> **Golden rule.** Originals + creator rulings win. Anything gap-filled is marked `[PROPOSED]`. Genuine unresolved conflicts are collected in §8.
+
+---
+
+## 1. DECK 52 — the organization
+
+A private military contractor founded by **Charles Sapphire**, structured like a deck of cards. Operates around and beneath conventional oversight; acknowledged in global hotspots, but its internal structure is deliberately opaque. Born from grief and vengeance (Emily's murder by Akrahuhum) and built into a war machine.
+
+- **Founder / supreme authority:** Charles Sapphire — "**The Dealer**."
+- **Org motto:** *"Death is like a deck of cards."* (Echoes Emily's own philosophy, *"life is like a deck of cards."*)
+- **Tech mottos:** pre-RoboForge — *"Reshape the Battlefield, Reshape the Future"*; post-RoboForge — *"Beyond Human, Beyond Boundaries."*
+- **Rival:** FIST/SPEAR (Vaughn Galloway). The two PMCs are direct competitors; the rivalry is personal before it is professional.
+- **Universe role (brain-dump):** Deck 52 and FIST together become the **global prototype for privatized super-weapon forces** — the model the LSW-ownership law (powers must be owned by a company, not a government) later normalizes worldwide.
+
+### The four suits
+
+| Suit | Domain | Function |
+|---|---|---|
+| ♥ **Hearts** | Caretakers / welfare | Field medicine, stress management, resilience training, fitness/wellness, rehab — total operative welfare. The suit of emotion and intuition. |
+| ♦ **Diamonds** | Intel / strategy | Intelligence gathering & analysis, threat identification, geopolitical context, tactical insight. The "brains" of operations. |
+| ♣ **Clubs** | Field combat | Primary combat force; trained in all forms of combat and tactical maneuver. The suit of power and execution. |
+| ♠ **Spades** | Tech / AI / cyber / logistics | Cybersecurity, comms, AI, resource & personnel deployment. The suit of technology. *(Associated with RoboForge — see §1 RoboForge note for the origin contradiction.)* |
+
+`[CONFLICT — flag, do not silently resolve]` The 2026-06-28 brain-dump gives a **shorter, partly different suit map**: **Hearts = medical/psychological; Clubs = infantry; Diamonds = research/technology; Jokers** (Spades not named). It puts **research/technology under Diamonds**, where the table above puts **intel/strategy under Diamonds** and **tech under Spades**. The detailed table above (from the Maddow original) is retained; the brain-dump's "Diamonds = research/technology" wording is recorded here for a creator ruling on which suit owns tech/research. The brain-dump also re-confirms **Charles = "the Dealer"** and **Jokers** as a distinct group.
+
+### Rank & role hierarchy
+
+Top-down chain of command, modeled on a card deck:
+
+1. **The Dealer** — Charles Sapphire. Founder & supreme overseer; directs communication across all suits.
+2. **Kings / Queens** (per suit) — second-in-command; implement Charles's vision and drive strategy within their suit.
+3. **Supreme Kings / Queens** — ensure coordination and decision-making within the suits (a senior command tier supporting the Kings/Queens). `[PROPOSED ordering — originals list them just below Kings/Queens but don't fully define the boundary]`
+4. **Jacks** — suit coordinators; liaise between the suits and the senior operatives.
+5. **Eights-and-Above** — experienced, trusted senior operatives entrusted with vital operations.
+6. **Tens → Threes** — the numbered operative ranks within a suit: **10s = suit leaders**, descending to **3s = new recruits.**
+
+**Special roles (cut across the rank ladder):**
+
+- **Aces** — versatile, multi-skilled agents who coordinate and execute *across* suits.
+- **Deuces** — mid-level operatives making substantial contributions *within* a single suit.
+- **Jokers / "Wildcards"** — no suit; fully adaptable agents able to fill any role in critical situations. Product of the Wildcard Initiative (§ below). The unpredictable edge in Deck 52's strategy.
+
+### RoboForge `[ORIGIN RESOLVED — creator ruling]`
+
+Proprietary blend of **artificial intelligence + nanotechnology** that restructures matter at the molecular level: the AI designs functionality, the nanotech physically shapes it — turning raw material into a functional robotic agent on demand, deployed by **"Nanoforge Operatives."** Its history is **two-stage**, which resolves the old contradiction (it both predates the aliens *and* is later supercharged by alien tech):
+
+- **RoboForge v1 — pre-alien, Charles's invention.** Charles glimpsed the *concept* in another technology and drove a Spades researcher (**Dr. Lena Cho** `[PROPOSED]`) to chase it down. It works — but it's **crippled by its power source:** the nanites can't sustain themselves, so the bots are slow, short-lived, and tethered. It becomes a **commercial/industrial marvel** (on-site fabrication, logistics, construction — *this* is what makes Charles a billionaire) yet remains **almost useless in battle.** Also bounded by complexity: it copies the *exterior* form/function of machinery, not the full internal workings ("form without the substance, for now").
+- **RoboForge v2 — the Iron Eater breakthrough (Year 4–5).** When the **Iron Eaters** arrive (alien nanites that *consume metal*), Deck 52 captures and **reverse-engineers** that tech into RoboForge. They're not redundant — they're **complementary:** RoboForge is the **architect** (it designs and shapes); the Iron-Eater nanites are the **furnace and the feedstock** (they devour metal for limitless power and raw material), solving v1's fatal power-source problem. Married, RoboForge finally becomes fast, self-sustaining, and battlefield-lethal. **In its mature form (brain-dump):** a **robot you can prompt to become anything** — a tiger, a blender — by **rearranging a fixed amount of metal/plastic into the prompted form**, and it is **fueled by metal.** Deck 52's specialty is this **plus very-small-scale engineering** — all derived from the Iron-Eater invasion. *(This reconciles the Maddow "Spades invented it" framing with `CANONICAL_CORRECTIONS.md`'s "reverse-engineered from Iron Eater nanites, Year 4–5.")*
+- **The irony / the cost `[PROPOSED]`:** Charles weaponizes the very plague that is eating the world's infrastructure. It makes Deck 52 terrifying — and dangerous: self-replicating metal-eaters running inside your own machines can go rogue, and the world may brand it *collaboration with the invaders.* Rich story fuel; it deepens Cho's transhumanist hunger and Vance's horror.
+
+### The Wildcard Initiative
+
+A voluntary, ethically/legally ambiguous **human-experimentation program** that pushes operatives beyond normal human limits — "not the survival of the fittest, but the **creation** of the fittest." It is the in-world engine that produces the **Jokers/Wildcards.** Aligns with the "Transhuman Augmentation" pillar; the most controversial thing Deck 52 does.
+
+### The Five Pillars
+
+1. **Adaptive Warfare** — swift change of tactics/equipment; powered by RoboForge.
+2. **Global Presence, Local Intel** — worldwide operative network feeding real-time, on-ground intelligence.
+3. **Transhuman Augmentation** — voluntary experimentation on operatives (the Wildcard Initiative); *"Beyond Human, Beyond Boundaries."*
+4. **Data-Driven Decision Making** — advanced data analysis + AI for strategy.
+5. **Total Operative Welfare** — comprehensive physical/mental health support (the Hearts mandate).
+
+### 52 Holdings (parent company) `[PROPOSED — pending creator confirm]`
+
+Proposed parent corporation with two subsidiaries:
+
+- **Deck 52** — the PMC (above).
+- **Rhaige Sapphire** — the luxury fashion line honoring Emily (§5).
+
+---
+
+## 2. CHARLES SAPPHIRE — "The Dealer"
+
+| Field | Detail |
+|---|---|
+| **Role** | Founder & supreme overseer of Deck 52 ("The Dealer"); founder of Rhaige Sapphire; tech billionaire. Non-powered. |
+| **Origin** | Born wealthy in **New York City** `[task brief]`. Note: `COF Notes.txt` (original) describes him as a **mix of white and Black** with a "down-to-earth, earthy" personality — contrasted against Vaughn's flash. `[CONFLICT]` The 2026-06-28 brain-dump describes both founders loosely as "rich white guys"; the originals' **mixed white/Black** Charles wins until the creator rules — flagged, not resolved. |
+| **Genius** | Prodigious learner; created **BrainTrain**, an AI speed-reading technique. Two rich, smart founders who **met in college** (locked: **MIT**). |
+| **Met Vaughn** | At **MIT** (confirmed). Co-founded **Taskmaster** with him. |
+| **Convictions** | **Came up a little religious** (brain-dump, confirmed) / strong moral code — the reason he refused the Cheat Check feature and the wedge Vaughn exploited by going behind his back. |
+| **Secret love** | **Emily Rhaige**, an aspiring **Black actress**; her philosophy: *"life is like a deck of cards."* The relationship was a secret. She is his **fiancée**, NOT his wife (creator-ruled correction; the AI layer's "late wife/widow" is wrong). |
+| **The wound** | Emily is **kidnapped and killed by Akrahuhum** — but **she was NOT targeted.** A now-flush Akrahuhum (made far better funded by **Vaughn's Benchley ransom**) reaches farther than ever and takes her **incidentally — collateral of their new reach** (brain-dump). The gut-punch that his ex-best-friend's money *funded* the very group that killed her is the engine of everything Charles builds after. **Emily's death is why Charles founds Deck 52** and goes all-in on military. |
+| **What he builds** | **Deck 52** (PMC to fight Akrahuhum/terror, structured as a card deck) and **Rhaige Sapphire** (fashion line honoring Emily, uplifting Black women). Spades' RoboForge makes him a billionaire (see origin caveat §1). |
+| **Drive** | Vengeance fused with love and self-blame; a religious man turned crusader. His public rivalry with Vaughn masks grief over Emily. |
+| **Key relationships** | Emily Rhaige (lost fiancée); Vaughn Galloway (ex-best-friend, arch-rival); Akrahuhum (the enemy). |
+
+---
+
+## 3. VAUGHN GALLOWAY
+
+| Field | Detail |
+|---|---|
+| **Role** | Eccentric, ultra-wealthy businessman; founder of FIST → SPEAR; co-founder of Taskmaster. Non-powered, but commands a private-army's resources. |
+| **Appearance** | ~5'10", **silver hair with black streaks**, impeccably dressed (original `COF Notes.txt`). |
+| **Origin** | Son of a **famous Hollywood actor**; **chess prodigy.** Met Charles at **MIT.** Hometown: a **small town near San Francisco** (creator: pick what serves the story). |
+| **Taskmaster** | Co-founded the app with Charles (anonymous crypto/Bitcoin transactions; hire anyone for anything; blockchain-verified trust/badge system; legal *and* illegal services). |
+| **The betrayal** | Unilaterally kept **Cheat Check** (§5) alive after Charles ordered it killed — and **rebranded it to *look* unofficial while keeping it officially theirs** (brain-dump). Vaughn is "about the money"; this is the first fracture. |
+| **The Benchley stunt** | Paid the ransom (**$1.5M** per originals `[confirm]`) to free POW **Todd "Shogun" Benchley** (high-ranking, Black, military) from Akrahuhum — a **reelection-year move, partly to embarrass the sitting president** (Vaughn is **on the opposite political side**; brain-dump confirmed). It worked: the freed-hero spectacle helped **the president lose reelection** (originals: Williamson out), and **Dr. Anton Parker** (Galloway's pick) took office — the LSW-era president and an eventual ally. Vaughn then **fires his own security team and keeps Benchley plus a couple others**; Benchley becomes his bodyguard and right hand. The ransom money leaves Akrahuhum **far better funded** — the dark irony that indirectly enables Emily's death (§ irony below). |
+| **FIST / SPEAR** | `[CONFLICT — resolved toward the brain-dump + `FIST_SPEAR.md`]` Vaughn **first wanted SPEAR** (Special Personnel for Extraterrestrial Assault & Research) — but it **had to be international**, and the **UN refused** (the **Living Super Weapon Threshold Treaty**), calling it the worst mistake in human history. So he built **FIST (First Infantry Strike Team)**, **US-only**, with **Benchley as commander.** *(This supersedes the earlier "FIST first, rebrands to SPEAR" framing in this file — SPEAR was the vetoed vision, never created; FIST is the reality. See `bible/factions/FIST_SPEAR.md`.)* |
+| **ET obsession** | Secretly obsessed with extraterrestrial life. Founded **WildSpeak Technologies**; his **TuneForge Inc.** acquired **Rusty Richards's likeness/voice rights** (closed after Rusty's two-year disappearance), which leads Rusty to confront him about the abduction/warning. The "burned woman" case (§6) ignites this obsession publicly. |
+| **Personality** | Flashy, secretive, manipulative, brilliant; plays long games with people's lives; loyal to a chosen few (Benchley above all). |
+| **Key relationships** | Charles Sapphire (ex-best-friend, arch-rival); Todd Benchley (right hand, absolute loyalty); Rusty Richards (likeness-rights grievance); Parker (political ally); Senator Waxly (later political opponent — opposes the LSW treaty Galloway helped broker). |
+
+---
+
+## 4. TODD "SHOGUN" BENCHLEY + FIST
+
+| Field | Detail |
+|---|---|
+| **Name** | **Todd "Shogun" Benchley.** (Renamed from "Ravage" by the creator — use "Shogun.") |
+| **Background** | Black man, ~5'9", slim-muscular ~190 lbs, light-brown complexion; piercing eyes; trademark **black cowboy hat** and **black M16 with suppressor**; cigar smoker. ~54 years old. A no-nonsense man of few words; follower of the 48 Laws of Power. |
+| **Career** | Joined the Army at 18; rose to **Colonel** over 20 years; **Airborne Ranger.** Expert in close-quarters/hand-to-hand combat, weapons, Eskrima, Judo; speaks German, Spanish, Tagalog. Post-Army: firefighter, PI, bodyguard → private military contractor. |
+| **The POW arc** | Betrayed by a translator in Afghanistan and captured by **Akrahuhum**; held and tortured for months as a POW. **Vaughn Galloway** saw the story in the media and **paid the ransom** to free him. |
+| **Trajectory** | After the ransom, Vaughn **fired his security team and kept Benchley (+ a couple others)**; Benchley became his **bodyguard**, then **commander of FIST.** *(SPEAR was the vetoed international vision, never built — see §3 `[CONFLICT]` note and `FIST_SPEAR.md`.)* Demands full operational autonomy; absolute loyalty to Vaughn (who also offered to fund his son's medical school). |
+| **Family (CORRECTED)** | His **wife divorces him** somewhere down the line. He is **NOT a widower** — explicitly drop the abandoned "wife killed in a car accident / two teenage kids (Mike & Lisa)" version that appears in `Todd Ravage Benchley.txt`. |
+| **Secret / fear** | Haunted by his time as a POW; greatest fear is losing someone he loves; wants a place where he belongs. |
+
+**FIST (First Infantry Strike Team)** — Vaughn's PMC and the **direct rival to Deck 52.** A team of elite mercenaries hired for high-risk global operations (hostage rescue, convoy protection, intel). Benchley commands it. Its true, hidden purpose was always to seed **SPEAR**: when the alien evidence (the burned woman, §6) surfaces, FIST is the vehicle Vaughn converts into his extraterrestrial-response organization. The UN later rejects SPEAR's bid for official status, so it operates as a semi-official, privately-owned body in partnership with the USA.
+
+> **FIST vs SPEAR naming:** FIST is the original (pre-alien) name; **SPEAR** is what it becomes once the ET mission is public. The AI-layer master DB over-indexes on "SPEAR" and even mis-expands FIST as "First *International* Strike Team" — the creator's expansion is **First Infantry Strike Team.**
+
+---
+
+## 5. IN-WORLD BRANDS
+
+### Taskmaster
+The founders' first venture and original fortune — **one master app to hire anyone to do anything** (clean your house, anything; many service categories under one roof), **paid in Bitcoin**, with **trust built on reviews** (blockchain-verified badge system per the origin chapters). Legal *and* illegal services. It makes huge money. They then add an **in-app marketplace** where any user can **run their own store** — and the founders run **Cheat Check** (below) as theirs. *(See §6 and "Origin (MIT)" for the founding scene and the open ruling on what happens to Taskmaster after the split.)*
+
+### Cheat Check
+The founders' own **store inside the Taskmaster in-app marketplace** (§ Taskmaster below). Users **hire an attractive person — the type their partner is into** — to **flirt with that partner at a known place** (e.g. the mall): a loyalty test. Pay extra for **special glasses to watch the encounter where it's legal, or just listen where watching isn't** (brain-dump). A **massive hit** — hugely lucrative, deeply cynical.
+**The fracture (brain-dump, deepened):** **Charles grows uneasy** — they're already in wild territory, and running an *official* marketplace makes it look like their hands are on all the nefarious fallout (people filmed cheating, people getting killed). He tells Vaughn to **kill it.** **Vaughn — about the money — doesn't kill it; he rebrands it to *look* unofficial while it stays officially theirs.** Charles **steps away: sells his commanding share but still gets paid**, and Vaughn runs it. Both become hugely rich. This is **the betrayal that permanently fractured the friendship** and spilled into a very public, very rich feud. (In-world fallout: e.g. Benchley's daughter's best friend was falsely flagged by Cheat Check's algorithm and nearly lost a scholarship — it has real victims.)
+
+### Rhaige Sapphire
+Charles's **luxury fashion line**, named for **Emily Rhaige** and built to honor her and **uplift Black women.** A real, marketed clothing line in-world (the originals confirm Charles "markets a real clothing line"). Proposed as a subsidiary of **52 Holdings** alongside Deck 52. **Name ruled: Rhaige Sapphire** (not "Rhaige Elegance").
+
+---
+
+## 6. THE SHARED ORIGIN TIMELINE
+
+The spine that runs under the entire saga, in order:
+
+1. **MIT.** Charles Sapphire (NYC prodigy, BrainTrain creator) meets Vaughn Galloway (actor's son, chess prodigy). They become best friends.
+2. **Taskmaster.** They co-found the app — hire anyone to do anything, **paid in Bitcoin**, trust via reviews; one master app, many categories. Both grow rich. They then add an **in-app marketplace** (run your own store).
+3. **Cheat Check.** The founders run **Cheat Check** as their own store in that marketplace (hire an attractive person to flirt-test a partner; pay extra to watch/listen). It's a massive hit. Charles, uneasy at the nefarious fallout of an *official* marketplace, **orders it killed**; Vaughn **keeps it and rebrands it to look unofficial**; **Charles sells his commanding share (still gets paid) and steps away.** First betrayal. The friendship cracks; public feuding follows.
+4. **Emily.** Charles is secretly in love with **Emily Rhaige**, an aspiring Black actress whose motto is *"life is like a deck of cards."* (His fiancée.)
+5. **Benchley ransom (reelection-year stunt).** Vaughn (on the **opposite political side**) pays to free POW Todd Benchley from **Akrahuhum**, **partly to embarrass the sitting president** — who **loses reelection.** Vaughn's pick (Parker) takes office. Vaughn then **fires his security team, keeps Benchley + a couple others**, and Benchley becomes his bodyguard. **The ransom leaves Akrahuhum far better funded** — the irony that enables step 6.
+6. **Emily's death (the dark irony).** A now-better-funded **Akrahuhum** — flush with **Vaughn's ransom money** — kidnaps and kills Emily **incidentally; she was never the target**, just collateral of the reach Vaughn's money bought them. The same organization Vaughn enabled takes the woman Charles loved. Love curdles into vengeance; the rift becomes permanent and personal.
+7. **The drunken interview.** Vaughn, drunk on TV, **disrespects Emily's death.** This is the point of no return — the friendship breaks for good. *(The Maddow material and master DB don't narrate this beat; it comes from the creator's brief and is the explicit final break.)* `[PROPOSED detail — interview content/where it aired TBD]`
+8. **Two rival empires.** Charles founds **Deck 52** (to wage war on Akrahuhum/terror) and **Rhaige Sapphire** (to honor Emily). Vaughn founds **FIST** with **Benchley** commanding. Competing PMCs, competing political influence.
+9. **RoboForge → billionaire.** Deck 52's Spades division fields RoboForge, vaulting Charles to billionaire status. *(Origin-timing contradiction with the Iron-Eater-nanite version — §8.)*
+10. **The burned woman / the Navy contract (the launch hook).** §7 below — the alien era arrives into this pre-built rivalry, and Vaughn's ET obsession goes from private to operational.
+
+---
+
+## Origin (MIT)
+
+> **Source.** The creator's three origin chapters, captured verbatim in `reference/dumps/2026-06-26-brain-dump.md` (Thread B) and transcribed faithfully to `prose/deck-52/ORIGIN_MIT.md` (B1 *A Cosmic Coincidence*, B2 *The Birth of Taskmaster*, B3 *The Cheat Check Controversy*). This is the dramatized telling of the spine already summarized in §6; it adds the **named mentors**, the **on-stage Emily beat**, and the explicit cause of Vaughn's UFO obsession.
+
+What these chapters establish as canon:
+
+- **They meet at MIT** as freshmen, at a bulletin board — **confirms the locked "Met at MIT" canon** (§2, §3). Vaughn: lanky, well-dressed, mischievous. Charles: bespectacled, guarded. Charles's line — *"I know a thing or two about family secrets."*
+- **Vaughn's father = the actor who publicly claimed alien abduction.** It ruined his career/reputation and is the **origin of Vaughn's lifelong UFO/extraterrestrial obsession** — the obsession that later drives FIST → SPEAR (§3). (Consistent with the locked "son of a famous Hollywood actor" detail; this adds *why* the ET fixation took hold.)
+- **They co-found "Taskmaster"** — an **anonymous crypto-exchange platform** ("a system built on trust, powered by cutting-edge cryptography"); the name was chosen because it "commands respect and efficiency." It launches to instant global success (investors, journalists, tech giants). Toast: *"the unstoppable force of Galloway and Sapphire."* (Matches the locked Taskmaster framing in §6; this is the founding scene.)
+- **"Cheat Check"** — Vaughn's loyalty-testing feature (hire actors to flirt with users' partners) — is what **drives the moral split.** Charles objects on principle; Vaughn pushes it through; media firestorm; the rift becomes permanent and philosophical. This is the **first fracture** (§5 Cheat Check, §6 step 3).
+- **Mentors: Professor Helena Krieg and Professor Ackerman.** Krieg observes the two from a distance in Ch.1 (*"Two brilliant minds drawn together by the cosmos…"*); both are named as Taskmaster mentors in Ch.2. *(New minor characters — see roster note below.)*
+- **Charles meets the actress (Emily).** In Ch.3 a young actress takes the stage and captures Charles's heart, "setting events in motion." Written here as **"Emily Raine"** — reconciled to locked canon **Emily Rhaige** (see conflict 1 below). This origin scene **confirms Emily is an actress** (consistent with §2's "aspiring Black actress").
+
+### ⚠️ Conflicts flagged (do not silently resolve)
+
+1. **Emily "Raine" vs locked "Emily Rhaige."** The origin chapters call the actress **"Emily Raine."** Locked canon is **Emily Rhaige** — Charles's **fiancée**, and the namesake of the **Rhaige Sapphire** fashion line (§2, §5). **Reconciliation:** the character is **Emily Rhaige**; **"Raine" is a draft/transcription variant** of "Rhaige" and is *not* a separate person. The origin scene usefully **confirms she is an actress** (locked: aspiring Black actress, motto *"life is like a deck of cards"*). `[Reconciled — flag for creator confirm: surname spelling "Rhaige," and that there is only one Emily.]`
+
+2. **Where does "Taskmaster" sit vs the canon orgs (Deck 52 PMC + Rhaige Sapphire)?** Taskmaster is the **MIT-era startup the two co-found** — it **predates** both Deck 52 and Rhaige Sapphire, which are founded **later, by Charles alone, after the friendship breaks and Emily is murdered.** `[PROPOSED corporate timeline — flag for ruling]`:
+   - **Phase 1 — Taskmaster (co-owned, MIT-era).** Charles + Vaughn's joint venture; the anonymous crypto-exchange marketplace. **This is the wealth engine that makes both men rich** and likely seeds **Charles's pre-Deck-52 fortune.** *(Open: at the split, is Taskmaster sold/divided, does one partner buy the other out, or does it keep running as a contested joint asset? — needs a ruling.)*
+   - **Phase 2 — the split (Cheat Check).** The Cheat Check betrayal and the public feud end the partnership; each man goes on to build his own empire.
+   - **Phase 3 — rival empires.** Charles → **Deck 52** (PMC) + **Rhaige Sapphire** (fashion), proposed under the **52 Holdings** parent (§1). Vaughn → **FIST → SPEAR** (+ WildSpeak / TuneForge). 
+   - **Note vs RoboForge:** §1/§9 currently credit **RoboForge v1** (Deck-52-era industrial fabrication) as "what makes Charles a billionaire." Taskmaster now offers an **earlier, pre-Deck-52** wealth source. These need not conflict — **Taskmaster = the original fortune (with Vaughn); RoboForge = the later Deck-52 fortune (Charles alone)** — but the creator should rule on which is the headline source of Charles's wealth, and what happens to Taskmaster after the split. `[Flag for ruling.]`
+
+3. **"Daniel Sapphire" (earlier draft name) = Charles.** Already creator-ruled (§9 item 7). Recorded here only so the origin material isn't mistaken for a different person.
+
+### Roster additions (minor characters, MIT-era)
+
+- **Professor Helena Krieg** `[PROPOSED — new minor character]` — MIT professor; mentor to Charles & Vaughn; the "cosmic" observer who frames their meeting. Their Taskmaster mentor.
+- **Professor Ackerman** `[PROPOSED — new minor character]` — MIT professor; co-mentor on Taskmaster. *(First name TBD.)*
+
+> *Not added to `CHARACTER_ROSTER.md` in this pass (per task scope). Surfaced here for the creator to bless and the roster to absorb.*
+
+---
+
+## 7. THE FIRST ALIEN BREADCRUMB — the burned woman
+
+The cold-open hook of the launch story, and the hinge where the corporate saga meets the alien saga.
+
+- A woman is found **dead aboard a US Navy aircraft carrier**, **incinerated from the *inside* while her exterior is untouched.**
+- Navy scientists perform an autopsy, disbelieve what they're seeing, and **contract FIST** (chosen over Deck 52) to investigate.
+- FIST's findings: traces of **deuterated water (D₂O)** and **exotic molecular oxygen** in the body — **not of Earth**, implying an off-world atmosphere / origin.
+- Effect: this **ignites Galloway's extraterrestrial obsession** and becomes the evidence ("an X-File") he uses to recruit Benchley to lead **SPEAR.** FIST being chosen over Deck 52 here also sharpens the Sapphire–Galloway rivalry into the alien era.
+
+> Script detail (`Benchley Series.txt`): Vaughn presents the burned-woman dossier to Benchley on a self-destructing tablet as the lead exhibit for the SPEAR pitch.
+
+---
+
+## 8. Akrahuhum — the terror group
+
+The terrorist organization that is the connective tissue of the origin saga.
+
+- **What it is:** an **extremist terror group in Africa — a Boko Haram analog** (the "bring back our girls" reference; brain-dump confirmed).
+- **Spelling (ruled):** **Akrahuhum.** (Variants in the files — "Akrahuhum," "Akrahuhum" — are AI-layer/typo drift; standardize on **Akrahuhum.**)
+- **Role in the saga:**
+  - Held **Todd Benchley** as a POW (Afghanistan); Vaughn paid the ransom that freed him — and, by implication, **funded the group.**
+  - **Killed Emily Rhaige** — but **incidentally, not as a target** (collateral of the wider reach the ransom money bought them); the direct trigger for Charles founding Deck 52.
+  - Stands as **Deck 52's founding enemy** — the org exists to "end the reign of Akrahuhum."
+- **Note:** Fits the universe's no-traditional-supervillains rule — Akrahuhum is a human terror organization, not a powered antagonist. It predates the LSW era.
+
+---
+
+## 9. RULINGS & STILL-OPEN
+
+**✅ Confirmed/deepened by the 2026-06-28 brain-dump (`reference/dumps/2026-06-28-jay-conversation.md`):** the Taskmaster→Cheat Check→Benchley-ransom→Emily's-death→Deck 52 spine is creator-confirmed · Charles "**came up a little religious**" · Cheat Check = the founders' **marketplace store** (watch-where-legal / listen-where-not; Charles orders it killed, Vaughn rebrands-but-keeps-it-official, Charles **sells his commanding share and steps away**) · Benchley ransom **partly to embarrass the president** (who **loses reelection**); Vaughn **fires his team, keeps Benchley** · **Emily killed incidentally** (collateral of the ransom-funded Akrahuhum's wider reach), **and that is why Charles founds Deck 52** · **SPEAR-first / UN-vetoed (international) → FIST (US-only)** ordering (supersedes the old "FIST→SPEAR rebrand" framing here) · RoboForge mature form = **prompt-to-anything, metal-fueled** · Akrahuhum = **African Boko Haram analog** · Deck 52 + FIST = **global prototype for privatized super-weapon forces.**
+
+**✅ Resolved earlier (creator ruling — these supersede the matching items below):** RoboForge → **two-stage** (v1 pre-alien & limited; v2 = Iron-Eater breakthrough, Yr 4–5; see §1) · President → **Williamson** (ousted by the ransom stunt) then **Dr. Anton Parker** (the LSW-era president; eventual ally) · Vaughn's hometown → **small town near San Francisco** · Fashion line → **Rhaige Sapphire** · Emily → **fiancée** (never wife) · The drunken interview → **canon** (wording/venue still TBD).
+
+**🚩 New `[CONFLICT]`s flagged this pass (not resolved):** (a) **Founders' race** — brain-dump's loose "rich white guys" vs the originals' **mixed white/Black Charles** (originals win pending ruling; see §2). (b) **Which suit owns tech/research** — brain-dump "Diamonds = research/technology" vs the file's "Diamonds = intel/strategy, Spades = tech" (see §1 suits note). (c) **FIST/SPEAR ordering** — reconciled toward SPEAR-vision-vetoed / FIST-reality per brain-dump + `FIST_SPEAR.md`; the old "FIST→SPEAR rebrand" wording in this file is superseded (see §3).
+
+**⬜ Genuinely still open:** the **ransom amount** (originals **$1.5M** vs the draft's $4M — defaulted to $1.5M, confirm) · **52 Holdings** parent-company confirmation · **Charles's mixed white/Black ethnicity** (from originals) · the **Supreme Kings/Queens** tier definition · **Benchley's age** across the timeline.
+
+*(The detailed list below is retained for reference; resolved items above are now settled.)*
+
+1. **RoboForge origin — the big one.** Was RoboForge **invented by Deck 52's Spades** as proprietary IP (Maddow doc / task brief — implies it predates aliens and made Charles a billionaire on its own), OR is it **reverse-engineered from captured Iron Eater nanites in Year 4–5** (`CANONICAL_CORRECTIONS.md`, creator-ruled Nov 2025 — which would mean it can't predate the alien era)? These are incompatible. This also affects when Charles becomes a billionaire and whether "Spades invented RoboForge" is literally true.
+
+2. **Benchley ransom amount.** Originals (`Benchley Series.txt` script, `COF Notes.txt`, `CANONICAL_CORRECTIONS.md`) all say **$1.5 million.** The task brief proposes **$4 million.** CANON_STATUS also flags a stray **$6M.** Originals point to **$1.5M** — pick one. *(Written above as disputed; default to $1.5M unless overridden.)*
+
+3. **The era's US president.** Originals consistently name **Anthony Parker** — a small-town college president elevated to office by the ransom stunt — and Senator Waxly's speech also names **Parker** (the LSW-treaty president Galloway golfs with). The task brief proposes **Williamson** as the *earlier* president embarrassed by the ransom, with **Anton Parker** as the *later* LSW-era president. Question: is **Williamson** a real second president the creator wants, or is there only **one** president (Parker)? And is it **Anton** or **Anthony** Parker?
+
+4. **Vaughn's hometown.** **Ohio** vs **a small town near San Francisco.** (Bible `INBOX`/`CANON_STATUS` flag this open.)
+
+5. **Fashion line name.** **Rhaige Sapphire** vs **Rhaige Elegance.**
+
+6. **52 Holdings.** Confirm the **parent company** "52 Holdings" with Deck 52 + Rhaige Sapphire as subsidiaries — is this canon, or invented structure?
+
+7. **Charles's first name & ethnicity.** Ruled **Charles** (the "Choco"/possible-"Daniel" transcription noise is resolved to Charles), but confirm: originals describe him as **mixed white and Black** — is that the intended canon, given the task brief's "born wealthy in NYC" framing doesn't specify?
+
+8. **Emily — fiancée vs wife.** Creator-ruled **fiancée** (and the secret-love framing). The AI master DB's "late wife / widow / Emily Sapphire" should be retired. Confirm she never married Charles.
+
+9. **The drunken interview.** This decisive friendship-ending beat comes from the brief, not the source files — confirm it exists and pin down where/when it aired and what exactly Vaughn said.
+
+10. **Supreme Kings/Queens tier.** The exact authority/boundary between **Kings/Queens** and **Supreme Kings/Queens** is fuzzy in the original Maddow doc — confirm the intended distinction.
+
+11. **Benchley's age vs. the timeline.** Originals peg him at **54**; if the saga spans ~8 alien years plus a pre-alien origin, confirm his age at key beats (POW capture, FIST founding, SPEAR).
