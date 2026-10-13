@@ -10,6 +10,13 @@
 4. **They are National Military Contractors (NMCs), not PMCs.** They are owned by the countries, because pretty much every country has its own. [CREATOR'S WORD]
 5. **Civilians who help the economy run everything** should be part of the structure. Robert does not know whether they are created yet and wants help fleshing them out. [CREATOR'S WORD]
 
+## CREATOR'S ANSWERS, round one (2026-10-12, asked in the chat)
+
+6. **The treaty bars governments from wielding LSWs.** (He chose this over "only border crossings" and over "both".) So the `PREMISE.md` wording ("bars LSWs from crossing borders") is the loose version and the Stefanos canon note is the rule; the premise line should be reworded. [CREATOR'S WORD]
+7. **LSW counts: population share, with a minimum of one LSW in every country.** [CREATOR'S WORD]
+8. **Establishment 24 is formally a company** (everyone knows it is the state's); the treaty is dodged on paper even for the national team. [CREATOR'S WORD]
+9. **NMCs are "much smaller": 7 to 24, but mostly operatives.** [CREATOR'S WORD] *My reading, to confirm:* a team is 7 to 24 people, most of them NMC operatives with a few LSWs among them; an NMC fields several such teams. The alternative reading (an NMC is 7-24 people in the whole country) is in question A below.
+
 ## What the lore and the game already say (checked)
 
 - **~1,000 LSWs worldwide**, picked by the Greys (`PREMISE.md`). [CANON]
@@ -30,10 +37,10 @@
    |
    +-- NMC              the National Military Contractor: a state-OWNED company. Its operatives are
    |                    NOT LSWs: professional soldiers with guns, stats and personalities.
-   |                    It is the legal body the state hires, equips and deploys.
+   |                    It is the legal body the state hires, equips and deploys. Small: teams of 7 to 24, mostly operatives.
    |
-   +-- THE ESTABLISHMENT   the national team (Establishment 24 in India), formally a company or
-                        foundation, in practice the state's own LSWs.
+   +-- THE ESTABLISHMENT   the national team (Establishment 24 in India): FORMALLY A COMPANY (creator's word),
+                        in practice the state's own people.
  THE OTHERS             teams owned by oligarchs and rented to the state: the treaty workaround.
                         Regional, named, competing. Each has an NMC detachment attached.
  THE FREE               LSWs belonging to nobody (or to a foreign power).
@@ -41,9 +48,9 @@
 
 **How each layer stays legal on paper [PROPOSED]:** the state never owns an LSW; an *establishment* is a company, *the others* are oligarch companies under contract, and the NMC is a company too (state-owned, so it can hold guns the state is allowed to buy). The treaty bars the government; nothing bars a contractor.
 
-**How many LSWs a country has [PROPOSED, from Robert's point 1]:** `LSWs = round(1,000 x population / world population)`, using the country sheet's own `pop`. Today's numbers: China 185, **India 178**, United States 43, Indonesia 35, Pakistan 28, Brazil 27, Nigeria 27, Bangladesh 21, Russia 19, Mexico 17, Japan 16, Ethiopia 15. **36 of the 168 countries round to zero** (see question 2). India's 178 would be: Establishment 24's twelve, the others (regional oligarch teams), and the free.
+**How many LSWs a country has [CREATOR'S WORD: population share, minimum one each; the formula is mine]:** every country gets one, and the other 832 of the canon 1,000 are shared by population (largest remainder, so the total is exactly 1,000). Today's numbers from the country sheet's `pop`: China 155, **India 149**, United States 36, Indonesia 30, Pakistan 25, Brazil 24, Nigeria 23, Bangladesh 19, Russia 17, Mexico 15, Japan 15, Ethiopia 13, Kenya 7, South Korea 6, Poland 5, Norway 2. 41 countries have exactly one. India's 149 are: Establishment 24's twelve (8%), the others (regional oligarch teams), and the free.
 
-**NMC operatives [PROPOSED]:** each LSW team (establishment or other) has an NMC detachment, a squad of professional soldiers from the same region, who go where the team goes. Their kit comes from the culture soldier (looks) and the country's intelligence-budget tier (what the state can buy). Each is a *person*: a name from their city's naming culture, a hometown, a few stats (marksmanship, agility, health, leadership, wisdom, medical, explosives, mechanical, experience), a personality, likes and dislikes of squadmates (the Jagged Alliance buddy / hated-buddy idea), and a gun they favour.
+**NMC operatives [PROPOSED; size is the creator's word, 7 to 24, mostly operatives]:** each team (establishment or other) is mostly NMC operatives, a squad of professional soldiers from the same region, with a few LSWs among them; they go where the team goes. Their kit comes from the culture soldier (looks) and the country's intelligence-budget tier (what the state can buy). Each is a *person*: a name from their city's naming culture, a hometown, a few stats (marksmanship, agility, health, leadership, wisdom, medical, explosives, mechanical, experience), a personality, likes and dislikes of squadmates (the Jagged Alliance buddy / hated-buddy idea), and a gun they favour.
 
 **Civilians [PROPOSED]:** the economy needs three kinds of people the game can show: *owners* (the oligarch's family and managers), *workers* who earn from the owner's businesses, and *officials and services* (police, clinic, customs). They are the reason the oligarchs have money, and the reason a team has something to protect or to be bought by.
 
@@ -59,15 +66,15 @@
 | Population scaling of LSW counts | **not built** (numbers above are a proposal) |
 | Oligarchs, land, businesses, ledger | built (game economy) |
 
-## Questions for Robert (the first round is the first four)
+## Questions for Robert
 
-1. **Which treaty rule?** Does it bar *governments from owning LSWs* (so every state team must be a company or an oligarch's), or only *crossing borders* (so a state may keep its own LSWs at home)? Premise and canon-status word it differently.
-2. **Population scaling:** a pure population share of the 1,000 (India 178, 36 countries get none), or at least one LSW in every country, or population times the sheet's own `lswActivity`?
-3. **Is Establishment 24 itself an oligarch vehicle** (a foundation the government "leases"), or openly the state's?
-4. **NMC size:** do NMC operatives number in the thousands (a real army contractor) or are they a small elite attached to teams?
-5. Who owns "the others" in a country with no oligarchs worth the name? (Small or poor countries.)
-6. Do the others compete with each other, with the establishment, or both? Can the state *recall* a team by cancelling the contract?
-7. Is an NMC operative allowed to be an LSW later (promotion), or are the two worlds sealed?
-8. What do operatives *die of* in the lore: do they matter as people (permadeath, grief) the way the LSWs do?
-9. Do civilians need their own named characters (a shopkeeper, a clerk) or only the oligarchs' circle and the services?
-10. Which country should be done fully next after India, to prove the structure?
+**Answered in round one:** 1 (treaty rule), 2 (population scaling), 3 (Establishment 24), 4 (NMC size): see 6 to 9 above.
+
+**Round two (open):**
+A. **Team shape:** is a *team* 7 to 24 people with the LSWs a minority (my reading), or is the NMC itself 7 to 24 people in the whole country?
+B. **Operatives as people:** how much of a person? The Jagged Alliance set is a name, hometown, a handful of stats (marksmanship, agility, health, leadership, wisdom, medical, explosives, mechanical, experience), a personality and quirks, favourite gun, and who they like or can't stand in the squad. Keep all of it, or fewer stats?
+C. **Do operatives die for good** (and does the game grieve them), or are they replaceable?
+D. **The others:** do they compete with each other and with the establishment, and can the state cancel a contract and take a team's funding away?
+E. **Poor countries with no oligarch worth the name:** who owns the others there? (A foreign company? A warlord? Nobody: one lone LSW?)
+F. **Civilians:** do they need their own named characters (a shopkeeper, a clerk), or only the oligarchs' circle and the services (police, clinic, customs)?
+G. **Which country next** after India, to prove the structure?
