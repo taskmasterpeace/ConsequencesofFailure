@@ -17,6 +17,40 @@
 8. **Establishment 24 is formally a company** (everyone knows it is the state's); the treaty is dodged on paper even for the national team. [CREATOR'S WORD]
 9. **NMCs are "much smaller": 7 to 24, but mostly operatives.** [CREATOR'S WORD] *My reading, to confirm:* a team is 7 to 24 people, most of them NMC operatives with a few LSWs among them; an NMC fields several such teams. The alternative reading (an NMC is 7-24 people in the whole country) is in question A below.
 
+## CREATOR'S ANSWERS, round two (2026-10-12, dictated; cleaned for sense, nothing added)
+
+10. **The NMC is each country's special forces: "the best of the best of their soldiers."** The living super weapons are *not* soldiers; they are **civilians who are now weapons**, and the militaries are trying to put them to work. So there are two kinds of body: LSW teams (civilians-turned-weapons) and the NMC (soldiers without powers) working alongside them. [CREATOR'S WORD] *(He said "I don't know, you're confusing me" to the team-shape question, then gave this. This is the answer to old question A: an NMC is not a team of LSWs; it is the soldiers' side. Size stays 7 to 24, no powers.)*
+11. **Operatives use the game's own stats and screens.** "The Jagged Alliance thing, but with our game": the same attribute sheet (strength and the rest), the same screens, a loadout ("a layout or load"), a person with **no powers but guns**. Invent new items or stats only where the game has none. The teams just have to **look different**, and the screens have to show **who has what**. [CREATOR'S WORD]
+12. **Money: the NMC is paid by the government.** How is not decided: by the country's wealth or by its military budget, "or whatever we figure out". It has to be figured out. [CREATOR'S WORD: that it is state-paid and must be modelled; the model is open] *(Proposal at the bottom of this section.)*
+13. **Death.** In the game everybody dies for good, **except people with life insurance, who come back as a clone.** If you run out of cover, you do not come back. The insurer is **"Life Line"** ("I think it should be called maybe Life Line"). [CREATOR'S WORD]
+14. **The DNA is kept in a Life Line facility.** The person's DNA sequence is entered into a program (**he asked me to invent the name**); the technicians rebuild the body in fluid (tank). Because they are military they skip the whole first-generation childhood: they come back **at their exact age**, aged up to where they were. You cannot use it to get younger; that needs **a scientific or engineering breakthrough** (the game's research items). [CREATOR'S WORD] *(The speech-to-text for who rebuilds the body in the fluid came out as "the Western angels"; I have not guessed it. See open question H.)*
+15. **The body, first.** When someone dies the **hospital** holds the body and hands it to the **funeral people**; the funeral home is contacted by the family. **If nobody arranges a funeral, the state buries them.** ("Maybe I'm getting into too much": the money behind this is still to figure out.) [CREATOR'S WORD]
+16. **Signs for the businesses.** Every business gets a sign set in the four aspect ratios, **its own colours**, and **one consistent font** across all of them. Start with a couple of popular stores and companies, and Life Line. "Get all of these locations": the places this chain needs on the map (below). [CREATOR'S WORD]
+17. **The others, answered:** "both, depending on the country": in some countries the oligarch teams compete with the national team and in others they are the national team's arm; the state can pull a contract in some and not in others. [CREATOR'S WORD] *(A per-country setting, not one rule: see below.)*
+
+### What follows from round two **[PROPOSED]**
+
+**The death chain and its locations** (each one is a building the game needs, with a sign):
+
+| Step | Place | Who runs it |
+|---|---|---|
+| a body is found or a person dies | **hospital** (holds the body) | the state or a private hospital chain |
+| the body is released | **funeral home** | a private funeral business, contacted by the family; **if no one calls, the municipality buries them** (a public cemetery plot) |
+| the policy is checked | **Life Line branch** (claims desk; the policy file) | Life Line |
+| the DNA is held | **Life Line Reserve** (the DNA vault) | Life Line |
+| the body is rebuilt | **the rebuild facility** (tanks, fluid, the program) | Life Line, with the state's licence |
+| the soldier comes back | **the NMC base** (the clone arrives aged to their exact age) | the NMC |
+
+Names, **PROPOSED**: the company is **Life Line** (his); the vault is **LIFE LINE RESERVE**; the program that rebuilds a person is **ENCORE** ("your encore"). He asked me to invent the name; all three are one string each.
+
+**Where Life Line can legally rebuild a person is already on the country sheet.** Each country has a `cloning` law: **Banned 93** (including the United States, Japan, Germany, Brazil, Mexico), **Regulated 37** (China, India, Bangladesh, Russia, the Philippines, Vietnam...) and **Legal 38** (Pakistan, Nigeria, Ethiopia, Iran, Iraq...). The `science` score says who can do it well: the capable ones are few (China 81, Russia 78, India 74, Uganda 70 regulated; Iran 70 legal). So a Banned country's insured soldier is **stored at home and rebuilt abroad**: DNA vault at home, rebuild facility in a state that allows it and can do it. That is the game's first reason for an NMC to care about foreign policy.
+
+**Funding the NMC (open; one proposal):** a state's NMC budget = `milBudget` (the sheet's 0 to 100 index) scaled by `gdpPerCapita` and by the `pop` share, divided by the number of operatives to give each one a pay and a kit tier (kit tier already follows `intelBudget`). Wealth makes the pay; the military budget makes the size. A poor, militarised state fields many cheap operatives; a rich, small one fields few well-equipped ones. Life Line's premium is a second line item: the **state pays it** for its special forces, which is why a defeated or bankrupt state's soldiers stop coming back.
+
+**Operatives as people (what the build will do):** a person on the game's own sheet (Fighting, Agility, Might, Vigor, Intellect, Awareness, Resolve on the rank ladder), origin **skilled**, no powers, a psyche personality (the 20 types), a name and hometown from their city's culture (14 culture soldier looks already exist), and a loadout from the armory (the nine presets already exist). The screens already show the sheet and the loadout; "who has what" is a column on the team screen. Teams look different by **uniform colours and kit tier** per country and per team.
+
+**The others, per country (from the country sheet, derived not authored):** where `lswRegs` allows and `integrity` is low, the oligarch teams are an open arm of the state (the state can't cancel what it doesn't control); where `integrity` is high, they compete and the state can pull the contract.
+
 ## What the lore and the game already say (checked)
 
 - **~1,000 LSWs worldwide**, picked by the Greys (`PREMISE.md`). [CANON]
@@ -61,7 +95,8 @@
 | LSW teams (people, looks, powers, secret identities) | built (`lsw-generator`) |
 | A team in one part of a country | **built today** (regional option, tested) |
 | The national team as a fixed canon team | built for India only (Establishment 24) |
-| Operatives with stats and personalities | **not built** (the soldier *looks* exist) |
+| Operatives with stats and personalities | **not built** (the soldier *looks* exist; the sheet, origin "skilled", psyche types and armory loadouts they will use already exist) |
+| Life Line, the death chain, the signs | signs **built 2026-10-12** (kit + pictures, see the dev log); the death rules and the buildings are **not built** |
 | NMC as an organisation, its detachments | **not built** |
 | Population scaling of LSW counts | **not built** (numbers above are a proposal) |
 | Oligarchs, land, businesses, ledger | built (game economy) |
@@ -70,11 +105,13 @@
 
 **Answered in round one:** 1 (treaty rule), 2 (population scaling), 3 (Establishment 24), 4 (NMC size): see 6 to 9 above.
 
-**Round two (open):**
-A. **Team shape:** is a *team* 7 to 24 people with the LSWs a minority (my reading), or is the NMC itself 7 to 24 people in the whole country?
-B. **Operatives as people:** how much of a person? The Jagged Alliance set is a name, hometown, a handful of stats (marksmanship, agility, health, leadership, wisdom, medical, explosives, mechanical, experience), a personality and quirks, favourite gun, and who they like or can't stand in the squad. Keep all of it, or fewer stats?
-C. **Do operatives die for good** (and does the game grieve them), or are they replaceable?
-D. **The others:** do they compete with each other and with the establishment, and can the state cancel a contract and take a team's funding away?
+**Answered in round two** (items 10 to 17 above): A (team shape: the NMC is the special forces, the LSWs are civilians-turned-weapons), B (operatives use the game's own stats, screens and loadouts), C (death: for good unless insured by Life Line), D (the others: both, by country). Still open from round two: E, F, G.
+
+**Open:**
 E. **Poor countries with no oligarch worth the name:** who owns the others there? (A foreign company? A warlord? Nobody: one lone LSW?)
 F. **Civilians:** do they need their own named characters (a shopkeeper, a clerk), or only the oligarchs' circle and the services (police, clinic, customs)?
 G. **Which country next** after India, to prove the structure?
+H. **Who rebuilds the body in the fluid?** (Dictated as "the Western angels"; I did not guess. Lab technicians? A named order? A faction?)
+I. **Civilians with Life Line:** do they skip the childhood too, or is the instant age-up the military perk only ("since you military you get this")?
+J. **Who pays the premium** for an NMC operative: the state (my proposal), or the operative out of their pay?
+K. **Names:** Life Line Reserve (the DNA vault) and ENCORE (the program) are mine. Keep or change?
